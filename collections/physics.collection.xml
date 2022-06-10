@@ -1,0 +1,234 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11428</md:content-id>
+    <md:title>Physics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>f3e3d0e4-c6aa-4687-b589-73bd0557015f</md:uuid>
+<md:slug>physics</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m43597"/>
+    <col:module document="m42955"/>
+    <col:subcollection>
+      <md:title>Introduction: The Nature of Science and Physics</md:title>
+      <col:content>
+        <col:module document="m42119"/>
+        <col:module document="m42092"/>
+        <col:module document="m42091"/>
+        <col:module document="m42120"/>
+        <col:module document="m42121"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kinematics</md:title>
+      <col:content>
+        <col:module document="m42122"/>
+        <col:module document="m42033"/>
+        <col:module document="m42124"/>
+        <col:module document="m42096"/>
+        <col:module document="m42100"/>
+        <col:module document="m42099"/>
+        <col:module document="m42125"/>
+        <col:module document="m42102"/>
+        <col:module document="m42103"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Two-Dimensional Kinematics</md:title>
+      <col:content>
+        <col:module document="m42126"/>
+        <col:module document="m42104"/>
+        <col:module document="m42127"/>
+        <col:module document="m42128"/>
+        <col:module document="m42042"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Dynamics: Force and Newton's Laws of Motion</md:title>
+      <col:content>
+        <col:module document="m42129"/>
+        <col:module document="m42069"/>
+        <col:module document="m42130"/>
+        <col:module document="m42073"/>
+        <col:module document="m42074"/>
+        <col:module document="m42075"/>
+        <col:module document="m42139"/>
+        <col:module document="m42076"/>
+        <col:module document="m42132"/>
+        <col:module document="m42170"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work, Energy, and Power</md:title>
+      <col:content>
+        <col:module document="m42145"/>
+        <col:module document="m42146"/>
+        <col:module document="m42147"/>
+        <col:module document="m42148"/>
+        <col:module document="m42149"/>
+        <col:module document="m42150"/>
+        <col:module document="m42151"/>
+        <col:module document="m42152"/>
+        <col:module document="m42153"/>
+        <col:module document="m42154"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Momentum and Collisions</md:title>
+      <col:content>
+        <col:module document="m42155"/>
+        <col:module document="m42156"/>
+        <col:module document="m42159"/>
+        <col:module document="m42162"/>
+        <col:module document="m42163"/>
+        <col:module document="m42164"/>
+        <col:module document="m42166"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Circular Motion</md:title>
+      <col:content>
+        <col:module document="m42176"/>
+        <col:module document="m42083"/>
+        <col:module document="m42177"/>
+        <col:module document="m42140"/>
+        <col:module document="m42084"/>
+        <col:module document="m42086"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Static Electricity</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Electric Charge and Electric Field</md:title>
+          <col:content>
+            <col:module document="m42299"/>
+            <col:module document="m42300"/>
+            <col:module document="m42306"/>
+            <col:module document="m42308"/>
+            <col:module document="m42310"/>
+            <col:module document="m42312"/>
+            <col:module document="m42315"/>
+            <col:module document="m42317"/>
+            <col:module document="m42329"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Electric Potential and Electric Field</md:title>
+          <col:content>
+            <col:module document="m42320"/>
+            <col:module document="m42324"/>
+            <col:module document="m42326"/>
+            <col:module document="m42328"/>
+            <col:module document="m42331"/>
+            <col:module document="m42333"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Current, Resistance, and Ohm's Law</md:title>
+      <col:content>
+        <col:module document="m42339"/>
+        <col:module document="m42341"/>
+        <col:module document="m42344"/>
+        <col:module document="m42346"/>
+        <col:module document="m42356"/>
+        <col:module document="m42357"/>
+        <col:module document="m42359"/>
+        <col:module document="m42714"/>
+        <col:module document="m42350"/>
+        <col:module document="m42352"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Magnetism</md:title>
+      <col:content>
+        <col:module document="m42365"/>
+        <col:module document="m42366"/>
+        <col:module document="m42368"/>
+        <col:module document="m42370"/>
+        <col:module document="m42372"/>
+        <col:module document="m42375"/>
+        <col:module document="m42398"/>
+        <col:module document="m42380"/>
+        <col:module document="m42382"/>
+        <col:module document="m42386"/>
+        <col:module document="m42388"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Light as a Wave</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Waves</md:title>
+          <col:content>
+            <col:module document="m42239"/>
+            <col:module document="m42241"/>
+            <col:module document="m42248"/>
+            <col:module document="m42249"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Geometric Optics</md:title>
+          <col:content>
+            <col:module document="m42449"/>
+            <col:module document="m42452"/>
+            <col:module document="m42456"/>
+            <col:module document="m42459"/>
+            <col:module document="m42462"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Wave Optics</md:title>
+          <col:content>
+            <col:module document="m42496"/>
+            <col:module document="m42501"/>
+            <col:module document="m42505"/>
+            <col:module document="m42508"/>
+            <col:module document="m42512"/>
+            <col:module document="m42515"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Modern Physics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to Quantum Physics</md:title>
+          <col:content>
+            <col:module document="m42550"/>
+            <col:module document="m42554"/>
+            <col:module document="m42558"/>
+            <col:module document="m42563"/>
+            <col:module document="m42568"/>
+            <col:module document="m42573"/>
+            <col:module document="m42576"/>
+            <col:module document="m42579"/>
+            <col:module document="m42581"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Atomic Physics</md:title>
+          <col:content>
+            <col:module document="m42585"/>
+            <col:module document="m42589"/>
+            <col:module document="m42592"/>
+            <col:module document="m42596"/>
+            <col:module document="m42599"/>
+            <col:module document="m42602"/>
+            <col:module document="m42606"/>
+            <col:module document="m42609"/>
+            <col:module document="m42614"/>
+            <col:module document="m42618"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m42699"/>
+    <col:module document="m42720"/>
+    <col:module document="m42709"/>
+  </col:content>
+</col:collection>
