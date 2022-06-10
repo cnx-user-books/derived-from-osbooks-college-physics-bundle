@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+<document xmlns="http://cnx.rice.edu/cnxml">
   <title>Useful Information</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m42720</md:content-id>
@@ -7,7 +7,7 @@
   <md:uuid>72343285-683e-46d9-a6c2-5de097e36ff9</md:uuid>
 </metadata>
 
-<content class="appendix">
+<content>
     <para id="import-auto-id2300397">This appendix is broken into several tables.</para>
     <list id="eip-856"><item><link target-id="import-auto-id1211982"/>, Important Constants</item>
 <item><link target-id="import-auto-id1125517"/>, Submicroscopic Masses</item>
@@ -24,8 +24,8 @@
         <colspec colnum="2" colname="c2"/>
         <colspec colnum="3" colname="c3"/>
         <colspec colnum="4" colname="c4"/>
-
-
+      
+         
         <thead>
           <row>
             <entry>Symbol</entry>
@@ -38,21 +38,21 @@
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>c</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{c} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Speed of light in vacuum</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -81,13 +81,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{2 "." "99792458" times "10" rSup { size 8{8} } ` {m} slash {s} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -116,29 +116,29 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{3 "." "00" times "10" rSup { size 8{8} } ` {m} slash {s} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>G</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{G} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Gravitational constant</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -187,13 +187,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{6 "." "67384" \( "80" \)  times "10" rSup { size 8{ - "11"} } ` {N cdot m rSup { size 8{2} } } slash {"kg" rSup { size 8{2} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -239,15 +239,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{6 "." "67" times "10" rSup { size 8{ - "11"} } ` {N cdot m rSup { size 8{2} } } slash {"kg" rSup { size 8{2} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msub>
@@ -259,19 +259,24 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{N rSub { size 8{A} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Avogadro’s number</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
+                        <m:mn>6</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>02214129</m:mtext>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mtext>27</m:mtext>
                         <m:mrow>
-                          <m:mn>6.02214076</m:mn>
+                          <m:mo stretchy="false">)</m:mo>
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>
@@ -284,15 +289,15 @@
                         </m:mrow>
                       </m:mrow>
                     </m:mrow>
-
+                    <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{6 "." "02214129" \( "27" \)  times "10" rSup { size 8{"23"} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -314,35 +319,39 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{6 "." "02" times "10" rSup { size 8{"23"} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>k</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Boltzmann’s constant</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
-                        <m:mn>1.380649</m:mn>
+                        <m:mn>1</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>3806488</m:mtext>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mtext>13</m:mtext>
                         <m:mrow>
-
+                          <m:mo stretchy="false">)</m:mo>
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>
@@ -367,13 +376,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "3806488" \( "13" \)  times "10" rSup { size 8{ - "23"} } ` {J} slash {K} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -405,33 +414,35 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "38" times "10" rSup { size 8{ - "23"} } ` {J} slash {K} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>R</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{R} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Gas constant</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
-                        <m:mn>8.3144621</m:mn>
+                        <m:mn>8</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>3144621</m:mtext>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>75</m:mtext>
                         <m:mo stretchy="false">)</m:mo>
@@ -450,56 +461,97 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{8 "." "3144621" \( "75" \) ` {J} slash {"mol" cdot K} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
                       <m:mrow>
-                        <m:mtable><m:mtr><m:mtd>
-                        <m:mn>8.31</m:mn><m:mspace width="0.15em"/>
-                          <m:mtext>J/mol</m:mtext>
+                        <m:mn>8</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>31</m:mtext>
+                        <m:mi/>
+                        <m:mrow>
+<m:mspace width="0.15em"/>
+                          <m:mtext>J</m:mtext>
+                          <m:mo stretchy="false">/</m:mo>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mtext>mol</m:mtext>
                                 <m:mo stretchy="false">⋅</m:mo>
                                 <m:mtext>K</m:mtext>
+                              </m:mrow>
                               <m:mo stretchy="false">=</m:mo>
-                              <m:mn>1.99</m:mn><m:mspace width="0.20em"/>
-                              <m:mtext>cal/mol</m:mtext>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>99</m:mtext>
+                            <m:mi/><m:mspace width="0.20em"/>
+                            <m:mrow>
+                              <m:mtext>cal</m:mtext>
+                              <m:mo stretchy="false">/</m:mo>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>mol</m:mtext>
                                     <m:mo stretchy="false">⋅</m:mo>
-                                    <m:mtext>K</m:mtext></m:mtd></m:mtr>
-                                  <m:mtr><m:mtd><m:mo stretchy="false">=</m:mo>
-                                  <m:mn>0.0821</m:mn><m:mspace width="0.20em"/>
+                                    <m:mtext>K</m:mtext>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mn>0</m:mn>
+                                </m:mrow>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>0821</m:mtext>
+                                <m:mi/>
+                                <m:mrow>
+                                  <m:mrow>
                                     <m:mtext>atm</m:mtext>
                                     <m:mo stretchy="false">⋅</m:mo>
-                                    <m:mtext>L/mol</m:mtext>
+                                    <m:mtext>L</m:mtext>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">/</m:mo>
+                                  <m:mrow>
+                                    <m:mtext>mol</m:mtext>
                                     <m:mo stretchy="false">⋅</m:mo>
-                                    <m:mtext>K</m:mtext></m:mtd></m:mtr>
-                                  </m:mtable>
+                                    <m:mtext>K</m:mtext>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{8 "." "31"` {J} slash {"mol" cdot K=1 "." "99"` {"cal"} slash {"mol" cdot K=0 "." "0821"` {"atm" cdot L} slash {"mol" cdot K} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>σ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{σ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Stefan-Boltzmann constant</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -543,13 +595,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{5 "." "670373" \( "21" \)  times "10" rSup { size 8{ - 8} } ` {W} slash {m rSup { size 8{2} }  cdot K} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -590,29 +642,29 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{5 "." "67" times "10" rSup { size 8{ - 8} } ` {W} slash {m rSup { size 8{2} }  cdot K} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>k</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Coulomb force constant</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -659,13 +711,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{8 "." "987551788" "."  "."  "." `` times "10" rSup { size 8{9} } ` {N cdot m rSup { size 8{2} } } slash {C rSup { size 8{2} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -706,15 +758,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{9 times "10" rSup { size 8{9} } ` {N cdot m rSup { size 8{2} } } slash {C rSup { size 8{2} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msub>
@@ -726,23 +778,27 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{q rSub { size 8{e} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Charge on electron</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mrow>
                           <m:mo stretchy="false">−</m:mo>
-                          <m:mn>1.602176634</m:mn>
+                          <m:mn>1</m:mn>
                         </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>602176565</m:mtext>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mtext>35</m:mtext>
                         <m:mrow>
-
+                          <m:mo stretchy="false">)</m:mo>
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>
@@ -763,13 +819,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ - 1 "." "602176565" \( "35" \)  times "10" rSup { size 8{ - "19"} } `C} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -800,15 +856,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ - 1 "." "60" times "10" rSup { size 8{ - "19"} } `C} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msub>
@@ -820,14 +876,14 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ε rSub { size 8{0} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Permittivity of free space</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -877,13 +933,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{8 "." "854187817" "."  "."  "." `` times "10" rSup { size 8{ - "12"} } ` {C rSup { size 8{2} } } slash {N cdot m rSup { size 8{2} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -929,15 +985,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{8 "." "85" times "10" rSup { size 8{ - "12"} } ` {C rSup { size 8{2} } } slash {N cdot m rSup { size 8{2} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msub>
@@ -949,14 +1005,14 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{μ rSub { size 8{0} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Permeability of free space</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -990,13 +1046,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{4π times "10" rSup { size 8{ - 7} } ` {T cdot m} slash {A} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1032,38 +1088,42 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "26" times "10" rSup { size 8{ - 6} } ` {T cdot m} slash {A} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>h</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{h} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Planck’s constant</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
-                        <m:mn>6.62607015</m:mn>
+                        <m:mn>6</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mtext>62606957</m:mtext>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:mtext>29</m:mtext>
                         <m:mrow>
-
+                          <m:mo stretchy="false">)</m:mo>
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
-<m:mspace width="0.15em"/>
+<m:mspace width="0.15em"/>                          
 <m:msup>
                             <m:mtext>10</m:mtext>
                             <m:mrow>
@@ -1085,13 +1145,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{6 "." "62606957" \( "29" \)  times "10" rSup { size 8{ - "34"} } `J cdot s} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1123,18 +1183,12 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{6 "." "63" times "10" rSup { size 8{ - "34"} } `J cdot s} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
         </tbody>
-
-
-
-
-
-
 
 
 
@@ -1153,7 +1207,7 @@
         <colspec colnum="2" colname="c2"/>
         <colspec colnum="3" colname="c3"/>
         <colspec colnum="4" colname="c4"/>
-
+        
         <thead>
           <row>
             <entry>Symbol</entry>
@@ -1165,7 +1219,7 @@
           <row>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msub>
@@ -1177,14 +1231,14 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{m rSub { size 8{e} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Electron mass</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1212,13 +1266,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{9 "." "10938291" \( "40" \)  times "10" rSup { size 8{ - "31"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1243,15 +1297,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{9 "." "11" times "10" rSup { size 8{ - "31"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msub>
@@ -1263,14 +1317,14 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{m rSub { size 8{p} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Proton mass</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1298,13 +1352,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "672621777" \( "74" \)  times "10" rSup { size 8{ - "27"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1329,15 +1383,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "6726" times "10" rSup { size 8{ - "27"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msub>
@@ -1349,14 +1403,14 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{m rSub { size 8{n} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Neutron mass</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1384,13 +1438,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "674927351" \( "74" \)  times "10" rSup { size 8{ - "27"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1415,29 +1469,29 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "6749" times "10" rSup { size 8{ - "27"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>u</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{u} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Atomic mass unit</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1465,13 +1519,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "660538921" \( "73" \)  times "10" rSup { size 8{ - "27"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1496,13 +1550,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "6605" times "10" rSup { size 8{ - "27"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
         </tbody>
-
+      
 
 
 
@@ -1510,16 +1564,16 @@
 </table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-903" summary="Three column table of solar system data. Column one has only three entries: Sun, Earth, and Moon. Column two describes various measurements for each of these heavenly bodies, and column three lists the value for each measurement."><title>Solar System Data</title><tgroup cols="3"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
         <colspec colnum="3" colname="c3"/>
-
+       
         <tbody>
           <row>
-            <entry valign="middle" morerows="2">
+            <entry>
               <emphasis>Sun</emphasis>
             </entry>
             <entry>mass</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1541,17 +1595,17 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "99" times "10" rSup { size 8{"30"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>average radius</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1573,16 +1627,17 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{6 "." "96" times "10" rSup { size 8{8} } `m} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
+            <entry/>
             <entry>Earth-sun distance (average)</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1603,19 +1658,19 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "496" times "10" rSup { size 8{"11"} } " m"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="2">
+            <entry>
               <emphasis>Earth</emphasis>
             </entry>
             <entry>mass</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1637,16 +1692,17 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{5 "." "9736" times "10" rSup { size 8{"24"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
+            <entry/>
             <entry>average radius</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1668,22 +1724,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{6 "." "376" times "10" rSup { size 8{6} } `m} {}</m:annotation>
+                </m:semantics>
               </m:math>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow/>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0">{}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
+            <entry/>
             <entry>orbital period</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1704,19 +1761,19 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{3 "." "16" times "10" rSup { size 8{7} } " s "} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="3">
+            <entry>
               <emphasis>Moon</emphasis>
             </entry>
             <entry>mass</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1738,16 +1795,17 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{7 "." "35" times "10" rSup { size 8{"22"} } `"kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
+            <entry/>
             <entry>average radius</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1769,16 +1827,17 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 "." "74" times "10" rSup { size 8{6} } `m} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
+            <entry/>
             <entry>orbital period (average)</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1799,16 +1858,17 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{2 "." "36" times "10" rSup { size 8{6} } " s"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
+            <entry/>
             <entry>Earth-moon distance (average)</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -1829,13 +1889,12 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{3 "." "84" times "10" rSup { size 8{8} } " m"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
         </tbody>
-
 
 </tgroup>
 </table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1401348" summary="Six-column table of metric prefixes. Columns one through three list the prefixes symbols, and values to the positive powers of ten. Columns four through six list the prefixes symbols, and values to the negative powers of ten."><title>Metric Prefixes for Powers of Ten and Their Symbols</title>
@@ -1845,7 +1904,7 @@
         <colspec colnum="4" colname="c4"/>
         <colspec colnum="5" colname="c5"/>
         <colspec colnum="6" colname="c6"/>
-
+       
         <thead>
           <row>
             <entry align="center">Prefix</entry>
@@ -1861,7 +1920,7 @@
             <entry align="center">T</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -1873,15 +1932,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{"12"} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>deci</entry>
             <entry align="center">d</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -1896,8 +1955,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ - 1} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -1906,7 +1965,7 @@
             <entry align="center">G</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -1918,15 +1977,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{9} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>centi</entry>
             <entry align="center">c</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -1941,8 +2000,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ - 2} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -1951,7 +2010,7 @@
             <entry align="center">M</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -1963,15 +2022,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{6} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>milli</entry>
             <entry align="center">m</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -1986,8 +2045,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ - 3} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -1996,7 +2055,7 @@
             <entry align="center">k</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -2008,27 +2067,27 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{3} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>micro</entry>
             <entry align="center">
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>μ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -2043,8 +2102,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ - 6} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -2053,7 +2112,7 @@
             <entry align="center">h</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -2065,15 +2124,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{2} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>nano</entry>
             <entry align="center">n</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -2088,8 +2147,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ - 9} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -2098,7 +2157,7 @@
             <entry align="center">da</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -2110,15 +2169,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{1} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>pico</entry>
             <entry align="center">p</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -2133,8 +2192,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ - "12"} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -2143,7 +2202,7 @@
             <entry>—</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -2165,15 +2224,15 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{0} }  \( `=1` \) } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>femto</entry>
             <entry align="center">f</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:msup>
@@ -2188,13 +2247,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ - "15"} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
         </tbody>
-
+      
 
 
 
@@ -2215,115 +2274,115 @@
         <colspec colnum="10" colname="c10"/>
         <colspec colnum="11" colname="c11"/>
         <colspec colnum="12" colname="c12"/>
-
+       
         <tbody>
           <row>
             <entry>Alpha</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Α</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Α} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>α</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Eta</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Η</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Η} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>η</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{η} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Nu</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Ν</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Ν} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ν</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ν} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Tau</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Τ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Τ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>τ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{τ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -2331,109 +2390,109 @@
             <entry>Beta</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Β</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Β} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>β</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Theta</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Θ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Θ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>θ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Xi</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Ξ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Ξ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ξ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ξ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Upsilon</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Υ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Υ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>υ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{υ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -2441,109 +2500,109 @@
             <entry>Gamma</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Γ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Γ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>γ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Iota</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Ι</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Ι} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ι</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ι} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Omicron</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Ο</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Ο} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ο</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ο} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Phi</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Φ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Φ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ϕ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ϕ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -2551,109 +2610,109 @@
             <entry>Delta</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Δ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>δ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{δ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Kappa</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Κ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Κ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>κ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{κ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Pi</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Π</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Π} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>π</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Chi</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Χ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Χ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>χ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{χ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -2661,109 +2720,109 @@
             <entry>Epsilon</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Ε</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Ε} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ε</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ε} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Lambda</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Λ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Λ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>λ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{λ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Rho</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Ρ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Ρ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ρ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ρ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Psi</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Ψ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Ψ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ψ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ψ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -2771,121 +2830,122 @@
             <entry>Zeta</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Ζ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Ζ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ζ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ζ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Mu</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Μ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Μ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>μ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Sigma</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mtext>Σ</m:mtext>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{Σ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>σ</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{σ} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>Omega</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mo stretchy="false">Ω</m:mo>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ %OMEGA } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>ω</m:mi>
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
         </tbody>
-
+      
 
 
 
 
 
 </tgroup>
-</table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1376084" summary="Four column table of SI Units. Column 1 serves to group the entries in the other three columns into three categories: Fundamental units, Supplementary units, and Derived units. Column two lists the Entity for each unit; column three the Abbreviation; column four the Name."><title>SI Units</title><tgroup cols="4"><colspec colnum="1" colname="c1"/>
+</table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1376084" summary="Four column table of SI Units. Column 1 serves to group the entries in the other three columns into three categories: Fundamental units, Supplementary units, and Derived units. Column two lists the Entity for each unit; column three the Abbreviation; column four the Name."><title>SI Units</title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
         <colspec colnum="3" colname="c3"/>
         <colspec colnum="4" colname="c4"/>
@@ -2899,7 +2959,7 @@
         </thead>
         <tbody>
           <row>
-            <entry valign="middle" morerows="3">
+            <entry>
               <emphasis>Fundamental units</emphasis>
             </entry>
             <entry>Length</entry>
@@ -2907,16 +2967,19 @@
             <entry>meter</entry>
           </row>
           <row>
+            <entry/>
             <entry>Mass</entry>
             <entry align="center">kg</entry>
             <entry>kilogram</entry>
           </row>
           <row>
+            <entry/>
             <entry>Time</entry>
             <entry align="center">s</entry>
             <entry>second</entry>
           </row>
           <row>
+            <entry/>
             <entry>Current</entry>
             <entry align="center">A</entry>
             <entry>ampere</entry>
@@ -2930,13 +2993,13 @@
             <entry>radian</entry>
           </row>
           <row>
-            <entry valign="middle" morerows="10">
+            <entry>
               <emphasis>Derived units</emphasis>
             </entry>
             <entry>Force</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -2960,17 +3023,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{N="kg" cdot  {m} slash {s rSup { size 8{2} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>newton</entry>
           </row>
           <row>
+            <entry/>
             <entry>Energy</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -2999,17 +3063,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{J="kg" cdot  {m rSup { size 8{2} } } slash {s rSup { size 8{2} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>joule</entry>
           </row>
           <row>
+            <entry/>
             <entry>Power</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3024,18 +3089,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{W= {J} slash {s} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>watt</entry>
           </row>
           <row>
-
+            <entry/>
             <entry>Pressure</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3055,17 +3120,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"Pa"= {N} slash {m rSup { size 8{2} } } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>pascal</entry>
           </row>
           <row>
+            <entry/>
             <entry>Frequency</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3080,18 +3146,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"Hz"= {1} slash {s} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>hertz</entry>
           </row>
           <row>
-
+            <entry/>
             <entry>Electronic potential</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3106,18 +3172,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{V= {J} slash {C} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>volt</entry>
           </row>
           <row>
-
+            <entry/>
             <entry>Capacitance</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3132,18 +3198,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{F= {C} slash {V} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>farad</entry>
           </row>
           <row>
-
+            <entry/>
             <entry>Charge</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3158,18 +3224,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{C=s cdot A} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>coulomb</entry>
           </row>
           <row>
-
+            <entry/>
             <entry>Resistance</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3184,18 +3250,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{ %OMEGA = {V} slash {A} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>ohm</entry>
           </row>
           <row>
-
+            <entry/>
             <entry>Magnetic field</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3216,18 +3282,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{T= {N} slash { left (A cdot m right )} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>tesla</entry>
           </row>
           <row>
-
+            <entry/>
             <entry>Nuclear decay rate</entry>
             <entry>
               <m:math display="block">
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3242,28 +3308,24 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{"Bq"= {1} slash {s} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
             <entry>becquerel</entry>
           </row>
         </tbody>
-
 </tgroup>
-
-
-
 </table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2371652" summary="Two-column table listing selected British units. Column 1 lists types of measurements. Column two contains equations for the conversion of British units to metric."><title>Selected British Units</title>
 <tgroup cols="2"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
-
+       
         <tbody>
           <row>
-            <entry valign="middle" morerows="2">Length</entry>
+            <entry>Length</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3287,16 +3349,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1" inch " \( "in" "."  \)  =2 "." "54"" cm " \( "exactly" \) } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3317,16 +3379,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1" foot " \( "ft" \)  =0 "." "3048"" m"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3347,8 +3409,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1" mile " \( "mi" \)  =1 "." "609"" km"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -3356,7 +3418,7 @@
             <entry>Force</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3377,8 +3439,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1" pound " \( "lb" \)  =4 "." "448"" N"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -3386,7 +3448,7 @@
             <entry>Energy</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3416,8 +3478,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1" British thermal unit " \( "Btu" \)  =1 "." "055" times "10" rSup { size 8{3} } " J"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -3425,7 +3487,7 @@
             <entry>Power</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3444,8 +3506,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1" horsepower " \( "hp" \)  ="746"" W"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -3453,7 +3515,7 @@
             <entry>Pressure</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3488,8 +3550,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1  {"lb"} slash {"in" rSup { size 8{2} } }  =6 "." "895" times "10" rSup { size 8{3} } " Pa"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -3498,16 +3560,16 @@
 
 
 
-
 </tgroup>
-</table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1528540" summary="Two column table listing Other Units. Column one lists various types of measurements. Column two contains conversion equations between various units of measurement. Most of the entries in column one correspond to multiple rows in column two."><title>Other Units</title><tgroup cols="2"><colspec colnum="1" colname="c1"/>
+</table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1528540" summary="Two column table listing Other Units. Column one lists various types of measurements. Column two contains conversion equations between various units of measurement. Most of the entries in column one correspond to multiple rows in column two."><title>Other Units</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
         <tbody>
           <row>
-            <entry valign="middle" morerows="3">Length</entry>
+            <entry>Length</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3518,7 +3580,7 @@
                         <m:mi/>
                        <m:mspace width="0.20em"/>
                         <m:mi/>
-
+                          
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>ly</m:mtext>
                         <m:mo stretchy="false">)</m:mo>
@@ -3543,16 +3605,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" light"`" year"`  \( "ly" \) ` =9 "." "46" times "10" rSup { size 8{"15"} } " m"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3585,16 +3647,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" astronomical"`" unit"`  \( "au" \) ` =1 "." "50" times "10" rSup { size 8{"11"} } " m"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3602,7 +3664,7 @@
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> nautical mile</m:mtext>
                         <m:mi/>
-
+       
                         <m:mrow>
                           <m:mi/>
                           <m:mo stretchy="false">=</m:mo>
@@ -3616,16 +3678,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" nautical"`" mile"` =1 "." "852"`" km"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3654,16 +3716,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" angstrom"`  \( Å \) ` ="10" rSup { size 8{ - "10"} } " m"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="2">Area</entry>
+            <entry>Area</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3700,16 +3762,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" acre"`  \( "ac" \) ` =4 "." "05" times "10" rSup { size 8{3} } " m" rSup { size 8{2} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3755,16 +3817,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`"square"`"foot"`  \( "ft" rSup { size 8{2} }  \) ` =9 "." "29" times "10" rSup { size 8{ - 2} } " m" rSup { size 8{2} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3798,16 +3860,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" barn"`  \( b \) ` ="10" rSup { size 8{ - "28"} } " m" rSup { size 8{2} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="1">Volume</entry>
+            <entry>Volume</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3841,23 +3903,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" liter"`  \( L \) ` ="10" rSup { size 8{ - 3} } " m" rSup { size 8{3} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>1</m:mn>
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> U.S. gallon</m:mtext>
-
+          
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>gal</m:mtext>
@@ -3891,16 +3953,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" U" "." S "." `" gallon"`  \( "gal" \) ` =3 "." "785" times "10" rSup { size 8{ - 3} } " m" rSup { size 8{3} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="2">Mass</entry>
+            <entry>Mass</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3929,16 +3991,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" solar"`" mass"` =1 "." "99" times "10" rSup { size 8{"30"} } " kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -3961,16 +4023,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" metric"`" ton"` ="10" rSup { size 8{3} } " kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4006,16 +4068,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" atomic"`" mass"`" unit"`` \( u \) ` =1 "." "6605" times "10" rSup { size 8{ - "27"} } " kg"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="1">Time</entry>
+            <entry>Time</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4047,16 +4109,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" year"`  \( y \) ` =3 "." "16" times "10" rSup { size 8{7} } " s"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4080,23 +4142,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" day"`  \( d \) ` ="86","400"`" s"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="1">Speed</entry>
+            <entry>Speed</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>1</m:mn>
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> mile per hour</m:mtext>
-
+                 
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>mph</m:mtext>
@@ -4118,23 +4180,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" mile"`"per"`"hour"` \( "mph" \) `=1 "." "609"`  {"km"} slash {h} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>1</m:mn>
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> nautical mile per hour</m:mtext>
-
+                    
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>naut</m:mtext>
@@ -4156,16 +4218,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" nautical"`"mile"`"per"`"hour"` \( "naut" \) `=1 "." "852"`  {"km"} slash {h} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="3">Angle</entry>
+            <entry>Angle</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4200,23 +4262,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" degree"`  \( ° \) ` =1 "." "745" times "10" rSup { size 8{ - 2} } " rad"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>1</m:mn>
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> minute of arc</m:mtext>
-
+                     
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:msup>
                           <m:mo stretchy="false">(</m:mo>
@@ -4238,16 +4300,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" minute"`"of"`"arc"` { { \( }} sup { ' } \) `= {1} slash {"60"} `" degree"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4261,7 +4323,7 @@
                           <m:mo stretchy="false">(</m:mo>
                           <m:mrow>
                             <m:mtext>''</m:mtext>
-
+                          
                           </m:mrow>
                         </m:msup>
                         <m:mo stretchy="false">)</m:mo>
@@ -4282,16 +4344,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" second"`"of"`"arc"` { { \( }} sup { '' } \) `= {1} slash {"60"`} " minute of arc"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4322,23 +4384,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" grad"` =1 "." "571" times "10" rSup { size 8{ - 2} } " rad"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="4">Energy</entry>
+            <entry>Energy</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>1</m:mn>
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> kiloton TNT</m:mtext>
-
+                  
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>kT</m:mtext>
@@ -4364,23 +4426,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" kiloton"`" TNT"`  \( "kT" \) ` =4 "." 2 times "10" rSup { size 8{"12"} } " J"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>1</m:mn>
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> kilowatt hour</m:mtext>
-
+                 
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mrow>
@@ -4410,23 +4472,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" kilowatt"`" hour"`  \( "kW" cdot h \) ` =3 "." "60" times "10" rSup { size 8{6} } " J"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>1</m:mn>
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> food calorie</m:mtext>
-
+                
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>kcal</m:mtext>
@@ -4442,16 +4504,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" food"`"calorie"` \( "kcal" \) `="4186"`" J"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4475,23 +4537,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" calorie"` \( "cal" \) `=4 "." "186"`" J"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>1</m:mn>
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> electron  volt</m:mtext>
-
+                 
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>eV</m:mtext>
@@ -4520,16 +4582,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" electron"`" volt"`  \( "eV" \) ` =1 "." "60" times "10" rSup { size 8{ - "19"} } " J"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry valign="middle" morerows="2">Pressure</entry>
+            <entry>Pressure</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4561,23 +4623,23 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" atmosphere"`  \( "atm" \) ` =1 "." "013" times "10" rSup { size 8{5} } " Pa"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>1</m:mn>
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mtext> millimeter of mercury</m:mtext>
-
+               
                         <m:mi/><m:mspace width="0.20em"/>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>mm</m:mtext>
@@ -4597,16 +4659,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" millimeter"`"of"`"mercury"` \( "mm"`"Hg" \) `="133" "." 3`" Pa"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-
+            <entry/>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4638,8 +4700,8 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" torricelli"` \( "torr" \) `=1`" mm"``"Hg "="133" "." 3`" Pa"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
@@ -4647,7 +4709,7 @@
             <entry>Nuclear decay rate</entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4679,14 +4741,13 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{1`" curie"`  \( "Ci" \) ` =3 "." "70" times "10" rSup { size 8{"10"} } " Bq"} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
         </tbody>
-
-
+      
 
 
 
@@ -4702,13 +4763,13 @@
 </table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1610756" summary="Two-column table of Useful formulae. Entries in column one describe the mathematical formulae in column two."><title>Useful Formulae</title>
 <tgroup cols="2"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
-
+       
         <tbody>
           <row>
-            <entry>Circumference of a circle with radius <m:math><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow></m:mrow></m:math> or diameter <m:math><m:mrow><m:mrow><m:mi>d</m:mi></m:mrow></m:mrow></m:math></entry>
+            <entry>Circumference of a circle with radius <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> or diameter <m:math><m:semantics><m:mrow><m:mrow><m:mi>d</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation></m:semantics></m:math></entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4724,16 +4785,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{C=2πr=πd} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry>Area of a circle with radius <m:math><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow></m:mrow></m:math> or diameter <m:math><m:mrow><m:mrow><m:mi>d</m:mi></m:mrow></m:mrow></m:math></entry>
+            <entry>Area of a circle with radius <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> or diameter <m:math><m:semantics><m:mrow><m:mrow><m:mi>d</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation></m:semantics></m:math></entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4762,16 +4823,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{A=πr rSup { size 8{2} } = {πd rSup { size 8{2} } } slash {4} } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry>Area of a sphere with radius <m:math><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow></m:mrow></m:math></entry>
+            <entry>Area of a sphere with radius <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math></entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4788,16 +4849,16 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{A=4πr rSup { size 8{2} } } {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
           <row>
-            <entry>Volume of a sphere with radius <m:math><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow></m:mrow></m:math></entry>
+            <entry>Volume of a sphere with radius <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math></entry>
             <entry>
               <m:math>
-                
+                <m:semantics>
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
@@ -4824,18 +4885,18 @@
                     </m:mrow>
                     <m:mrow/>
                   </m:mrow>
-                  
-                
+                  <m:annotation encoding="StarMath 5.0"> size 12{V= left ( {4} slash {3}  right ) left (πr rSup { size 8{3} }  right )} {}</m:annotation>
+                </m:semantics>
               </m:math>
             </entry>
           </row>
         </tbody>
-
+      
 
 
 
 
 
 </tgroup>
-</table>  </content>
+</table></content>
 </document>
