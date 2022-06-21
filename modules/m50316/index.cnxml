@@ -1,0 +1,2742 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Glossary of Key Symbols and Notation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50316</md:content-id>
+  <md:title>Glossary of Key Symbols and Notation</md:title>
+  <md:abstract/>
+  <md:uuid>20b11b52-5a60-4af5-9a96-298b75e1987c</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1257212">In this glossary, key symbols and notation are briefly defined.</para>
+    <table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1688908" summary=".......">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+       <thead>
+<row>
+<entry>Symbol</entry>
+<entry>Definition</entry>
+</row>
+</thead>
+
+        <tbody>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mover accent="true">
+                        <m:mrow>
+                          <m:mtext>any symbol</m:mtext>
+                          <m:mi/>
+                         
+                        </m:mrow>
+                        <m:mo>¯</m:mo>
+                      </m:mover>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ {overline  {"any"`" symbol"}} } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>average (indicated by a bar over a symbol—e.g., <m:math><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>v</m:mi><m:mo>¯</m:mo></m:mover></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {v}} } {}</m:annotation></m:semantics></m:math> is average velocity)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>//</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"//"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>parallel</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>⊥</m:mo>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ ortho } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>perpendicular</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>∝</m:mo>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ prop } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>proportional to</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">±</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ +- {}} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>plus or minus</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mrow><m:mspace width="0.25em"/>
+</m:mrow>
+                        <m:mrow>
+                          <m:mn>0</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{0} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>zero as a subscript denotes an initial value</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>α</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>angular acceleration </entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>β</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>sound level</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>Δ</m:mo>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>change in whatever quantity follows</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>δ</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{δ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>uncertainty in whatever quantity follows</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi fontstyle="italic">Δm</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{Δm} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>difference in mass between initial and final products</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi fontstyle="italic">Δp</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{Δp} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>change in momentum</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>Δ</m:mi>
+                        <m:msub>
+                          <m:mtext>PE</m:mtext>
+                          <m:mrow>
+                            <m:mtext>g</m:mtext>
+                          </m:mrow>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{Δ"PE" rSub { size 8{g} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>change in gravitational potential energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi fontstyle="italic">Δθ</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{Δθ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>rotation angle</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi fontstyle="italic">Δs</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{Δs} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>distance traveled along a circular path</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>ε</m:mi>
+                        <m:mrow>
+                          <m:mn>0</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ε rSub { size 8{0} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>permittivity of free space</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>angle between the force vector and the displacement vector</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>angle between two lines</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>contact angle</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>direction of the resultant</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>λ</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{λ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>wavelength</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>λ</m:mi>
+                        <m:mrow>
+                          <m:mi>n</m:mi>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{λ rSub { size 8{n} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>wavelength in a medium</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>μ</m:mi>
+                        <m:mrow>
+                          <m:mtext>k</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{μ rSub { size 8{k} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>coefficient of kinetic friction</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>μ</m:mi>
+                        <m:mrow>
+                          <m:mtext>s</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{μ rSub { size 8{s} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>coefficient of static friction</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>ρ</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ρ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>density</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>τ</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{τ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>torque</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">Ω</m:mo>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ %OMEGA } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>ohm (unit)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>ω</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>angular velocity</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>A</m:mo>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>ampere (current unit)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>area</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>cross-sectional area</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>acceleration</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>a</m:mi>
+                        <m:mrow>
+                          <m:mtext>c</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{a rSub { size 8{c} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>centripetal acceleration</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>a</m:mi>
+                        <m:mrow>
+                          <m:mtext>t</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{a rSub { size 8{t} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>tangential acceleration</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>AC</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"AC"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>alternating current</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>AM</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"AM"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>amplitude modulation</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{C} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>coulomb (a fundamental SI unit of charge)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>CG</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"CG"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>center of gravity</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>CM</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"CM"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>center of mass</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>c</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{c} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>speed of light</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>cos</m:mtext><m:mspace width="0.20em"/>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"cos"θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>cosine</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>cot</m:mtext><m:mspace width="0.20em"/>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"cot"θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>cotangent</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>csc</m:mtext><m:mspace width="0.20em"/>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"csc"θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>cosecant</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>displacement</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>dB</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"dB"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>decibel</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>ε</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ε} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>emf (voltage) or Hall electromotive force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>emf</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"emf"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>electromotive force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>E</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{E} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>total energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Eff</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ ital "Eff"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>efficiency—the useful work output divided by the energy input</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>E</m:mi>
+                        <m:mrow>
+                          <m:mtext>out</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{"out"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>energy output</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext mathvariant="bold">F</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>F</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>magnitude of a force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>F</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>restoring force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mrow>
+                          <m:mtext>B</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{B} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>buoyant force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mrow>
+                          <m:mtext>c</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{c} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>centripetal force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mrow>
+                          <m:mtext>i</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{i} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>force input</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext mathvariant="bold">F</m:mtext>
+                        <m:mrow>
+                          <m:mtext>net</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{"net"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>net force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mrow>
+                          <m:mtext>o</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{o} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>force output</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>FM</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"FM"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>frequency modulation</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>frequency</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>f</m:mi>
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{f rSub { size 8{1} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>fundamental</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>f</m:mi>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{f rSub { size 8{2} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>first overtone</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>f</m:mi>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{f rSub { size 8{3} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>second overtone</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>f</m:mi>
+                        <m:mrow>
+                          <m:mtext>B</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{f rSub { size 8{B} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>beat frequency</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>f</m:mi>
+                        <m:mrow>
+                          <m:mtext>k</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{f rSub { size 8{k} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>magnitude of kinetic friction</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>f</m:mi>
+                        <m:mrow>
+                          <m:mtext>s</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{f rSub { size 8{s} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>magnitude of static friction</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>G</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{G} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>gravitational constant</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>g</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>acceleration due to gravity</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>h</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{h} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>change in vertical position</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>h</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{h} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>height above some reference point</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>h</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{h} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>maximum height of a projectile</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>I</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>intensity</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>I</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>intensity of a transmitted wave</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>I</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>moment of inertia (also called rotational inertia)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mrow>
+                          <m:mtext>rms</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{I rSub { size 8{"rms"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>average current</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>J</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{J} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>joule</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>k</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>force constant of a spring</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>KE</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"KE"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>translational kinetic energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>KE </m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext> PE</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"KE"+" PE"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>mechanical energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext>KE</m:mtext>
+                        <m:mrow>
+                          <m:mtext>rot</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"KE" rSub { size 8{"rot"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>rotational kinetic energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>kg</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"kg"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>kilogram (a fundamental SI unit of mass)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>L</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>angular momentum</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>L</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>liter</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>L</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>magnitude of angular momentum</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>L</m:mi>
+                        <m:mrow>
+                          <m:mi>z</m:mi>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{L rSub { size 8{z} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+<emphasis effect="italics">z</emphasis> - component of the angular momentum
+              
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>m</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>meter (a fundamental SI unit of length)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>order of interference</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>N</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{N} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>magnitude of the normal force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>N</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{N} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>newton</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext mathvariant="bold">N</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{N} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>normal force</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>N</m:mtext>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mtext>m</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{N cdot m} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>newton-meter (work-energy unit)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>N</m:mtext>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mtext>m</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{N cdot m} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>newtons times meters (SI unit of torque)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>OE</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"OE"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>other energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{P} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>power</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext mathvariant="bold">p</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{p} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>momentum</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{p} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>momentum magnitude</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext mathvariant="bold">p</m:mtext>
+                        <m:mrow>
+                          <m:mtext>tot</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{p rSub { size 8{"tot"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>total momentum</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msubsup>
+                        <m:mtext mathvariant="bold">p</m:mtext>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi/>
+                            <m:mtext>tot</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mi>'</m:mi>
+                      </m:msubsup>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ { {p}} sup { ' } rSub { size 8{`"tot"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>total momentum some time later</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>PE</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"PE"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>potential energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext>PE</m:mtext>
+                        <m:mrow>
+                          <m:mtext>el</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"PE" rSub { size 8{"el"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>elastic potential energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext>PE</m:mtext>
+                        <m:mrow>
+                          <m:mtext>elec</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"PE" rSub { size 8{"elec"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>electric potential energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext>PE</m:mtext>
+                        <m:mrow>
+                          <m:mtext>s</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"PE" rSub { size 8{s} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>potential energy of a spring</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>P</m:mi>
+                        <m:mrow>
+                          <m:mtext>in</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{P rSub { size 8{"in"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>power consumption or input</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>P</m:mi>
+                        <m:mrow>
+                          <m:mtext>out</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{P rSub { size 8{"out"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>useful power output going into useful work or a desired, form of energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>Q</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{+Q} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>positive charge</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mi>Q</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ - Q} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>negative charge</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>q</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{q} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>electron charge</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>q</m:mi>
+                        <m:mrow>
+                          <m:mi>p</m:mi>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{q rSub { size 8{p} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>charge of a proton</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>q</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{q} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>test charge</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>R</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{R} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>resistance</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>R</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{R} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>resultant or total displacement</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>r</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>distance from pivot point to the point where a force is applied</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>r</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>internal resistance</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>r</m:mi>
+                        <m:mrow>
+                          <m:mo>⊥</m:mo>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{r rSub { size 8{ ortho } } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>perpendicular lever arm</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>r</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>resistivity</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>rad</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"rad"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>radian</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>rms</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"rms"} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>root mean square</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mrow>
+                          <m:mtext>p</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{p} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>total resistance of a parallel connection</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mrow>
+                          <m:mtext>s</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{s} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>total resistance of a series connection</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>s</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{s} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>second (fundamental SI unit of time)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext mathvariant="bold">s</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{s} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>total displacement</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>sec</m:mtext><m:mspace width="0.20em"/>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"sec"θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>secant</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>sin</m:mtext><m:mspace width="0.20em"/>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"sin"θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>sine</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>T</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>period—time to complete one oscillation</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>T</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>tension</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>time</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>tan</m:mtext><m:mspace width="0.20em"/>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"tan"θ} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>tangent</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>U</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{U} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>internal energy</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext mathvariant="bold">u</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{u} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>velocity of an object relative to an observer</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mtext mathvariant="bold">u</m:mtext>
+                        <m:mtext mathvariant="bold">'</m:mtext>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ { {u}} sup { ' }} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>velocity relative to another observer</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>V</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{V} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>terminal voltage</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>V</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{V} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>volt (unit)</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>V</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{V} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>volume</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext mathvariant="bold">v</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>relative velocity between two observers</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>v</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>speed of light in a material</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext mathvariant="bold">v</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>velocity</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext mathvariant="bold">v</m:mtext>
+                        <m:mrow>
+                          <m:mtext>tot</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{"tot"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>total velocity</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mtext>w</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{w} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>propagation speed of sound or other wave</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mtext mathvariant="bold">v</m:mtext>
+                        <m:mrow>
+                          <m:mtext>w</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{w} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>wave velocity</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>W</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{W} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>work</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>W</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{W} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>net work done by a system</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>W</m:mtext>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{W} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>watt</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>w</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{w} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>weight</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>W</m:mi>
+                        <m:mrow>
+                          <m:mtext>c</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{W rSub { size 8{c} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>total work done by all conservative forces</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>W</m:mi>
+                        <m:mrow>
+                          <m:mtext>nc</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{W rSub { size 8{"nc"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>total work done by all nonconservative forces</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>W</m:mi>
+                        <m:mrow>
+                          <m:mtext>out</m:mtext>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{W rSub { size 8{"out"} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>useful work output</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>X</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{X} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>amplitude</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>deformation or displacement from equilibrium</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>displacement of a spring from its undeformed position</entry>
+          </row>
+          <row>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>horizontal axis</entry>
+          </row>
+        </tbody>
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table></content>
+</document>
