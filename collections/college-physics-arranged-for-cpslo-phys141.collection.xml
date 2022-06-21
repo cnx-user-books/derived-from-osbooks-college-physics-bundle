@@ -1,0 +1,106 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11718</md:content-id>
+    <md:title>College Physics Arranged for CPSLO PHYS141</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>70e2ed5b-b57a-45ab-bc94-360d7a442f36</md:uuid>
+<md:slug>college-physics-arranged-for-cpslo-phys141</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Week 1</md:title>
+      <col:content>
+        <col:module document="m42122"/>
+        <col:module document="m42033"/>
+        <col:module document="m42096"/>
+        <col:module document="m42069"/>
+        <col:module document="m42145"/>
+        <col:module document="m42151"/>
+        <col:module document="m42155"/>
+        <col:module document="m42162"/>
+        <col:module document="m42100"/>
+        <col:module document="m42073"/>
+        <col:module document="m42091"/>
+        <col:module document="m42130"/>
+        <col:module document="m42147"/>
+        <col:module document="m42156"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Week 2</md:title>
+      <col:content>
+        <col:module document="m42125"/>
+        <col:module document="m42103"/>
+        <col:module document="m42152"/>
+        <col:module document="m42153"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Week 3</md:title>
+      <col:content>
+        <col:module document="m42126"/>
+        <col:module document="m42104"/>
+        <col:module document="m42127"/>
+        <col:module document="m42128"/>
+        <col:module document="m42146"/>
+        <col:module document="m42042"/>
+        <col:module document="m42045"/>
+        <col:module document="m42129"/>
+        <col:module document="m42074"/>
+        <col:module document="m42075"/>
+        <col:module document="m42076"/>
+        <col:module document="m42132"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Week 4</md:title>
+      <col:content>
+        <col:module document="m42139"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Week 5</md:title>
+      <col:content>
+        <col:module document="m42143"/>
+        <col:module document="m42099"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Week 6</md:title>
+      <col:content>
+        <col:module document="m42163"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Week 7</md:title>
+      <col:content>
+        <col:module document="m42083"/>
+        <col:module document="m42170"/>
+        <col:module document="m42171"/>
+        <col:module document="m42177"/>
+        <col:module document="m42179"/>
+        <col:module document="m42180"/>
+        <col:module document="m42182"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Week 8</md:title>
+      <col:content>
+        <col:module document="m42172"/>
+        <col:module document="m42173"/>
+        <col:module document="m42084"/>
+        <col:module document="m42086"/>
+        <col:module document="m42142"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Week 9</md:title>
+      <col:content>
+        <col:module document="m42183"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m42720"/>
+    <col:module document="m42709"/>
+  </col:content>
+</col:collection>
