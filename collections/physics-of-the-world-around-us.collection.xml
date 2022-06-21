@@ -1,0 +1,155 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11797</md:content-id>
+    <md:title>Physics of the World Around Us</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>d6fbdab5-5d87-4891-b3d6-b0d2b418efc1</md:uuid>
+<md:slug>physics-of-the-world-around-us</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m42955"/>
+    <col:subcollection>
+      <md:title>Introduction: The Basics of Physics</md:title>
+      <col:content>
+        <col:module document="m42119"/>
+        <col:module document="m42092"/>
+        <col:module document="m42091"/>
+        <col:module document="m42120"/>
+        <col:module document="m42121"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kinematics</md:title>
+      <col:content>
+        <col:module document="m42122"/>
+        <col:module document="m42033"/>
+        <col:module document="m42124"/>
+        <col:module document="m42096"/>
+        <col:module document="m42100"/>
+        <col:module document="m42099"/>
+        <col:module document="m42125"/>
+        <col:module document="m42102"/>
+        <col:module document="m42103"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Dynamics: Force and Newton's Laws of Motion</md:title>
+      <col:content>
+        <col:module document="m42129"/>
+        <col:module document="m42069"/>
+        <col:module document="m42130"/>
+        <col:module document="m42073"/>
+        <col:module document="m42074"/>
+        <col:module document="m42075"/>
+        <col:module document="m42076"/>
+        <col:module document="m42132"/>
+        <col:module document="m42137"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Further Applications of Newton's Laws: Friction, Drag, and Elasticity</md:title>
+      <col:content>
+        <col:module document="m42138"/>
+        <col:module document="m42139"/>
+        <col:module document="m42080"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Momentum and Collisions</md:title>
+      <col:content>
+        <col:module document="m42155"/>
+        <col:module document="m42156"/>
+        <col:module document="m42159"/>
+        <col:module document="m42162"/>
+        <col:module document="m42163"/>
+        <col:module document="m42164"/>
+        <col:module document="m42165"/>
+        <col:module document="m42166"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work, Energy, and Conservation</md:title>
+      <col:content>
+        <col:module document="m42145"/>
+        <col:module document="m42146"/>
+        <col:module document="m42147"/>
+        <col:module document="m42148"/>
+        <col:module document="m42149"/>
+        <col:module document="m42150"/>
+        <col:module document="m42151"/>
+        <col:module document="m42152"/>
+        <col:module document="m42153"/>
+        <col:module document="m42154"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Heat and Heat Transfer Methods</md:title>
+      <col:content>
+        <col:module document="m42221"/>
+        <col:module document="m42223"/>
+        <col:module document="m42224"/>
+        <col:module document="m42225"/>
+        <col:module document="m42226"/>
+        <col:module document="m42228"/>
+        <col:module document="m42229"/>
+        <col:module document="m42230"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fluids and Bouyant Force</md:title>
+      <col:content>
+        <col:module document="m42185"/>
+        <col:module document="m42186"/>
+        <col:module document="m42187"/>
+        <col:module document="m42189"/>
+        <col:module document="m42192"/>
+        <col:module document="m42195"/>
+        <col:module document="m42196"/>
+        <col:module document="m42199"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Current, Resistance, and Ohm's Law</md:title>
+      <col:content>
+        <col:module document="m42339"/>
+        <col:module document="m42341"/>
+        <col:module document="m42344"/>
+        <col:module document="m42346"/>
+        <col:module document="m42714"/>
+        <col:module document="m42348"/>
+        <col:module document="m42350"/>
+        <col:module document="m42352"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sound</md:title>
+      <col:content>
+        <col:module document="m42254"/>
+        <col:module document="m42255"/>
+        <col:module document="m42256"/>
+        <col:module document="m42257"/>
+        <col:module document="m42712"/>
+        <col:module document="m42296"/>
+        <col:module document="m42297"/>
+        <col:module document="m42298"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Frontiers of Physics</md:title>
+      <col:content>
+        <col:module document="m42683"/>
+        <col:module document="m42686"/>
+        <col:module document="m42689"/>
+        <col:module document="m42691"/>
+        <col:module document="m42692"/>
+        <col:module document="m42694"/>
+        <col:module document="m42696"/>
+        <col:module document="m42704"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m42699"/>
+    <col:module document="m42720"/>
+    <col:module document="m42709"/>
+  </col:content>
+</col:collection>
