@@ -1,0 +1,37 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11896</md:content-id>
+    <md:title>Sample Chapters: OpenStax College Physics For AP® Courses</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>ce2646a6-5a1c-4a63-a762-3537c143f4cd</md:uuid>
+<md:slug>sample-chapters-openstax-college-physics-for-ap-r-courses</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kinematics</md:title>
+      <col:content>
+        <col:module document="m54768"/>
+        <col:module document="m54769"/>
+        <col:module document="m54770"/>
+        <col:module document="m57924"/>
+        <col:module document="m57936"/>
+        <col:module document="m54773"/>
+        <col:module document="m54774"/>
+        <col:module document="m57929"/>
+        <col:module document="m54776"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Two-Dimensional Kinematics</md:title>
+      <col:content>
+        <col:module document="m54777"/>
+        <col:module document="m57926"/>
+        <col:module document="m57937"/>
+        <col:module document="m57932"/>
+        <col:module document="m57922"/>
+        <col:module document="m57944"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
