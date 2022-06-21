@@ -1,0 +1,250 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11646</md:content-id>
+    <md:title>Sinclair's College Physics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>0ac2f9da-e873-404f-9600-c3c47223374b</md:uuid>
+<md:slug>derived-copy-of-college-physics-v-1</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction to Physics</md:title>
+      <col:content>
+        <col:module document="m42092"/>
+        <col:module document="m42091"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kinematics in One and Two Dimensions</md:title>
+      <col:content>
+        <col:module document="m42122"/>
+        <col:module document="m42033"/>
+        <col:module document="m42124"/>
+        <col:module document="m42096"/>
+        <col:module document="m42100"/>
+        <col:module document="m42099"/>
+        <col:module document="m42102"/>
+        <col:module document="m42125"/>
+        <col:module document="m42104"/>
+        <col:module document="m42127"/>
+        <col:module document="m42128"/>
+        <col:module document="m42042"/>
+        <col:module document="m42045"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Momentum and Collisions</md:title>
+      <col:content>
+        <col:module document="m42155"/>
+        <col:module document="m42156"/>
+        <col:module document="m42159"/>
+        <col:module document="m42162"/>
+        <col:module document="m42163"/>
+        <col:module document="m42164"/>
+        <col:module document="m42165"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Newton's Laws and Force</md:title>
+      <col:content>
+        <col:module document="m42129"/>
+        <col:module document="m42069"/>
+        <col:module document="m42130"/>
+        <col:module document="m42073"/>
+        <col:module document="m42074"/>
+        <col:module document="m42076"/>
+        <col:module document="m42075"/>
+        <col:module document="m42132"/>
+        <col:module document="m42139"/>
+        <col:module document="m42138"/>
+        <col:module document="m42137"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work and Energy</md:title>
+      <col:content>
+        <col:module document="m42146"/>
+        <col:module document="m42147"/>
+        <col:module document="m42148"/>
+        <col:module document="m42149"/>
+        <col:module document="m42150"/>
+        <col:module document="m42151"/>
+        <col:module document="m42152"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Classical Gravitation</md:title>
+      <col:content>
+        <col:module document="m42140"/>
+        <col:module document="m42084"/>
+        <col:module document="m42086"/>
+        <col:module document="m42142"/>
+        <col:module document="m42143"/>
+        <col:module document="m42144"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Special and General Relativity</md:title>
+      <col:content>
+        <col:module document="m42525"/>
+        <col:module document="m42528"/>
+        <col:module document="m42531"/>
+        <col:module document="m42535"/>
+        <col:module document="m42540"/>
+        <col:module document="m42546"/>
+        <col:module document="m42689"/>
+        <col:module document="m42686"/>
+        <col:module document="m42692"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Oscillatory Motion, Waves, and Sound</md:title>
+      <col:content>
+        <col:module document="m42239"/>
+        <col:module document="m42241"/>
+        <col:module document="m42242"/>
+        <col:module document="m42243"/>
+        <col:module document="m42244"/>
+        <col:module document="m42246"/>
+        <col:module document="m42247"/>
+        <col:module document="m42248"/>
+        <col:module document="m42249"/>
+        <col:module document="m42255"/>
+        <col:module document="m42256"/>
+        <col:module document="m42257"/>
+        <col:module document="m42712"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Geometric and Wave Optics</md:title>
+      <col:content>
+        <col:module document="m42449"/>
+        <col:module document="m42452"/>
+        <col:module document="m42456"/>
+        <col:module document="m42459"/>
+        <col:module document="m42466"/>
+        <col:module document="m42470"/>
+        <col:module document="m42474"/>
+        <col:module document="m42505"/>
+        <col:module document="m42496"/>
+        <col:module document="m42501"/>
+        <col:module document="m42508"/>
+        <col:module document="m42522"/>
+        <col:module document="m42517"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Charge, Field, and Potential</md:title>
+      <col:content>
+        <col:module document="m42299"/>
+        <col:module document="m42300"/>
+        <col:module document="m42306"/>
+        <col:module document="m42308"/>
+        <col:module document="m42310"/>
+        <col:module document="m42312"/>
+        <col:module document="m42320"/>
+        <col:module document="m42324"/>
+        <col:module document="m42326"/>
+        <col:module document="m42331"/>
+        <col:module document="m42333"/>
+        <col:module document="m42336"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Current, Resistance, and Ohm's Law</md:title>
+      <col:content>
+        <col:module document="m42339"/>
+        <col:module document="m42341"/>
+        <col:module document="m42344"/>
+        <col:module document="m42346"/>
+        <col:module document="m42354"/>
+        <col:module document="m42356"/>
+        <col:module document="m42363"/>
+        <col:module document="m42714"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Magnetism</md:title>
+      <col:content>
+        <col:module document="m42365"/>
+        <col:module document="m42366"/>
+        <col:module document="m42368"/>
+        <col:module document="m42370"/>
+        <col:module document="m42372"/>
+        <col:module document="m42375"/>
+        <col:module document="m42398"/>
+        <col:module document="m42382"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electromagnetic Waves</md:title>
+      <col:content>
+        <col:module document="m42434"/>
+        <col:module document="m42437"/>
+        <col:module document="m42444"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Atomic Physics</md:title>
+      <col:content>
+        <col:module document="m42585"/>
+        <col:module document="m42589"/>
+        <col:module document="m42592"/>
+        <col:module document="m42596"/>
+        <col:module document="m42599"/>
+        <col:module document="m42602"/>
+        <col:module document="m42606"/>
+        <col:module document="m42609"/>
+        <col:module document="m42614"/>
+        <col:module document="m42618"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Quantum Physics</md:title>
+      <col:content>
+        <col:module document="m42550"/>
+        <col:module document="m42554"/>
+        <col:module document="m42558"/>
+        <col:module document="m42563"/>
+        <col:module document="m42568"/>
+        <col:module document="m42573"/>
+        <col:module document="m42576"/>
+        <col:module document="m42579"/>
+        <col:module document="m42581"/>
+        <col:module document="m42644"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Nuclear Physics</md:title>
+      <col:content>
+        <col:module document="m42620"/>
+        <col:module document="m42623"/>
+        <col:module document="m42631"/>
+        <col:module document="m42633"/>
+        <col:module document="m42636"/>
+        <col:module document="m42640"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Particle Physics</md:title>
+      <col:content>
+        <col:module document="m42667"/>
+        <col:module document="m42669"/>
+        <col:module document="m42671"/>
+        <col:module document="m42718"/>
+        <col:module document="m42674"/>
+        <col:module document="m42678"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Frontiers of Physics</md:title>
+      <col:content>
+        <col:module document="m42683"/>
+        <col:module document="m42680"/>
+        <col:module document="m42691"/>
+        <col:module document="m42704"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
