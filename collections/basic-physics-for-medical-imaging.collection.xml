@@ -1,0 +1,115 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11630</md:content-id>
+    <md:title>Basic Physics for Medical Imaging</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>54b66c52-16e3-462d-bbb1-a868544ab0b7</md:uuid>
+<md:slug>basic-physics-for-medical-imaging</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction: The Nature of Science and Physics</md:title>
+      <col:content>
+        <col:module document="m42119"/>
+        <col:module document="m42092"/>
+        <col:module document="m42091"/>
+        <col:module document="m42120"/>
+        <col:module document="m42121"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physics of Hearing</md:title>
+      <col:content>
+        <col:module document="m42254"/>
+        <col:module document="m42255"/>
+        <col:module document="m42256"/>
+        <col:module document="m42257"/>
+        <col:module document="m42712"/>
+        <col:module document="m42296"/>
+        <col:module document="m42297"/>
+        <col:module document="m42298"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Magnetism</md:title>
+      <col:content>
+        <col:module document="m42365"/>
+        <col:module document="m42366"/>
+        <col:module document="m42368"/>
+        <col:module document="m42370"/>
+        <col:module document="m42372"/>
+        <col:module document="m42375"/>
+        <col:module document="m42377"/>
+        <col:module document="m42398"/>
+        <col:module document="m42380"/>
+        <col:module document="m42382"/>
+        <col:module document="m42386"/>
+        <col:module document="m42388"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electromagnetic Waves</md:title>
+      <col:content>
+        <col:module document="m42434"/>
+        <col:module document="m42437"/>
+        <col:module document="m42440"/>
+        <col:module document="m42444"/>
+        <col:module document="m42446"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Introduction to Quantum Physics</md:title>
+      <col:content>
+        <col:module document="m42550"/>
+        <col:module document="m42554"/>
+        <col:module document="m42558"/>
+        <col:module document="m42563"/>
+        <col:module document="m42568"/>
+        <col:module document="m42573"/>
+        <col:module document="m42576"/>
+        <col:module document="m42579"/>
+        <col:module document="m42581"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Atomic Physics</md:title>
+      <col:content>
+        <col:module document="m42585"/>
+        <col:module document="m42589"/>
+        <col:module document="m42592"/>
+        <col:module document="m42596"/>
+        <col:module document="m42599"/>
+        <col:module document="m42602"/>
+        <col:module document="m42606"/>
+        <col:module document="m42609"/>
+        <col:module document="m42614"/>
+        <col:module document="m42618"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Radioactivity and Nuclear Physics</md:title>
+      <col:content>
+        <col:module document="m42620"/>
+        <col:module document="m42623"/>
+        <col:module document="m42627"/>
+        <col:module document="m42631"/>
+        <col:module document="m42633"/>
+        <col:module document="m42636"/>
+        <col:module document="m42640"/>
+        <col:module document="m42644"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Medical Applications of Nuclear Physics</md:title>
+      <col:content>
+        <col:module document="m42646"/>
+        <col:module document="m42649"/>
+        <col:module document="m42652"/>
+        <col:module document="m42654"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m42702"/>
+    <col:module document="m42709"/>
+  </col:content>
+</col:collection>
