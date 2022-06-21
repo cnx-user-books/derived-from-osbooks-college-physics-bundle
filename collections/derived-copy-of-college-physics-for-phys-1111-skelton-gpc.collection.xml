@@ -1,0 +1,205 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11558</md:content-id>
+    <md:title>Derived Copy of College Physics for PHYS 1111-Skelton-GPC</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>3f06472b-2e42-405a-89f6-cc082ffa9f59</md:uuid>
+<md:slug>derived-copy-of-college-physics-for-phys-1111-skelton-gpc</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m42955"/>
+    <col:module document="m42720"/>
+    <col:subcollection>
+      <md:title>Introduction: The Nature of Science and Physics</md:title>
+      <col:content>
+        <col:module document="m42119"/>
+        <col:module document="m42092"/>
+        <col:module document="m42091"/>
+        <col:module document="m42120"/>
+        <col:module document="m42121"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kinematics in One Dimension</md:title>
+      <col:content>
+        <col:module document="m42122"/>
+        <col:module document="m42033"/>
+        <col:module document="m42124"/>
+        <col:module document="m42096"/>
+        <col:module document="m42100"/>
+        <col:module document="m42103"/>
+        <col:module document="m42099"/>
+        <col:module document="m42125"/>
+        <col:module document="m42102"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Forces in One Dimension</md:title>
+      <col:content>
+        <col:module document="m42129"/>
+        <col:module document="m42069"/>
+        <col:module document="m42130"/>
+        <col:module document="m42073"/>
+        <col:module document="m42074"/>
+        <col:module document="m42075"/>
+        <col:module document="m42076"/>
+        <col:module document="m42132"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Momentum in One Dimension</md:title>
+      <col:content>
+        <col:module document="m42155"/>
+        <col:module document="m42156"/>
+        <col:module document="m42159"/>
+        <col:module document="m42162"/>
+        <col:module document="m42163"/>
+        <col:module document="m42164"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work and Energy Part 1</md:title>
+      <col:content>
+        <col:module document="m42145"/>
+        <col:module document="m42146"/>
+        <col:module document="m42147"/>
+        <col:module document="m42148"/>
+        <col:module document="m42149"/>
+        <col:module document="m42150"/>
+        <col:module document="m42151"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kinematics in Two Dimensions</md:title>
+      <col:content>
+        <col:module document="m42126"/>
+        <col:module document="m42104"/>
+        <col:module document="m42127"/>
+        <col:module document="m42128"/>
+        <col:module document="m42042"/>
+        <col:module document="m42045"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Forces in Two Dimensions</md:title>
+      <col:content>
+        <col:module document="m46838"/>
+        <col:module document="m46839"/>
+        <col:module document="m46840"/>
+        <col:module document="m42138"/>
+        <col:module document="m42139"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Uniform Circular Motion</md:title>
+      <col:content>
+        <col:module document="m42140"/>
+        <col:module document="m42083"/>
+        <col:module document="m42084"/>
+        <col:module document="m42086"/>
+        <col:module document="m42143"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Rotational Kinematics</md:title>
+      <col:content>
+        <col:module document="m42176"/>
+        <col:module document="m42177"/>
+        <col:module document="m42178"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Rotational Dynamics</md:title>
+      <col:content>
+        <col:module document="m42167"/>
+        <col:module document="m42170"/>
+        <col:module document="m42171"/>
+        <col:module document="m42172"/>
+        <col:module document="m42173"/>
+        <col:module document="m42175"/>
+        <col:module document="m42179"/>
+        <col:module document="m42180"/>
+        <col:module document="m42182"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Simple Harmonic Motion</md:title>
+      <col:content>
+        <col:module document="m42081"/>
+        <col:module document="m42239"/>
+        <col:module document="m42240"/>
+        <col:module document="m42241"/>
+        <col:module document="m42242"/>
+        <col:module document="m42243"/>
+        <col:module document="m42244"/>
+        <col:module document="m42245"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Temperature and Heat</md:title>
+      <col:content>
+        <col:module document="m42213"/>
+        <col:module document="m42214"/>
+        <col:module document="m42215"/>
+        <col:module document="m42216"/>
+        <col:module document="m42217"/>
+        <col:module document="m42218"/>
+        <col:module document="m42219"/>
+        <col:module document="m42221"/>
+        <col:module document="m42223"/>
+        <col:module document="m42224"/>
+        <col:module document="m42225"/>
+        <col:module document="m42226"/>
+        <col:module document="m42228"/>
+        <col:module document="m42229"/>
+        <col:module document="m42230"/>
+        <col:module document="m42231"/>
+        <col:module document="m42232"/>
+        <col:module document="m42234"/>
+        <col:module document="m42236"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fluids</md:title>
+      <col:content>
+        <col:module document="m42185"/>
+        <col:module document="m42186"/>
+        <col:module document="m42187"/>
+        <col:module document="m42189"/>
+        <col:module document="m42192"/>
+        <col:module document="m42193"/>
+        <col:module document="m42195"/>
+        <col:module document="m42196"/>
+        <col:module document="m42197"/>
+        <col:module document="m42199"/>
+        <col:module document="m42204"/>
+        <col:module document="m42205"/>
+        <col:module document="m42206"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Waves and Sound</md:title>
+      <col:content>
+        <col:module document="m42248"/>
+        <col:module document="m42249"/>
+        <col:module document="m42250"/>
+        <col:module document="m42254"/>
+        <col:module document="m42255"/>
+        <col:module document="m42256"/>
+        <col:module document="m42257"/>
+        <col:module document="m42712"/>
+        <col:module document="m42296"/>
+        <col:module document="m42297"/>
+        <col:module document="m42298"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Momentum in Two Dimensions</md:title>
+      <col:content>
+        <col:module document="m42165"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m42709"/>
+  </col:content>
+</col:collection>
