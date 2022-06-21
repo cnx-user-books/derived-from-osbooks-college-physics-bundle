@@ -1,0 +1,56 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Preface to General Physics I with algebra</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66897</md:content-id>
+  <md:title>Preface to General Physics I with algebra</md:title>
+  <md:abstract/>
+  <md:uuid>5887dc70-9b35-42bb-9cdc-eb7befa6ade3</md:uuid>
+</metadata>
+
+<content>
+    <section id="eip-861"><title>About OpenStax College</title><para id="eip-625">OpenStax College is a non-profit organization committed to improving student access to quality learning materials. Our free textbooks are developed and peer-reviewed by educators to ensure they are readable, accurate, and meet the scope and sequence requirements of modern college courses. Unlike traditional textbooks, OpenStax College resources live online and are owned by the community of educators using them. Through our partnerships with companies and foundations committed to reducing costs for students, OpenStax College is working to improve access to higher education for all. OpenStax College is an initiative of Rice University and is made possible through the generous support of several philanthropic foundations.
+</para></section><section id="eip-151"><title>About This Book</title><para id="eip-928">
+Welcome to <emphasis effect="italics">College Physics</emphasis>, an OpenStax College resource created with several goals in mind: accessibility, affordability, customization, and student engagement—all while encouraging learners toward high levels of learning. Instructors and students alike will find that this textbook offers a strong foundation in introductory physics, with algebra as a prerequisite. It is available for free online and in low-cost print and e-book editions. </para>
+<para id="eip-id1167322559329">To broaden access and encourage community curation, College Physics is “open source” licensed under a Creative Commons Attribution (CC-BY) license. Everyone is invited to submit examples, emerging research, and other feedback to enhance and strengthen the material and keep it current and relevant for today’s students. You can make suggestions by contacting us at info@openstaxcollege.org. You can find the status of the project, as well as alternate versions, corrections, etc., on the StaxDash at <link url="http://openstaxcollege.org">http://openstaxcollege.org</link>. 
+
+</para></section><section id="import-auto-id1164015901024">
+      <title>To the Student</title>
+      <para id="import-auto-id1164034048325">This book is written for you. It is based on the teaching and research experience of numerous physicists and influenced by a strong recollection of their own struggles as students. After reading this book, we hope you see that physics is visible everywhere. Applications range from driving a car to launching a rocket, from a skater whirling on ice to a neutron star spinning in space.</para></section>
+    <section id="import-auto-id1164028434248">
+      <title>General Approach</title>
+      <para id="import-auto-id1164016080852">College Physics is organized such that topics are introduced conceptually with a steady progression to precise definitions and analytical applications. The analytical aspect (problem solving) is tied back to the conceptual before moving on to another topic. Each introductory chapter, for example, opens with an engaging photograph relevant to the subject of the chapter and interesting applications that are easy for most students to visualize. </para><list id="eip-652" list-type="enumerated" number-style="arabic"><title>Content</title><item>
+Introduction: The Nature of Science and Physics
+</item>
+
+<item>
+Kinematics
+</item>
+
+<item>
+Two-Dimensional Kinematics
+</item>
+<item>
+Dynamics: Force and Newton's Laws of Motion
+</item>
+<item>
+Further Applications of Newton's Laws: Friction, Drag, and Elasticity
+</item>
+<item>
+Uniform Circular Motion and Gravitation
+</item>
+<item>
+Work, Energy, and Energy Resources
+</item>
+<item>
+Linear Momentum and Collisions
+</item>
+<item>
+Statics and Torque
+</item>
+<item>
+Rotational Motion and Angular Momentum
+</item>
+</list></section>
+    <section id="import-auto-id1164039342519"><title>Senior Contributing Authors</title><para id="import-auto-id1164041317634">Dr. Paul Peter Urone<newline/>
+Dr. Roger Hinrichs, State University of New York, College at Oswego</para></section></content>
+</document>

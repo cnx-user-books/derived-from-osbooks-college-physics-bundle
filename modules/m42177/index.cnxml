@@ -110,7 +110,7 @@
                                 <m:mtext>1 min</m:mtext>
                               </m:mrow>
                               <m:mrow>
-                                <m:mtext>60 sec</m:mtext>
+                                <m:mtext>60 s</m:mtext>
                               </m:mrow>
                             </m:mfrac>
                           </m:mrow>
@@ -695,17 +695,10 @@
     </solution>
     </exercise>
     <note id="eip-669"><label/><title>PhET Explorations: Ladybug Revolution</title>
-<para id="eip-id1325598">Join the ladybug in an exploration of rotational motion. Rotate the merry-go-round to change its angle, or choose a constant angular velocity or angular acceleration. Explore how circular motion relates to the bug's x,y position, velocity, and acceleration using vectors or graphs.</para>
-
- <figure id="eip-id2624753"><media id="Phet_module_11.1" alt="">
-
-  <image mime-type="image/png" for="online" src="../../media/rotation_en.jar" thumbnail="PhET_Icon.png" width="450"/>
-  <image mime-type="image/png" for="pdf" src="../../media/PhET_Icon.png" width="450"/>
-   
-</media>
-
-      <caption><link url="rotation_en.jar">Ladybug Revolution</link>
-</caption></figure></note><section id="fs-id3034915" class="section-summary"><title>Section Summary</title><list id="fs-id1947000"><item id="import-auto-id2443525">Uniform circular motion is the motion with a constant angular velocity <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">θ</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω= {  {Δθ}  over  {Δt} } } {}</m:annotation></m:semantics></m:math>.</item>
+<para id="eip-id1325598">Join the ladybug in an exploration of rotational motion. Rotate the merry-go-round to change its angle, or choose a constant angular velocity or angular acceleration. Explore how circular motion relates to the bug's x,y position, velocity, and acceleration using vectors or graphs. <newline/>
+<figure id="eip-phet_10_1"><media id="Phet_module_10.1" alt="Ladybug Motion">
+<iframe width="660" height="371.4" src="https://archive.cnx.org/specials/317a2b1e-2fbd-11e5-99b5-e38ffb545fe6/ladybug-motion/#sim-ladybug-motion"/>
+</media></figure></para></note><section id="fs-id3034915" class="section-summary"><title>Section Summary</title><list id="fs-id1947000"><item id="import-auto-id2443525">Uniform circular motion is the motion with a constant angular velocity <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">θ</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω= {  {Δθ}  over  {Δt} } } {}</m:annotation></m:semantics></m:math>.</item>
     <item id="import-auto-id3353297">In non-uniform circular motion, the velocity changes with time and the rate of change of angular velocity (i.e. angular acceleration) is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>α</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">ω</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α= {  {Δω}  over  {Δt} } } {}</m:annotation></m:semantics></m:math>.</item>
         <item id="import-auto-id1867184">Linear or tangential acceleration refers to changes in the magnitude of velocity but not its direction, given as <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>a</m:mi><m:mrow><m:mtext>t</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a rSub { size 8{t} } = {  {Δv}  over  {Δt} } } {}</m:annotation></m:semantics></m:math>.</item>
             <item id="import-auto-id3035395">For circular motion, note that <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">rω</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v=rω} {}</m:annotation></m:semantics></m:math>, so that

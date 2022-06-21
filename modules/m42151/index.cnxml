@@ -277,7 +277,7 @@
             </entry>
           </row>
           <row>
-            <entry>90,000-ton aircraft carrier at 30 knots</entry>
+            <entry>90,000-metric ton aircraft carrier at 30 knots</entry>
             <entry>
               <m:math display="block">
                 <m:semantics>
@@ -723,18 +723,6 @@
 
 
         </tbody>
-      
-
-
-
-
-
-
-
-
-
-
-
 </tgroup>
 </table></section>
     <section id="fs-id1309904"><title>Efficiency</title>
@@ -868,10 +856,10 @@
 
 </tgroup>
 </table><note id="fs-id1398490" class="interactive"><title>PhET Explorations: Masses and Springs</title><para id="fs-id1767778">A realistic mass and spring laboratory. Hang masses from springs and adjust the spring stiffness and damping. You can even slow time. Transport the lab to different planets. A chart shows the kinetic, potential, and thermal energies for each spring. 
-<newline/>
+<newline/><figure id="eip-idm1446128448">
 <media id="Phet_module_8.6" alt="Masses and Springs">
 <iframe width="660" height="371.4" src="https://phet.colorado.edu/sims/mass-spring-lab/mass-spring-lab_en.html"/>
-</media>
+</media></figure>
 </para></note></section>
 <section id="fs-id1911538" class="section-summary">
 <title>Section Summary</title><list id="fs-id1897388"><item id="import-auto-id1537867">The law of conservation of energy states that the total energy is constant in any process. Energy may change in form or be transferred from one system to another, but the total remains the same.</item>

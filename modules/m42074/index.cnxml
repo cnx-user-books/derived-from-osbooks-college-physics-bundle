@@ -257,9 +257,11 @@ a =  {  {1"26 N"}  over  {"84"" kg"} }  =" 1" "." "5 m/s" rSup { size 8{2} }  ".
 
     <note id="eip-984" class="interactive"><title>PhET Explorations: Gravity Force Lab</title><para id="eip-id2455257">Visualize the gravitational force that two objects exert on each other. Change properties of the objects in order to see how it changes the gravity force.
 <newline/>
+<figure id="eip-idm592991568">
 <media id="Phet_module_4.4" alt="Gravity Force Lab">
 <iframe width="660" height="371.4" src="https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab_en.html"/>
 </media>
+</figure>
 </para></note><section id="fs-id1446741" class="section-summary"><title>Section Summary</title><list id="fs-id2332580"><item><term>Newton’s third law of motion</term> represents a basic symmetry in nature. It states: Whenever one body exerts a force on a second body, the first body experiences a force that is equal in magnitude and opposite in direction to the force that the first body exerts.</item>
   <item>A <term>thrust</term> is a reaction force that pushes a body forward in response to a backward force. Rockets, airplanes, and cars are pushed forward by a thrust reaction force. </item>
 </list></section><section id="fs-id1460367" class="conceptual-questions" type="conceptual-questions"><title>Conceptual Questions</title><exercise id="fs-id1572333" type="conceptual-questions"><problem id="fs-id1421833">

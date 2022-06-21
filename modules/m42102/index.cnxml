@@ -1031,10 +1031,10 @@
     </solution>
     </exercise><note xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id2006949" class="interactive"><title>PhET Explorations: Equation Grapher</title><para id="import-auto-id2044902">Learn about graphing polynomials. The shape of the curve changes as the constants are adjusted. View the curves for the individual terms (e.g. <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= ital "bx"} {}</m:annotation></m:semantics></m:math>) to see how they add to generate the polynomial curve.
 <newline/>
-<media id="Phet_module_2.7" alt="Equation Grapher">
+<figure id="eip-idm245656144"><media id="Phet_module_2.7" alt="Equation Grapher">
 <iframe width="660" height="371.4" src="https://phet.colorado.edu/sims/equation-grapher/equation-grapher_en.html"/>
 </media>
-</para></note></section>
+</figure></para></note></section>
     <section xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id1822906" class="section-summary"><title>Section Summary</title><list id="fs-id3611205"><item id="import-auto-id1715211">An object in free-fall experiences constant acceleration if air resistance is negligible.</item>
     <item id="import-auto-id1715213">On Earth, all free-falling objects have an acceleration due to gravity <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math>, which averages
     <equation id="import-auto-id3547826"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow><m:mtext>.</m:mtext><m:msup><m:mtext>80 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g=9 "." "80 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></equation></item>

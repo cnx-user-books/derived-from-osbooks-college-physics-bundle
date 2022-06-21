@@ -309,9 +309,9 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
     </exercise>
 
 </section><note id="eip-515" class="interactive"><title>PhET Explorations: Estimation</title><para id="eip-598">Explore size estimation in one, two, and three dimensions! Multiple levels of difficulty allow for progressive skill improvement.
-<media id="Phet_module_1.3" alt="Estimation Simulation">
+<figure id="eip-idm538403968"><media id="Phet_module_1.3" alt="Estimation Simulation">
 <iframe width="660" height="371.4" src="https://phet.colorado.edu/sims/estimation/estimation_en.html"/>
-</media>
+</media></figure>
 </para></note><section id="fs-id1363145" class="section-summary" type="section-summary">
     <title>Summary</title>
     <list id="fs-id2635416"><item id="import-auto-id2581141">Accuracy of a measured value refers to how close a measurement is to the correct value. The uncertainty in a measurement is an estimate of the amount by which the measurement result may differ from this value.</item>
