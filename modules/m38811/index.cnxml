@@ -1,0 +1,892 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Transverse waves: Superposition and boundary conditions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38811</md:content-id>
+  <md:title>Transverse waves: Superposition and boundary conditions</md:title>
+  <md:abstract/>
+  <md:uuid>fde4a42a-35e9-4a85-9f85-e6c26e9aa22d</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Standing Waves and Boundary Conditions (Not in CAPS - Included for Interest)</title>
+      <section id="uid64">
+        <title>Reflection of a Transverse Wave from a Fixed End</title>
+        <para id="id321970">We have seen that when a pulse meets a fixed endpoint, the pulse is reflected, but it is inverted. Since a transverse wave is a series of pulses, a transverse wave meeting a fixed endpoint is also reflected and
+the reflected wave is inverted. That means that the peaks and troughs are swapped around.</para>
+        <figure id="uid65"><media id="uid65_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_023.png" id="uid65_onlineimage" width="338"><!-- NOTE: attribute width changes image size online (pixels). original width is 238. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_023.eps" id="uid65_printimage"/>
+          </media>
+          
+        <caption>Reflection of a transverse wave from a fixed end.</caption></figure>
+      </section>
+      <section id="uid66">
+        <title>Reflection of a Transverse Wave from a Free End</title>
+        <para id="id321999">If transverse waves are reflected from an end, which is free to move, the waves sent down the string are reflected but do not suffer a phase shift as shown in <link target-id="uid67"/>.</para>
+        <figure id="uid67"><media id="uid67_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_024.png" id="uid67_onlineimage" width="339"><!-- NOTE: attribute width changes image size online (pixels). original width is 239. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_024.eps" id="uid67_printimage"/>
+          </media>
+          
+        <caption>Reflection of a transverse wave from a free end.</caption></figure>
+      </section>
+      <section id="uid68">
+        <title>Standing Waves</title>
+        <para id="id322032">What happens when a reflected transverse wave meets an incident transverse wave? When two waves move in opposite directions, through each other, interference takes place. If the two waves have the same frequency and wavelength then <emphasis effect="italics">standing waves</emphasis> are generated.</para>
+        <para id="id322043">Standing waves are so-called because they appear to be standing still.</para>
+<section id="secfhsst_id1210"><title> Investigation : Creating Standing Waves </title>
+        <para id="id322054">Tie a rope to a fixed object such that the tied end does not move. Continuously move the free end up and down to generate firstly transverse waves and later standing waves. </para>
+</section>
+        <para id="id322067">We can now look closely how standing waves are formed. <link target-id="uid69"/> shows a reflected wave meeting an incident wave.</para>
+        <figure id="uid69">
+          <media id="uid69_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_025.png" id="uid69_onlineimage" width="458"><!-- NOTE: attribute width changes image size online (pixels). original width is 458. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_025.eps" id="uid69_printimage"/>
+          </media>
+          <caption>A reflected wave (solid line) approaches the incident wave (dashed line).</caption>
+        </figure>
+        <para id="id322089">When they touch, both waves have an amplitude of zero:</para>
+        <figure id="uid70">
+          <media id="uid70_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_026.png" id="uid70_onlineimage" width="456"><!-- NOTE: attribute width changes image size online (pixels). original width is 456. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_026.eps" id="uid70_printimage"/>
+          </media>
+          <caption>A reflected wave (solid line) meets the incident wave (dashed line).</caption>
+        </figure>
+        <para id="id322105">If we wait for a short time the ends of the two waves move past each
+other and the waves overlap. To find the resultant wave, we add the two together.</para>
+        <figure id="uid71">
+          <media id="uid71_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_027.png" id="uid71_onlineimage" width="473"><!-- NOTE: attribute width changes image size online (pixels). original width is 473. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_027.eps" id="uid71_printimage"/>
+          </media>
+          <caption>A reflected wave (solid line) overlaps slightly with the incident wave (dashed line).</caption>
+        </figure>
+        <para id="id322122">In this picture, we show the two
+waves as dotted lines and the sum of the two in the overlap region
+is shown as a solid line:</para>
+        <figure id="uid72">
+          <media id="uid72_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_028.png" id="uid72_onlineimage" width="461"><!-- NOTE: attribute width changes image size online (pixels). original width is 461. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_028.eps" id="uid72_printimage"/>
+          </media>
+        </figure>
+        <para id="id322135">The important thing to note in this case is that there are some
+points where the two waves always destructively interfere to zero.
+If we let the two waves move a little further we get the picture
+below:</para>
+        <figure id="uid73">
+          <media id="uid73_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_029.png" id="uid73_onlineimage" width="464"><!-- NOTE: attribute width changes image size online (pixels). original width is 464. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_029.eps" id="uid73_printimage"/>
+          </media>
+        </figure>
+        <para id="id322149">Again we have to add the two waves together in the overlap region to
+see what the sum of the waves looks like.</para>
+        <figure id="uid74">
+          <media id="uid74_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_030.png" id="uid74_onlineimage" width="372"><!-- NOTE: attribute width changes image size online (pixels). original width is 372. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_030.eps" id="uid74_printimage"/>
+          </media>
+        </figure>
+        <para id="id322162">In this case the two waves have moved half a cycle past each other
+but because they are completely out of phase they cancel out completely.</para>
+        <para id="id322166">When the waves have moved past each other so that they are
+overlapping for a large region the situation looks like a wave
+oscillating in place. The following sequence of diagrams show what the resulting wave will look like. To make it clearer, the arrows at
+the top of the picture show peaks where maximum positive
+constructive interference is taking place. The arrows at the bottom
+of the picture show places where maximum negative interference is
+taking place.</para>
+        <figure id="uid75"><media id="uid75_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_031.png" id="uid75_onlineimage" width="375"><!-- NOTE: attribute width changes image size online (pixels). original width is 375. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_031.eps" id="uid75_printimage"/>
+          </media>
+        </figure>
+        <para id="id322182">As time goes by the peaks become smaller and the troughs become
+shallower but they do not move.</para>
+        <figure id="uid76">
+          <media id="uid76_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_032.png" id="uid76_onlineimage" width="384"><!-- NOTE: attribute width changes image size online (pixels). original width is 384. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_032.eps" id="uid76_printimage"/>
+          </media>
+        </figure>
+        <para id="id322195">For an instant the entire region will look completely flat.</para>
+        <figure id="uid77">
+          <media id="uid77_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_033.png" id="uid77_onlineimage" width="376"><!-- NOTE: attribute width changes image size online (pixels). original width is 376. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_033.eps" id="uid77_printimage"/>
+          </media>
+        </figure>
+        <para id="id322208">The various points continue their motion in the same manner.</para>
+        <figure id="uid78">
+          <media id="uid78_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_034.png" id="uid78_onlineimage" width="374"><!-- NOTE: attribute width changes image size online (pixels). original width is 374. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_034.eps" id="uid78_printimage"/>
+          </media>
+        </figure>
+        <para id="id322220">Eventually the picture looks like the complete reflection through
+the <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-axis of what we started with:</para>
+        <figure id="uid79">
+          <media id="uid79_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_035.png" id="uid79_onlineimage" width="379"><!-- NOTE: attribute width changes image size online (pixels). original width is 379. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_035.eps" id="uid79_printimage"/>
+          </media>
+        </figure>
+        <para id="id322242">Then all the points begin to move back. Each point on the line is
+oscillating up and down with a different amplitude.</para>
+        <figure id="uid80">
+          <media id="uid80_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_036.png" id="uid80_onlineimage" width="275"><!-- NOTE: attribute width changes image size online (pixels). original width is 275. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_036.eps" id="uid80_printimage"/>
+          </media>
+        </figure>
+        <para id="id322255">If we look at the overall result, we get a standing wave.</para>
+        <figure id="uid81"><media id="uid81_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_037.png" id="uid81_onlineimage" width="328"><!-- NOTE: attribute width changes image size online (pixels). original width is 228. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_037.eps" id="uid81_printimage"/>
+          </media>
+          
+        <caption>A standing wave</caption></figure>
+        <para id="id322271">If we superimpose the two cases where the peaks were at a maximum
+and the case where the same waves were at a minimum we can see the
+lines that the points oscillate between. We call this the <emphasis effect="italics">envelope</emphasis>
+of the standing wave as it contains all the oscillations of the
+individual points.
+To make the concept of the envelope clearer let us draw arrows
+describing the motion of points along the line.</para>
+        <figure id="uid82">
+          <media id="uid82_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_038.png" id="uid82_onlineimage" width="459"><!-- NOTE: attribute width changes image size online (pixels). original width is 459. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_038.eps" id="uid82_printimage"/>
+          </media>
+        </figure>
+        <para id="id322291">Every point in the medium containing a standing wave oscillates up
+and down and the amplitude of the oscillations depends on the
+location of the point. It is convenient to draw the envelope for the
+oscillations to describe the motion. We cannot draw the up and down
+arrows for every single point!</para>
+<note id="notfhsst_id1344"><title> Interesting Fact </title>
+        <para id="id322303">Standing waves can be a problem in for example indoor concerts where the dimensions of the concert venue coincide with particular wavelengths. Standing waves can appear as `feedback', which would occur if the standing wave was picked up by the microphones on stage and amplified.</para>
+</note>
+      </section>
+      <section id="uid83">
+        <title>Nodes and Anti-nodes</title>
+        <para id="id322327">A node is a point on a wave where no displacement takes place at any time. In a standing wave, a node is
+a place where two waves cancel out completely as the two waves destructively interfere in the
+same place. A fixed end of a rope is a node.
+An anti-node is a point on a wave where maximum displacement takes place. In a standing
+wave, an anti-node is a place where the two waves constructively interfere. Anti-nodes occur midway between nodes. A free end of a rope is an anti-node.</para>
+        <figure id="uid84"><media id="uid84_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_039.png" id="uid84_onlineimage" width="372"><!-- NOTE: attribute width changes image size online (pixels). original width is 272. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_039.eps" id="uid84_printimage"/>
+          </media>
+        </figure>
+<definition id="fhsst_id1361"><term id="termfhsst_id1361"> Node </term> <meaning id="meaningfhsst_id1361">
+        A node is a point on a standing wave where no displacement takes place at any time. A fixed end of a rope is a node. 
+        </meaning></definition>
+<definition id="fhsst_id1364"><term id="termfhsst_id1364"> Anti-Node </term> <meaning id="meaningfhsst_id1364">
+       An anti-node is a point on standing a wave where maximum displacement takes place. A free end of a rope is an anti-node. 
+        </meaning></definition>
+<note id="notfhsst_id1367" type="tip">The distance between two anti-nodes is only <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>λ</m:mi></m:mrow></m:math> because it is the distance from a peak to a trough in one of the waves forming the standing wave. It is the same as the distance between two adjacent nodes. This will be important when we work out the allowed wavelengths in tubes later. We can take this further because half-way between any two anti-nodes is a node. Then the distance from the node to the anti-node is half the distance between two anti-nodes. This is half of half a wavelength which is one quarter of a wavelength, <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mi>λ</m:mi></m:mrow></m:math>.</note>
+      </section>
+      <section id="uid85">
+        <title>Wavelengths of Standing Waves with Fixed and Free Ends</title>
+        <para id="id322502">There are many applications which make use of the properties of waves
+and the use of fixed and free ends. Most musical instruments rely on
+the basic picture that we have presented to create specific sounds,
+either through standing pressure waves or standing vibratory waves in
+strings.</para>
+        <para id="id322508">The key is to understand that a standing wave must be created in the
+medium that is oscillating. There are restrictions as to what
+wavelengths can form standing waves in a medium.</para>
+        <para id="id322513">For example, if we consider a rope that can move in a pipe such that it can have</para>
+        <list id="id322517" display="block" list-type="bulleted">
+          <item id="uid86">both ends free to move (Case 1)
+</item>
+          <item id="uid87">one end free and one end fixed (Case 2)
+</item>
+          <item id="uid88">both ends fixed (Case 3).
+</item>
+        </list>
+        <para id="id322558">Each of these cases is slightly different because the free or fixed
+end determines whether a node or anti-node will form when a standing
+wave is created in the rope. These are the main restrictions when we
+determine the wavelengths of potential standing waves. These restrictions are known as <emphasis effect="italics">boundary conditions</emphasis> and <emphasis effect="bold">must</emphasis> be met.</para>
+        <para id="id322575">In the diagram below you can see the three different cases. It
+is possible to create standing waves with different frequencies and
+wavelengths as long as the end criteria are met.</para>
+        <figure id="uid89"><media id="uid89_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_040.png" id="uid89_onlineimage" width="342"><!-- NOTE: attribute width changes image size online (pixels). original width is 242. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_040.eps" id="uid89_printimage"/>
+          </media>
+        </figure>
+        <para id="id322589">The longer the wavelength the less the number of anti-nodes in the standing
+waves. We cannot have a standing wave with no anti-nodes because
+then there would be no oscillations. We use <m:math overflow="scroll"><m:mi>n</m:mi></m:math> to number the
+anti-nodes. If all of the tubes have a length <m:math overflow="scroll"><m:mi>L</m:mi></m:math> and we know the end
+constraints we can find the wavelength, <m:math overflow="scroll"><m:mi>λ</m:mi></m:math>, for a specific
+number of anti-nodes.</para>
+        <section id="uid90">
+          <title>One Node</title>
+          <para id="id322630">Let's work out the longest wavelength we can have in each tube, i.e. the
+case for <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>.</para>
+          <figure id="uid91">
+            <media id="uid91_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_041.png" id="uid91_onlineimage" width="439"><!-- NOTE: attribute width changes image size online (pixels). original width is 439. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_041.eps" id="uid91_printimage"/>
+            </media>
+          </figure>
+          <para id="id322658"><emphasis effect="bold">Case 1</emphasis>:
+In the first tube, both ends must be anti-nodes, so we must place one
+node in the middle of the tube. We know the distance from one
+anti-node to another is <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>λ</m:mi></m:mrow></m:math> and we also know this distance
+is L. So we can equate the two and solve for the wavelength:</para>
+          <equation id="id322684">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>λ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>L</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id322737"><emphasis effect="bold">Case 2</emphasis>:
+In the second tube, one end must be a node and the other must be an
+anti-node. Since we are looking at the case with one node, we are
+forced to have it at the end. We know the distance from one
+node to another is <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>λ</m:mi></m:mrow></m:math> but we only have half this
+distance contained in the tube. So :</para>
+          <equation id="id322765">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                        <m:mi>λ</m:mi>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>λ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mi>L</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id322831"><emphasis effect="bold">Case 3</emphasis>:
+Here both ends are closed and so we must have two nodes so it is
+impossible to construct a case with only one node.</para>
+        </section>
+        <section id="uid92">
+          <title>Two Nodes</title>
+          <para id="id322850">Next we determine which wavelengths could be formed if we had two
+nodes. Remember that we are dividing the tube up into smaller and
+smaller segments by having more nodes so we expect the wavelengths to
+get shorter.</para>
+          <figure id="uid93">
+            <media id="uid93_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_042.png" id="uid93_onlineimage" width="430"><!-- NOTE: attribute width changes image size online (pixels). original width is 430. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_042.eps" id="uid93_printimage"/>
+            </media>
+          </figure>
+          <para id="id322864"><emphasis effect="bold">Case 1</emphasis>:
+Both ends are open and so they must be anti-nodes. We can have two
+nodes inside the tube only if we have one anti-node contained inside
+the tube and one on each end. This means we have 3 anti-nodes in the
+tube. The distance between any two anti-nodes is half a
+wavelength. This means there is half wavelength between the left side
+and the middle and another half wavelength between the middle and the
+right side so there must be one wavelength inside the tube. The safest
+thing to do is work out how many half wavelengths there are and equate
+this to the length of the tube L and then solve for <m:math overflow="scroll"><m:mi>λ</m:mi></m:math>.</para>
+          <equation id="id322886">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>(</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>λ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id322942"><emphasis effect="bold">Case 2</emphasis>:
+We want to have two nodes inside the tube. The left end must be a
+node and the right end must be an anti-node. We can have one node
+inside the tube as drawn above. Again we can count the number of
+distances between adjacent nodes or anti-nodes. If we start from the
+left end we have one half wavelength between the end and the node
+inside the tube. The distance from the node inside the tube to the
+right end which is an anti-node is half of the distance to another
+node. So it is half of half a wavelength. Together these add up to the
+length of the tube:</para>
+          <equation id="id322960">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                        <m:mi>λ</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>2</m:mn>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>3</m:mn>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>λ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>4</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                      <m:mi>L</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id323097"><emphasis effect="bold">Case 3</emphasis>:
+In this case both ends have to be nodes. This means that the length of
+the tube is one half wavelength:
+So we can equate the two and solve for the wavelength:</para>
+          <equation id="id323106">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>λ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>L</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<note id="notfhsst_id1716" type="tip">If you ever calculate a longer wavelength for more nodes you have made a mistake. Remember to check if your answers make
+sense!</note>
+        </section>
+        <section id="uid94">
+          <title>Three Nodes</title>
+          <para id="id323177">To see the complete pattern for all cases we need to check what the next step
+for case 3 is when we have an additional node. Below is the diagram for the case
+where <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math>.</para>
+          <para id="id323196">
+            <figure id="id323200">
+              <media id="id323200_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C5_043.png" id="id323200_onlineimage" width="445"><!-- NOTE: attribute width changes image size online (pixels). original width is 445. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_043.eps" id="id323200_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id323206"><emphasis effect="bold">Case 1</emphasis>:
+Both ends are open and so they must be anti-nodes. We can have three
+nodes inside the tube only if we have two anti-nodes contained inside
+the tube and one on each end. This means we have 4 anti-nodes in the
+tube. The distance between any two anti-nodes is half a
+wavelength. This means there is half wavelength between every adjacent pair
+of anti-nodes. We count how many gaps there are between adjacent anti-nodes
+to determine how many half wavelengths there are and equate
+this to the length of the tube L and then solve for <m:math overflow="scroll"><m:mi>λ</m:mi></m:math>.</para>
+          <equation id="id323227">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo>(</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>λ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>2</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                      <m:mi>L</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id323291"><emphasis effect="bold">Case 2</emphasis>:
+We want to have three nodes inside the tube. The left end must be a
+node and the right end must be an anti-node, so there will be two
+nodes between the ends of the tube. Again we can count the number of
+distances between adjacent nodes or anti-nodes, together these add up to the
+length of the tube. Remember that the distance between the node and an
+adjacent anti-node is only half the distance between adjacent nodes. So starting
+from the left end we count 3 nodes, so 2 half wavelength intervals and then only a
+node to anti-node distance:</para>
+          <equation id="id323308">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                        <m:mi>λ</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                        <m:mi>λ</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>λ</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>λ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>4</m:mn>
+                        <m:mn>5</m:mn>
+                      </m:mfrac>
+                      <m:mi>L</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id323446"><emphasis effect="bold">Case 3</emphasis>:
+In this case both ends have to be nodes. With one node in between there are
+two sets of adjacent nodes. This means that the length of
+the tube consists of two half wavelength sections:</para>
+          <equation id="id323456">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>(</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>λ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>λ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>L</m:mi>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+        </section>
+      </section>
+      <section id="uid95">
+        <title>Superposition and Interference</title>
+        <para id="id323523">If two waves meet interesting things can happen. Waves are basically
+collective motion of particles. So when two waves meet they both try
+to impose their collective motion on the particles. This can have
+quite different results.</para>
+        <para id="id323528">If two identical (same wavelength, amplitude and frequency) waves are
+both trying to form a peak then they are able to achieve the sum of
+their efforts. The resulting motion will be a peak which has a height
+which is the sum of the heights of the two waves. If two waves are
+both trying to form a trough in the same place then a deeper trough is
+formed, the depth of which is the sum of the depths of the two
+waves. Now in this case, the two waves have been trying to do the same
+thing, and so add together constructively. This is called
+<emphasis effect="italics">constructive interference</emphasis>.</para>
+        <para id="id323541">
+          <figure id="id323545"><media id="id323545_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_044.png" id="id323545_onlineimage" width="440"><!-- NOTE: attribute width changes image size online (pixels). original width is 340. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_044.eps" id="id323545_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id323551">If one wave is trying to form a peak and the other is trying to
+form a trough, then they are competing to do different things. In
+this case, they can cancel out. The amplitude of the resulting wave
+will depend on the amplitudes of the two waves that are interfering. If the depth of
+the trough is the same as the height of the peak nothing will
+happen. If the height of the peak is bigger than the depth of the
+trough, a smaller peak will appear. And if the trough is deeper then
+a less deep trough will appear. This is <emphasis effect="italics">destructive
+interference</emphasis>.</para>
+        <para id="id323565">
+          <figure id="id323568"><media id="id323568_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_045.png" id="id323568_onlineimage" width="435"><!-- NOTE: attribute width changes image size online (pixels). original width is 335. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_045.eps" id="id323568_printimage"/>
+            </media>
+          </figure>
+        </para>
+<section id="secfhsst_id1971"><title> Superposition and Interference </title>
+        <list id="id323582" display="block" list-type="enumerated"><item id="uid96">For each labelled point, indicate whether constructive or destructive interference takes
+place at that point.
+<figure id="id63458"><media id="id634231_media" alt="">
+            <image mime-type="image/png" src="../../media/g10c14p_waves1.png" id="id634231_onlineimage" width="249"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/g10c14p_waves1.eps" id="id634231_printimage"/>
+            </media>
+            </figure>
+<figure id="id634232">
+            <media id="id634232_media" alt="">
+            <image mime-type="image/png" src="../../media/g10c14p_waves2.png" id="id634232_onlineimage" width="149"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/g10c14p_waves2.eps" id="id634232_printimage"/>
+            </media>
+            </figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrP">Click here for the solution.</link>
+</item>
+          <item id="uid97">A ride at the local amusement park is called "Standing on Standing Waves". Which position (a node or an antinode) on the ride would give the greatest thrill?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrE">Click here for the solution.</link>
+</item>
+          <item id="uid98">How many nodes and how many anti-nodes appear in the standing wave below?
+<figure id="id323859"><media id="id323859_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_047.png" id="id323859_onlineimage" width="215"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_047.eps" id="id323859_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrm">Click here for the solution.</link></item>
+          <item id="uid99">For a standing wave on a string, you are given three statements:
+<list id="id323878" display="block" list-type="enumerated" number-style="upper-alpha"><item id="uid100">you can have any <m:math overflow="scroll"><m:mi>λ</m:mi></m:math> and any <m:math overflow="scroll"><m:mi>f</m:mi></m:math> as long as the relationship, <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mi>λ</m:mi><m:mo>·</m:mo><m:mi>f</m:mi></m:mrow></m:math> is satisfied.
+</item><item id="uid101">only certain wavelengths and frequencies are allowed
+</item><item id="uid102">the wave velocity is only dependent on the medium
+</item></list>
+Which of the statements are true:
+<list id="id323966" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid103">A and C only
+</item><item id="uid104">B and C only
+</item><item id="uid105">A, B, and C
+</item><item id="uid106">none of the above
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lry">Click here for the solution.</link></item>
+          <item id="uid107">Consider the diagram below of a standing wave on a string 9 m long that is tied at both ends. The wave velocity in the string is <m:math overflow="scroll"><m:mn>16</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. What is the wavelength?
+<figure id="id324063"><media id="id324063_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_048.png" id="id324063_onlineimage" width="189"><!-- NOTE: attribute width changes image size online (pixels). original width is 89. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_048.eps" id="id324063_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrG">Click here for the solution.</link></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Summary</title>
+      <list id="id324089" display="block" list-type="enumerated"><item id="uid108">A wave is formed when a continuous number of pulses are transmitted through a medium.
+</item>
+        <item id="uid109">A peak is the highest point a particle in the medium rises to.
+</item>
+        <item id="uid110">A trough is the lowest point a particle in the medium sinks to.
+</item>
+        <item id="uid111">In a transverse wave, the particles move perpendicular to the motion of the wave.
+</item>
+        <item id="uid112">The amplitude is the maximum distance from equilibrium position to a peak (or trough), or the maximum displacement of a particle in a wave from its position of rest.
+</item>
+        <item id="uid113">The wavelength (<m:math overflow="scroll"><m:mi>λ</m:mi></m:math>) is the distance between any two adjacent points on a wave that are in phase. It is measured in metres.
+</item>
+        <item id="uid114">The period (<m:math overflow="scroll"><m:mi>T</m:mi></m:math>) of a wave is the time it takes a wavelength to pass a fixed point. It is measured in seconds (s).
+</item>
+        <item id="uid115">The frequency (<m:math overflow="scroll"><m:mi>f</m:mi></m:math>) of a wave is how many waves pass a point in a second. It is measured in hertz (Hz) or <m:math overflow="scroll"><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item>
+        <item id="uid116">Frequency: <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></item>
+        <item id="uid117">Period: <m:math overflow="scroll"><m:mrow><m:mi>T</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>f</m:mi></m:mfrac></m:mrow></m:math></item>
+        <item id="uid118">Speed: <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mi>λ</m:mi></m:mrow></m:math> or <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>λ</m:mi><m:mi>T</m:mi></m:mfrac></m:mrow></m:math>.
+</item>
+        <item id="uid119">When a wave is reflected from a fixed end, the resulting wave will move back through the medium, but will be inverted. When a wave is reflected from a free end, the waves are reflected, but not inverted.
+</item>
+      </list>
+    </section>
+    <section id="cid7">
+      <title>Exercises</title>
+      <list id="id324367" display="block" list-type="enumerated"><item id="uid120">A standing wave is formed when:
+<list id="id324383" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid121">a wave refracts due to changes in the properties of the medium
+</item><item id="uid122">a wave reflects off a canyon wall and is heard shortly after it is formed
+</item><item id="uid123">a wave refracts and reflects due to changes in the medium
+</item><item id="uid124">two identical waves moving different directions along the same medium interfere
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lrV">Click here for the solution.</link></item>
+        <item id="uid125">How many nodes and anti-nodes are shown in the diagram?
+<figure id="id324454"><media id="id324454_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_049.png" id="id324454_onlineimage" width="215"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_049.eps" id="id324454_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrp">Click here for the solution.</link></item>
+        <item id="uid126">Draw a transverse wave that is reflected from a fixed end.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrd">Click here for the solution.</link>
+</item>
+        <item id="uid127">Draw a transverse wave that is reflected from a free end.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrv">Click here for the solution.</link>
+</item>
+        <item id="uid128">A wave travels along a string at a speed of <m:math overflow="scroll"><m:mn>1,5</m:mn><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. If the frequency of the source of the wave is 7,5 Hz, calculate:
+<list id="id324525" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid129">the wavelength of the wave
+</item><item id="uid130">the period of the wave
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lrw">Click here for the solution.</link></item>
+<item>Water waves crash against a seawall around the harbour. Eight waves hit the seawall in 5 s. The distance between successive troughs is 9 m. The height of the waveform trough to crest is 1,5 m. <figure id="id634524"><media id="id634524_media" alt="">
+            <image mime-type="image/png" src="../../media/seawall.png" id="id634524_onlineimage" width="449"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/seawall.eps" id="id634524_printimage"/>
+            </media>
+            </figure>
+<list id="uid081231" list-type="enumerated" number-style="lower-alpha"><item>How many complete waves are indicated in the sketch?</item>
+<item>Write down the letters that indicate any TWO points that are:
+<list id="uid0821323" list-type="enumerated" number-style="lower-roman"><item>in phase</item>
+<item>out of phase</item>
+<item>Represent ONE wavelength.</item></list></item>
+<item>Calculate the amplitude of the wave.</item>
+<item>Show that the period of the wave is 0,67 s.</item>
+<item>Calculate the frequency of the waves.</item>
+<item>Calculate the velocity of the waves.</item></list>
+ <link class="fullmarks" window="new" url="http://www.fhsst.org/lrf">Click here for the solution.</link></item>
+      </list>
+    </section>
+  </content>
+</document>

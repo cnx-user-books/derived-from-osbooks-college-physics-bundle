@@ -1,0 +1,1015 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Transverse waves: Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38806</md:content-id>
+  <md:title>Transverse waves: Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>90f94fba-deb5-41fd-bb90-9918ee099b97</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id317331">Waves occur frequently in nature. The most obvious examples are
+waves in water, on a dam, in the ocean, or in a bucket. We are
+most interested in the properties that waves have. All waves have
+the same properties, so if we study waves in water, then we can transfer
+our knowledge to predict how other examples of waves will behave.</para>
+    </section>
+    <section id="cid3">
+      <title>What is a <emphasis effect="italics">transverse wave</emphasis>?</title>
+      <para id="id317690">We have studied pulses in <link document="m37832">Transverse Pulses</link>, and know that a pulse is a single disturbance that travels through a medium. A <emphasis effect="italics">wave</emphasis> is a periodic, continuous disturbance that consists of a <emphasis effect="italics">train</emphasis> or <emphasis effect="italics">succession</emphasis> of pulses.</para>
+<definition id="fhsst_id83"><term id="termfhsst_id83"> Wave </term> <meaning id="meaningfhsst_id83">
+      <para id="id317713">A <emphasis effect="italics">wave</emphasis> is a periodic, continuous disturbance that consists of a <emphasis effect="italics">train</emphasis> of pulses. </para>
+      </meaning></definition>
+<definition id="fhsst_id86"><term id="termfhsst_id86"> Transverse wave </term> <meaning id="meaningfhsst_id86">
+      <para id="id317741">A <emphasis effect="italics">transverse wave</emphasis> is a wave where the movement of the particles of the medium is perpendicular (at a right angle) to the direction of propagation of the wave. </para>
+      </meaning></definition>
+<section id="secfhsst_id89"><title> Investigation : Transverse Waves </title>
+      <para id="id317764">Take a rope or slinky spring. Have two people hold the rope or spring stretched out horizontally. Flick the one end of the rope up and down <emphasis effect="bold">continuously</emphasis> to create a <emphasis effect="italics">train of pulses</emphasis>.</para>
+      <para id="id317781">
+        <figure id="id317784">
+          <media id="id317784_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_001.png" id="id317784_onlineimage" width="361"><!-- NOTE: attribute width changes image size online (pixels). original width is 361. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_001.eps" id="id317784_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id317791" display="block" list-type="enumerated">
+        <item id="uid1">Describe what happens to the rope.
+</item>
+        <item id="uid2">Draw a diagram of what the rope looks like while the pulses travel along it.
+</item>
+        <item id="uid3">In which direction do the pulses travel?
+</item>
+        <item id="uid4">Tie a ribbon to the middle of the rope. This indicates a particle in the rope.
+<figure id="id317844"><media id="id317844_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_002.png" id="id317844_onlineimage" width="355"><!-- NOTE: attribute width changes image size online (pixels). original width is 355. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_002.eps" id="id317844_printimage"/></media></figure></item>
+        <item id="uid5">Flick the rope continuously. Watch the ribbon carefully as the pulses travel through the rope. What happens to the ribbon?
+</item>
+        <item id="uid6">Draw a picture to show the motion of the ribbon. Draw the ribbon as a dot and use arrows to indicate how it moves.
+</item>
+      </list>
+      
+</section>
+      <para id="id317884">In the Activity, you have created waves. The medium through which these waves propagated was the rope, which is obviously made up of a very large number of particles (atoms).
+From the activity, you would have noticed that the wave travelled from left to right, but the particles (the ribbon) moved only up and down.</para>
+      <figure id="uid7"><media id="uid7_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C5_003.png" id="uid7_onlineimage" width="360"><!-- NOTE: attribute width changes image size online (pixels). original width is 260. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_003.eps" id="uid7_printimage"/>
+        </media>
+        
+      <caption>A transverse wave, showing the direction of motion of the wave perpendicular to the direction in which the particles move.</caption></figure>
+      <para id="id317903">When the particles of a medium move at right angles to the direction of propagation of a wave, the wave is called <emphasis effect="italics">transverse</emphasis>. For waves, there is no net displacement of the particles (they return to their equilibrium position), but there is a net displacement of the wave. There are thus two different motions: the motion of the particles of the medium and the motion of the wave.</para>
+      <para id="eip-375">The following simulation will help you understand more about waves. Select the oscillate option and then observe what happens.
+<figure id="transverse-waves" class="phetsim"><title>Phet simulation for Transverse Waves</title><media id="phet_sim" display="block" alt="transverse waves phet simulation">
+	  <flash id="phet-simulation" mime-type="application/x-shockwave-flash" src="wave-on-a-string.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para><section id="uid8">
+        <title>Peaks and Troughs</title>
+        <para id="id317923">Waves have moving <emphasis effect="italics">peaks</emphasis> (or <emphasis effect="italics">crests</emphasis>) and <emphasis effect="italics">troughs</emphasis>. A peak is the highest point the medium rises to and a trough is the lowest point the medium sinks to.</para>
+        <para id="id317942">Peaks and troughs on a transverse wave are shown in <link target-id="uid9"/>.</para>
+        <figure id="uid9"><media id="uid9_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C5_004.png" id="uid9_onlineimage" width="395"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_004.eps" id="uid9_printimage"/>
+          </media>
+          
+        <caption>Peaks and troughs in a transverse wave.</caption></figure>
+<definition id="fhsst_id136"><term id="termfhsst_id136"> Peaks and troughs </term> <meaning id="meaningfhsst_id136">
+        <para id="id317968">A <emphasis effect="italics">peak</emphasis> is a point on the wave where the displacement of the medium is at a maximum. A point on the wave is a <emphasis effect="italics">trough</emphasis> if the displacement of the medium at that point is at a minimum.  </para>
+        </meaning></definition>
+      </section>
+      <section id="uid10">
+        <title>Amplitude and Wavelength</title>
+        <para id="id318000">There are a few properties that we saw with pulses that also apply to waves. These are amplitude and wavelength (we called this pulse length).</para>
+<definition id="fhsst_id143"><term id="termfhsst_id143"> Amplitude </term> <meaning id="meaningfhsst_id143">
+        <para id="id318011">The <emphasis effect="italics">amplitude</emphasis> is the maximum displacement of a particle from its equilibrium position. </para>
+        </meaning></definition>
+<section id="secfhsst_id146"><title> Investigation : Amplitude </title>
+        <para id="id318034"><figure id="id318037">
+            <media id="id318037_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_005.png" id="id318037_onlineimage" width="359"><!-- NOTE: attribute width changes image size online (pixels). original width is 359. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_005.eps" id="id318037_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id318043">Fill in the table below by measuring the distance between the equilibrium and each peak and troughs in the wave above. Use your ruler to measure the distances.</para>
+        <table id="id318048" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>Peak/Trough</entry>
+                <entry>Measurement (cm)</entry>
+              </row>
+              <row>
+                <entry>a</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>b</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>c</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>d</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>e</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>f</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <list id="id318366" display="block" list-type="enumerated">
+          <item id="uid11">What can you say about your results?
+</item>
+          <item id="uid12">Are the distances between the equilibrium position and each peak equal?
+</item>
+          <item id="uid13">Are the distances between the equilibrium position and each trough equal?
+</item>
+          <item id="uid14">Is the distance between the equilibrium position and peak equal to the distance between equilibrium and trough?
+</item>
+        </list>
+        
+</section>
+        <para id="id318427">As we have seen in the activity on amplitude, the distance between the peak and the equilibrium position is equal to the distance between the trough and the equilibrium position. This distance is known as the <emphasis effect="italics">amplitude</emphasis> of the wave, and is the characteristic height of wave, above or below the equilibrium position. Normally the symbol <m:math overflow="scroll"><m:mi>A</m:mi></m:math> is used to represent the amplitude of a wave. The SI unit of amplitude is the metre (m).</para>
+        <para id="id318448">
+          <figure id="id318451">
+            <media id="id318451_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_006.png" id="id318451_onlineimage" width="482"><!-- NOTE: attribute width changes image size online (pixels). original width is 482. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_006.eps" id="id318451_printimage"/>
+            </media>
+          </figure>
+        </para>
+<exercise id="secfhsst_id212"><title> Amplitude of Sea Waves </title>
+        <problem id="probfhsst_id213">
+        <para id="id318469">If the peak of a wave measures <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> above the still water mark in the harbour, what is the amplitude of the wave? </para>
+        </problem>
+        <solution id="solfhsst_id216"> <list id="listfhsst_id216" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Think about what amplitude means </label>
+        <para id="id318492">The definition of the amplitude is the height of a peak above the equilibrium position. The still water mark is the height of the water at equilibrium and the peak is <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> above this, so the amplitude is <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id221"><title> Investigation : Wavelength </title>
+        <para id="id318517">
+          <figure id="id318520"><media id="id318520_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_007.png" id="id318520_onlineimage" width="322"><!-- NOTE: attribute width changes image size online (pixels). original width is 222. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_007.eps" id="id318520_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id318526">Fill in the table below by measuring the distance between peaks and troughs in the wave above.</para>
+        <table id="id318530" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Distance(cm)</entry>
+              </row>
+              <row>
+                <entry>a</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>b</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>c</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>d</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <list id="id318631" display="block" list-type="enumerated">
+          <item id="uid15">What can you say about your results?
+</item>
+          <item id="uid16">Are the distances between peaks equal?
+</item>
+          <item id="uid17">Are the distances between troughs equal?
+</item>
+          <item id="uid18">Is the distance between peaks equal to the distance between troughs?
+</item>
+        </list>
+        
+</section>
+        <para id="id318690">As we have seen in the activity on wavelength, the distance between two <emphasis effect="italics">adjacent</emphasis> peaks is the same no matter which two adjacent peaks you choose. There is a fixed distance between the peaks. Similarly, we have seen that there is a fixed distance between the troughs, no matter which two troughs you look at. More importantly, the distance between two adjacent peaks is the same as the distance between two adjacent troughs. This distance is called the <emphasis effect="italics">wavelength</emphasis> of the wave.</para>
+        <para id="id318708">The symbol for the wavelength is <m:math overflow="scroll"><m:mi>λ</m:mi></m:math> (the Greek letter <emphasis effect="italics">lambda</emphasis>) and wavelength is measured in metres (<m:math><m:mi mathvariant="normal">m</m:mi></m:math>).</para>
+        <para id="id318725"><figure id="id318728"><media id="id318728_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_008.png" id="id318728_onlineimage" width="271"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_008.eps" id="id318728_printimage"/>
+            </media>
+          </figure>
+        </para>
+<exercise id="secfhsst_id280"><title> Wavelength </title>
+        <problem id="probfhsst_id281">
+        <para id="id318746">The total distance between <m:math><m:mn>4</m:mn></m:math> consecutive peaks of a transverse wave is <m:math><m:mn>6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. What is the wavelength of the wave? </para>
+        </problem>
+        <solution id="solfhsst_id284"> <list id="listfhsst_id284" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw a rough sketch of the situation </label>
+        <para id="id318770">
+          <figure id="id318773"><media id="id318773_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_009.png" id="id318773_onlineimage" width="378"><!-- NOTE: attribute width changes image size online (pixels). original width is 278. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_009.eps" id="id318773_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id318783">From the sketch we see that 4 consecutive peaks is equivalent to 3 wavelengths.</para>
+        </item> <item> <label> Solve the problem </label>
+        <para id="id318791">Therefore, the wavelength of the wave is:</para>
+        <equation id="id318795">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mi>λ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>λ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid19">
+        <title>Points in Phase</title>
+<section id="secfhsst_id359"><title> Investigation : Points in Phase </title>
+        <para id="id318912">Fill in the table by measuring the distance between the indicated points.</para>
+        <para id="id318918">
+          <figure id="id318921">
+            <media id="id318921_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_010.png" id="id318921_onlineimage" width="275"><!-- NOTE: attribute width changes image size online (pixels). original width is 275. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_010.eps" id="id318921_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <table id="id318927" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Points</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Distance (cm)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>A to F</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>B to G</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>C to H</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>D to I</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>E to J</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id319062">What do you find? </para>
+</section>
+        <para id="id319071">In the activity the distance between the indicated points was the same. These points are then said to be <emphasis effect="italics">in phase</emphasis>. Two points in phase are separate by an integer (0,1,2,3,...) number of complete wave cycles. They do not have to be peaks or troughs, but they must be separated by a complete number of wavelengths.</para>
+        <para id="id319082">We then have an alternate definition of the wavelength as the distance between any two adjacent points which are <emphasis effect="italics">in phase</emphasis>.</para>
+<definition id="fhsst_id408"><term id="termfhsst_id408"> Wavelength of wave </term> <meaning id="meaningfhsst_id408">
+        <para id="id319098">The wavelength of a wave is the distance between any two adjacent points that are in phase. </para>
+        </meaning></definition>
+        <para id="id319111">
+          <figure id="id319114"><media id="id319114_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C5_011.png" id="id319114_onlineimage" width="271"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_011.eps" id="id319114_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id319121">Points that are not in phase, those that are not separated by a complete number of wavelengths, are called <emphasis effect="italics">out of phase</emphasis>. Examples of points like these would be <m:math overflow="scroll"><m:mi>A</m:mi></m:math> and <m:math overflow="scroll"><m:mi>C</m:mi></m:math>, or <m:math overflow="scroll"><m:mi>D</m:mi></m:math> and <m:math overflow="scroll"><m:mi>E</m:mi></m:math>, or <m:math overflow="scroll"><m:mi>B</m:mi></m:math> and <m:math overflow="scroll"><m:mi>H</m:mi></m:math> in the Activity.</para>
+      </section>
+      <section id="uid20">
+        <title>Period and Frequency</title>
+        <para id="id319195">Imagine you are sitting next to a pond and you watch the waves going past you. First one peak arrives, then a trough, and then another peak. Suppose you measure the time taken between one peak arriving and then the next. This time will be the same for any two successive peaks passing you. We call this
+time the <emphasis effect="italics">period</emphasis>, and it is a characteristic of the wave.</para>
+        <para id="id319207">The symbol <m:math overflow="scroll"><m:mi>T</m:mi></m:math> is used to represent the period. The period is measured in seconds (<m:math><m:mi mathvariant="normal">s</m:mi></m:math>).</para>
+<definition id="fhsst_id426"><term id="termfhsst_id426"> Period (<m:math><m:mi mathvariant="normal">T</m:mi></m:math>) </term> <meaning id="meaningfhsst_id426">The period (<m:math><m:mi mathvariant="normal">T</m:mi></m:math>) is the time taken for two successive peaks (or troughs) to pass a fixed point.
+        
+        </meaning></definition>
+        <para id="id319238">Imagine the pond again. Just as a peak passes you, you start your stopwatch and count each peak going past. After 1 second you stop the clock and stop counting. The number of peaks that you have counted in the 1 second is the <emphasis effect="italics">frequency</emphasis> of the wave.</para>
+<definition id="fhsst_id430"><term id="termfhsst_id430"> Frequency </term> <meaning id="meaningfhsst_id430">
+        The frequency is the number of successive peaks (or troughs) passing a given point in 1 second.
+        </meaning></definition>
+        <para id="id319268">The frequency and the period are related to each other. As the period is the time taken for 1 peak to pass, then the number of peaks passing the point in 1 second is <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:math>. But this is the frequency. So</para>
+        <equation id="id319287">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>f</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mi>T</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id319306">or alternatively,</para>
+        <equation id="id319312"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>T</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mi>f</m:mi>
+              </m:mfrac>
+             
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id319335">For example, if the time between two consecutive peaks passing a fixed point is <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.166667em"/><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math>, then the period of the wave is <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="0.166667em"/><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math>. Therefore, the frequency of the wave is:</para>
+        <equation id="id319375"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>f</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mi>T</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id319462">The unit of frequency is the Hertz (<m:math><m:mi mathvariant="normal">Hz</m:mi></m:math>) or <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+<exercise id="secfhsst_id520"><title> Period and Frequency </title>
+        <problem id="probfhsst_id521">
+        <para id="id319502">What is the period of a wave of frequency <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi>Hz</m:mi></m:math>? </para>
+        </problem>
+        <solution id="solfhsst_id524"> <list id="listfhsst_id524" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <para id="id319526">We are required to calculate the period of a <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi>Hz</m:mi></m:math> wave.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id319534">We know that:</para>
+        <equation id="id319538">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>T</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mi>f</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Solve the problem </label>
+        <equation id="id319563">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>T</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mi>f</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> Hz </m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the answer </label>
+        <para id="id319644">The period of a <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi>Hz</m:mi></m:math> wave is <m:math><m:mn>0,1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid21">
+        <title>Speed of a Transverse Wave</title>
+        <para id="id319670">In <link target-id="m37923" window="new">Motion in One Dimension</link>, we saw that speed was defined as</para>
+        <equation id="id319676"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi> speed </m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi> distance </m:mi><m:mspace width="2pt"/>
+                  <m:mi> traveled </m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mi> time </m:mi><m:mspace width="2pt"/>
+                  <m:mi> taken </m:mi>
+                </m:mrow>
+              </m:mfrac>
+     
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id319706">The distance between two successive peaks is 1 wavelength, <m:math overflow="scroll"><m:mi>λ</m:mi></m:math>. Thus in a time of 1 period, the wave will travel 1 wavelength in distance. Thus the speed of the wave, <m:math overflow="scroll"><m:mi>v</m:mi></m:math>, is:</para>
+        <equation id="id319732"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mtext>distance</m:mtext>
+                  <m:mspace width="4.pt"/>
+                  <m:mtext>traveled</m:mtext>
+                </m:mrow>
+                <m:mrow>
+                  <m:mtext>time</m:mtext>
+                  <m:mspace width="4.pt"/>
+                  <m:mtext>taken</m:mtext>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>λ</m:mi>
+                <m:mi>T</m:mi>
+              </m:mfrac>
+              
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id319776">However, <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow></m:math>. Therefore, we can also write:</para>
+        <equation id="id319802">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>λ</m:mi>
+                    <m:mi>T</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>λ</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mi>T</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>λ</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>f</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id319870">We call this equation the <emphasis effect="italics">wave equation</emphasis>. To summarise, we have that <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mi>λ</m:mi><m:mo>·</m:mo><m:mi>f</m:mi></m:mrow></m:math> where</para>
+        <list id="id319901" display="block" list-type="bulleted"><item id="uid22"><m:math overflow="scroll"><m:mi>v</m:mi><m:mo>=</m:mo></m:math> speed in <m:math overflow="scroll"><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item>
+          <item id="uid23"><m:math overflow="scroll"><m:mi>λ</m:mi><m:mo>=</m:mo></m:math> wavelength in <m:math><m:mi mathvariant="normal">m</m:mi></m:math>
+</item>
+          <item id="uid24"><m:math overflow="scroll"><m:mi>f</m:mi><m:mo>=</m:mo></m:math> frequency in <m:math><m:mi mathvariant="normal">Hz</m:mi></m:math>
+</item>
+        </list>
+<exercise id="secfhsst_id705"><title> Speed of a Transverse Wave 1 </title>
+        <problem id="probfhsst_id706">
+        <para id="id320001">When a particular string is vibrated at a frequency of <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi>Hz</m:mi></m:math>, a transverse wave of wavelength <m:math><m:mn>0,25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> is produced. Determine the speed of the wave as it travels along the string. </para>
+        </problem>
+        <solution id="solfhsst_id709"> <list id="listfhsst_id709" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <list id="id320028" display="block" list-type="bulleted"><item id="uid25">frequency of wave: <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo></m:mrow><m:mn>10</m:mn><m:mi>Hz</m:mi></m:math>
+</item>
+          <item id="uid26">wavelength of wave: <m:math overflow="scroll"><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo></m:mrow><m:mn>0,25</m:mn><m:mi mathvariant="normal">m</m:mi></m:math>
+</item>
+        </list>
+        <para id="id320081">We are required to calculate the speed of the wave as it travels along the string. All quantities are in SI units.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id320089">We know that the speed of a wave is:</para>
+        <equation id="id320093">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>f</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>λ</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id320114">and we are given all the necessary quantities.</para>
+        </item> <item> <label> Substituting in the values </label>
+        <equation id="id320123">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>λ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>10</m:mn>
+                    <m:mspace width="0.277778em"/>
+                    <m:mi> Hz </m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>25</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id320240">The wave travels at <m:math overflow="scroll"><m:mn>2,5</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> along the string.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id804"><title> Speed of a Transverse Wave 2 </title>
+        <problem id="probfhsst_id805">
+        <para id="id320294">A cork on the surface of a swimming pool bobs up and down once every second on some ripples. The ripples have a wavelength of <m:math><m:mn>20</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:math>. If the cork is <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> from the edge of the pool, how long does it take a ripple passing the cork to reach the edge? </para>
+        </problem>
+        <solution id="solfhsst_id808"> <list id="listfhsst_id808" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <para id="id320322">We are given:</para>
+        <list id="id320325" display="block" list-type="bulleted"><item id="uid27">frequency of wave: <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo></m:mrow><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>Hz</m:mi></m:math>
+</item>
+          <item id="uid28">wavelength of wave: <m:math overflow="scroll"><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo></m:mrow><m:mn>20</m:mn><m:mspace width="2pt"/><m:mi>cm</m:mi></m:math>
+</item>
+          <item id="uid29">distance of cork from edge of pool: <m:math overflow="scroll"><m:mrow><m:mi>D</m:mi><m:mspace width="0.166667em"/><m:mo>=</m:mo></m:mrow><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>
+</item>
+        </list>
+        <para id="id320406">We are required to determine the time it takes for a ripple to travel between the cork and the edge of the pool.</para>
+        <para id="id320410">The wavelength is not in SI units and should be converted.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id320418">The time taken for the ripple to reach the edge of the pool is obtained from:</para>
+        <equation id="id320422"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>t</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>D</m:mi>
+                <m:mi>v</m:mi>
+              </m:mfrac>
+              <m:mspace width="4pt"/>
+              <m:mspace width="4pt"/>
+              <m:mspace width="4pt"/>
+              <m:mspace width="4pt"/>
+              <m:mspace width="4pt"/>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mtext>from</m:mtext>
+                <m:mspace width="4pt"/>
+                <m:mi>v</m:mi>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mi>D</m:mi>
+                  <m:mi>t</m:mi>
+                </m:mfrac>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id320480">We know that</para>
+        <equation id="id320485">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>f</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>λ</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id320506">Therefore,</para>
+        <equation id="id320512"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>t</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>D</m:mi>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Convert wavelength to SI units </label>
+        <equation id="id320542">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>20</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi> cm </m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>,</m:mo>
+              <m:mn>2</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi mathvariant="normal">m</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Solve the problem </label>
+        <equation id="id320580"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>t</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>D</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mi>λ</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mspace width="0.277778em"/>
+                      <m:mi> Hz </m:mi>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>10</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id320694">A ripple passing the leaf will take <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> to reach the edge of the pool. </para>
+        </item> </list> </solution>
+</exercise>
+<para id="eip-872">The following video provides a summary of the concepts covered so far.
+<figure id="waves-1" class="khanacademy">
+	  <title>Khan academy video on waves - 1</title>
+	  <media id="yt-media1" display="block" alt="video on circuits 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/tJW_a6JeXD8&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id968"><title>Waves </title><list id="id320717" display="block" list-type="enumerated"><item id="uid30">When the particles of a medium move perpendicular to the direction of the wave motion, the wave is called a <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> wave.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/liq">Click here for the solution.</link>
+</item>
+          <item id="uid31">A transverse wave is moving downwards. In what direction do the particles in the medium move?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/li4">Click here for the solution.</link>
+</item>
+          <item id="uid32">Consider the diagram below and answer the questions that follow:
+<figure id="id320776"><media id="id320776_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_012.png" id="id320776_onlineimage" width="328"><!-- NOTE: attribute width changes image size online (pixels). original width is 228. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_012.eps" id="id320776_printimage"/></media></figure><list id="id320783" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid33">the wavelength of the wave is shown by letter <space count="10" effect="underline"/>.
+</item><item id="uid34">the amplitude of the wave is shown by letter <space count="10" effect="underline"/>.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/li2">Click here for the solution.</link></item>
+          <item id="uid35">Draw 2 wavelengths of the following transverse waves on the same graph paper. Label all important values.
+<list id="id320849" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid36">Wave 1: Amplitude = 1 cm, wavelength = 3 cm
+</item><item id="uid37">Wave 2: Peak to trough distance (vertical) = 3 cm, peak to peak distance (horizontal) = 5 cm
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lr8">Click here for the solution.</link></item>
+          <item id="uid38">You are given the transverse wave below.
+<figure id="id320895"><media id="id320895_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_013.png" id="id320895_onlineimage" width="241"><!-- NOTE: attribute width changes image size online (pixels). original width is 141. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_013.eps" id="id320895_printimage"/></media></figure>
+Draw the following:
+<list id="id320905" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid39">A wave with twice the amplitude of the given wave.
+</item><item id="uid40">A wave with half the amplitude of the given wave.
+</item><item id="uid41">A wave travelling at the same speed with twice the frequency of the given wave.
+</item><item id="uid42">A wave travelling at the same speed with half the frequency of the given wave.
+</item><item id="uid43">A wave with twice the wavelength of the given wave.
+</item><item id="uid44">A wave with half the wavelength of the given wave.
+</item><item id="uid45">A wave travelling at the same speed with twice the period of the given wave.
+</item><item id="uid46">A wave travelling at the same speed with half the period of the given wave.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lr9">Click here for the solution.</link></item>
+          <item id="uid47">A transverse wave travelling at the same speed with an amplitude of 5 cm has a frequency of 15 Hz. The horizontal distance from a crest to the nearest trough is measured to be 2,5 cm. Find the
+<list id="id321026" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid48">period of the wave.
+</item><item id="uid49">speed of the wave.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lrX">Click here for the solution.</link></item>
+          <item id="uid50">A fly flaps its wings back and forth 200 times each second. Calculate the period of a wing flap.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrl">Click here for the solution.</link>
+</item>
+          <item id="uid51">As the period of a wave increases, the frequency 
+<emphasis effect="italics"><emphasis effect="bold">increases/decreases/does not change.</emphasis></emphasis><newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lr5">Click here for the solution.</link>
+</item>
+          <item id="uid52">Calculate the frequency of rotation of the second hand on a clock.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrN">Click here for the solution.</link>
+</item>
+          <item id="uid53">Microwave ovens produce radiation with a frequency of 2 450 MHz (1 MHz = <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>6</m:mn></m:msup></m:math> Hz) and a wavelength of 0,122 m. What is the wave speed of the radiation?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrR">Click here for the solution.</link>
+</item>
+          <item id="uid54">Study the following diagram and answer the questions:
+<figure id="id321151"><media id="id321151_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_014.png" id="id321151_onlineimage" width="242"><!-- NOTE: attribute width changes image size online (pixels). original width is 242. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_014.eps" id="id321151_printimage"/></media></figure><list id="id321157" display="block" list-type="enumerated"><item id="uid55">Identify two sets of points that are in phase.
+</item><item id="uid56">Identify two sets of points that are out of phase.
+</item><item id="uid57">Identify any two points that would indicate a wavelength.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lrn">Click here for the solution.</link></item>
+          <item id="uid58">Tom is fishing from a pier and notices that four wave crests pass by in 8 s and estimates the distance between two successive crests is 4 m. The timing starts with the first crest and ends with the fourth. Calculate the speed of the wave.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrQ">Click here for the solution.</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Summary</title>
+      <list id="id324089" display="block" list-type="enumerated"><item id="uid108">A wave is formed when a continuous number of pulses are transmitted through a medium.
+</item>
+        <item id="uid109">A peak is the highest point a particle in the medium rises to.
+</item>
+        <item id="uid110">A trough is the lowest point a particle in the medium sinks to.
+</item>
+        <item id="uid111">In a transverse wave, the particles move perpendicular to the motion of the wave.
+</item>
+        <item id="uid112">The amplitude is the maximum distance from equilibrium position to a peak (or trough), or the maximum displacement of a particle in a wave from its position of rest.
+</item>
+        <item id="uid113">The wavelength (<m:math overflow="scroll"><m:mi>λ</m:mi></m:math>) is the distance between any two adjacent points on a wave that are in phase. It is measured in metres.
+</item>
+        <item id="uid114">The period (<m:math overflow="scroll"><m:mi>T</m:mi></m:math>) of a wave is the time it takes a wavelength to pass a fixed point. It is measured in seconds (s).
+</item>
+        <item id="uid115">The frequency (<m:math overflow="scroll"><m:mi>f</m:mi></m:math>) of a wave is how many waves pass a point in a second. It is measured in hertz (Hz) or <m:math overflow="scroll"><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item>
+        <item id="uid116">Frequency: <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></item>
+        <item id="uid117">Period: <m:math overflow="scroll"><m:mrow><m:mi>T</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>f</m:mi></m:mfrac></m:mrow></m:math></item>
+        <item id="uid118">Speed: <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mi>λ</m:mi></m:mrow></m:math> or <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>λ</m:mi><m:mi>T</m:mi></m:mfrac></m:mrow></m:math>.
+</item>
+        <item id="uid119">When a wave is reflected from a fixed end, the resulting wave will move back through the medium, but will be inverted. When a wave is reflected from a free end, the waves are reflected, but not inverted.
+</item>
+      </list>
+    </section>
+    <section id="cid7">
+      <title>Exercises</title>
+      <list id="id324367" display="block" list-type="enumerated"><item id="uid120">A standing wave is formed when:
+<list id="id324383" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid121">a wave refracts due to changes in the properties of the medium
+</item><item id="uid122">a wave reflects off a canyon wall and is heard shortly after it is formed
+</item><item id="uid123">a wave refracts and reflects due to changes in the medium
+</item><item id="uid124">two identical waves moving different directions along the same medium interfere
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lrV">Click here for the solution.</link></item>
+        <item id="uid125">How many nodes and anti-nodes are shown in the diagram?
+<figure id="id324454"><media id="id324454_media" alt=""><image mime-type="image/png" src="../../media/PG10C5_049.png" id="id324454_onlineimage" width="215"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C5_049.eps" id="id324454_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/lrp">Click here for the solution.</link></item>
+        <item id="uid126">Draw a transverse wave that is reflected from a fixed end.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrd">Click here for the solution.</link>
+</item>
+        <item id="uid127">Draw a transverse wave that is reflected from a free end.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lrv">Click here for the solution.</link>
+</item>
+        <item id="uid128">A wave travels along a string at a speed of <m:math overflow="scroll"><m:mn>1,5</m:mn><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. If the frequency of the source of the wave is 7,5 Hz, calculate:
+<list id="id324525" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid129">the wavelength of the wave
+</item><item id="uid130">the period of the wave
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lrw">Click here for the solution.</link></item>
+<item>Water waves crash against a seawall around the harbour. Eight waves hit the seawall in 5 s. The distance between successive troughs is 9 m. The height of the waveform trough to crest is 1,5 m. <figure id="id634524"><media id="id634524_media" alt="">
+            <image mime-type="image/png" src="../../media/seawall.png" id="id634524_onlineimage" width="449"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/seawall.eps" id="id634524_printimage"/>
+            </media>
+            </figure>
+<list id="uid081231" list-type="enumerated" number-style="lower-alpha"><item>How many complete waves are indicated in the sketch?</item>
+<item>Write down the letters that indicate any TWO points that are:
+<list id="uid0821323" list-type="enumerated" number-style="lower-roman"><item>in phase</item>
+<item>out of phase</item>
+<item>Represent ONE wavelength.</item></list></item>
+<item>Calculate the amplitude of the wave.</item>
+<item>Show that the period of the wave is 0,67 s.</item>
+<item>Calculate the frequency of the waves.</item>
+<item>Calculate the velocity of the waves.</item></list>
+ <link class="fullmarks" window="new" url="http://www.fhsst.org/lrf">Click here for the solution.</link></item>
+      </list>
+    </section>
+
+  </content>
+</document>

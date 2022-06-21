@@ -1,0 +1,646 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Electrodynamics: Alternating current, inductance and capacitance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39510</md:content-id>
+  <md:title>Electrodynamics: Alternating current, inductance and capacitance</md:title>
+  <md:abstract/>
+  <md:uuid>7ad38c9b-b850-4d5d-a053-cf0802ffb287</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Alternating Current</title>
+      <para id="id63608">Most students learning about electricity begin with what is known as <emphasis effect="italics">direct current</emphasis> (DC), which is electricity flowing in a constant direction. DC is the kind of electricity made by a battery, with definite positive and negative terminals.</para>
+      <para id="id63618">However, we have seen that the electricity produced by some generators alternates and is therefore known as <emphasis effect="italics">alternating current</emphasis> (AC). The main advantage to AC is that the voltage can be changed using transformers. That means that the voltage can be stepped up at power stations to a very high voltage so that electrical energy can be transmitted along power lines at low current and therefore experience low energy loss due to heating. The voltage can then be stepped down for use in buildings and street lights.</para>
+<note id="notfhsst_id286"><title> Interesting Fact </title>
+      <para id="id63639">In South Africa alternating current is generated at a frequency of 50 Hz.</para>
+</note>
+      <para id="id63651">The circuit symbol for alternating current is:</para>
+      <para id="id63654">
+        <figure id="id63657">
+          <media id="id63657_media" alt="">
+            <image mime-type="image/png" src="../../media/PG12C8_013.png" id="id63657_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG12C8_013.eps" id="id63657_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id63664">Graphs of voltage against time and current against time for an AC circuit are shown in <link target-id="uid23"/></para>
+      <figure id="uid23">
+        <media id="uid23_media" alt="">
+          <image mime-type="image/png" src="../../media/PG12C8_014.png" id="uid23_onlineimage" width="186"><!-- NOTE: attribute width changes image size online (pixels). original width is 186. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG12C8_014.eps" id="uid23_printimage"/>
+        </media>
+        <caption>Graph of current or voltage in an AC circuit.</caption>
+      </figure>
+      <para id="id63683">In an ideal DC circuit the current and voltage are constant. In an AC circuit the current and voltage vary with time. The value of the current or voltage at any specific time is called the <emphasis effect="italics">instantaneous current or voltage</emphasis> and is calculated as follows:</para>
+      <equation id="id63694">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>i</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>I</m:mi>
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>π</m:mi>
+                    <m:mi>f</m:mi>
+                    <m:mi>t</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>φ</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>v</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>π</m:mi>
+                    <m:mi>f</m:mi>
+                    <m:mi>t</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id63799"><m:math overflow="scroll"><m:mi>i</m:mi></m:math> is the instantaneous current. <m:math overflow="scroll"><m:msub><m:mi>I</m:mi><m:mrow><m:mi>m</m:mi><m:mi>a</m:mi><m:mi>x</m:mi></m:mrow></m:msub></m:math> is the maximum current. <m:math overflow="scroll"><m:mi>v</m:mi></m:math> is the instantaneous voltage. <m:math overflow="scroll"><m:msub><m:mi>V</m:mi><m:mrow><m:mi>m</m:mi><m:mi>a</m:mi><m:mi>x</m:mi></m:mrow></m:msub></m:math> is the maximum voltage. <m:math overflow="scroll"><m:mi>f</m:mi></m:math> is the frequency of the AC and <m:math overflow="scroll"><m:mi>t</m:mi></m:math> is the time at which the instantaneous current or voltage is being calculated.</para>
+      <para id="id63872">The average value we use for AC is known as the root mean square (rms) average. This is defined as:</para>
+      <equation id="id63878">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mrow>
+                    <m:mi>r</m:mi>
+                    <m:mi>m</m:mi>
+                    <m:mi>s</m:mi>
+                  </m:mrow>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:msub>
+                    <m:mi>I</m:mi>
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                  <m:msqrt>
+                    <m:mn>2</m:mn>
+                  </m:msqrt>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mrow>
+                    <m:mi>r</m:mi>
+                    <m:mi>m</m:mi>
+                    <m:mi>s</m:mi>
+                  </m:mrow>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                  <m:msqrt>
+                    <m:mn>2</m:mn>
+                  </m:msqrt>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id63972">Since AC varies sinusoidally, with as much positive as negative, doing a straight average would get you zero for the average voltage. The rms value by-passes this problem.</para>
+      <section id="uid24">
+        <title>Exercise - alternating current</title>
+        <list id="id63987" display="block" list-type="enumerated">
+          <item id="uid25">Explain the advantages of alternating current.
+</item>
+          <item id="uid26">Write expressions for the current and voltage in an AC circuit.
+</item>
+          <item id="uid27">Define the rms (root mean square) values for current and voltage for AC.
+</item>
+          <item id="uid28">What is the period of the AC generated in South Africa?
+</item>
+          <item id="uid29">If <m:math overflow="scroll"><m:msub><m:mi>V</m:mi><m:mrow><m:mi>m</m:mi><m:mi>a</m:mi><m:mi>x</m:mi></m:mrow></m:msub></m:math> at a power station generator is 340 V AC, what is the mains supply (rms voltage) in our household?
+</item>
+          <item id="uid30">Draw a graph of voltage vs time and current vs time for an AC circuit.
+</item>
+        </list>
+      </section>
+    </section>
+    <section id="cid5">
+      <title>Capacitance and inductance</title>
+      <para id="id64092">Capacitors and inductors are found in many circuits. Capacitors store an electric field, and are used as temporary power sources as well as to minimize power fluctuations in major circuits. Inductors work in conjunction with capacitors for electrical signal processing. Here we explain the physics and applications of both.</para>
+      <section id="uid31">
+        <title>Capacitance</title>
+        <para id="id64106">You have learnt about capacitance and capacitors in Grade 11.</para>
+        <para id="id64110">In this section you will learn about capacitance in an AC circuit. A capacitor in an AC circuit has <emphasis effect="italics">reactance</emphasis>. Reactance in an AC circuit plays a similar role to resistance in a DC circuit. The reactance of a capacitor <m:math overflow="scroll"><m:msub><m:mi>X</m:mi><m:mi>C</m:mi></m:msub></m:math> is defined as:</para>
+        <equation id="id64134">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>X</m:mi>
+                <m:mi>C</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mi>π</m:mi>
+                  <m:mi>f</m:mi>
+                  <m:mi>C</m:mi>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64166">where <m:math overflow="scroll"><m:mi>C</m:mi></m:math> is the capacitance and <m:math overflow="scroll"><m:mi>f</m:mi></m:math> is the AC frequency.</para>
+        <para id="id64189">If we examine the equation for the reactance of a capacitor, we see that the frequency is in the denominator. Therefore, when the frequency is low, the capacitive reactance is very high. This is why a capacitor blocks the flow of DC and low frequency AC because its reactance increases with decreasing frequency.</para>
+        <para id="id64197">When the frequency is high, the capacitive reactance is low. This is why a capacitor allows the flow of high frequency AC because its reactance decreases with increasing frequency.</para>
+      </section>
+      <section id="uid32">
+        <title>Inductance</title>
+        <para id="id64214">Inductance (measured in henries, symbol H) is a measure of the generated emf for a unit change in current. For example, an inductor with an inductance of 1 H produces an emf of 1 V when the current through the inductor changes at the rate of 1 A<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+        <para id="id64247">An inductor is a passive electrical device used in electrical circuits for its property of inductance. An inductor is usually made as a coil (or solenoid) of conducting material, typically copper wire, wrapped around a core either of air or of ferromagnetic material.</para>
+        <para id="id64255">Electrical current through the conductor creates a magnetic flux proportional to the current. A change in this current creates a change in magnetic flux that, in turn, generates an emf that acts to oppose this change in current.</para>
+        <para id="id64262">The inductance of an inductor is determined by several factors:</para>
+        <list id="id64268" display="block" list-type="bulleted">
+          <item id="uid33">the shape of the coil; a short, fat coil has a higher inductance than one that is thin and tall.
+</item>
+          <item id="uid34">the material that the conductor is wrapped around.
+</item>
+          <item id="uid35">how the conductor is wound; winding in opposite directions will cancel out the inductance effect, and you will have only a resistor.
+</item>
+        </list>
+        <para id="id64310">The inductance of a solenoid is defined by:</para>
+        <equation id="id64314">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>L</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>μ</m:mi>
+                    <m:mn>0</m:mn>
+                  </m:msub>
+                  <m:mi>A</m:mi>
+                  <m:msup>
+                    <m:mi>N</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mrow>
+                <m:mi>l</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64351">where <m:math overflow="scroll"><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub></m:math> is the permeability of the core material (in this case air), <m:math overflow="scroll"><m:mi>A</m:mi></m:math> is the cross-sectional area of the solenoid, <m:math overflow="scroll"><m:mi>N</m:mi></m:math> is the number of turns and <m:math overflow="scroll"><m:mi>l</m:mi></m:math> is the length of the solenoid.</para>
+<definition id="fhsst_id529"><term id="termfhsst_id529"> Permeability </term> <meaning id="meaningfhsst_id529">
+        <para id="id64406">Permeability is the property of a material which describes the magnetisation developed in that material when excited by a source. </para>
+        </meaning></definition>
+<note id="notfhsst_id532"><title> Interesting Fact </title>
+        <para id="id64424">The permeability of free space is <m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mi>π</m:mi><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:msup></m:mrow></m:math> henry per metre.</para>
+</note>
+<exercise id="secfhsst_id535"><title> Inductance I </title>
+        <problem id="probfhsst_id536">
+        <para id="id64473">Determine the inductance of a coil with a core material of air. A cross-sectional area of <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>, with 1000 turns and a length of 0,1 m </para>
+        </problem>
+        <solution id="solfhsst_id539"> <list id="listfhsst_id539" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine how to approach the problem </label>
+        <para id="id64522">We are calculating inductance, so we use the equation:</para>
+        <equation id="id64526">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>L</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>μ</m:mi>
+                          <m:mn>0</m:mn>
+                        </m:msub>
+                        <m:mi>A</m:mi>
+                        <m:msup>
+                          <m:mi>N</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mi>l</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id64571">The permeability is that for free space:<m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mi>π</m:mi><m:mi mathvariant="normal">x</m:mi><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:msup></m:mrow></m:math> henry per metre.</para>
+        </item> <item> <label> Solve the problem </label>
+        <equation id="id64608">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>L</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>μ</m:mi>
+                        <m:mn>0</m:mn>
+                      </m:msub>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>N</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mi>l</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mi>π</m:mi>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>7</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1000</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mi mathvariant="normal">H</m:mi>
+                    <m:mo>/</m:mo>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id64759">The inductance of the coil is <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow></m:math> H/m. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id673"><title> Inductance II </title>
+        <problem id="probfhsst_id674">
+        <para id="id64815">Calculate the inductance of a 5 cm long solenoid with a diameter of 4 mm and 2000 turns.
+ </para>
+        </problem>
+        <solution id="solfhsst_id678"> <list id="listfhsst_id678" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Think about the problem </label>
+        <para id="id64840">Again this is an inductance problem, so we use the same formula as the worked example above.</para>
+        <equation id="id64844">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi mathvariant="normal">r</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mi> mm </m:mi>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi> mm </m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>,</m:mo>
+              <m:mn>002</m:mn>
+              <m:mi mathvariant="normal">m</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id64890">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi mathvariant="normal">A</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>π</m:mi>
+              <m:msup>
+                <m:mi mathvariant="normal">r</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>=</m:mo>
+              <m:mi>π</m:mi>
+              <m:mo>×</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>,</m:mo>
+              <m:msup>
+                <m:mn>002</m:mn>
+                <m:mn>2</m:mn>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id64937">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi mathvariant="normal">L</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>μ</m:mi>
+                        <m:mn>0</m:mn>
+                      </m:msub>
+                      <m:mi mathvariant="normal">A</m:mi>
+                      <m:msup>
+                        <m:mi mathvariant="normal">N</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mi>l</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mi>π</m:mi>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>×</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:msup>
+                        <m:mn>002</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>×</m:mo>
+                      <m:mi>π</m:mi>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>2000</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>05</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>00126</m:mn>
+                    <m:mi mathvariant="normal">H</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>26</m:mn>
+                    <m:mi> mH </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+        <para id="id65114">An inductor in an AC circuit also has a reactance, <m:math overflow="scroll"><m:msub><m:mi>X</m:mi><m:mi>L</m:mi></m:msub></m:math>. Reactance is the property of an inductor that opposes the flow of AC current. Reactance is defined by:</para>
+        <equation id="id65134">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>X</m:mi>
+                <m:mi>L</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>π</m:mi>
+              <m:mi>f</m:mi>
+              <m:mi>L</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id65161">where <m:math overflow="scroll"><m:mi>L</m:mi></m:math> is the inductance and <m:math overflow="scroll"><m:mi>f</m:mi></m:math> is the frequency of the AC.</para>
+        <para id="id65183">If we examine the equation for the reactance of an inductor, we see that inductive reactance increases with increasing frequency. Therefore, when the frequency is low, the inductive reactance is very low. This is why an inductor allows the flow of DC and low frequency AC because its reactance decreases with decreasing frequency.</para>
+        <para id="id65191">When the frequency is high, the inductive reactance is high. This is why an inductor blocks the flow of high frequency AC because its reactance increases with increasing frequency.</para>
+      </section>
+      <section id="uid36">
+        <title>Exercise - capacitance and inductance</title>
+        <list id="id65208" display="block" list-type="enumerated">
+          <item id="uid37">Describe what is meant by reactance.
+</item>
+          <item id="uid38">Define the reactance of a capacitor.
+</item>
+          <item id="uid39">Explain how a capacitor blocks the flow of DC and low frequency AC but allows the flow of high frequency AC.
+</item>
+          <item id="uid40">Describe what is an inductor.
+</item>
+          <item id="uid41">Describe what is inductance.
+</item>
+          <item id="uid42">What is the unit of inductance?
+</item>
+          <item id="uid43">Define the reactance of an inductor.
+</item>
+          <item id="uid44">Write the equation describing the inductance of a solenoid.
+</item>
+          <item id="uid45">Explain how an inductor blocks high frequency AC, but allows low frequency AC and DC to pass.
+</item>
+        </list>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Summary</title>
+      <list id="id65334" display="block" list-type="enumerated">
+        <item id="uid46">Electrical generators convert mechanical energy into electrical energy.
+</item>
+        <item id="uid47">Electric motors convert electrical energy into mechanical energy.
+</item>
+        <item id="uid48">There are two types of generators - AC and DC. An AC generator is also called an alternator.
+</item>
+        <item id="uid49">There are two types of motors - AC and DC.
+</item>
+        <item id="uid50">Alternating current (AC) has many advantages over direct current (DC).
+</item>
+        <item id="uid51">Capacitors and inductors are important components in an AC circuit.
+</item>
+        <item id="uid52">The reactance of a capacitor or inductor is affected by the frequency of the AC.
+</item>
+      </list>
+    </section>
+    <section id="cid7">
+      <title>End of chapter exercise</title>
+      <list id="id65436" display="block" list-type="enumerated">
+        <item id="uid53">[SC 2003/11] Explain the difference between alternating current (AC) and direct current (DC).
+</item>
+        <item id="uid54">Explain how an AC generator works. You may use sketches to support your answer.
+</item>
+        <item id="uid55">What are the advantages of using an AC motor rather than a DC motor.
+</item>
+        <item id="uid56">Explain how a DC motor works.
+</item>
+        <item id="uid57">At what frequency is AC generated by Eskom in South Africa?
+</item>
+        <item id="uid58"><label>IEB 2001/11 HG1</label>- <emphasis effect="bold">Work, Energy and Power in Electric Circuits</emphasis>
+Mr. Smith read through the agreement with Eskom (the electricity provider). He found out that alternating current is supplied to his house at a frequency of 50 Hz. He then consulted a book on electric current, and discovered that alternating current moves to and fro in the conductor. So he refused to pay his Eskom bill on the grounds that every electron that entered his house would leave his house again, so therefore Eskom had supplied him with nothing!
+Was Mr. Smith correct? Or has he misunderstood something about what he is paying for? Explain your answer briefly.
+</item>
+        <item id="uid59">What do we mean by the following terms in electrodynamics?
+<list id="id65550" display="block" list-type="enumerated"><item id="uid60">inductance
+</item><item id="uid61">reactance
+</item><item id="uid62">solenoid
+</item><item id="uid63">permeability
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>
