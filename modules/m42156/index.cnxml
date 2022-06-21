@@ -23,11 +23,11 @@
     <example id="fs-id1356444">
     <title>Calculating Momentum: A Football Player and a Football</title>
     <para id="import-auto-id1171239">(a) Calculate the momentum of a 110-kg football player running at 8.00 m/s. (b) Compare the player’s momentum with the momentum of a hard-thrown 0.410-kg football that has a speed of 25.0 m/s.</para>
-    <para id="import-auto-id1250149"><emphasis>Strategy</emphasis>
+    <para id="import-auto-id1250149"><title>Strategy</title>
     </para><para id="import-auto-id1162402">No information is given regarding direction, and so we can calculate only the magnitude of the momentum, <m:math><m:semantics><m:mrow><m:mrow><m:mi>p</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{p} {}</m:annotation></m:semantics></m:math>. (As usual, a symbol that is in italics is a magnitude, whereas one that is italicized, boldfaced, and has an arrow is a vector.) In both parts of this example, the magnitude of momentum can be calculated directly from the definition of momentum given in the equation, which becomes</para><equation id="eip-605"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mi>p</m:mi>
@@ -39,29 +39,29 @@
                   </m:mstyle>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{p= ital "mv"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id1109788">when only magnitudes are considered.</para>
     <para id="import-auto-id1445232"><emphasis>Solution for (a)</emphasis>
     </para><para id="import-auto-id1143096">To determine the momentum of the player, substitute the known values for the player’s mass and speed into the equation.</para>
     <equation id="eip-926"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
                     <m:msub>
                       <m:mi>p</m:mi>
-                      
+
                         <m:mrow>
                           <m:mtext>player</m:mtext>
                         </m:mrow>
-                      
+
                     </m:msub>
                     <m:mo stretchy="false">=</m:mo>
                     <m:mfenced open="(" close=")">
@@ -85,26 +85,26 @@
                   </m:mrow>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{p rSub { size 8{"player"} } = left ("110"" kg" right ) left (8 "." "00"" m/s" right )="880"" kg" cdot "m/s"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
-    </equation><para id="eip-834"><emphasis>Solution for (b)</emphasis></para><para id="import-auto-id1250861">To determine the momentum of the ball, substitute the known values for the ball’s mass and speed into the equation.</para>
+      </m:math>
+    </equation><para id="eip-834"><title>Solution for (b)</title></para><para id="import-auto-id1250861">To determine the momentum of the ball, substitute the known values for the ball’s mass and speed into the equation.</para>
     <equation id="eip-722"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                     <m:msub>
                       <m:mi>p</m:mi>
-                      
+
                         <m:mrow>
                           <m:mtext>ball</m:mtext>
                         </m:mrow>
-                      
+
                     </m:msub>
                     <m:mo stretchy="false">=</m:mo>
                     <m:mfenced open="(" close=")">
@@ -122,9 +122,9 @@
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{p rSub { size 8{"ball"} } = left (0 "." "410"" kg" right ) left ("25" "." 0" m/s" right )="10" "." 3" kg" cdot "m/s"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id1524278">The ratio of the player’s momentum to that of the ball is</para>
-    <equation id="eip-45"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>player</m:mtext></m:mrow></m:msub><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>ball</m:mtext></m:mrow></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>880</m:mtext><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>85</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>9</m:mn></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {p rSub { size 8{"player"} } }  over  {p rSub { size 8{"ball"} } } } = {  {"880"}  over  {"10" "." 3} } ="85" "." 9} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1187619"><emphasis>Discussion</emphasis>
+    <equation id="eip-45"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>player</m:mtext></m:mrow></m:msub><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>ball</m:mtext></m:mrow></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>880</m:mtext><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>85</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>9</m:mn></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {p rSub { size 8{"player"} } }  over  {p rSub { size 8{"ball"} } } } = {  {"880"}  over  {"10" "." 3} } ="85" "." 9} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1187619"><title>Discussion</title>
     </para><para id="import-auto-id1251506">Although the ball has greater velocity, the player has a much greater mass. Thus the momentum of the player is much greater than the momentum of the football, as you might guess. As a result, the player’s motion is only slightly affected if he catches the ball. We shall quantify what happens in such collisions in terms of momentum in later sections.</para></example>
 </section>
 <section id="fs-id1342888">
@@ -182,7 +182,7 @@
           </m:mrow>
         </m:semantics>
       </m:math>
-    
+
     </equation></note>
     <note id="fs-id1535269"><label/>
     <title>Making Connections: Force and Momentum</title>
@@ -228,7 +228,7 @@
     <title>Calculating Force: Venus Williams’ Racquet</title>
     <para id="import-auto-id1372893">During the 2007 French Open, Venus Williams hit the fastest recorded serve in a premier women’s match, reaching a speed of 58 m/s (209 km/h). What is the average force exerted on the 0.057-kg tennis ball by Venus Williams’ racquet, assuming that the ball’s speed just after impact is 58 m/s, that the initial horizontal component of the velocity before impact is negligible, and that the ball remained in contact with the racquet for 5.0 ms (milliseconds)? </para>
     <para id="import-auto-id1441326">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id1484278">This problem involves only one dimension because the ball starts from having no horizontal velocity component before impact. Newton’s second law stated in terms of momentum is then written as</para>
     <equation id="eip-344"><m:math>
@@ -250,7 +250,7 @@
                       <m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow>
                     </m:mfrac>
                   </m:mrow>
-                 
+
                 </m:mrow>
                 <m:mtext>.</m:mtext>
               </m:mrow>
@@ -316,25 +316,25 @@
 </m:mtd>
 <m:mtd>
                             <m:mi>m</m:mi>
-                         
+
                           <m:mfenced open="(" close=")">
                             <m:mrow>
                               <m:msub>
                                 <m:mi>v</m:mi>
-                                
+
                                   <m:mrow>
                                     <m:mn>f</m:mn>
                                   </m:mrow>
-                                
+
                               </m:msub>
                               <m:mo stretchy="false">–</m:mo>
                               <m:msub>
                                 <m:mi>v</m:mi>
-                                
+
                                   <m:mrow>
                                     <m:mn>i</m:mn>
                                   </m:mrow>
-                                
+
                               </m:msub>
                             </m:mrow>
                           </m:mfenced>
@@ -342,7 +342,7 @@
                 </m:mtr>
                 <m:mtr>
 <m:mtd>
-                 
+
 </m:mtd>
 <m:mtd>
                    <m:mo stretchy="false">=</m:mo>
@@ -360,12 +360,12 @@
                           <m:mn>0 m/s</m:mn>
                       </m:mrow>
                     </m:mfenced>
-                 
+
 </m:mtd>
                 </m:mtr>
                 <m:mtr>
 <m:mtd>
-              
+
 </m:mtd>
 <m:mtd>
                    <m:mo stretchy="false">=</m:mo>
@@ -379,14 +379,14 @@
                        <m:mtext>3.3 kg</m:mtext>
                       <m:mo stretchy="false">·</m:mo>
                       <m:mtext>m/s</m:mtext>
-                 
+
 </m:mtd>
                 </m:mtr>
               </m:mtable>
             </m:mrow>
           </m:mrow>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id1269051">Now the magnitude of the net external force can determined by using <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>F</m:mi><m:mrow><m:mtext>net</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">p</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ F rSub { size 8{"net"} } =  {  {Δp}  over  {Δt} } } {}</m:annotation></m:semantics></m:math>:</para><equation id="eip-211"><m:math>
         <m:semantics>
           <m:mrow>
@@ -445,13 +445,13 @@
             </m:mrow>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0">alignl { stack {
- size 12{ F rSub { size 8{"net"} } = {  {Δp}  over  {Δt} } = {  {3 "." "306"`"kg" cdot "m/s"}  over  {5 "." 0 times "10" rSup { size 8{ - 3} } `s} } }  {} # 
-"         "="661 N" approx "660"`"N," {} 
+ size 12{ F rSub { size 8{"net"} } = {  {Δp}  over  {Δt} } = {  {3 "." "306"`"kg" cdot "m/s"}  over  {5 "." 0 times "10" rSup { size 8{ - 3} } `s} } }  {} #
+"         "="661 N" approx "660"`"N," {}
 } } {}</m:annotation>
         </m:semantics>
       </m:math>
     </equation><para id="eip-972">where we have retained only two significant figures in the final step.</para><para id="import-auto-id1488607">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id1512339">This quantity was the average force exerted by Venus Williams’ racquet on the tennis ball during its brief impact (note that the ball also experienced the 0.56-N force of gravity, but that force was not due to the racquet). This problem could also be solved by first finding the acceleration and then using <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>F</m:mi><m:mrow><m:mtext>net</m:mtext></m:mrow></m:msub><m:mspace width="0.15em"/><m:mtext>=</m:mtext><m:mspace width="0.15em"/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ma</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{"net"} } " = " ital "ma"} {}</m:annotation></m:semantics></m:math>, but one additional step would be required compared with the strategy used in this example.</para></example>
 </section>
@@ -482,7 +482,7 @@
                       <m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow>
                     </m:mfrac>
                   </m:mrow>
-                 
+
                 </m:mrow>
                 <m:mtext>,</m:mtext>
               </m:mrow>
@@ -501,7 +501,7 @@
 <para id="import-auto-id1466209">An object that has a small mass and an object that has a large mass have the same kinetic energy. Which mass has the largest momentum?</para>
 </problem></exercise>
     <exercise id="fs-id1522201" type="conceptual-questions"><problem id="fs-id1522202">
-<para id="import-auto-id1466212"><emphasis>Professional Application</emphasis></para>
+<para id="import-auto-id1466212"><title>Professional Application</title></para>
 <para id="eip-id974177">Football coaches advise players to block, hit, and tackle with their feet on the ground rather than by leaping through the air. Using the concepts of momentum, work, and energy, explain how a football player can be more effective with his feet on the ground.</para>
 </problem>
 </exercise><exercise id="fs-id1522215" type="conceptual-questions"><problem id="fs-id1522216">
@@ -511,7 +511,7 @@
     <section id="fs-id1522226" type="problems-exercises" class="problems-exercises"><title>Problems &amp; Exercises</title>
     <exercise id="fs-id1522230" type="problems-exercises"><problem id="fs-id1522231">    <para id="import-auto-id1528696">(a) Calculate the momentum of a 2000-kg elephant charging a hunter at a speed of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>50 m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "50"``"m/s"} {}</m:annotation></m:semantics></m:math>. (b) Compare the elephant’s momentum with the momentum of a 0.0400-kg tranquilizer dart fired at a speed of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>600 m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"600"``"m/s"} {}</m:annotation></m:semantics></m:math>. (c) What is the momentum of the 90.0-kg hunter running at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>40 m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "40"``"m/s"} {}</m:annotation></m:semantics></m:math> after missing the elephant?</para></problem>
 <solution id="fs-id1493308">
-    <para id="import-auto-id1356784">(a) 
+    <para id="import-auto-id1356784">(a)
         <m:math>
           <m:semantics>
             <m:mrow>
@@ -539,7 +539,7 @@
             </m:mrow>
             <m:annotation encoding="StarMath 5.0"> size 12{1 "." "50" times "10" rSup { size 8{4} } `"kg" cdot "m/s"} {}</m:annotation>
           </m:semantics>
-        </m:math></para><para id="import-auto-id1489164">(b) 625 to 1</para><para id="import-auto-id1489166">(c) 
+        </m:math></para><para id="import-auto-id1489164">(b) 625 to 1</para><para id="import-auto-id1489166">(c)
         <m:math>
           <m:semantics>
             <m:mrow>

@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
   <title>Useful Information</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m42720</md:content-id>
@@ -7,7 +7,7 @@
   <md:uuid>72343285-683e-46d9-a6c2-5de097e36ff9</md:uuid>
 </metadata>
 
-<content>
+<content class="appendix">
     <para id="import-auto-id2300397">This appendix is broken into several tables.</para>
     <list id="eip-856"><item><link target-id="import-auto-id1211982"/>, Important Constants</item>
 <item><link target-id="import-auto-id1125517"/>, Submicroscopic Masses</item>
@@ -270,13 +270,8 @@
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
-                        <m:mn>6</m:mn>
-                        <m:mtext>.</m:mtext>
-                        <m:mtext>02214129</m:mtext>
-                        <m:mo stretchy="false">(</m:mo>
-                        <m:mtext>27</m:mtext>
                         <m:mrow>
-                          <m:mo stretchy="false">)</m:mo>
+                          <m:mn>6.02214076</m:mn>
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>
@@ -289,7 +284,7 @@
                         </m:mrow>
                       </m:mrow>
                     </m:mrow>
-                    <m:mrow/>
+
                   </m:mrow>
                   <m:annotation encoding="StarMath 5.0"> size 12{6 "." "02214129" \( "27" \)  times "10" rSup { size 8{"23"} } } {}</m:annotation>
                 </m:semantics>
@@ -345,13 +340,9 @@
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
-                        <m:mn>1</m:mn>
-                        <m:mtext>.</m:mtext>
-                        <m:mtext>3806488</m:mtext>
-                        <m:mo stretchy="false">(</m:mo>
-                        <m:mtext>13</m:mtext>
+                        <m:mn>1.380649</m:mn>
                         <m:mrow>
-                          <m:mo stretchy="false">)</m:mo>
+
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>
@@ -791,14 +782,10 @@
                       <m:mrow>
                         <m:mrow>
                           <m:mo stretchy="false">−</m:mo>
-                          <m:mn>1</m:mn>
+                          <m:mn>1.602176634</m:mn>
                         </m:mrow>
-                        <m:mtext>.</m:mtext>
-                        <m:mtext>602176565</m:mtext>
-                        <m:mo stretchy="false">(</m:mo>
-                        <m:mtext>35</m:mtext>
                         <m:mrow>
-                          <m:mo stretchy="false">)</m:mo>
+
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>
@@ -1114,13 +1101,9 @@
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
-                        <m:mn>6</m:mn>
-                        <m:mtext>.</m:mtext>
-                        <m:mtext>62606957</m:mtext>
-                        <m:mo stretchy="false">(</m:mo>
-                        <m:mtext>29</m:mtext>
+                        <m:mn>6.62607015</m:mn>
                         <m:mrow>
-                          <m:mo stretchy="false">)</m:mo>
+
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>                          
@@ -1189,6 +1172,12 @@
             </entry>
           </row>
         </tbody>
+
+
+
+
+
+
 
 
 
@@ -1567,7 +1556,7 @@
        
         <tbody>
           <row>
-            <entry>
+            <entry valign="middle" morerows="2">
               <emphasis>Sun</emphasis>
             </entry>
             <entry>mass</entry>
@@ -1601,7 +1590,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>average radius</entry>
             <entry>
               <m:math display="block">
@@ -1633,7 +1622,6 @@
             </entry>
           </row>
           <row>
-            <entry/>
             <entry>Earth-sun distance (average)</entry>
             <entry>
               <m:math display="block">
@@ -1664,7 +1652,7 @@
             </entry>
           </row>
           <row>
-            <entry>
+            <entry valign="middle" morerows="2">
               <emphasis>Earth</emphasis>
             </entry>
             <entry>mass</entry>
@@ -1698,7 +1686,6 @@
             </entry>
           </row>
           <row>
-            <entry/>
             <entry>average radius</entry>
             <entry>
               <m:math display="block">
@@ -1736,7 +1723,6 @@
             </entry>
           </row>
           <row>
-            <entry/>
             <entry>orbital period</entry>
             <entry>
               <m:math display="block">
@@ -1767,7 +1753,7 @@
             </entry>
           </row>
           <row>
-            <entry>
+            <entry valign="middle" morerows="3">
               <emphasis>Moon</emphasis>
             </entry>
             <entry>mass</entry>
@@ -1801,7 +1787,6 @@
             </entry>
           </row>
           <row>
-            <entry/>
             <entry>average radius</entry>
             <entry>
               <m:math display="block">
@@ -1833,7 +1818,6 @@
             </entry>
           </row>
           <row>
-            <entry/>
             <entry>orbital period (average)</entry>
             <entry>
               <m:math display="block">
@@ -1864,7 +1848,6 @@
             </entry>
           </row>
           <row>
-            <entry/>
             <entry>Earth-moon distance (average)</entry>
             <entry>
               <m:math display="block">
@@ -1895,6 +1878,7 @@
             </entry>
           </row>
         </tbody>
+
 
 </tgroup>
 </table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1401348" summary="Six-column table of metric prefixes. Columns one through three list the prefixes symbols, and values to the positive powers of ten. Columns four through six list the prefixes symbols, and values to the negative powers of ten."><title>Metric Prefixes for Powers of Ten and Their Symbols</title>
@@ -2944,8 +2928,7 @@
 
 
 </tgroup>
-</table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1376084" summary="Four column table of SI Units. Column 1 serves to group the entries in the other three columns into three categories: Fundamental units, Supplementary units, and Derived units. Column two lists the Entity for each unit; column three the Abbreviation; column four the Name."><title>SI Units</title>
-<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+</table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1376084" summary="Four column table of SI Units. Column 1 serves to group the entries in the other three columns into three categories: Fundamental units, Supplementary units, and Derived units. Column two lists the Entity for each unit; column three the Abbreviation; column four the Name."><title>SI Units</title><tgroup cols="4"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
         <colspec colnum="3" colname="c3"/>
         <colspec colnum="4" colname="c4"/>
@@ -2959,7 +2942,7 @@
         </thead>
         <tbody>
           <row>
-            <entry>
+            <entry valign="middle" morerows="3">
               <emphasis>Fundamental units</emphasis>
             </entry>
             <entry>Length</entry>
@@ -2967,19 +2950,16 @@
             <entry>meter</entry>
           </row>
           <row>
-            <entry/>
             <entry>Mass</entry>
             <entry align="center">kg</entry>
             <entry>kilogram</entry>
           </row>
           <row>
-            <entry/>
             <entry>Time</entry>
             <entry align="center">s</entry>
             <entry>second</entry>
           </row>
           <row>
-            <entry/>
             <entry>Current</entry>
             <entry align="center">A</entry>
             <entry>ampere</entry>
@@ -2993,7 +2973,7 @@
             <entry>radian</entry>
           </row>
           <row>
-            <entry>
+            <entry valign="middle" morerows="10">
               <emphasis>Derived units</emphasis>
             </entry>
             <entry>Force</entry>
@@ -3030,7 +3010,6 @@
             <entry>newton</entry>
           </row>
           <row>
-            <entry/>
             <entry>Energy</entry>
             <entry>
               <m:math display="block">
@@ -3070,7 +3049,6 @@
             <entry>joule</entry>
           </row>
           <row>
-            <entry/>
             <entry>Power</entry>
             <entry>
               <m:math display="block">
@@ -3096,7 +3074,7 @@
             <entry>watt</entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>Pressure</entry>
             <entry>
               <m:math display="block">
@@ -3127,7 +3105,6 @@
             <entry>pascal</entry>
           </row>
           <row>
-            <entry/>
             <entry>Frequency</entry>
             <entry>
               <m:math display="block">
@@ -3153,7 +3130,7 @@
             <entry>hertz</entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>Electronic potential</entry>
             <entry>
               <m:math display="block">
@@ -3179,7 +3156,7 @@
             <entry>volt</entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>Capacitance</entry>
             <entry>
               <m:math display="block">
@@ -3205,7 +3182,7 @@
             <entry>farad</entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>Charge</entry>
             <entry>
               <m:math display="block">
@@ -3231,7 +3208,7 @@
             <entry>coulomb</entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>Resistance</entry>
             <entry>
               <m:math display="block">
@@ -3257,7 +3234,7 @@
             <entry>ohm</entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>Magnetic field</entry>
             <entry>
               <m:math display="block">
@@ -3289,7 +3266,7 @@
             <entry>tesla</entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>Nuclear decay rate</entry>
             <entry>
               <m:math display="block">
@@ -3315,14 +3292,18 @@
             <entry>becquerel</entry>
           </row>
         </tbody>
+
 </tgroup>
+
+
+
 </table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2371652" summary="Two-column table listing selected British units. Column 1 lists types of measurements. Column two contains equations for the conversion of British units to metric."><title>Selected British Units</title>
 <tgroup cols="2"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
        
         <tbody>
           <row>
-            <entry>Length</entry>
+            <entry valign="middle" morerows="2">Length</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -3355,7 +3336,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -3385,7 +3366,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+           
             <entry>
               <m:math>
                 <m:semantics>
@@ -3560,13 +3541,13 @@
 
 
 
+
 </tgroup>
-</table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1528540" summary="Two column table listing Other Units. Column one lists various types of measurements. Column two contains conversion equations between various units of measurement. Most of the entries in column one correspond to multiple rows in column two."><title>Other Units</title>
-<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+</table><table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1528540" summary="Two column table listing Other Units. Column one lists various types of measurements. Column two contains conversion equations between various units of measurement. Most of the entries in column one correspond to multiple rows in column two."><title>Other Units</title><tgroup cols="2"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
         <tbody>
           <row>
-            <entry>Length</entry>
+            <entry valign="middle" morerows="3">Length</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -3611,7 +3592,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+           
             <entry>
               <m:math>
                 <m:semantics>
@@ -3653,7 +3634,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -3684,7 +3665,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -3722,7 +3703,7 @@
             </entry>
           </row>
           <row>
-            <entry>Area</entry>
+            <entry valign="middle" morerows="2">Area</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -3768,7 +3749,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+           
             <entry>
               <m:math>
                 <m:semantics>
@@ -3823,7 +3804,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+           
             <entry>
               <m:math>
                 <m:semantics>
@@ -3866,7 +3847,7 @@
             </entry>
           </row>
           <row>
-            <entry>Volume</entry>
+            <entry valign="middle" morerows="1">Volume</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -3909,7 +3890,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+          
             <entry>
               <m:math>
                 <m:semantics>
@@ -3959,7 +3940,7 @@
             </entry>
           </row>
           <row>
-            <entry>Mass</entry>
+            <entry valign="middle" morerows="2">Mass</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -3997,7 +3978,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -4029,7 +4010,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -4074,7 +4055,7 @@
             </entry>
           </row>
           <row>
-            <entry>Time</entry>
+            <entry valign="middle" morerows="1">Time</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -4115,7 +4096,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -4148,7 +4129,7 @@
             </entry>
           </row>
           <row>
-            <entry>Speed</entry>
+            <entry valign="middle" morerows="1">Speed</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -4186,7 +4167,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+           
             <entry>
               <m:math>
                 <m:semantics>
@@ -4224,7 +4205,7 @@
             </entry>
           </row>
           <row>
-            <entry>Angle</entry>
+            <entry valign="middle" morerows="3">Angle</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -4268,7 +4249,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+          
             <entry>
               <m:math>
                 <m:semantics>
@@ -4306,7 +4287,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+          
             <entry>
               <m:math>
                 <m:semantics>
@@ -4350,7 +4331,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -4390,7 +4371,7 @@
             </entry>
           </row>
           <row>
-            <entry>Energy</entry>
+            <entry valign="middle" morerows="4">Energy</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -4432,7 +4413,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -4478,7 +4459,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+           
             <entry>
               <m:math>
                 <m:semantics>
@@ -4510,7 +4491,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+           
             <entry>
               <m:math>
                 <m:semantics>
@@ -4543,7 +4524,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -4588,7 +4569,7 @@
             </entry>
           </row>
           <row>
-            <entry>Pressure</entry>
+            <entry valign="middle" morerows="2">Pressure</entry>
             <entry>
               <m:math>
                 <m:semantics>
@@ -4629,7 +4610,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+           
             <entry>
               <m:math>
                 <m:semantics>
@@ -4665,7 +4646,7 @@
             </entry>
           </row>
           <row>
-            <entry/>
+            
             <entry>
               <m:math>
                 <m:semantics>
@@ -4748,6 +4729,7 @@
           </row>
         </tbody>
       
+
 
 
 

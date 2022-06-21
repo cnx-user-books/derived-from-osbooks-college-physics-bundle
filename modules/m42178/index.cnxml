@@ -13,11 +13,11 @@
 
 <content>
     <para id="import-auto-id3154073">Just by using our intuition, we can begin to see how rotational quantities like <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math>, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> are related to one another. For example, if a motorcycle wheel has a large angular acceleration for a fairly long time, it ends up spinning rapidly and rotates through many revolutions. In more technical terms, if the wheel’s angular acceleration <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> is large for a long period of time <m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, then the final angular velocity <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math> and angle of rotation <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math> are large. The wheel’s rotational motion is exactly analogous to the fact that the motorcycle’s large translational acceleration produces a large final velocity, and the distance traveled will also be large.</para><para id="import-auto-id1412967">Kinematics is the description of motion. The <term id="import-auto-id3025215">kinematics of rotational motion</term> describes the relationships among rotation angle, angular velocity, angular acceleration, and time. Let us start by finding an equation relating <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math>. To determine this equation, we recall a familiar kinematic equation for translational, or straight-line, motion:</para>
-    
+
     <equation id="eip-580"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -26,11 +26,11 @@
                     <m:mrow>
                       <m:msub>
                         <m:mi>v</m:mi>
-                        
+
                           <m:mrow>
                             <m:mn>0</m:mn>
                           </m:mrow>
-                        
+
                       </m:msub>
                       <m:mo stretchy="false">+</m:mo>
                       <m:mstyle fontstyle="italic">
@@ -47,16 +47,16 @@
                   <m:mo stretchy="false">)</m:mo>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{v=v rSub { size 8{0} } + ital "at""    " \[ "constant "a \] } {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id2009326">Note that in rotational motion <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">=</m:mo><m:msub><m:mi>a</m:mi><m:mrow><m:mtext>t</m:mtext></m:mrow></m:msub></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a=a rSub { size 8{t} } } {}</m:annotation></m:semantics></m:math>, and we shall use the symbol <m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> for tangential or linear acceleration from now on. As in linear kinematics, we assume <m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> is constant, which means that angular acceleration <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> is also a constant, because <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">rα</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a=rα} {}</m:annotation></m:semantics></m:math>. Now, let us substitute <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">rω</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v=rω} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">rα</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a=rα} {}</m:annotation></m:semantics></m:math> into the linear equation above:</para><equation id="eip-343"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mi fontstyle="italic">rω</m:mi>
@@ -64,30 +64,30 @@
                   <m:mrow>
                     <m:msub>
                       <m:mi fontstyle="italic">rω</m:mi>
-                      
+
                         <m:mrow>
                           <m:mn>0</m:mn>
                         </m:mrow>
-                      
+
                     </m:msub>
                     <m:mo stretchy="false">+</m:mo>
                     <m:mi fontstyle="italic">rαt</m:mi>
                   </m:mrow>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
 <m:mo>.</m:mo>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{rω=rω rSub { size 8{0} } +rαt} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id1894483">The radius <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> cancels in the equation, yielding</para>
-    
+
     <equation id="eip-323"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -96,16 +96,16 @@
                     <m:mrow>
                       <m:msub>
                         <m:mi>ω</m:mi>
-                        
+
                           <m:mrow>
                             <m:mn>0</m:mn>
                           </m:mrow>
-                        
+
                       </m:msub>
                       <m:mo stretchy="false">+</m:mo>
                       <m:mstyle fontstyle="italic">
                         <m:mrow>
-                          <m:mtext>at</m:mtext>
+                          <m:mtext>αt</m:mtext>
                         </m:mrow>
                       </m:mstyle>
                     </m:mrow>
@@ -113,17 +113,15 @@
                   <m:mtext>     </m:mtext>
                   <m:mo stretchy="false">(</m:mo>
                   <m:mtext>constant </m:mtext>
-                  <m:mi>a</m:mi>
+                  <m:mi>α</m:mi>
                   <m:mo stretchy="false">)</m:mo>
                   <m:mi>,</m:mi>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
-          </m:mrow>
-          <m:annotation encoding="StarMath 5.0"> size 12{ω=ω rSub { size 8{0} } + ital "at""    " \[ "constant "a \] ,} {}</m:annotation>
-        </m:semantics>
-      </m:math> 
+          </m:mrow></m:semantics>
+      </m:math>
     </equation><para id="import-auto-id1900500">where <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>ω</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math> is the initial angular velocity. This last equation is a <emphasis effect="italics">kinematic relationship</emphasis> among <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math> —that is, it describes their relationship without reference to forces or masses that may affect rotation. It is also precisely analogous in form to its translational counterpart. </para>
     <note id="fs-id3285965"><label/>
     <title>Making Connections</title>
@@ -132,7 +130,7 @@
 <tgroup cols="3"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
         <colspec colnum="3" colname="c3"/>
-        
+
         <thead><row>
             <entry align="center">
               Rotational
@@ -144,8 +142,8 @@
 <entry>
 </entry>
 
-           
-            
+
+
           </row>
 </thead>
 <tbody>
@@ -154,7 +152,7 @@
               <m:math display="block">
                 <m:semantics>
                   <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mi>θ</m:mi>
@@ -167,18 +165,18 @@
                           <m:mi>t</m:mi>
                         </m:mrow>
                       </m:mrow>
-                    
+
                     <m:mrow/>
                   </m:mrow>
                   <m:annotation encoding="StarMath 5.0"> size 12{θ= {overline  {ωt}} } {}</m:annotation>
                 </m:semantics>
-              </m:math> 
+              </m:math>
             </entry>
             <entry>
               <m:math display="block">
                 <m:semantics>
                   <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mrow>
@@ -192,12 +190,12 @@
                           <m:mi>t</m:mi>
                         </m:mrow>
                       </m:mrow>
-                    
+
                     <m:mrow/>
                   </m:mrow>
                   <m:annotation encoding="StarMath 5.0"> size 12{x= { bar  {v}}t} {}</m:annotation>
                 </m:semantics>
-              </m:math> 
+              </m:math>
             </entry>
             <entry/>
 
@@ -206,7 +204,7 @@
               <m:math display="block">
                 <m:semantics>
                   <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mi>ω</m:mi>
@@ -214,29 +212,29 @@
                           <m:mrow>
                             <m:msub>
                               <m:mi>ω</m:mi>
-                              
+
                                 <m:mrow>
                                   <m:mn>0</m:mn>
                                 </m:mrow>
-                              
+
                             </m:msub>
                             <m:mo stretchy="false">+</m:mo>
                             <m:mi fontstyle="italic">αt</m:mi>
                           </m:mrow>
                         </m:mrow>
                       </m:mrow>
-                    
+
                     <m:mrow/>
                   </m:mrow>
                   <m:annotation encoding="StarMath 5.0"> size 12{ω=ω rSub { size 8{0} } +αt} {}</m:annotation>
                 </m:semantics>
-              </m:math> 
+              </m:math>
             </entry>
             <entry>
               <m:math display="block">
                 <m:semantics>
                   <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mi>v</m:mi>
@@ -244,11 +242,11 @@
                           <m:mrow>
                             <m:msub>
                               <m:mi>v</m:mi>
-                              
+
                                 <m:mrow>
                                   <m:mn>0</m:mn>
                                 </m:mrow>
-                              
+
                             </m:msub>
                             <m:mo stretchy="false">+</m:mo>
                             <m:mstyle fontstyle="italic">
@@ -259,12 +257,12 @@
                           </m:mrow>
                         </m:mrow>
                       </m:mrow>
-                    
+
                     <m:mrow/>
                   </m:mrow>
                   <m:annotation encoding="StarMath 5.0"> size 12{v=v rSub { size 8{0} } + ital "at"} {}</m:annotation>
                 </m:semantics>
-              </m:math> 
+              </m:math>
             </entry>
             <entry>(constant <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math>) </entry>
 
@@ -273,7 +271,7 @@
               <m:math display="block">
                 <m:semantics>
                   <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mrow>
@@ -281,11 +279,11 @@
                             <m:mo stretchy="false">=</m:mo>
                             <m:msub>
                               <m:mi>ω</m:mi>
-                              
+
                                 <m:mrow>
                                   <m:mn>0</m:mn>
                                 </m:mrow>
-                              
+
                             </m:msub>
                           </m:mrow>
                           <m:mrow>
@@ -298,26 +296,26 @@
                           </m:mrow>
                           <m:msup>
                             <m:mi fontstyle="italic">αt</m:mi>
-                            
+
                               <m:mrow>
                                 <m:mn>2</m:mn>
                               </m:mrow>
-                            
+
                           </m:msup>
                         </m:mrow>
                       </m:mrow>
-                    
+
                     <m:mrow/>
                   </m:mrow>
                   <m:annotation encoding="StarMath 5.0"> size 12{θ=ω rSub { size 8{0} } t+ {  {1}  over  {2} } αt rSup { size 8{2} } } {}</m:annotation>
                 </m:semantics>
-              </m:math> 
+              </m:math>
             </entry>
             <entry>
               <m:math display="block">
                 <m:semantics>
                   <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mrow>
@@ -325,11 +323,11 @@
                             <m:mo stretchy="false">=</m:mo>
                             <m:msub>
                               <m:mi>v</m:mi>
-                              
+
                                 <m:mrow>
                                   <m:mn>0</m:mn>
                                 </m:mrow>
-                              
+
                             </m:msub>
                           </m:mrow>
                           <m:mrow>
@@ -340,7 +338,7 @@
                               <m:mn>2</m:mn>
                             </m:mfrac>
                           </m:mrow>
-                          
+
                             <m:mrow>
                               <m:msup><m:mstyle fontstyle="italic">
                                 <m:mtext>at</m:mtext>
@@ -348,18 +346,18 @@
                                   <m:mrow>
                                     <m:mn>2</m:mn>
                                   </m:mrow>
-                                
+
                               </m:msup>
                             </m:mrow>
-                       
+
                         </m:mrow>
                       </m:mrow>
-                    
+
                     <m:mrow/>
                   </m:mrow>
                   <m:annotation encoding="StarMath 5.0"> size 12{x=v rSub { size 8{0} } t+ {  {1}  over  {2} }  ital "at" rSup { size 8{2} } } {}</m:annotation>
                 </m:semantics>
-              </m:math> 
+              </m:math>
             </entry>
             <entry>(constant <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math>) </entry>
 
@@ -368,17 +366,17 @@
               <m:math display="block">
                 <m:semantics>
                   <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mrow>
                             <m:msup>
                               <m:mi>ω</m:mi>
-                              
+
                                 <m:mrow>
                                   <m:mn>2</m:mn>
                                 </m:mrow>
-                              
+
                             </m:msup>
                             <m:mo stretchy="false">=</m:mo>
                             <m:mrow><m:msup>
@@ -387,7 +385,7 @@
                                       <m:mn>0</m:mn>
                                       </m:msub>
                                           <m:mn>2</m:mn>
-                                
+
                               </m:msup>
                               <m:mo stretchy="false">+</m:mo>
                               <m:mn>2</m:mn>
@@ -400,28 +398,28 @@
                           </m:mstyle>
                         </m:mrow>
                       </m:mrow>
-                    
+
                     <m:mrow/>
                   </m:mrow>
                   <m:annotation encoding="StarMath 5.0"> size 12{ω rSup { size 8{2} } =ω rSub { size 8{0}   rSup { size 8{2} } } +2 ital "αθ"} {}</m:annotation>
                 </m:semantics>
-              </m:math> 
+              </m:math>
             </entry>
             <entry>
               <m:math display="block">
                 <m:semantics>
                   <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mrow>
                             <m:msup>
                               <m:mi>v</m:mi>
-                              
+
                                 <m:mrow>
                                   <m:mn>2</m:mn>
                                 </m:mrow>
-                              
+
                             </m:msup>
                             <m:mo stretchy="false">=</m:mo>
                             <m:mrow><m:msup>
@@ -429,7 +427,7 @@
                                 <m:mi>v</m:mi>
                                       <m:mn>0</m:mn></m:msub>
                                           <m:mn>2</m:mn>
-                                
+
                               </m:msup>
                               <m:mo stretchy="false">+</m:mo>
                               <m:mn>2</m:mn>
@@ -444,12 +442,12 @@
                       </m:mrow>
                   </m:mrow>
                 </m:semantics>
-              </m:math> 
+              </m:math>
             </entry>
             <entry>(constant <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow></m:mrow></m:semantics></m:math>) </entry>
 
           </row></tbody>
-      
+
 
 
 
@@ -468,7 +466,7 @@
 </table><para id="import-auto-id1930347">In these equations, the subscript 0 denotes initial values (<sub><m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>θ</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math></sub>, <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math>, and <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math> are initial values), and the average angular velocity <m:math><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>ω</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {ω}}} {}</m:annotation></m:semantics></m:math> and average velocity <m:math><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {v}}} {}</m:annotation></m:semantics></m:math> are defined as follows:</para><equation id="eip-900"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -481,11 +479,11 @@
                       <m:mrow>
                         <m:msub>
                           <m:mi>ω</m:mi>
-                          
+
                             <m:mrow>
                               <m:mn>0</m:mn>
                             </m:mrow>
-                          
+
                         </m:msub>
                         <m:mo stretchy="false">+</m:mo>
                         <m:mi>ω</m:mi>
@@ -504,11 +502,11 @@
                       <m:mrow>
                         <m:msub>
                           <m:mi>v</m:mi>
-                          
+
                             <m:mrow>
                               <m:mn>0</m:mn>
                             </m:mrow>
-                          
+
                         </m:msub>
                         <m:mo stretchy="false">+</m:mo>
                         <m:mi>v</m:mi>
@@ -517,17 +515,17 @@
                     </m:mfrac>
                   </m:mrow>
 <m:mo>.</m:mo>
-              
-                  
+
+
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
 
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{ {overline  {ω}} = {  {ω rSub { size 8{0} } +ω}  over  {2} } " and " {overline  {v}} = {  {v rSub { size 8{0} } +v}  over  {2} } "   " \( "constant "α, a \) } {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id1871596">The equations given above in <link target-id="import-auto-id3400476"/> can be used to solve any rotational or translational kinematics problem in which <m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> are constant.</para><note id="fs-id2969137"><label/>
     <title>Problem-Solving Strategy for Rotational Kinematics</title>
     <list id="fs-id3007376" list-type="enumerated" number-style="arabic"><item id="import-auto-id2688094"><emphasis effect="italics">Examine the situation to determine that rotational kinematics (rotational motion) is involved</emphasis>. Rotation must be involved, but without the need to consider forces or masses that affect the motion.</item>
@@ -544,7 +542,7 @@
             <para id="fs-id3137559">(c) How many revolutions does the reel make?</para>
     <para id="import-auto-id3202953">(d) How many meters of fishing line come off the reel in this time?</para>
     <para id="import-auto-id2041697">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id3104433">In each part of this example, the strategy is the same as it was for solving problems in linear kinematics. In particular, known values are identified and a relationship is then sought that can be used to solve for the unknown.</para>
     <para id="import-auto-id2602056">
@@ -552,11 +550,11 @@
     </para>
     <para id="import-auto-id2207403">Here <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> are given and <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math> needs to be determined. The most straightforward equation to use is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>ω</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mi fontstyle="italic">αt</m:mi></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω=ω rSub { size 8{0} } +αt} {}</m:annotation></m:semantics></m:math> because the unknown is already on one side and all other terms are known. That equation states that</para><equation id="eip-826"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>ω</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mi fontstyle="italic">αt</m:mi></m:mrow></m:mrow></m:mrow>
 <m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω=ω rSub { size 8{0} } +αt"."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1409559">We are also given that <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>ω</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω rSub { size 8{0} } =0} {}</m:annotation></m:semantics></m:math> (it starts from rest), so that</para>
-    
+
     <equation id="eip-74"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mtext>110</m:mtext><m:mspace width="0.25em"/><m:msup><m:mtext> rad/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mfenced></m:mrow></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mtext>00</m:mtext><m:mtext> s</m:mtext></m:mrow></m:mfenced><m:mo stretchy="false">=</m:mo><m:mtext>220</m:mtext></m:mrow><m:mspace width="0.25em"/><m:mtext>rad/s</m:mtext></m:mrow></m:mrow>
-<m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω=0+ left ("110"" rad/s" rSup { size 8{2} }  right ) left (2 "." "00"" s" right )="220 rad/s."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1998248"><emphasis>Solution for (b) </emphasis></para>
+<m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω=0+ left ("110"" rad/s" rSup { size 8{2} }  right ) left (2 "." "00"" s" right )="220 rad/s."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1998248"><title>Solution for (b) </title></para>
         <para id="fs-id1608930">Now that <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math> is known, the speed <m:math><m:semantics><m:mrow><m:mrow><m:mi>v</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation></m:semantics></m:math> can most easily be found using the relationship</para>
-    
+
     <equation id="eip-825"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">rω</m:mi></m:mrow></m:mrow>
 <m:mtext>,</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v=rω","} {}</m:annotation></m:semantics></m:math> </equation><para id="import-auto-id2397794">where the radius <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> of the reel is given to be 4.50 cm; thus,</para><equation id="eip-147"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>0450 m</m:mtext></m:mrow></m:mfenced></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>220 rad/s</m:mtext></m:mrow></m:mfenced><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>90 m/s.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v= left (0 "." "0450"" m" right ) left ("220"" rad/s" right )=9 "." "90"" m/s."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2991952">Note again that radians must always be used in any calculation relating linear and angular quantities. Also, because radians are dimensionless, we have <m:math>
         <m:semantics>
@@ -587,7 +585,7 @@
                 <m:mtr><m:mtd>                            <m:mi>θ</m:mi></m:mtd>
 <m:mtd>                            <m:mo stretchy="false">=</m:mo></m:mtd>
 <m:mtd>                  <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mrow>
@@ -595,11 +593,11 @@
 
                             <m:msub>
                               <m:mi>ω</m:mi>
-                              
+
                                 <m:mrow>
                                   <m:mn>0</m:mn>
                                 </m:mrow>
-                              
+
                             </m:msub>
                           </m:mrow>
                           <m:mrow>
@@ -612,15 +610,15 @@
                           </m:mrow>
                           <m:msup>
                             <m:mi fontstyle="italic">αt</m:mi>
-                            
+
                               <m:mrow>
                                 <m:mn>2</m:mn>
                               </m:mrow>
-                            
+
                           </m:msup>
                         </m:mrow>
                       </m:mrow>
-                    
+
                     <m:mrow/>
                   </m:mrow></m:mtd>
                 </m:mtr>
@@ -644,11 +642,11 @@
                         <m:mtext>110</m:mtext><m:mspace width="0.25em"/>
                         <m:msup>
                           <m:mtext> rad/s</m:mtext>
-                          
+
                             <m:mrow>
                               <m:mn>2</m:mn>
                             </m:mrow>
-                          
+
                         </m:msup>
                       </m:mrow>
                     </m:mfenced>
@@ -659,11 +657,11 @@
                             <m:mtext>2.00 s</m:mtext>
                           </m:mrow>
                         </m:mfenced>
-                        
+
                           <m:mrow>
                             <m:mn>2</m:mn>
                           </m:mrow>
-                        
+
                       </m:msup>
                       <m:mo stretchy="false">=</m:mo>
                       <m:mtext>220 rad</m:mtext>
@@ -678,20 +676,20 @@
             </m:mrow>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0">alignl { stack {
- size 12{θ=ω rSub { size 8{0} } t+ {  {1}  over  {2} } αt rSup { size 8{2} } }  {} # 
-"   "=0+ left (0 "." "500" right ) left ("110"" rad/s" rSup { size 8{2} }  right ) left (2 "." "00"" s" right ) rSup { size 8{2} } ="220"" rad" {} 
+ size 12{θ=ω rSub { size 8{0} } t+ {  {1}  over  {2} } αt rSup { size 8{2} } }  {} #
+"   "=0+ left (0 "." "500" right ) left ("110"" rad/s" rSup { size 8{2} }  right ) left (2 "." "00"" s" right ) rSup { size 8{2} } ="220"" rad" {}
 } } {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id2672816">Converting radians to revolutions gives</para>
-    
-    <equation id="eip-689"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">=</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mtext>220 rad</m:mtext></m:mrow></m:mfenced></m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>1 rev</m:mtext></m:mrow><m:mrow><m:mtext>2π rad</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>35.0 rev.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ= left ("220"" rad" right ) {  {1" rev"}  over  {2π" rad"} } ="35" "." 0" rev."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id3079605"><emphasis>Solution for (d)</emphasis></para>
+
+    <equation id="eip-689"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">=</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mtext>220 rad</m:mtext></m:mrow></m:mfenced></m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>1 rev</m:mtext></m:mrow><m:mrow><m:mtext>2π rad</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>35.0 rev.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ= left ("220"" rad" right ) {  {1" rev"}  over  {2π" rad"} } ="35" "." 0" rev."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id3079605"><title>Solution for (d)</title></para>
             <para id="fs-id2407432">The number of meters of fishing line is <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>, which can be obtained through its relationship with <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math>:</para>
-    
+
     <equation id="eip-665"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -714,46 +712,46 @@
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{x=rθ= left (0 "." "0450"" m" right ) left ("220"" rad" right )=9 "." "90"" m"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id3027989">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id2673863">This example illustrates that relationships among rotational quantities are highly analogous to those among linear quantities. We also see in this example how linear and rotational quantities are connected. The answers to the questions are realistic. After unwinding for two seconds, the reel is found to spin at 220 rad/s, which is 2100 rpm. (No wonder reels sometimes make high-pitched sounds.) The amount of fishing line played out is 9.90 m, about right for when the big fish bites.</para></example>
 <figure id="import-auto-id2953309"><media id="import-auto-id1427207" alt="The figure shows a fishing reel, with radius equal to 4.5 centimeters. The direction of rotation of the reel is counterclockwise. The rotational quantities are theta, omega and alpha, and x, v, a are linear or translational quantities. The reel, fishing line, and the direction of motion have been separately indicated by curved arrows pointing toward those parts.">
         <image mime-type="image/jpg" src="../../media/Figure_11_02_01a.jpg" width="275"/>
       </media>
-      
+
     <caption>Fishing line coming off a rotating reel moves linearly. <link target-id="fs-id3120029"/> and <link target-id="fs-id2396484"/> consider relationships between rotational and linear quantities associated with a fishing reel.</caption></figure><example id="fs-id2396484">
     <title>Calculating the Duration When the Fishing Reel Slows Down and Stops</title>
     <para id="import-auto-id1824438">Now let us consider what happens if the fisherman applies a brake to the spinning reel, achieving an angular acceleration of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo>–</m:mo><m:mtext>300</m:mtext><m:mspace width="0.25em"/><m:msup><m:mtext>rad/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"300"`"rad/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. How long does it take the reel to come to a stop?</para><para id="import-auto-id1411290">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id1429758">We are asked to find the time <m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> for the reel to come to a stop. The initial and final conditions are different from those in the previous problem, which involved the same fishing reel. Now we see that the initial angular velocity is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>ω</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">=</m:mo><m:mtext>220 rad/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω rSub { size 8{0} } ="220"" rad/s"} {}</m:annotation></m:semantics></m:math> and the final angular velocity <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math> is zero. The angular acceleration is given to be <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>α</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>300</m:mtext><m:mspace width="0.25em"/></m:mrow></m:mrow><m:msup><m:mtext>rad/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α= - "300" "rad/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. Examining the available equations, we see all quantities but <emphasis effect="italics">t</emphasis> are known in <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>ω</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mi fontstyle="italic">αt</m:mi><m:mo>,</m:mo></m:mrow></m:mrow></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω=ω rSub { size 8{0} } +αt} {}</m:annotation></m:semantics></m:math> making it easiest to use this equation.</para><para id="import-auto-id2931320">
       <emphasis>Solution</emphasis>
     </para>
     <para id="import-auto-id2442493">The equation states</para>
-    
+
     <equation id="eip-736"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>ω</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mi fontstyle="italic">αt</m:mi></m:mrow></m:mrow></m:mrow>
 <m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω=ω rSub { size 8{0} } +αt"."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1366643">We solve the equation algebraically for <emphasis effect="italics">t</emphasis>, and then substitute the known values as usual, yielding</para><equation id="eip-309"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">−</m:mo><m:msub><m:mi>ω</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mi>α</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>220 rad/s</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>300</m:mtext><m:mspace width="0.25em"/><m:msup><m:mtext>rad/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>733 s.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t= {  {ω - ω rSub { size 8{0} } }  over  {α} } = {  {0 - "220"" rad/s"}  over  { - "300""rad/s" rSup { size 8{2} } } } =0 "." "733"" s."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1578067">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id2659816">Note that care must be taken with the signs that indicate the directions of various quantities. Also, note that the time to stop the reel is fairly small because the acceleration is rather large. Fishing lines sometimes snap because of the accelerations involved, and fishermen often let the fish swim for a while before applying brakes on the reel. A tired fish will be slower, requiring a smaller acceleration.</para>
     </example>
     <example id="fs-id1537945">
     <title>Calculating the Slow Acceleration of Trains and Their Wheels</title>
     <para id="import-auto-id2025069">Large freight trains accelerate very slowly. Suppose one such train accelerates from rest, giving its 0.350-m-radius wheels an angular acceleration of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>250</m:mtext><m:mspace width="0.25em"/><m:msup><m:mtext>rad/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "250"`"rad/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. After the wheels have made 200 revolutions (assume no slippage): (a) How far has the train moved down the track? (b) What are the final angular velocity of the wheels and the linear velocity of the train?</para><para id="import-auto-id1930941">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id3341027">In part (a), we are asked to find <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>, and in (b) we are asked to find <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mi>v</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation></m:semantics></m:math>. We are given the number of revolutions <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math>, the radius of the wheels <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, and the angular acceleration <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>.</para>
     <para id="import-auto-id2970156">
       <emphasis>Solution for (a)</emphasis>
     </para>
     <para id="import-auto-id3063862">The distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> is very easily found from the relationship between distance and rotation angle:</para>
-    
+
     <equation id="eip-36"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mi>θ</m:mi>
@@ -764,21 +762,21 @@
                   </m:mfrac>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
 <m:mo>.</m:mo>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{θ= {  {x}  over  {r} } } {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id3103949">Solving this equation for <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> yields</para>
-    
+
     <equation id="eip-53"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">rθ.</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=rθ.} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1019355">Before using this equation, we must convert the number of revolutions into radians, because we are dealing with a relationship between linear and rotational quantities:</para>
-    
+
     <equation id="eip-915"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -805,19 +803,19 @@
                   <m:mtext>rad</m:mtext>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
 <m:mo>.</m:mo>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{θ= left ("200"" rev" right ) {  {2π" rad"}  over  {"1 rev"} } ="1257"" rad"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id1859866">Now we can substitute the known values into <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">rθ</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=rθ} {}</m:annotation></m:semantics></m:math> to find the distance the train moved down the track:</para>
-    
+
     <equation id="eip-271"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -845,13 +843,13 @@
                   <m:mtext> m</m:mtext>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
 <m:mo>.</m:mo>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{x=rθ= left (0 "." "350"`m right ) left ("1257"" rad" right )="440"" m"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id969001">
       <emphasis>Solution for (b)</emphasis>
     </para>
@@ -866,7 +864,7 @@
 <m:mtd>                            <m:mo stretchy="false">=</m:mo></m:mtd>
 <m:mtd>
                   <m:mrow>
-                    
+
                       <m:mrow>
                         <m:mrow>
                           <m:mrow>
@@ -886,11 +884,11 @@
                                   <m:mtext>250</m:mtext>
                                   <m:msup>
                                     <m:mtext> rad/s</m:mtext>
-                                    
+
                                       <m:mrow>
                                         <m:mn>2</m:mn>
                                       </m:mrow>
-                                    
+
                                   </m:msup>
                                   <m:mo stretchy="false">)</m:mo>
                                   <m:mo stretchy="false">(</m:mo>
@@ -899,7 +897,7 @@
                                   <m:mo stretchy="false">)</m:mo>
                                 </m:mrow>
                               </m:mfenced>
-                              
+
                                 <m:mrow>
                                   <m:mrow>
                                     <m:mn>1</m:mn>
@@ -907,13 +905,13 @@
                                     <m:mn>2</m:mn>
                                   </m:mrow>
                                 </m:mrow>
-                              
+
                             </m:msup>
                           </m:mrow>
-                          
+
                         </m:mrow>
                       </m:mrow>
-                    
+
                     <m:mrow/>
 
                   </m:mrow></m:mtd>
@@ -929,17 +927,17 @@
             </m:mrow>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0">alignl { stack {
- size 12{ω= left [0+2 \( 0 "." "250"" rad/s" rSup { size 8{2} }  \)  \( "1257"" rad" \)  right ] rSup { size 8{1/2} }  "." }  {} # 
-="25" "." 1" rad/s" {} 
+ size 12{ω= left [0+2 \( 0 "." "250"" rad/s" rSup { size 8{2} }  \)  \( "1257"" rad" \)  right ] rSup { size 8{1/2} }  "." }  {} #
+="25" "." 1" rad/s" {}
 } } {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id1405914">We can find the linear velocity of the train, <m:math><m:semantics><m:mrow><m:mrow><m:mi>v</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation></m:semantics></m:math>, through its relationship to <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math>:</para>
-    
+
     <equation id="eip-84"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -968,20 +966,20 @@
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{v=rω= left (0 "." "350"" m" right ) left ("25" "." 1" rad/s" right )=8 "." "77"" m/s"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id3154421">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id3165246">The distance traveled is fairly large and the final velocity is fairly slow (just under 32 km/h).</para>
     </example>
     <para id="import-auto-id742532">There is translational motion even for something spinning in place, as the following example illustrates. <link target-id="import-auto-id2409927"/> shows a fly on the edge of a rotating microwave oven plate. The example below calculates the total distance it travels.</para><figure id="import-auto-id2409927"><media id="import-auto-id2973616" alt="The figure shows a fly that has landed on the rotating plate of the microwave. The direction of rotation of the plate, omega, is counterclockwise and is shown with an arrow.">
         <image mime-type="image/jpg" src="../../media/Figure_11_02_02a.jpg" width="250"/>
       </media>
-      
+
     <caption>The image shows a microwave plate. The fly makes revolutions while the food is heated (along with the fly).</caption></figure><example id="fs-id2666600">
     <title>Calculating the Distance Traveled by a Fly on the Edge of a Microwave Oven Plate</title>
     <para id="import-auto-id2671466">A person decides to use a microwave oven to reheat some lunch. In the process, a fly accidentally flies into the microwave and lands on the outer edge of the rotating plate and remains there. If the plate has a radius of 0.15 m and rotates at 6.0 rpm, calculate the total distance traveled by the fly during a 2.0-min cooking period. (Ignore the start-up and slow-down times.)</para><para id="import-auto-id2407243">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id2000742">First, find the total number of revolutions <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math>, and then the linear distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> traveled. <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">=</m:mo><m:mover accent="true"><m:mi fontstyle="italic">ω</m:mi><m:mo>¯</m:mo></m:mover><m:mi>t</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ= {overline  {ωt}} } {}</m:annotation></m:semantics></m:math> can be used to find <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math> because <m:math>
         <m:semantics>
@@ -1001,11 +999,11 @@
       <emphasis>Solution</emphasis>
     </para>
     <para id="import-auto-id2612992">Entering known values into <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">=</m:mo><m:mover accent="true"><m:mi fontstyle="italic">ω</m:mi><m:mo>¯</m:mo></m:mover><m:mi>t</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ= {overline  {ωt}} } {}</m:annotation></m:semantics></m:math> gives</para><equation id="eip-477"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">=</m:mo><m:mover accent="true"><m:mi>ω</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">=</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mtext>6.0 rpm</m:mtext></m:mrow></m:mfenced></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>2.0 min</m:mtext></m:mrow></m:mfenced><m:mo stretchy="false">=</m:mo><m:mtext>12 rev</m:mtext></m:mrow></m:mrow><m:mo>.</m:mo><m:mrow/></m:mrow></m:semantics></m:math></equation><para id="import-auto-id2604731">As always, it is necessary to convert revolutions to radians before calculating a linear quantity like <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> from an angular quantity like <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math>:</para><equation id="eip-745"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">=</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mtext>12 rev</m:mtext></m:mrow></m:mfenced></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:mspace width="0.25em"/><m:mtext> rad</m:mtext></m:mrow><m:mtext>1 rev</m:mtext></m:mfrac></m:mfenced><m:mo stretchy="false">=</m:mo><m:mtext>75</m:mtext></m:mrow><m:mtext>.4 rad.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ= left ("12"" rev" right ) left ( {  {2π" rad"}  over  {"1 rev"} }  right )="75" "." 4" rad"} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2932244">Now, using the relationship between <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math>, we can determine the distance traveled:</para>
-    
+
     <equation id="eip-624"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -1044,9 +1042,9 @@
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{x=rθ= left (0 "." "15"" m" right ) left ("75" "." 4" rad" right )="11" "." 3" m"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation><para id="import-auto-id2209635">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id1427658">Quite a trip (if it survives)! Note that this distance is the total distance traveled by the fly. Displacement is actually zero for complete revolutions because they bring the fly back to its original position. The distinction between total distance traveled and displacement was first noted in <link document="m42122">One-Dimensional Kinematics</link>.</para></example>
     <exercise id="fs-id3076176" type="Check-Understanding">
@@ -1063,7 +1061,7 @@
     <equation id="eip-462"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -1076,11 +1074,11 @@
                       <m:mrow>
                         <m:msub>
                           <m:mi>ω</m:mi>
-                          
+
                             <m:mrow>
                               <m:mn>0</m:mn>
                             </m:mrow>
-                          
+
                         </m:msub>
                         <m:mo stretchy="false">+</m:mo>
                         <m:mi>ω</m:mi>
@@ -1099,11 +1097,11 @@
                       <m:mrow>
                         <m:msub>
                           <m:mi>v</m:mi>
-                          
+
                             <m:mrow>
                               <m:mn>0</m:mn>
                             </m:mrow>
-                          
+
                         </m:msub>
                         <m:mo stretchy="false">+</m:mo>
                         <m:mi>v</m:mi>
@@ -1114,12 +1112,12 @@
 <m:mo>.</m:mo>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{ {overline  {ω}} = {  {ω rSub { size 8{0} } +ω}  over  {2} } " and " {overline  {v}} = {  {v rSub { size 8{0} } +v}  over  {2} } "   " \( "constant "α, a \) } {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </equation></item>
     </list></section><section id="fs-id1335002" type="problems-exercises" class="problems-exercises">
     <title>Problems &amp; Exercises</title>
@@ -1132,7 +1130,7 @@
            <problem id="fs-id2669165"><para id="fs-id2669166">Suppose a piece of dust finds itself on a CD. If the spin rate of the CD is 500 rpm, and the piece of dust is 4.3 cm from the center, what is the total distance traveled by the dust in 3 minutes? (Ignore accelerations due to getting the CD rotating.)</para></problem></exercise>
         <exercise id="fs-id2673238" type="problems-exercises">
             <problem id="fs-id1229369">
-                <para id="fs-id3094846">A gyroscope slows from an initial rate of 32.0 rad/s at a rate of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>700</m:mtext><m:mi/><m:msup><m:mtext> rad/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "700"`"rad/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para><para id="fs-id3095627">(a) How long does it take to come to rest?</para> 
+                <para id="fs-id3094846">A gyroscope slows from an initial rate of 32.0 rad/s at a rate of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>700</m:mtext><m:mi/><m:msup><m:mtext> rad/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "700"`"rad/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para><para id="fs-id3095627">(a) How long does it take to come to rest?</para>
             <para id="fs-id3006987">(b) How many revolutions does it make before stopping?</para>
             </problem>
             <solution id="fs-id3245914">
@@ -1142,17 +1140,17 @@
             <exercise id="fs-id3055432" type="problems-exercises">
                 <problem id="fs-id1374452">
                     <para id="fs-id1420807">During a very quick stop, a car decelerates at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>00</m:mtext><m:mi/><m:msup><m:mtext> m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "00"`"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para>
-                    <para id="fs-id1411004">(a) What is the angular acceleration of its 0.280-m-radius tires, assuming they do not slip on the pavement?</para><para id="fs-id3142909">(b) How many revolutions do the tires make before coming to rest, given their initial angular velocity is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>95</m:mtext><m:mtext>.</m:mtext><m:mn>0</m:mn><m:mi/><m:mtext> rad/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"95" "." 0`"rad/s"} {}</m:annotation></m:semantics></m:math>?</para> 
-                    <para id="fs-id1402031">(c) How long does the car take to stop completely?</para> 
+                    <para id="fs-id1411004">(a) What is the angular acceleration of its 0.280-m-radius tires, assuming they do not slip on the pavement?</para><para id="fs-id3142909">(b) How many revolutions do the tires make before coming to rest, given their initial angular velocity is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>95</m:mtext><m:mtext>.</m:mtext><m:mn>0</m:mn><m:mi/><m:mtext> rad/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"95" "." 0`"rad/s"} {}</m:annotation></m:semantics></m:math>?</para>
+                    <para id="fs-id1402031">(c) How long does the car take to stop completely?</para>
                     <para id="fs-id1395221">(d) What distance does the car travel in this time?</para>
-                    <para id="fs-id1859867">(e) What was the car’s initial velocity?</para> 
+                    <para id="fs-id1859867">(e) What was the car’s initial velocity?</para>
                     <para id="fs-id2611430">(f) Do the values obtained seem reasonable, considering that this stop happens very quickly?</para>
-                
-    
+
+
     <figure id="import-auto-id2398786"><media id="import-auto-id3077847" alt="The figure shows the left arm of a man with tattoo imprints and wearing a glove. He is circulating a yo-yo toy, which is in mid air and connected by the string to his hand. Some people are standing in the background watching the yo-yo trick.">
         <image mime-type="image/png" src="../../media/Figure_11_02_03a.jpg" width="225"/>
       </media>
-      
+
     <caption>Yo-yos are amusing toys that display significant physics and are engineered to enhance performance based on physical laws. (credit: Beyond Neon, Flickr)</caption></figure></problem>
             </exercise>
         <exercise id="fs-id2972882" type="problems-exercises">

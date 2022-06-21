@@ -12,29 +12,29 @@
 </metadata>
 
 <content>
-    
+
     <figure id="import-auto-id2957598"><media id="import-auto-id3099136" alt="An old rusted double-pan balance is shown with a weighing stone on one pan.">
         <image mime-type="image/jpg" src="../../media/Figure_01_03_01.jpg" width="350"/>
       </media>
-      
+
     <caption>A double-pan mechanical balance is used to compare different masses. Usually an object with unknown mass is placed in one pan and objects of known mass are placed in the other pan. When the bar that connects the two pans is horizontal, then the masses in both pans are equal. The “known masses” are typically metal cylinders of standard mass such as 1 gram, 10 grams, and 100 grams. (credit: Serge Melki)</caption></figure><figure id="import-auto-id1580212"><media id="import-auto-id2507442" alt="A digital analytical balance.">
         <image mime-type="image/jpg" src="../../media/Figure_01_03_02.jpg" height="250"/>
       </media>
-      
+
     <caption>Many mechanical balances, such as double-pan balances, have been replaced by digital scales, which can typically measure the mass of an object more precisely. Whereas a mechanical balance may only read the mass of an object to the nearest tenth of a gram, many digital scales can measure the mass of an object up to the nearest thousandth of a gram. (credit: Karel Jakubec)</caption></figure><section id="fs-id2526780">
     <title>Accuracy and Precision of a Measurement</title>
-    <para id="import-auto-id2581406">Science is based on observation and experiment—that is, on measurements. <term id="import-auto-id2543264">Accuracy</term> is how close a measurement is to the correct value for that measurement. For example, let us say that you are measuring the length of standard computer paper. The packaging in which you purchased the paper states that it is 11.0 inches long. You measure the length of the paper three times and obtain the following measurements: 11.1 in., 11.2 in., and 10.9 in. These measurements are quite accurate because they are very close to the correct value of 11.0 inches. In contrast, if you had obtained a measurement of 12 inches, your measurement would not be very accurate.</para><para id="import-auto-id1380610">The <term id="import-auto-id2607150">precision</term> of a measurement system is refers to how close the agreement is between repeated measurements (which are repeated under the same conditions). Consider the example of the paper measurements. The precision of the measurements refers to the spread of the measured values. One way to analyze the precision of the measurements would be to determine the range, or difference, between the lowest and the highest measured values. In that case, the lowest value was 10.9 in. and the highest value was 11.2 in. Thus, the measured values deviated from each other by at most 0.3 in. These measurements were relatively precise because they did not vary too much in value. However, if the measured values had been 10.9, 11.1, and 11.9, then the measurements would not be very precise because there would be significant variation from one measurement to another.</para><para id="import-auto-id1598785">The measurements in the paper example are both accurate and precise, but in some cases, measurements are accurate but not precise, or they are precise but not accurate. Let us consider an example of a GPS system that is attempting to locate the position of a restaurant in a city. Think of the restaurant location as existing at the center of a bull’s-eye target, and think of each GPS attempt to locate the restaurant as a black dot. In <link target-id="import-auto-id2575847"/>, you can see that the GPS measurements are spread out far apart from each other, but they are all relatively close to the actual location of the restaurant at the center of the target. This indicates a low precision, high accuracy measuring system. However, in <link target-id="import-auto-id2985544"/>, the GPS measurements are concentrated quite closely to one another, but they are far away from the target location. This indicates a high precision, low accuracy measuring system.</para><figure id="import-auto-id2575847"><media id="import-auto-id2712445" alt="A pattern similar to a dart board with few concentric circles shown in white color on a red background. In the innermost circle, there are four black points on the circumference showing the positions of a restaurant. They are far apart from each other.">
+    <para id="import-auto-id2581406">Science is based on observation and experiment—that is, on measurements. <term id="import-auto-id2543264">Accuracy</term> is how close a measurement is to the correct value for that measurement. For example, let us say that you are measuring the length of standard computer paper. The packaging in which you purchased the paper states that it is 11.0 inches long. You measure the length of the paper three times and obtain the following measurements: 11.1 in., 11.2 in., and 10.9 in. These measurements are quite accurate because they are very close to the correct value of 11.0 inches. In contrast, if you had obtained a measurement of 12 inches, your measurement would not be very accurate.</para><para id="import-auto-id1380610">The <term id="import-auto-id2607150">precision</term> of a measurement system refers to how close the agreement is between repeated measurements (which are repeated under the same conditions). Consider the example of the paper measurements. The precision of the measurements refers to the spread of the measured values. One way to analyze the precision of the measurements would be to determine the range, or difference, between the lowest and the highest measured values. In that case, the lowest value was 10.9 in. and the highest value was 11.2 in. Thus, the measured values deviated from each other by at most 0.3 in. These measurements were relatively precise because they did not vary too much in value. However, if the measured values had been 10.9, 11.1, and 11.9, then the measurements would not be very precise because there would be significant variation from one measurement to another.</para><para id="import-auto-id1598785">The measurements in the paper example are both accurate and precise, but in some cases, measurements are accurate but not precise, or they are precise but not accurate. Let us consider an example of a GPS system that is attempting to locate the position of a restaurant in a city. Think of the restaurant location as existing at the center of a bull’s-eye target, and think of each GPS attempt to locate the restaurant as a black dot. In <link target-id="import-auto-id2575847"/>, you can see that the GPS measurements are spread out far apart from each other, but they are all relatively close to the actual location of the restaurant at the center of the target. This indicates a low precision, high accuracy measuring system. However, in <link target-id="import-auto-id2985544"/>, the GPS measurements are concentrated quite closely to one another, but they are far away from the target location. This indicates a high precision, low accuracy measuring system.</para><figure id="import-auto-id2575847"><media id="import-auto-id2712445" alt="A pattern similar to a dart board with few concentric circles shown in white color on a red background. In the innermost circle, there are four black points on the circumference showing the positions of a restaurant. They are far apart from each other.">
         <image mime-type="image/jpg" src="../../media/Figure_01_03_03.jpg" height="175"/>
       </media>
-      
+
     <caption>A GPS system attempts to locate a restaurant at the center of the bull’s-eye. The black dots represent each attempt to pinpoint the location of the restaurant. The dots are spread out quite far apart from one another, indicating low precision, but they are each rather close to the actual location of the restaurant, indicating high accuracy. (credit: Dark Evil)</caption></figure><figure id="import-auto-id2985544"><media id="import-auto-id2630059" alt="A pattern similar to a dart board with a few concentric circles shown in white color on a red background. Near the outermost white circles there are four black points showing the positions of a restaurant. The black points are very close to each other.">
         <image mime-type="image/jpg" src="../../media/Figure_01_03_04.jpg" height="175"/>
       </media>
-      
+
     <caption>In this figure, the dots are concentrated rather closely to one another, indicating high precision, but they are rather far away from the actual location of the restaurant, indicating low accuracy. (credit: Dark Evil)</caption></figure></section>
 <section id="fs-id1954653">
       <title>Accuracy, Precision, and Uncertainty</title>
-    <para id="import-auto-id1992946">The degree of accuracy and precision of a measuring system are related to the <term id="import-auto-id1745835">uncertainty</term> in the measurements. Uncertainty is a quantitative measure of how much your measured values deviate from a standard or expected value. If your measurements are not very accurate or precise, then the uncertainty of your values will be very high. In more general terms, uncertainty can be thought of as a disclaimer for your measured values. For example, if someone asked you to provide the mileage on your car, you might say that it is 45,000 miles, plus or minus 500 miles. The plus or minus amount is the uncertainty in your value. That is, you are indicating that the actual mileage of your car might be as low as 44,500 miles or as high as 45,500 miles, or anywhere in between. All measurements contain some amount of uncertainty. In our example of measuring the length of the paper, we might say that the length of the paper is 11 in., plus or minus 0.2 in. The uncertainty in a measurement, <m:math><m:semantics><m:mrow><m:mrow><m:mi>A</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation></m:semantics></m:math>, is often denoted as <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi fontstyle="italic">δA</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δA} {}</m:annotation></m:semantics></m:math></emphasis> (“delta <m:math><m:semantics><m:mrow><m:mrow><m:mi>A</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation></m:semantics></m:math>”), so the measurement result would be recorded as 
+    <para id="import-auto-id1992946">The degree of accuracy and precision of a measuring system are related to the <term id="import-auto-id1745835">uncertainty</term> in the measurements. Uncertainty is a quantitative measure of how much your measured values deviate from a standard or expected value. If your measurements are not very accurate or precise, then the uncertainty of your values will be very high. In more general terms, uncertainty can be thought of as a disclaimer for your measured values. For example, if someone asked you to provide the mileage on your car, you might say that it is 45,000 miles, plus or minus 500 miles. The plus or minus amount is the uncertainty in your value. That is, you are indicating that the actual mileage of your car might be as low as 44,500 miles or as high as 45,500 miles, or anywhere in between. All measurements contain some amount of uncertainty. In our example of measuring the length of the paper, we might say that the length of the paper is 11 in., plus or minus 0.2 in. The uncertainty in a measurement, <m:math><m:semantics><m:mrow><m:mrow><m:mi>A</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation></m:semantics></m:math>, is often denoted as <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi fontstyle="italic">δA</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δA} {}</m:annotation></m:semantics></m:math></emphasis> (“delta <m:math><m:semantics><m:mrow><m:mrow><m:mi>A</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation></m:semantics></m:math>”), so the measurement result would be recorded as
 
 
 
@@ -42,12 +42,12 @@
 <item>The skill of the person making the measurement,</item>
 <item>Irregularities in the object being measured,</item>
 <item>Any other factors that affect the outcome (highly dependent on the situation).</item></list>
-    
-    
-    
+
+
+
     <para id="import-auto-id1618060">In our example, such factors contributing to the uncertainty could be the following: the smallest division on the ruler is 0.1 in., the person using the ruler has bad eyesight, or one side of the paper is slightly longer than the other. At any rate, the uncertainty in a measurement must be based on a careful consideration of all the factors that might contribute and their possible effects.</para>
     <note id="fs-id1578248"><label/><title>Making Connections: <emphasis effect="bold"/>Real-World Connections – Fevers or Chills?</title>
-    
+
     <para id="import-auto-id1578716">Uncertainty is a critical piece of information, both in physics and in many other real-world applications. Imagine you are caring for a sick child. You suspect the child has a fever, so you check his or her temperature with a thermometer. What if the uncertainty of the thermometer were <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>0º</m:mn><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." 0°C} {}</m:annotation></m:semantics></m:math>? If the child’s temperature reading was <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>37</m:mtext><m:mtext>.</m:mtext><m:mn>0º</m:mn><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"37" "." 0°C} {}</m:annotation></m:semantics></m:math> (which is normal body temperature), the “true” temperature could be anywhere from a hypothermic <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>34</m:mtext><m:mtext>.</m:mtext><m:mn>0º</m:mn><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"34" "." 0°C} {}</m:annotation></m:semantics></m:math> to a dangerously high <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>40</m:mtext><m:mtext>.</m:mtext><m:mn>0º</m:mn><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"40" "." 0°C} {}</m:annotation></m:semantics></m:math>. A thermometer with an uncertainty of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>0º</m:mn><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." 0°C} {}</m:annotation></m:semantics></m:math> would be useless.</para></note><section id="fs-id2515223">
     <title>Percent Uncertainty</title>
     <para id="import-auto-id2732210">One method of expressing uncertainty is as a percent of the measured value. If a measurement <m:math><m:semantics><m:mrow><m:mrow><m:mi fontstyle="italic">A</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation></m:semantics></m:math> is expressed with uncertainty, <m:math><m:semantics><m:mrow><m:mrow><m:mi fontstyle="italic">δA</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δA} {}</m:annotation></m:semantics></m:math>, the <term id="import-auto-id3102818">percent uncertainty</term> (%unc) is defined to be</para><equation id="eip-718"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext/><m:mtext>% unc = </m:mtext><m:mrow><m:mfrac><m:mi fontstyle="italic">δA</m:mi><m:mi>A</m:mi></m:mfrac><m:mo stretchy="false">×</m:mo><m:mtext>100%</m:mtext></m:mrow><m:mtext/></m:mrow></m:mrow><m:mrow><m:mtext>.</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{%" unc = " {  {δA}  over  {A} }  times "100"%} {}</m:annotation></m:semantics></m:math></equation><example id="fs-id2681377">
@@ -56,7 +56,7 @@
 <item>Week 2 weight: <m:math><m:semantics><m:mrow><m:mrow><m:mtext>5.3 lb</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ "5.3 lb" } {}</m:annotation></m:semantics></m:math></item>
 <item>Week 3 weight: <m:math><m:semantics><m:mrow><m:mrow><m:mtext>4.9 lb</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ "4.9 lb" } {}</m:annotation></m:semantics></m:math></item>
 <item>Week 4 weight: <m:math><m:semantics><m:mrow><m:mrow><m:mtext>5.4 lb</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ "5.4 lb" } {}</m:annotation></m:semantics></m:math></item></list><para id="import-auto-id2720842">You determine that the weight of the <m:math><m:semantics><m:mrow><m:mrow><m:mtext>5-lb</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ "5-lb" } {}</m:annotation></m:semantics></m:math> bag has an uncertainty of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>4</m:mn><m:mi/><m:mspace width="0.25em"/><m:mtext>lb</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ +- 0 "." 4`"lb"} {}</m:annotation></m:semantics></m:math>. What is the percent uncertainty of the bag’s weight?</para><para id="import-auto-id2585119">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id3210686">First, observe that the expected value of the bag’s weight, <m:math><m:semantics><m:mrow><m:mrow><m:mi>A</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation></m:semantics></m:math>, is 5 lb. The uncertainty in this value, <m:math><m:semantics><m:mrow><m:mrow><m:mi fontstyle="italic">δA</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δA} {}</m:annotation></m:semantics></m:math>, is 0.4 lb. We can use the following equation to determine the percent uncertainty of the weight:</para>
     <equation id="eip-136"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext/><m:mtext>% unc = </m:mtext><m:mrow><m:mfrac><m:mi fontstyle="italic">δA</m:mi><m:mi>A</m:mi></m:mfrac><m:mo stretchy="false">×</m:mo><m:mtext>100%</m:mtext></m:mrow><m:mtext/></m:mrow></m:mrow><m:mrow><m:mtext>.</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{%" unc = " {  {δA}  over  {A} }  times "100"%} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2681157">
@@ -64,7 +64,7 @@
     </para>
     <para id="import-auto-id2647737">Plug the known values into the equation:</para>
     <equation id="eip-191"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext/><m:mtext>% unc = </m:mtext><m:mrow><m:mfrac><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mn>4</m:mn><m:mtext> lb</m:mtext></m:mrow><m:mrow><m:mn>5</m:mn><m:mtext> lb</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">×</m:mo><m:mtext>100%</m:mtext></m:mrow><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow><m:mtext>%</m:mtext></m:mrow></m:mrow><m:mrow><m:mtext>.</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{%" unc = " {  {0 "." 4" lb"}  over  {5" lb"} }  times "100"%=8%} {}</m:annotation></m:semantics></m:math></equation><para id="fs-id2347118">
-<emphasis>Discussion </emphasis>
+<title>Discussion </title>
 </para>
 <para id="import-auto-id2559901">
 We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mspace width="0.25em"/><m:mrow><m:mtext>lb</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>8</m:mn></m:mrow><m:mtext>%</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5`"lb" +- 8%} {}</m:annotation></m:semantics></m:math>. Consider how this percent uncertainty would change if the bag of apples were half as heavy, but the uncertainty in the weight remained the same. Hint for future calculations: when calculating percent uncertainty, always remember that you must multiply the fraction by 100%. If you do not do this, you will have a decimal quantity, not a percent value.</para></example>
@@ -75,7 +75,7 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
 
 <exercise id="fs-id2586676" print-placement="here" type="check-understanding"><label/><title>Check Your Understanding</title>
 
-    <problem id="fs-id2719205"> 
+    <problem id="fs-id2719205">
    <para id="import-auto-id1564191">A high school track coach has just purchased a new stopwatch. The stopwatch manual states that the stopwatch has an uncertainty of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>05</m:mtext><m:mspace width="0.25em"/><m:mi mathvariant="normal">s</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ +- 0 "." "05"`s} {}</m:annotation></m:semantics></m:math>. Runners on the track coach’s team regularly clock 100-m sprints of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>11.49 s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11.49 s"} {}</m:annotation></m:semantics></m:math> to <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>15.01 s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15.01 s"} {}</m:annotation></m:semantics></m:math>. At the school’s last track meet, the first-place sprinter came in at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mtext>.</m:mtext><m:mtext>04 s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" "." "04"" s"} {}</m:annotation></m:semantics></m:math> and the second-place sprinter came in at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mtext>.</m:mtext><m:mtext>07 s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" "." "07"" s"} {}</m:annotation></m:semantics></m:math>. Will the coach’s new stopwatch be helpful in timing the sprint team? Why or why not?</para></problem>
 <solution id="fs-id2607612" print-placement="here">
 
@@ -89,7 +89,7 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
     <para id="import-auto-id3369850">Special consideration is given to zeros when counting significant figures. The zeros in 0.053 are not significant, because they are only placekeepers that locate the decimal point. There are two significant figures in 0.053. The zeros in 10.053 are not placekeepers but are significant—this number has five significant figures. The zeros in 1300 may or may not be significant depending on the style of writing numbers. They could mean the number is known to the last digit, or they could be placekeepers. So 1300 could have two, three, or four significant figures. (To avoid this ambiguity, write 1300 in scientific notation.) <emphasis effect="italics"><emphasis effect="italics">Zeros are significant except when they serve only as placekeepers</emphasis></emphasis>.</para></section>
 
     <exercise id="fs-id3141103" print-placement="here" type="check-understanding"><label/><title>Check Your Understanding</title>
-    
+
     <problem id="fs-id1341834">
     <para id="import-auto-id3201026">Determine the number of significant figures in the following measurements:</para>
     <list id="import-auto-id1570350" mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>0.0009</item>
@@ -98,27 +98,27 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
         <m:math>
           <m:semantics>
             <m:mrow>
-              
+
                 <m:mrow>
                   <m:mrow>
                     <m:mn>6</m:mn>
                     <m:mo stretchy="false">×</m:mo>
                     <m:msup>
                       <m:mtext>10</m:mtext>
-                      
+
                         <m:mrow>
                           <m:mn>3</m:mn>
                         </m:mrow>
-                      
+
                     </m:msup>
                   </m:mrow>
                 </m:mrow>
-              
+
               <m:mrow/>
             </m:mrow>
             <m:annotation encoding="StarMath 5.0"> size 12{6  times "10" rSup { size 8{3} } } {}</m:annotation>
           </m:semantics>
-        </m:math> 
+        </m:math>
       </item>
       <item>87.990</item>
       <item>30.42</item>
@@ -137,7 +137,7 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
     <para id="import-auto-id1622245"><emphasis>1. For multiplication and division: </emphasis><emphasis effect="italics"/><emphasis effect="italics"><emphasis effect="italics">The result should have the same number of significant figures as the quantity having the least significant figures entering into the calculation</emphasis></emphasis>. For example, the area of a circle can be calculated from its radius using <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">=</m:mo><m:msup><m:mi fontstyle="italic">πr</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A=πr rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. Let us see how many significant figures the area has if the radius has only two—say, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>r</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>2</m:mn><m:mspace width="0.25em"/><m:mtext>m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r=1 "." 2" m"} {}</m:annotation></m:semantics></m:math>. Then,</para><equation id="eip-722"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -150,7 +150,7 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                             <m:mrow>
                               <m:mn>2</m:mn>
                             </m:mrow>
-                          
+
                         </m:msup>
                       </m:mrow>
                       <m:mo stretchy="false">=</m:mo>
@@ -175,11 +175,11 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                               <m:mspace width="0.25em"/><m:mtext>m</m:mtext>
                             </m:mrow>
                           </m:mfenced>
-                          
+
                             <m:mrow>
                               <m:mn>2</m:mn>
                             </m:mrow>
-                          
+
                         </m:msup>
                       </m:mrow>
                     </m:mrow>
@@ -191,15 +191,15 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                   <m:mspace width="0.25em"/>
                   <m:msup>
                     <m:mtext>m</m:mtext>
-                    
+
                       <m:mrow>
                         <m:mn>2</m:mn>
                       </m:mrow>
-                    
+
                   </m:msup>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{A=πr rSup { size 8{2} } = left (3 "." "1415927" "."  "."  "."  right ) times  left (1 "." 2" m" right ) rSup { size 8{2} } =4 "." "5238934"" m" rSup { size 8{2} } } {}</m:annotation>
@@ -287,14 +287,14 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
             </m:mrow>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0">alignl { stack {
- size 12{7 "." "56"`"kg"}  {} # 
- size 12{ - 6 "." "052"`"kg"}  {} # 
- size 12{ {  {+"13" "." 7`"kg"}  over  {"15" "." "208"`"kg"} } ="15" "." 2`"kg" "." }  {} 
+ size 12{7 "." "56"`"kg"}  {} #
+ size 12{ - 6 "." "052"`"kg"}  {} #
+ size 12{ {  {+"13" "." 7`"kg"}  over  {"15" "." "208"`"kg"} } ="15" "." 2`"kg" "." }  {}
 } } {}</m:annotation>
         </m:semantics>
       </m:math></equation><para id="import-auto-id2727760">Next, we identify the least precise measurement: 13.7 kg. This measurement is expressed to the 0.1 decimal place, so our final answer must also be expressed to the 0.1 decimal place. Thus, the answer is rounded to the tenths place, giving us 15.2 kg.</para>
 </section>
-<section id="fs-id2657594">    
+<section id="fs-id2657594">
 <title>Significant Figures in this Text</title><para id="import-auto-id3165710">In this text, most numbers are assumed to have three significant figures. Furthermore, consistent numbers of significant figures are used in all worked examples. You will note that an answer given to three digits is based on input good to at least three digits, for example. If the input has fewer significant figures, the answer will also have fewer significant figures. Care is also taken that the number of significant figures is reasonable for the situation posed. In some topics, particularly in optics, more accurate numbers are needed and more than three significant figures will be used. Finally, if a number is <emphasis effect="italics"><emphasis effect="italics">exact</emphasis></emphasis>, such as the two in the formula for the circumference of a circle, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>c</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2π</m:mn><m:mi>r</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{c=2πr} {}</m:annotation></m:semantics></m:math>, it does not affect the number of significant figures in a calculation.</para></section>
 
 <exercise id="fs-id2506196" print-placement="here" type="check-understanding">
@@ -309,9 +309,9 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
     </exercise>
 
 </section><note id="eip-515" class="interactive"><title>PhET Explorations: Estimation</title><para id="eip-598">Explore size estimation in one, two, and three dimensions! Multiple levels of difficulty allow for progressive skill improvement.
-<media id="Phet_module_1.3" alt="Estimation Simulation">
+<figure id="eip-idm538403968"><media id="Phet_module_1.3" alt="Estimation Simulation">
 <iframe width="660" height="371.4" src="https://phet.colorado.edu/sims/estimation/estimation_en.html"/>
-</media>
+</media></figure>
 </para></note><section id="fs-id1363145" class="section-summary" type="section-summary">
     <title>Summary</title>
     <list id="fs-id2635416"><item id="import-auto-id2581141">Accuracy of a measured value refers to how close a measurement is to the correct value. The uncertainty in a measurement is an estimate of the amount by which the measurement result may differ from this value.</item>
@@ -348,7 +348,7 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
         <m:math>
           <m:semantics>
             <m:mrow>
-              
+
                 <m:mrow>
                   <m:mrow>
                     <m:mtext>85</m:mtext>
@@ -360,12 +360,12 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                     <m:mtext>5 km/h</m:mtext>
                   </m:mrow>
                 </m:mrow>
-              
+
               <m:mrow/>
             </m:mrow>
             <m:annotation encoding="StarMath 5.0"> size 12{"85" "." 5" to 94" "." "5 km/h"} {}</m:annotation>
           </m:semantics>
-        </m:math> 
+        </m:math>
       </item>
       <item>
         <m:math>
@@ -376,18 +376,18 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                     <m:mtext>53</m:mtext>
                     <m:mtext>.</m:mtext>
                     <m:mn>1</m:mn>
-                    <m:mspace width="0.25em"/>           
+                    <m:mspace width="0.25em"/>
                     <m:mtext>to 58</m:mtext>
                     <m:mtext>.</m:mtext>
                     <m:mtext>7 mi/h</m:mtext>
                   </m:mrow>
                 </m:mrow>
-              
+
               <m:mrow/>
             </m:mrow>
             <m:annotation encoding="StarMath 5.0"> size 12{"53" "." 1" to 58" "." "7 mi/h"} {}</m:annotation>
           </m:semantics>
-        </m:math> 
+        </m:math>
       </item>
     </list></solution>
     </exercise>
@@ -396,13 +396,13 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
 </problem></exercise>
 <exercise id="fs-id1359647" type="problems-exercises"><problem id="fs-id1487162">
     <para id="import-auto-id1341946">(a) Suppose that a person has an average heart rate of 72.0 beats/min. How many beats does he or she have in 2.0 y? (b) In 2.00 y? (c) In 2.000 y?</para>
-</problem>    
+</problem>
 <solution id="fs-id1671653">
-    
+
     <para id="import-auto-id3142483">(a) <m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mn>7</m:mn>
@@ -412,26 +412,26 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                     <m:mo stretchy="false">×</m:mo>
                     <m:msup>
                       <m:mtext>10</m:mtext>
-                      
+
                         <m:mrow>
                           <m:mn>7</m:mn>
                         </m:mrow>
-                      
+
                     </m:msup>
                   </m:mrow>
                   <m:mtext> beats</m:mtext>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{7 "." 6 times "10" rSup { size 8{7} } " beats"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </para><para id="import-auto-id941468">(b) <m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mn>7</m:mn>
@@ -441,26 +441,26 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                     <m:mo stretchy="false">×</m:mo>
                     <m:msup>
                       <m:mtext>10</m:mtext>
-                      
+
                         <m:mrow>
                           <m:mn>7</m:mn>
                         </m:mrow>
-                      
+
                     </m:msup>
                   </m:mrow>
                   <m:mtext> beats</m:mtext>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{7 "." "57" times "10" rSup { size 8{7} } " beats"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </para><para id="import-auto-id1515794">(c) <m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mn>7</m:mn>
@@ -470,28 +470,28 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                     <m:mo stretchy="false">×</m:mo>
                     <m:msup>
                       <m:mtext>10</m:mtext>
-                      
+
                         <m:mrow>
                           <m:mn>7</m:mn>
                         </m:mrow>
-                      
+
                     </m:msup>
                   </m:mrow>
                   <m:mtext> beats</m:mtext>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{7 "." "57" times "10" rSup { size 8{7} } " beats"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </para></solution>
     </exercise>
 <exercise id="fs-id1001291" type="problems-exercises"><problem id="fs-id1514014">
     <para id="import-auto-id920216">A can contains 375 mL of soda. How much is left after 308 mL is removed?</para>
-</problem></exercise>  
-<exercise id="fs-id882742" type="problems-exercises"><problem id="fs-id1488144">  
+</problem></exercise>
+<exercise id="fs-id882742" type="problems-exercises"><problem id="fs-id1488144">
 <para id="import-auto-id2749708">State how many significant figures are proper in the results of the following calculations: (a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>106</m:mtext><m:mtext>.</m:mtext><m:mn>7</m:mn></m:mrow></m:mfenced><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>98</m:mtext><m:mtext>.</m:mtext><m:mn>2</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">/</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mtext>46</m:mtext><m:mtext>.</m:mtext><m:mtext>210</m:mtext></m:mrow></m:mfenced></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>01</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("106" "." 7 right ) left ("98" "." 2 right )/ left ("46" "." "210" right ) left (1 "." "01" right )} {}</m:annotation></m:semantics></m:math> (b) <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mtext>18</m:mtext><m:mtext>.</m:mtext><m:mn>7</m:mn></m:mrow></m:mfenced><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("18" "." 7 right ) rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> (c) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>60</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>19</m:mtext></m:mrow></m:mrow></m:msup></m:mrow></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mtext>3712</m:mtext></m:mfenced></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (1 "." "60" times "10" rSup { size 8{ - "19"} }  right ) left ("3712" right )} {}</m:annotation></m:semantics></m:math>.</para>
 </problem>
 <solution id="fs-id2515401">
@@ -501,23 +501,23 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
       <item>3</item>
     </list>
     </solution></exercise>
-    
+
 <exercise id="fs-id1954504" type="problems-exercises"><problem id="fs-id2601765">
     <para id="import-auto-id2719586">(a) How many significant figures are in the numbers 99 and 100? (b) If the uncertainty in each number is 1, what is the percent uncertainty in each? (c) Which is a more meaningful way to express the accuracy of these two numbers, significant figures or percent uncertainties?</para>
 </problem></exercise>
 <exercise id="fs-id2675538" type="problems-exercises"><problem id="fs-id3190594">
-    <para id="import-auto-id3094968">(a) If your speedometer has an uncertainty of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mn>0</m:mn><m:mspace width="0.25em"/><m:mtext>km/h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." 0" km/h"} {}</m:annotation></m:semantics></m:math> at a speed of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mspace width="0.25em"/><m:mtext>km/h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"" km/h"} {}</m:annotation></m:semantics></m:math>, what is the percent uncertainty? (b) If it has the same percent uncertainty when it reads <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>60</m:mtext><m:mspace width="0.25em"/><m:mtext> km/h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"60"" km/h"} {}</m:annotation></m:semantics></m:math>, what is the range of speeds you could be going?</para></problem>    
+    <para id="import-auto-id3094968">(a) If your speedometer has an uncertainty of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mn>0</m:mn><m:mspace width="0.25em"/><m:mtext>km/h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." 0" km/h"} {}</m:annotation></m:semantics></m:math> at a speed of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mspace width="0.25em"/><m:mtext>km/h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"" km/h"} {}</m:annotation></m:semantics></m:math>, what is the percent uncertainty? (b) If it has the same percent uncertainty when it reads <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>60</m:mtext><m:mspace width="0.25em"/><m:mtext> km/h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"60"" km/h"} {}</m:annotation></m:semantics></m:math>, what is the range of speeds you could be going?</para></problem>
 <solution id="fs-id2575747">
     <para id="import-auto-id2768487">a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mn>2</m:mn><m:mtext>%</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." 3%} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id2834603">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>59 to 61 km/h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"59 to 61 km/h"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
 <exercise id="fs-id1673258" type="problems-exercises"><problem id="fs-id888555">
     <para id="import-auto-id2212954">(a) A person’s blood pressure is measured to be <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>120</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>2</m:mn></m:mrow><m:mspace width="0.25em"/><m:mtext>mm Hg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"120" +- 2" mm Hg"} {}</m:annotation></m:semantics></m:math>. What is its percent uncertainty? (b) Assuming the same percent uncertainty, what is the uncertainty in a blood pressure measurement of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>80</m:mtext><m:mspace width="0.25em"/><m:mtext>mm Hg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"80"" mm Hg"} {}</m:annotation></m:semantics></m:math>?</para></problem></exercise>
-<exercise id="fs-id1500652" type="problems-exercises"><problem id="fs-id2910648">    
+<exercise id="fs-id1500652" type="problems-exercises"><problem id="fs-id2910648">
 <para id="import-auto-id1550720">A person measures his or her heart rate by counting the number of beats in <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>30</m:mtext><m:mspace width="0.25em"/><m:mtext>s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"30"" s"} {}</m:annotation></m:semantics></m:math>. If <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>40</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>1</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"40" +- 1} {}</m:annotation></m:semantics></m:math> beats are counted in <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>30</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>5</m:mn><m:mspace width="0.25em"/><m:mtext>s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"30" "." 0 +- 0 "." 5" s"} {}</m:annotation></m:semantics></m:math>, what is the heart rate and its uncertainty in beats per minute?</para></problem>
 <solution id="fs-id1527418">
     <para id="import-auto-id1515386"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mrow>
@@ -529,23 +529,23 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                   <m:mtext>beats/min</m:mtext>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{"80" +- 3`"beats/min"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </para></solution></exercise>
 <exercise id="fs-id3154651" type="problems-exercises"><problem id="fs-id3098067">
     <para id="import-auto-id2677592">What is the area of a circle <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mtext>102</m:mtext><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "102"" cm"} {}</m:annotation></m:semantics></m:math> in diameter?</para></problem></exercise>
-<exercise id="fs-id2998426" type="problems-exercises"><problem id="fs-id3041188">    
+<exercise id="fs-id2998426" type="problems-exercises"><problem id="fs-id3041188">
 <para id="import-auto-id3080228">If a marathon runner averages 9.5 mi/h, how long does it take him or her to run a 26.22-mi marathon?</para>
 </problem>
     <solution id="fs-id1677240">
     <para id="import-auto-id1502916"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mn>2</m:mn>
@@ -555,12 +555,12 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                   <m:mtext>h</m:mtext>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{2 "." 8" h"} {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </para></solution></exercise>
 <exercise id="fs-id1493327" type="problems-exercises"><problem id="fs-id1145418">
     <para id="import-auto-id2010563">A marathon runner completes a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>42</m:mtext><m:mtext>.</m:mtext><m:mtext>188</m:mtext><m:mtext>-km</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"42" "." "188""-km"} {}</m:annotation></m:semantics></m:math> course in <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.25em"/><m:mtext>h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2" h"} {}</m:annotation></m:semantics></m:math>, 30 min, and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mspace width="0.25em"/><m:mtext>s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12"" s"} {}</m:annotation></m:semantics></m:math>. There is an uncertainty of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>25</m:mtext><m:mspace width="0.25em"/><m:mtext>m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"25"" m"} {}</m:annotation></m:semantics></m:math> in the distance traveled and an uncertainty of 1 s in the elapsed time. (a) Calculate the percent uncertainty in the distance. (b) Calculate the uncertainty in the elapsed time. (c) What is the average speed in meters per second? (d) What is the uncertainty in the average speed?</para></problem></exercise>
@@ -576,7 +576,7 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
     <para id="import-auto-id1676212"><m:math>
         <m:semantics>
           <m:mrow>
-            
+
               <m:mrow>
                 <m:mrow>
                   <m:mtext>12</m:mtext>
@@ -591,20 +591,20 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
                   <m:mspace width="0.25em"/>
                   <m:msup>
                     <m:mtext> m</m:mtext>
-                    
+
                       <m:mrow>
                         <m:mn>2</m:mn>
                       </m:mrow>
-                    
+
                   </m:msup>
                 </m:mrow>
               </m:mrow>
-            
+
             <m:mrow/>
           </m:mrow>
           <m:annotation encoding="StarMath 5.0"> size 12{"12" "." "06" +- 0 "." "04"" m" rSup { size 8{2} } } {}</m:annotation>
         </m:semantics>
-      </m:math> 
+      </m:math>
     </para></solution></exercise>
 <exercise id="fs-id1678580" type="problems-exercises"><problem id="fs-id1564900">
     <para id="import-auto-id2984853">A car engine moves a piston with a circular cross section of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>500</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>002</m:mtext><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "500" +- 0 "." "002"`"cm"} {}</m:annotation></m:semantics></m:math> diameter a distance of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>250</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>001</m:mtext><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "250" +- 0 "." "001"`"cm"} {}</m:annotation></m:semantics></m:math> to compress the gas in the cylinder. (a) By what amount is the gas decreased in volume in cubic centimeters? (b) Find the uncertainty in this volume.</para></problem>

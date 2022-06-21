@@ -15,7 +15,7 @@
     <figure id="import-auto-id1489960"><media id="import-auto-id4027289" alt="Four men racing up a river in their kayaks.">
         <image mime-type="image/jpg" src="../../media/Figure_02_05_00.jpg" width="300"/>
       </media>
-      
+
     <caption>Kinematic equations can help us describe and predict the motion of moving objects such as these kayaks racing in Newbury, England. (credit: Barry Skeates, Flickr)</caption></figure><para id="import-auto-id1418893">We might know that the greater the acceleration of, say, a car moving away from a stop sign, the greater the displacement in a given time. But we have not developed a specific equation that relates acceleration and displacement. In this section, we develop some convenient equations for kinematic relationships, starting from the definitions of displacement, velocity, and acceleration already covered.</para>
    <section id="fs-id1164906436587">
 <title>Notation: <emphasis effect="italics">t</emphasis>, <emphasis effect="italics">x</emphasis>, <emphasis effect="italics">v</emphasis>, <emphasis effect="italics">a</emphasis></title>
@@ -66,7 +66,7 @@
     <equation id="import-auto-id1819116"><m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>constant</m:mtext></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {a}}=a="constant"} {}</m:annotation></m:semantics></m:math> </equation>
     <para id="import-auto-id1548325">so we use the symbol <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> for acceleration at all times. Assuming acceleration to be constant does not seriously limit the situations we can study nor degrade the accuracy of our treatment. For one thing, acceleration <emphasis effect="italics">is</emphasis> constant in a great number of situations. Furthermore, in many other situations we can accurately describe motion by assuming a constant acceleration equal to the average acceleration for that motion. Finally, in motions where acceleration changes drastically, such as a car accelerating to top speed and then braking to a stop, the motion can be considered in separate parts, each of which has its own constant acceleration.</para>
     <note xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id1164906424651"><label/><title>Solving for Displacement (<m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">x</m:mi></m:mrow></m:mrow></m:semantics></m:math>) and Final Position (<m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>) from Average Velocity when Acceleration (<m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math>) is Constant</title>
-    
+
     <para id="import-auto-id951702">To get our first two new equations, we start with the definition of average velocity:</para>
     <equation id="import-auto-id1782525"><m:math>
         <m:semantics>
@@ -251,7 +251,7 @@
     <title>Calculating Displacement: How Far does the Jogger Run?</title>
     <para id="import-auto-id2173108">A jogger runs down a straight stretch of road with an average velocity of 4.00 m/s for 2.00 min. What is his final position, taking his initial position to be zero?</para>
     <para id="import-auto-id2296944">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id2326067">Draw a sketch.</para>
     <figure id="import-auto-id2297327"><media id="import-auto-id4166596" alt="Velocity vector arrow labeled v equals 4 point zero zero meters per second over an x axis displaying initial and final positions. Final position is labeled x equals question mark.">
@@ -318,7 +318,7 @@
       </m:math>
     </equation>
     <para id="import-auto-id1961990">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id2366848">Velocity and final displacement are both positive, which means they are in the same direction.</para>
     </example>
@@ -326,7 +326,7 @@
  <figure xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1962019"><media id="import-auto-id1962020" alt="Line graph showing displacement in meters versus average velocity in meters per second. The line is straight with a positive slope. Displacement x increases linearly with increase in average velocity v.">
         <image mime-type="image/jpg" src="../../media/Figure02_05_00b.jpg" width="300"/>
       </media>
-      
+
     <caption>There is a linear relationship between displacement and average velocity. For a given time <m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math>, an object moving twice as fast as another object will move twice as far as the other object.
       </caption></figure><note id="fs-id1164906431223">
 <label/>
@@ -422,7 +422,7 @@
     <title>Calculating Final Velocity: An Airplane Slowing Down after Landing</title>
     <para id="import-auto-id2366638">An airplane lands with an initial velocity of 70.0 m/s and then decelerates at <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>50 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "50 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> for 40.0 s. What is its final velocity? </para>
     <para id="import-auto-id2293451">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id2293355">Draw a sketch. We draw the acceleration vector in the direction opposite the velocity vector because the plane is decelerating. </para>
     <figure id="import-auto-id2300963"><media id="import-auto-id2169377" alt="Velocity vector arrow pointing toward the right in the positive x direction. Initial velocity equals seventy meters per second. Final velocity equals question mark. An acceleration vector arrow pointing toward the left labeled a equals negative 1 point 50 meters per second squared.">
@@ -510,13 +510,13 @@
       </m:math>
     </equation>
     <para id="import-auto-id2171815">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id2177766">The final velocity is much less than the initial velocity, as desired when slowing down, but still positive. With jet engines, reverse thrust could be maintained long enough to stop the plane and start moving it backward. That would be indicated by a negative final velocity, which is not the case here.</para>
     <figure id="import-auto-id2173965"><media id="import-auto-id2175003" alt="An airplane moving toward the right at two points in time. At time equals 0 the velocity vector arrow points toward the right and is labeled seventy meters per second. The acceleration vector arrow points toward the left and is labeled negative 1 point 5 meters per second squared. At time equals forty seconds, the velocity arrow is shorter, points toward the right, and is labeled ten meters per second. The acceleration vector arrow is still pointing toward the left and is labeled a equals negative 1 point 5 meters per second squared.">
         <image mime-type="image/jpg" src="../../media/Figure_02_04_01.jpg" width="600"/>
       </media>
-      
+
     <caption>The airplane lands with an initial velocity of 70.0 m/s and slows to a final velocity of 10.0 m/s before heading for the terminal. Note that the acceleration is negative because its direction is opposite to its velocity, which is positive.</caption></figure></example>
     <para id="import-auto-id2301109">In addition to being useful in problem solving, the equation <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>at</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v=v rSub { size 8{0} } + ital "at"} {}</m:annotation></m:semantics></m:math> gives us insight into the relationships among velocity, acceleration, and time. From it we can see, for example, that </para>
     <list id="fs-id1164906429447">
@@ -530,10 +530,10 @@
     <figure id="import-auto-id2180893"><media id="import-auto-id2180894" alt="Space shuttle blasting off at night.">
         <image mime-type="image/jpg" src="../../media/Figure_02_04_01a.jpg" width="300"/>
       </media>
-      
+
     <caption>The Space Shuttle <emphasis effect="italics">Endeavor</emphasis> blasts off from the Kennedy Space Center in February 2010. (credit: Matthew Simantov, Flickr)</caption></figure><para id="import-auto-id2180915">An intercontinental ballistic missile (ICBM) has a larger average acceleration than the Space Shuttle and achieves a greater velocity in the first minute or two of flight (actual ICBM burn times are classified—short-burn-time missiles are more difficult for an enemy to destroy). But the Space Shuttle obtains a greater final velocity, so that it can orbit the earth rather than come directly back down as an ICBM does. The Space Shuttle does this by accelerating for a longer time.</para>
     </note><note xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id1164906444525"><label/><title>Solving for Final Position When Velocity is Not Constant (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mrow></m:semantics></m:math>)</title>
-    
+
     <para id="import-auto-id2166959">We can combine the equations above to find a third equation that allows us to calculate the final position of an object experiencing constant acceleration. We start with</para>
     <equation id="import-auto-id2166975"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>at</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo>.</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v=v rSub { size 8{0} } + ital "at"} {}</m:annotation></m:semantics></m:math></equation>
     <para id="import-auto-id1689629">Adding <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math> to each side of this equation and dividing by 2 gives</para>
@@ -686,9 +686,9 @@
 <figure id="import-auto-id2356722"><media id="import-auto-id2356723" alt="Dragster accelerating down a race track.">
         <image mime-type="image/jpg" src="../../media/Figure_02_04_02.jpg" width="250"/>
       </media>
-      
+
     <caption>U.S. Army Top Fuel pilot Tony “The Sarge” Schumacher begins a race with a controlled burnout. (credit: Lt. Col. William Thurmond. Photo Courtesy of U.S. Army.)  </caption></figure><para id="import-auto-id2171693">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id2168036">Draw a sketch. </para>
     <figure id="import-auto-id2168040"><media id="import-auto-id2168041" alt="Acceleration vector arrow pointing toward the right in the positive x direction, labeled a equals twenty-six point 0 meters per second squared. x position graph with initial position at the left end of the graph. The right end of the graph is labeled x equals question mark.">
@@ -831,14 +831,14 @@
     <para id="import-auto-id2169829">yielding</para>
     <equation id="import-auto-id2171362"><m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>402 m.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x="402 m"} {}</m:annotation></m:semantics></m:math></equation>
     <para id="import-auto-id2169842">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id2180271">If we convert 402 m to miles, we find that the distance covered is very close to one quarter of a mile, the standard distance for drag racing. So the answer is reasonable. This is an impressive displacement in only 5.56 s, but top-notch dragsters can do a quarter mile in even less time than this.</para>
     </example>
     <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2180290">What else can we learn by examining the equation <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow></m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mstyle><m:mrow><m:msup><m:mtext fontstyle="italic">at</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow><m:mo>?</m:mo></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=x rSub { size 8{0} } +v rSub { size 8{0} } t+ {  {1}  over  {2} }  ital "at" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> We see that:</para><list xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id1164906435134"><item id="import-auto-id2166810">displacement depends on the square of the elapsed time when acceleration is not zero. In <link target-id="fs-id1164906457202"/>, the dragster covers only one fourth of the total distance in the first half of the elapsed time</item>
     <item id="import-auto-id2167534">if acceleration is zero, then the initial velocity equals average velocity (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{0} } = { bar  {v}}} {}</m:annotation></m:semantics></m:math>) and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow></m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mstyle><m:mrow><m:msup><m:mtext fontstyle="italic">at</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=x rSub { size 8{0} } +v rSub { size 8{0} } t+ {  {1}  over  {2} }  ital "at" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> becomes <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow></m:mrow><m:mi>t</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=x rSub { size 8{0} } +v rSub { size 8{0} } t} {}</m:annotation></m:semantics></m:math></item>
     </list><note xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id1164906460433"><label/><title>Solving for Final Velocity when Velocity Is Not Constant  (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mrow></m:semantics></m:math>)</title>
-    
+
     <para id="import-auto-id2293216">A fourth useful equation can be obtained from another algebraic manipulation of previous equations. </para>
     <para id="import-auto-id2301249">If we solve <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>at</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v=v rSub { size 8{0} } + ital "at"} {}</m:annotation></m:semantics></m:math> for <m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math>, we get </para>
     <equation id="import-auto-id2365760">
@@ -928,7 +928,7 @@
     </equation></note><example id="fs-id1164906443776">
     <title>Calculating Final Velocity: Dragsters</title>
     <para id="import-auto-id2300243">Calculate the final velocity of the dragster in <link target-id="fs-id1164906457202"/> without using information about time.</para><para id="import-auto-id2300246">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id4179111">Draw a sketch.</para>
     <figure id="import-auto-id4179116"><media id="import-auto-id4179117" alt="Acceleration vector arrow pointing toward the right, labeled twenty-six point zero meters per second squared. Initial velocity equals 0. Final velocity equals question mark.">
@@ -941,7 +941,7 @@
     <para id="import-auto-id2167211">Thus</para>
     <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2177794"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>v</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>09</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:msup><m:mtext>m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSup { size 8{2} } =2 "." "09" times "10" rSup { size 8{4} } `m rSup { size 8{2} } "/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1680130">To get <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mi>v</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation></m:semantics></m:math>, we take the square root:</para>
     <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2177812"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">=</m:mo><m:msqrt><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>09</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:msup><m:mtext> m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:msqrt></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>145 m/s</m:mtext></m:mrow><m:mo>.</m:mo></m:mrow></m:mrow></m:semantics></m:math></equation><para id="import-auto-id4179173">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id4179167">145 m/s is about 522 km/h or about 324 mi/h, but even this breakneck speed is short of the record for the quarter mile. Also, note that a square root has two values; we took the positive value to indicate a velocity in the same direction as the acceleration.</para>
     </example>
@@ -1155,7 +1155,7 @@
     <example id="fs-id1164906424692">
     <title>Calculating Displacement: How Far Does a Car Go When Coming to a Halt?</title>
     <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2366749">On dry concrete, a car can decelerate at a rate of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>00 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "00 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, whereas on wet concrete it can decelerate at only <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>00 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 "." "00 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. Find the distances necessary to stop a car moving at 30.0 m/s<emphasis effect="italics"/> (about 110 km/h) (a) on dry concrete and (b) on wet concrete. (c) Repeat both calculations, finding the displacement from the point where the driver sees a traffic light turn red, taking into account his reaction time of 0.500 s to get his foot on the brake. </para><para id="import-auto-id2173990">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id2174015">Draw a sketch.</para>
     <figure id="import-auto-id2174020"><media id="import-auto-id2174021" alt="Initial velocity equals thirty meters per second. Final velocity equals 0. Acceleration dry equals negative 7 point zero zero meters per second squared. Acceleration wet equals negative 5 point zero zero meters per second squared.">
@@ -1325,10 +1325,10 @@
       <emphasis>Solution for (c)</emphasis>
     </para>
     <para id="import-auto-id2167058">Once the driver reacts, the stopping distance is the same as it is in Parts A and B for dry and wet concrete. So to answer this question, we need to calculate how far the car travels during the reaction time, and then add that to the stopping time. It is reasonable to assume that the velocity remains constant during the driver’s reaction time. </para>
-    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2167063">1. Identify the knowns and what we want to solve for. We know that <m:math><m:semantics><m:mrow><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mtext>30.0 m/s</m:mtext></m:mrow></m:semantics></m:math>; 
-<m:math><m:semantics><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mtext>reaction</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0.500</m:mn><m:mspace width="0.15em"/><m:mtext>s</m:mtext></m:mrow></m:semantics></m:math>; 
-<m:math><m:semantics><m:mrow><m:msub><m:mi>a</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:semantics></m:math>. We take 
-<m:math><m:semantics><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>reaction</m:mtext></m:mrow></m:msub></m:mrow></m:semantics></m:math> to be 0. We are looking for 
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2167063">1. Identify the knowns and what we want to solve for. We know that <m:math><m:semantics><m:mrow><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mtext>30.0 m/s</m:mtext></m:mrow></m:semantics></m:math>;
+<m:math><m:semantics><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mtext>reaction</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0.500</m:mn><m:mspace width="0.15em"/><m:mtext>s</m:mtext></m:mrow></m:semantics></m:math>;
+<m:math><m:semantics><m:mrow><m:msub><m:mi>a</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:semantics></m:math>. We take
+<m:math><m:semantics><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>reaction</m:mtext></m:mrow></m:msub></m:mrow></m:semantics></m:math> to be 0. We are looking for
 <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>reaction</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>. </para><para id="import-auto-id2300866">2. Identify the best equation to use.</para>
     <para id="import-auto-id2300871"><m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow></m:mrow><m:mi>t</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=x rSub { size 8{0} } + { bar  {v}}t} {}</m:annotation></m:semantics></m:math> works well because the only unknown value is <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>, which is what we want to solve for.</para>
     <para id="import-auto-id2175304">3. Plug in the knowns to solve the equation.</para>
@@ -1376,9 +1376,9 @@
     </list><figure id="import-auto-id1658840"><media id="import-auto-id1658841" alt="Diagram showing the various braking distances necessary for stopping a car. With no reaction time considered, braking distance is 64 point 3 meters on a dry surface and 90 meters on a wet surface. With reaction time of 0 point 500 seconds, braking distance is 79 point 3 meters on a dry surface and 105 meters on a wet surface.">
         <image mime-type="image/jpg" src="../../media/Figure_02_04_03.jpg" width="600"/>
       </media>
-      
+
     <caption>The distance necessary to stop a car varies greatly, depending on road conditions and driver reaction time. Shown here are the braking distances for dry and wet pavement, as calculated in this example,  for a car initially traveling at 30.0 m/s. Also shown are the total distances traveled from the point where the driver first sees a light turn red, assuming a 0.500 s reaction time. </caption></figure><para id="import-auto-id1772063">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id1772066">The displacements found in this example seem reasonable for stopping a fast-moving car. It should take longer to stop a car on wet rather than dry pavement. It is interesting that reaction time adds significantly to the displacements. But more important is the general approach to solving problems. We identify the knowns and the quantities to be determined and then find an appropriate equation. There is often more than one way to solve a problem. The various parts of this example can in fact be solved by other methods, but the solutions presented above are the shortest.</para>
     </example>
@@ -1386,7 +1386,7 @@
     <title>Calculating Time: A Car Merges into Traffic</title>
     <para id="import-auto-id1772080">Suppose a car merges into freeway traffic on a 200-m-long ramp. If its initial velocity is 10.0 m/s and it accelerates at <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>00 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "00 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, how long does it take to travel the 200 m up the ramp? (Such information might be useful to a traffic engineer.)</para>
     <para id="import-auto-id2296869">
-      <emphasis>Strategy</emphasis>
+      <title>Strategy</title>
     </para>
     <para id="import-auto-id1772095">Draw a sketch.</para>
     <figure id="import-auto-id2296882"><media id="import-auto-id2296883" alt="A line segment with ends labeled x subs zero equals zero and x = two hundred. Above the line segment, the equation t equals question mark indicates that time is unknown. Three vectors, all pointing in the direction of x equals 200, represent the other knowns and unknowns. They are labeled v sub zero equals ten point zero meters per second, v equals question mark, and a equals two point zero zero meters per second squared.">
@@ -1446,7 +1446,7 @@
                     <m:mn>2</m:mn>
                   </m:mrow>
                 </m:msup>
-</m:mrow>        
+</m:mrow>
       </m:mrow>
             </m:mrow>
             <m:mrow/>
@@ -1540,7 +1540,7 @@
     <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1772100"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>10</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>0</m:mn><m:mi/><m:mspace width="0.25em"/><m:mtext>and</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mtext>20</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>0</m:mn></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t="10" "." 0``"and"`` - "20" "." 0} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2177357">In this case, then, the time is <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">=</m:mo><m:mi>t</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t=t} {}</m:annotation></m:semantics></m:math><emphasis effect="italics"/> in<emphasis effect="italics"/> seconds, or</para>
     <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2175275"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>10</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>0</m:mn><m:mi/><m:mspace width="0.25em"/><m:mtext>s</m:mtext><m:mi/><m:mspace width="0.25em"/><m:mrow><m:mtext>and</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>20</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>0</m:mn><m:mi/><m:mspace width="0.25em"/><m:mtext>s</m:mtext></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t="10" "." 0``s`"and" - "20" "." 0`s} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2177292">A negative value for time is unreasonable, since it would mean that the event happened 20 s before the motion began. We can discard that solution. Thus,</para>
     <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2177316"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>10</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>0</m:mn><m:mi/><m:mspace width="0.25em"/><m:mtext>s</m:mtext></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t="10" "." 0`s} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2177300">
-      <emphasis>Discussion</emphasis>
+      <title>Discussion</title>
     </para>
     <para id="import-auto-id2177305">Whenever an equation contains an unknown squared, there will be two solutions. In some problems both solutions are meaningful, but in others, such as the above, only one solution is reasonable. The 10.0 s answer seems reasonable for a typical freeway on-ramp.</para>
     </example>
@@ -1549,7 +1549,7 @@
     <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2170315">We have been using SI units of meters per second squared to describe some examples of acceleration or deceleration of cars, runners, and trains. To achieve a better feel for these numbers, one can measure the braking deceleration of a car doing a slow (and safe) stop. Recall that, for average acceleration, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi><m:mo stretchy="false">/</m:mo><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {a}}=Δv/Δt} {}</m:annotation></m:semantics></m:math>. While traveling in a car, slowly apply the brakes as you come up to a stop sign. Have a passenger note the initial speed in miles per hour and the time taken (in seconds) to stop. From this, calculate the deceleration in miles per hour per second. Convert this to meters per second squared and compare with other decelerations mentioned in this chapter. Calculate the distance traveled in braking.</para></note>
   <exercise xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id1164906434690" type="check-understanding"><label/><title>Check Your Understanding</title>
 <problem id="fs-id1164906434693">
-    <para id="import-auto-id2180082">A manned rocket accelerates at a rate of <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mtext>20 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"20 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> during launch. How long does it take the rocket to reach a velocity of 400 m/s?</para></problem><solution id="fs-id1164906458555">
+    <para id="import-auto-id2180082">A rocket accelerates at a rate of <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mtext>20 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"20 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> during launch. How long does it take the rocket to reach a velocity of 400 m/s?</para></problem><solution id="fs-id1164906458555">
     <para id="import-auto-id2180140">To answer this, choose an equation that allows you to solve for time <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math></emphasis>, given only <m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math>, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>v</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation></m:semantics></m:math>.</para>
     <equation id="import-auto-id2168910"><m:math>
         <m:semantics>
@@ -1871,18 +1871,17 @@
         </m:semantics>
       </m:math>
     </equation></item>
-    <item id="import-auto-id2176131">In vertical motion, <m:math><m:semantics><m:mrow><m:mrow><m:mi>y</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math> is substituted for <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item> 
+    <item id="import-auto-id2176131">In vertical motion, <m:math><m:semantics><m:mrow><m:mrow><m:mi>y</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math> is substituted for <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.</item>
     </list>
     </section><section id="fs-id1164906440394" type="problems-exercises" class="problems-exercises"><title>Problems &amp; Exercises</title>
-    <exercise id="fs-id1164906440403" type="problems-exercises"><problem id="fs-id1164906435871"><para id="import-auto-id2170125">An Olympic-class sprinter starts a race with an acceleration of <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>50 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "50 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. (a) What is her speed 2.40 s later? (b) Sketch a graph of her position vs. time for this period.</para>
+    <exercise xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id1164906440403" type="problems-exercises"><problem id="fs-id1164906435871"><para id="import-auto-id2170125">An Olympic-class sprinter starts a race with an acceleration of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>50 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "50 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. (a) What is her speed 2.40 s later? (b) Sketch a graph of her position vs. time for this period.</para>
     </problem>
 <solution id="fs-id1164906440054">
-    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2170203">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mn>8</m:mn><m:mspace width="0.25em"/><m:mtext>m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" "." 8" m/s"} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id2179857">(b)</para><figure id="import-auto-id2179859"><media id="import-auto-id2179860" alt="Line graph of position in meters versus time in seconds. The line begins at the origin and is concave up, with its slope increasing over time.">
+    <para id="import-auto-id2170203">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mn>8</m:mn><m:mspace width="0.25em"/><m:mtext>m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" "." 8" m/s"} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id2179857">(b)</para><media id="import-auto-id2179860" alt="Line graph of position in meters versus time in seconds. The line begins at the origin and is concave up, with its slope increasing over time.">
         <image mime-type="image/jpg" src="../../media/unnumbered_art_p44.jpg" width="350"/>
       </media>
-    </figure></solution>
-    </exercise>
-    <exercise id="fs-id1164906478917" type="problems-exercises"><problem id="fs-id1164906478920">    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2179906">A well-thrown ball is caught in a well-padded mitt. If the deceleration of the ball is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mtext>10</m:mtext><m:mo>×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msup><m:mspace width="0.25em"/><m:msup><m:mtext> m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>, and 1.85 ms <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>1 ms</m:mtext><m:mo stretchy="false">=</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "1 ms"="10" rSup { size 8{-3} } " s" \) } {}</m:annotation></m:semantics></m:math> elapses from the time the ball first touches the mitt until it stops, what was the initial velocity of the ball?</para></problem>
+    </solution>
+    </exercise><exercise id="fs-id1164906478917" type="problems-exercises"><problem id="fs-id1164906478920">    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2179906">A well-thrown ball is caught in a well-padded mitt. If the deceleration of the ball is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mtext>10</m:mtext><m:mo>×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msup><m:mspace width="0.25em"/><m:msup><m:mtext> m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>, and 1.85 ms <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>1 ms</m:mtext><m:mo stretchy="false">=</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "1 ms"="10" rSup { size 8{-3} } " s" \) } {}</m:annotation></m:semantics></m:math> elapses from the time the ball first touches the mitt until it stops, what was the initial velocity of the ball?</para></problem>
 <solution id="fs-id1164906499124">
     <para id="import-auto-id2173379">38.9 m/s (about 87 miles per hour)</para>
     </solution>
@@ -1904,7 +1903,7 @@
     <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2178239">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>00 m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 1 "." "00"`"m/s"} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id2178260">(c) This result does not really make sense. If the runner starts at 9.00 m/s and decelerates at <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>00 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "00 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, then she will have stopped after 4.50 s. If she continues to decelerate, she will be running backwards. </para>
     </solution>
     </exercise>
-    <exercise id="fs-id1164906435065" type="problems-exercises"><problem id="fs-id1164906435068"><para id="eip-id2358193"><emphasis>Professional Application:</emphasis></para>    <para id="import-auto-id2173851"> Blood is accelerated from rest to 30.0 cm/s in a distance of 1.80 cm by the left ventricle of the heart. (a) Make a sketch of the situation. (b) List the knowns in this problem. (c) How long does the acceleration take? To solve this part, first identify the unknown, and then discuss how you chose the appropriate equation to solve for it. After choosing the equation, show your steps in solving for the unknown, checking your units. (d) Is the answer reasonable when compared with the time for a heartbeat?</para>
+    <exercise id="fs-id1164906435065" type="problems-exercises"><problem id="fs-id1164906435068"><para id="eip-id2358193"><title>Professional Application:</title></para>    <para id="import-auto-id2173851"> Blood is accelerated from rest to 30.0 cm/s in a distance of 1.80 cm by the left ventricle of the heart. (a) Make a sketch of the situation. (b) List the knowns in this problem. (c) How long does the acceleration take? To solve this part, first identify the unknown, and then discuss how you chose the appropriate equation to solve for it. After choosing the equation, show your steps in solving for the unknown, checking your units. (d) Is the answer reasonable when compared with the time for a heartbeat?</para>
     </problem></exercise><exercise id="fs-id1164906467421" type="problems-exercises"><problem id="fs-id1164906467424">    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2173871">In a slap shot, a hockey player accelerates the puck from a velocity of 8.00 m/s to 40.0 m/s in the same direction. If this shot takes <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mtext>33</m:mtext><m:mo>×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext> s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "33"´"10" rSup { size 8{-2} } " s"} {}</m:annotation></m:semantics></m:math>, calculate the distance over which the puck accelerates.</para></problem>
 <solution id="fs-id1164906461971">
     <para xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id2173894" fo:font-weight="normal">

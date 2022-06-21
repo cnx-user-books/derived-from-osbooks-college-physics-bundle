@@ -46,7 +46,7 @@
 <caption>(credit: Jon Sullivan, PD Photo.org)</caption>
       </figure>
       <para id="import-auto-id3522271">
-        <emphasis>Strategy</emphasis>
+        <title>Strategy</title>
       </para>
       <para id="import-auto-id3584075">First we draw a sketch and assign a coordinate system to the problem. This is a simple problem, but it always helps to visualize it. Notice that we assign east as positive and west as negative. Thus, in this case, we have negative velocity.</para>
 
@@ -57,7 +57,7 @@
         <emphasis>Solution</emphasis>
       </para>
       <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id4180421">1. Identify the knowns. <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow><m:mtext>.0 m/s</m:mtext></m:mrow></m:mrow></m:mrow></m:semantics></m:math> (the negative sign indicates direction toward the west), <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.80 s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>.</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id4131827">2. Find the change in velocity. Since the horse is going from zero to <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo></m:mrow><m:mtext>15.0 m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "15" "." 0`"m/s"} {}</m:annotation></m:semantics></m:math>, its change in velocity equals its final velocity: <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi><m:mo stretchy="false">=</m:mo><m:msub><m:mi>v</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow><m:mtext>.0 m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>.</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2401166">3. Plug in the known values (<m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mrow></m:semantics></m:math>) and solve for the unknown <m:math><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>. </para><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2400983"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mspace width="0.15em"/><m:mfrac><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow><m:mtext>.0 m/s </m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.80 s</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mrow><m:mtext>.33 m</m:mtext><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow></m:semantics></m:math></equation><para id="import-auto-id2410828">
-        <emphasis>Discussion</emphasis>
+        <title>Discussion</title>
       </para>
       <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2562743">The negative sign for acceleration indicates that acceleration is toward the west. An acceleration of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>.33 m</m:mtext><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> due west means that the horse increases its velocity by 8.33 m/s due west each second, that is, 8.33 meters per second per second, which we write as <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>.33 m</m:mtext><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 "." "33"`"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. This is truly an average acceleration, because the ride is not smooth. We shall see later that an acceleration of this magnitude would require the rider to hang on with a force nearly equal to his weight.</para></example>
 <section id="fs-id1759915">
@@ -71,19 +71,19 @@
           <image mime-type="image/jpg" src="../../media/Figure_02_03_03.jpg" width="600"/>
         </media>
 
-      <caption>One-dimensional motion of a subway train considered in <link target-id="fs-id1744930"/>, <link target-id="fs-id4082275"/>, <link target-id="fs-id1372721"/>, <link target-id="fs-id3600466"/>, <link target-id="fs-id1348757"/>, and <link target-id="fs-id4015260"/>. Here we have chosen the <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>-axis so that + means to the right and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:semantics></m:math> means to the left for displacements, velocities, and accelerations. (a) The subway train moves to the right from <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> to 
-<m:math><m:semantics><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub></m:mrow></m:semantics></m:math>. Its displacement 
-<m:math><m:semantics><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">x</m:mi></m:mrow></m:semantics></m:math> is +2.0 km. (b) The train moves to the left from 
-<m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mrow><m:mi>x</m:mi><m:mo>′</m:mo></m:mrow><m:mn>0</m:mn></m:msub></m:mrow></m:mrow></m:semantics></m:math> to 
+      <caption>One-dimensional motion of a subway train considered in <link target-id="fs-id1744930"/>, <link target-id="fs-id4082275"/>, <link target-id="fs-id1372721"/>, <link target-id="fs-id3600466"/>, <link target-id="fs-id1348757"/>, and <link target-id="fs-id4015260"/>. Here we have chosen the <m:math><m:semantics><m:mrow><m:mrow><m:mi>x</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>-axis so that + means to the right and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:semantics></m:math> means to the left for displacements, velocities, and accelerations. (a) The subway train moves to the right from <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> to
+<m:math><m:semantics><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub></m:mrow></m:semantics></m:math>. Its displacement
+<m:math><m:semantics><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">x</m:mi></m:mrow></m:semantics></m:math> is +2.0 km. (b) The train moves to the left from
+<m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mrow><m:mi>x</m:mi><m:mo>′</m:mo></m:mrow><m:mn>0</m:mn></m:msub></m:mrow></m:mrow></m:semantics></m:math> to
 <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mrow><m:mi>x</m:mi><m:mo>′</m:mo></m:mrow><m:mn>f</m:mn></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { {x}} sup { ' } rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math>. Its displacement <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">x</m:mi><m:mo>′</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δx'} {}</m:annotation></m:semantics></m:math> is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.5 km</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>. (Note that the prime symbol (′) is used simply to distinguish between displacement in the two different situations. The distances of travel and the size of the cars are on different scales to fit everything into the diagram.)</caption></figure><example id="fs-id1744930">
       <title>Calculating Displacement: A Subway Train</title>
       <para id="import-auto-id4180495">What are the magnitude and sign of displacements for the motions of the subway train shown in parts (a) and (b) of <link target-id="import-auto-id2590556"/>?</para><para id="import-auto-id4180498">
-        <emphasis>Strategy</emphasis>
+        <title>Strategy</title>
       </para>
       <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id4180501">A drawing with a coordinate system is already provided, so we don’t need to make a sketch, but we should analyze it to make sure we understand what it is showing. Pay particular attention to the coordinate system. To find displacement, we use the equation <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δx=x rSub { size 8{f} }  - x rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math>. This is straightforward since the initial and final positions are given. </para><para id="import-auto-id4180530">
         <emphasis>Solution</emphasis>
       </para>
-      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id4180511">1. Identify the knowns. In the figure we see that <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>6.70 km</m:mtext></m:mrow></m:mrow></m:mrow></m:semantics></m:math> and 
+      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id4180511">1. Identify the knowns. In the figure we see that <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>6.70 km</m:mtext></m:mrow></m:mrow></m:mrow></m:semantics></m:math> and
 <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>4.70 km</m:mtext></m:mrow></m:mrow></m:mrow></m:semantics></m:math> for part (a), and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mrow><m:mi>x</m:mi><m:mo>′</m:mo></m:mrow><m:mn>f</m:mn></m:msub><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.75 km</m:mtext></m:mrow></m:mrow></m:mrow></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mrow><m:mi>x</m:mi><m:mo>′</m:mo></m:mrow><m:mn>0</m:mn></m:msub><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow><m:mtext>.25 km</m:mtext></m:mrow></m:mrow></m:mrow></m:semantics></m:math> for part (b).</para><para id="import-auto-id2400873">2. Solve for displacement in part (a). </para>
       <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2400875"><m:math>
           <m:semantics>
@@ -164,9 +164,9 @@
                     <m:mtext>5.25 km</m:mtext>
                     <m:mo stretchy="false">=</m:mo>
                       <m:mo stretchy="false">−</m:mo>
-<m:mtext>1.50 km</m:mtext>                  
+<m:mtext>1.50 km</m:mtext>
 </m:mrow>
-                  
+
                 </m:mrow>
               </m:mrow>
             </m:mrow>
@@ -174,28 +174,28 @@
           </m:semantics>
         </m:math>
       </equation><para id="import-auto-id2562293">
-        <emphasis>Discussion</emphasis>
+        <title>Discussion</title>
       </para>
       <para id="import-auto-id2562686">The direction of the motion in (a) is to the right and therefore its displacement has a positive sign, whereas motion in (b) is to the left and thus has a negative sign.</para>
       </example>
       <example id="fs-id4082275">
       <title>Comparing Distance Traveled with Displacement: A Subway Train</title>
       <para id="import-auto-id2562287">What are the distances traveled for the motions shown in parts (a) and (b) of the subway train in <link target-id="import-auto-id2590556"/>?</para><para id="import-auto-id2562290">
-        <emphasis>Strategy</emphasis>
+        <title>Strategy</title>
       </para>
       <para id="import-auto-id2562678">To answer this question, think about the definitions of distance and distance traveled, and how they are related to displacement. Distance between two positions is defined to be the magnitude of displacement, which was found in <link target-id="fs-id1744930"/>. Distance traveled is the total length of the path traveled between the two positions. (See <link document="m42033">Displacement</link>.) In the case of the subway train shown in <link target-id="import-auto-id2590556"/>, the distance traveled is the same as the distance between the initial and final positions of the train.</para><para id="import-auto-id2562305">
         <emphasis>Solution</emphasis>
       </para>
       <para id="import-auto-id2585502">1. The displacement for part (a) was +2.00 km. Therefore, the distance between the initial and final positions was 2.00 km, and the distance traveled was 2.00 km.</para>
       <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2585505">2. The displacement for part (b) was <m:math><m:semantics><m:mrow><m:mtext>−1.5 km.</m:mtext></m:mrow></m:semantics></m:math> Therefore, the distance between the initial and final positions was 1.50 km, and the distance traveled was 1.50 km.</para><para id="import-auto-id2585477">
-        <emphasis>Discussion</emphasis>
+        <title>Discussion</title>
       </para>
       <para id="import-auto-id2585481">Distance is a scalar. It has magnitude but no sign to indicate direction.</para>
       </example>
       <example id="fs-id1372721">
       <title>Calculating Acceleration: A Subway Train Speeding Up</title>
       <para id="import-auto-id2400742">Suppose the train in <link target-id="import-auto-id2590556"/>(a) accelerates from rest to 30.0 km/h in the first 20.0 s of its motion. What is its average acceleration during that time interval?</para><para id="import-auto-id2400745">
-        <emphasis>Strategy</emphasis>
+        <title>Strategy</title>
       </para>
       <para id="import-auto-id2400749">It is worth it at this point to make a simple sketch:</para>
       <figure id="import-auto-id2400753"><media id="import-auto-id2400754" alt="A point represents the initial velocity of 0 kilometers per second. Below the point is a velocity vector arrow pointing to the right, representing the final velocity of thirty point zero kilometers per hour. Below the velocity vector is an acceleration vector arrow labeled a equals question mark.">
@@ -303,13 +303,13 @@
           </m:semantics>
         </m:math>
       </equation><para id="import-auto-id2303617">
-        <emphasis>Discussion</emphasis>
+        <title>Discussion</title>
       </para>
       <para id="import-auto-id1763964">The plus sign means that acceleration is to the right. This is reasonable because the train starts from rest and ends up with a velocity to the right (also positive). So acceleration is in the same direction as the <emphasis effect="italics">change</emphasis> in velocity, as is always the case.</para></example>
       <example id="fs-id3600466">
       <title>Calculate Acceleration: A Subway Train Slowing Down</title>
       <para id="import-auto-id1763983">Now suppose that at the end of its trip, the train in <link target-id="import-auto-id2590556"/>(a) slows to a stop from a speed of 30.0 km/h in 8.00 s. What is its average acceleration while stopping?</para><para id="import-auto-id2297802">
-        <emphasis>Strategy</emphasis>
+        <title>Strategy</title>
       </para>
  <figure id="import-auto-id2324504"><media id="import-auto-id2324506" alt="A velocity vector arrow pointing toward the right with initial velocity of thirty point zero kilometers per hour and final velocity of 0. An acceleration vector arrow pointing toward the left, labeled a equals question mark.">
           <image mime-type="image/jpg" src="../../media/Figure_02_03_03d.jpg" width="300"/>
@@ -472,7 +472,7 @@
           </m:semantics>
         </m:math>
       </equation><para id="import-auto-id2297860">
-        <emphasis>Discussion</emphasis>
+        <title>Discussion</title>
       </para>
       <para id="import-auto-id2412185">The minus sign indicates that acceleration is to the left. This sign is reasonable because the train initially has a positive velocity in this problem, and a negative acceleration would oppose the motion. Again, acceleration is in the same direction as the <emphasis effect="italics">change</emphasis> in velocity, which is negative here. This acceleration can be called a deceleration because it has a direction opposite to the velocity.</para></example>
       <para id="import-auto-id2297923">The graphs of position, velocity, and acceleration vs. time for the trains in <link target-id="fs-id1372721"/> and <link target-id="fs-id3600466"/> are displayed in <link target-id="import-auto-id2596938"/>. (We have taken the velocity to remain constant from 20 to 40 s, after which the train decelerates.)</para><figure id="import-auto-id2596938"><media id="import-auto-id2596939" alt="Three graphs. The first is a line graph of position in meters versus time in seconds. The line begins at the origin and has a concave up shape from time equals zero to time equals twenty seconds. It is straight with a positive slope from twenty seconds to forty seconds. It is then convex up from forty to fifty seconds. The second graph is a line graph of velocity in meters per second versus time in seconds. The line is straight with a positive slope beginning at the origin from 0 to twenty seconds. It is flat from twenty to forty seconds. From forty to fifty seconds the line is straight with a negative slope back down to a velocity of 0. The third graph is a line graph of acceleration in meters per second per second versus time in seconds. The line is flat with a positive constant acceleration from zero to twenty seconds. The line then drops to an acceleration of 0 from twenty to forty seconds. The line drops again to a negative acceleration from forty to fifty seconds.">
@@ -484,7 +484,7 @@
       <para id="import-auto-id2412205">What is the average velocity of the train in part b of <link target-id="fs-id1744930"/>, and shown again below, if it takes 5.00 min to make its trip?</para><figure id="import-auto-id2412190"><media id="import-auto-id2412191" alt="The train moves toward the left, from an initial position of 5 point 25 kilometers to a final position of 3 point 75 kilometers.">
           <image mime-type="image/jpg" src="../../media/Figure_02_03_04a.jpg" width="550"/>
         </media>
-      </figure><para id="fs-id1746751"><emphasis>Strategy</emphasis></para>
+      </figure><para id="fs-id1746751"><title>Strategy</title></para>
       <para id="import-auto-id2412164">Average velocity is displacement divided by time. It will be negative here, since the train moves to the left and has a negative displacement.</para>
       <para id="import-auto-id2412168">
         <emphasis>Solution</emphasis>
@@ -592,14 +592,14 @@
           </m:semantics>
         </m:math>
       </equation><para id="import-auto-id2412062">
-        <emphasis>Discussion</emphasis>
+        <title>Discussion</title>
       </para>
       <para id="import-auto-id2586223">The negative velocity indicates motion to the left.</para>
       </example>
       <example id="fs-id4015260">
       <title>Calculating Deceleration: The Subway Train</title>
       <para id="import-auto-id2590913">Finally, suppose the train in <link target-id="import-auto-id2412190"/> slows to a stop from a velocity of 20.0 km/h in 10.0 s. What is its average acceleration?</para><para id="import-auto-id2590935">
-        <emphasis>Strategy</emphasis>
+        <title>Strategy</title>
       </para>
       <para id="import-auto-id2590930">Once again, let’s draw a sketch:</para>
       <figure id="import-auto-id2412073"><media id="import-auto-id2412074" alt="A velocity vector arrow pointing to the left with initial velocity of negative twenty point 0 kilometers per hour and a final velocity of 0. An acceleration vector arrow pointing toward the right, labeled a equals question mark.">
@@ -609,8 +609,8 @@
       <para id="import-auto-id2590949">
         <emphasis>Solution</emphasis>
       </para>
-      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2412083">1. Identify the knowns. <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>20 km/h</m:mtext></m:mrow></m:mrow></m:mrow></m:mrow></m:semantics></m:math>, 
-<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0 km/h</m:mn></m:mrow></m:mrow></m:mrow></m:semantics></m:math>, 
+      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2412083">1. Identify the knowns. <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>20 km/h</m:mtext></m:mrow></m:mrow></m:mrow></m:mrow></m:semantics></m:math>,
+<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0 km/h</m:mn></m:mrow></m:mrow></m:mrow></m:semantics></m:math>,
 <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>10</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>0 s</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>.</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2412112">2. Calculate <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δv} {}</m:annotation></m:semantics></m:math>. The change in velocity here is actually positive, since</para><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2581122"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>20 km/h</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow><m:mtext>=</m:mtext><m:mspace width="0.25"/><m:mtext>+</m:mtext><m:mtext>20 km/h</m:mtext></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δv=v rSub { size 8{f} }  - v rSub { size 8{0} } =0 -  left ( - "20 km/h" right )"=+""20 km/h"} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2581157">3. Solve for <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {a}}} {}</m:annotation></m:semantics></m:math>.</para>
       <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2585925"><m:math>
           <m:semantics>
@@ -722,7 +722,7 @@
           </m:semantics>
         </m:math>
       </equation><para id="import-auto-id2338699">
-        <emphasis>Discussion</emphasis>
+        <title>Discussion</title>
       </para>
       <para id="import-auto-id2338703">The plus sign means that acceleration is to the right. This is reasonable because the train initially has a negative velocity (to the left) in this problem and a positive acceleration opposes the motion (and so it is to the right). Again, acceleration is in the same direction as the <emphasis effect="italics">change</emphasis> in velocity, which is positive here. As in <link target-id="fs-id3600466"/>, this acceleration can be called a deceleration since it is in the direction opposite to the velocity.</para></example>
 </section>
@@ -735,9 +735,9 @@
       <para id="import-auto-id2338718">If we take east to be positive, then the airplane has negative acceleration, as it is accelerating toward the west. It is also decelerating: its acceleration is opposite in direction to its velocity.</para>
       </solution>
       </exercise><note id="fs-id4128084" class="interactive"><title>PhET Explorations: Moving Man Simulation</title><para id="import-auto-id2338731">Learn about position, velocity, and acceleration graphs. Move the little man back and forth with the mouse and plot his motion. Set the position, velocity, or acceleration and let the simulation move the man for you. <newline/>
-<media id="Phet_module_2.4" alt="">
+<figure id="eip-idm812698640"><media id="Phet_module_2.4" alt="">
 <iframe width="660" height="371.4" src="https://archive.cnx.org/specials/e2ca52af-8c6b-450e-ac2f-9300b38e8739/moving-man/"/>
-</media>
+</media></figure>
 </para></note></section>
       <section xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id4131829" class="section-summary"><title>Section Summary</title><list id="fs-id1644411"><item id="import-auto-id2412645">Acceleration is the rate at which velocity changes. In symbols, <term>average acceleration</term> <m:math><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {a}}} {}</m:annotation></m:semantics></m:math> is
       <equation id="import-auto-id2412659"><m:math>
@@ -854,7 +854,7 @@
       </para></solution>
       </exercise>
       <exercise xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id4035192" type="problems-exercises"><problem id="fs-id4035194">
-<para id="eip-id3627767"><emphasis effect="bold">Professional Application</emphasis></para>
+<para id="eip-id3627767"><title>Professional Application</title></para>
       <para id="import-auto-id2297677">Dr. John Paul Stapp was U.S. Air Force officer who studied the effects of extreme deceleration on the human body. On December 10, 1954, Stapp rode a rocket sled, accelerating from rest to a top speed of 282 m/s (1015 km/h) in 5.00 s, and was brought jarringly back to rest in only 1.40 s! Calculate his (a) acceleration and (b) deceleration. Express each in multiples of <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>  <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mtext>80 m</m:mtext><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> by taking its ratio to the acceleration of gravity.</para></problem></exercise><exercise id="fs-id2299988" type="problems-exercises"><problem id="fs-id2299990">
 <para id="import-auto-id2412280">A commuter backs her car out of her garage with an acceleration of <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>40 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "40 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. (a) How long does it take her to reach a speed of 2.00 m/s? (b) If she then brakes to a stop in 0.800 s, what is her deceleration?</para>
       </problem>
@@ -866,7 +866,7 @@
       </section>
 </content>
 
-  
+
 <glossary>
       <definition id="import-auto-id2412629"><term>acceleration</term> <meaning id="fs-id4017767">the rate of change in velocity; the change in velocity over time</meaning></definition>
       <definition id="import-auto-id2412631"><term>average acceleration</term> <meaning id="fs-id2015117">the change in velocity divided by the time over which it changes </meaning></definition>

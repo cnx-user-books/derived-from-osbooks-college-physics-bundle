@@ -16,7 +16,7 @@
     <figure id="import-auto-id1509596"><media id="import-auto-id1911627" alt="A schematic diagram of energy consumed by humans and converted to various other forms is shown. Food energy is converted into work, thermal energy, and stored fat depicted by an arrow branching out of food energy and ending at these three forms. Stored fat plus thermal energy is equal to the final other energy, labeled  O E sub f, and nonconservative work is shown by W sub n c, which is negative, so the initial other energy, labeled O E sub i, plus W sub n c is equal to O E sub f .">
         <image mime-type="image/jpg" src="../../media/Figure_08_08_01a.jpg" width="275"/>
       </media>
-        
+
     <caption id="import-auto-id1975690">Energy consumed by humans is converted to work, thermal energy, and stored fat. By far the largest fraction goes to thermal energy, although the fraction varies depending on the type of physical activity.</caption></figure></section>
     <section id="fs-id2181417"><title>Power Consumed at Rest</title>
     <para id="import-auto-id2653849">The <emphasis effect="italics">rate</emphasis> at which the body uses food energy to sustain life and to do different activities is called the <term id="import-auto-id1143113">metabolic rate</term>. The total energy conversion rate of a person <emphasis effect="italics">at rest</emphasis> is called the <term id="import-auto-id2859421">basal metabolic rate</term> (BMR) and is divided among various systems in the body, as shown in <link target-id="import-auto-id2209139"/>. The largest fraction goes to the liver and spleen, with the brain coming next. Of course, during vigorous exercise, the energy consumption of the skeletal muscles and heart increase markedly. About 75% of the calories burned in a day go into these basic functions. The BMR is a function of age, gender, total body weight, and amount of muscle mass (which burns more calories than body fat). Athletes have a greater BMR due to this last factor. </para>
@@ -77,7 +77,7 @@
            <entry align="center">100%</entry>
           </row>
         </tbody>
-      
+
 
 
 
@@ -133,7 +133,7 @@
           <m:annotation encoding="StarMath 5.0"> size 12{"Time"= {  {"energy"}  over  { left ( {  {"energy"}  over  {"time"} }  right )} } = {  {"1000"" kJ"}  over  {"400 W"} } ="2500"" s"="42 min" "." } {}</m:annotation>
         </m:semantics>
       </m:math>
-    </equation><para id="import-auto-id2623561"><emphasis>Discussion</emphasis> </para>
+    </equation><para id="import-auto-id2623561"><title>Discussion</title> </para>
     <para id="import-auto-id2081718">If this person uses more energy than he or she consumes, the person’s body will obtain the needed energy by metabolizing body fat. If the person uses 13,000 kJ but consumes only 12,000 kJ, then the amount of fat loss will be </para><equation id="import-auto-id1468507"><m:math>
         <m:semantics>
           <m:mrow>
@@ -170,13 +170,13 @@
     </example><figure id="import-auto-id2767879"><media id="import-auto-id1900492" alt="A person is measuring the amount of oxygen in blood and metabolic rate using a pulse oxymeter. The pulse oxymeter is strapped to the person’s wrist, and the index finger is inside the clip.">
           <image mime-type="image/jpg" src="../../media/Figure_08_08_02a.jpg" width="300"/>
         </media>
-        
-      <caption>A pulse oxymeter is an apparatus that measures the amount of oxygen in blood. Oxymeters can be used to determine a person’s metabolic rate, which is the rate at which food energy is converted to another form. Such measurements can indicate the level of athletic conditioning as well as certain medical problems. (credit: UusiAjaja, Wikimedia Commons)</caption></figure><table id="import-auto-id1921441" summary="The table shows energy and oxygen consumption in various human activities. One column lists the activity and the corresponding row in the next column lists the rate of energy consumption in watts. The last column lists the oxygen consumption in liters of oxygen per minute."><title>Energy and Oxygen Consumption Rates<footnote id="eip-id2209709">for an average 76-kg male</footnote> (Power)</title>
+
+      <caption>A pulse oxymeter is an apparatus that measures the amount of oxygen in blood. A knowledge of oxygen and carbon dioxide levels indicates a person’s metabolic rate, which is the rate at which food energy is converted to another form. a person’s metabolic rate, which is the rate at which food energy is converted to another form. Such measurements can indicate the level of athletic conditioning as well as certain medical problems. (credit: UusiAjaja, Wikimedia Commons)</caption></figure><table id="import-auto-id1921441" summary="The table shows energy and oxygen consumption in various human activities. One column lists the activity and the corresponding row in the next column lists the rate of energy consumption in watts. The last column lists the oxygen consumption in liters of oxygen per minute."><title>Energy and Oxygen Consumption Rates<footnote id="eip-id2209709">for an average 76-kg male</footnote> (Power)</title>
 <tgroup cols="3"><colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
         <colspec colnum="3" colname="c3"/>
         <thead>
-          
+
           <row>
             <entry>Activity</entry>
             <entry align="center">Energy consumption in watts</entry>
@@ -265,7 +265,7 @@
             <entry align="center">6.90</entry>
           </row>
         </tbody>
-      
+
 
 
 
@@ -280,7 +280,7 @@
 </table><para id="import-auto-id1208199">All bodily functions, from thinking to lifting weights, require energy. (See <link target-id="import-auto-id1770894"/>.) The many small muscle actions accompanying all quiet activity, from sleeping to head scratching, ultimately become thermal energy, as do less visible muscle actions by the heart, lungs, and digestive tract. Shivering, in fact, is an involuntary response to low body temperature that pits muscles against one another to produce thermal energy in the body (and do no work). The kidneys and liver consume a surprising amount of energy, but the biggest surprise of all is that a full 25% of all energy consumed by the body is used to maintain electrical potentials in all living cells. (Nerve cells use this electrical potential in nerve impulses.) This bioelectrical energy ultimately becomes mostly thermal energy, but some is utilized to power chemical processes such as in the kidneys and liver, and in fat production.</para><figure id="import-auto-id1770894"><media id="import-auto-id1732754" alt="An f M R I scan of a human head with energy consumption in the vision center shown by a bright spot. This brightness indicates the energy consumption.">
         <image mime-type="image/jpg" src="../../media/Figure_08_08_03a.jpg" width="250"/>
       </media>
-    
+
     <caption>This fMRI scan shows an increased level of energy consumption in the vision center of the brain. Here, the patient was being asked to recognize faces. (credit: NIH via Wikimedia Commons)</caption></figure></section>
 <section id="fs-id2060496" class="section-summary">
 <title>Section Summary</title><list id="fs-id2609815"><item id="import-auto-id2206939">The human body converts energy stored in food into work, thermal energy, and/or chemical energy that is stored in fatty tissue.</item>
@@ -314,7 +314,7 @@
     <figure id="import-auto-id1907482"><media id="import-auto-id2574245" alt="A close view of a shot-putter throwing the shot.">
         <image mime-type="image/jpg" src="../../media/Figure_08_08_04a.jpg" width="250"/>
       </media>
-    
+
 <caption>Shot putter at the Dornoch Highland Gathering in 2007. (credit: John Haslam, Flickr)</caption></figure></problem><solution id="fs-id1555181">
     <para id="import-auto-id2944565">641 W, 0.860 hp</para></solution>
     </exercise>
@@ -351,7 +351,7 @@
     <para id="import-auto-id1222275">Kanellos Kanellopoulos flew 119 km from Crete to Santorini, Greece, on April 23, 1988, in the <emphasis effect="italics">Daedalus 88</emphasis>, an aircraft powered by a bicycle-type drive mechanism (see <link target-id="import-auto-id2181552"/>). His useful power output for the 234-min trip was about 350 W. Using the efficiency for cycling from <link document="m42151" target-id="import-auto-id1330125"/>, calculate the food energy in kilojoules he metabolized during the flight.</para><figure id="import-auto-id2181552"><media id="import-auto-id1836101" alt="An aircraft flying in the air shown from outside, which is powered by a bicycle-type drive mechanism.">
         <image mime-type="image/jpg" src="../../media/Figure_08_08_05a.jpg" width="300"/>
       </media>
-    
+
     <caption>The Daedalus 88 in flight. (credit: NASA photo by Beasley)</caption></figure></problem>
 </exercise>
     <exercise id="fs-id1888740" type="problems-exercises"><problem id="fs-id1360551">
@@ -369,7 +369,7 @@
     <para id="import-auto-id1080876">(a) 144 J</para>
     <para id="eip-id1628544">(b) 288 W</para>
     </solution></exercise>
-    
+
     <exercise id="eip-367" type="problems-exercises"><problem id="eip-349">
   <para id="eip-306">
    Mountain climbers carry bottled oxygen when at very high altitudes. (a) Assuming that a mountain climber uses oxygen at twice the rate for climbing 116 stairs per minute (because of low air temperature and winds), calculate how many liters of oxygen a climber would need for 10.0 h of climbing. (These are liters at sea level.) Note that only 40% of the inhaled oxygen is utilized; the rest is exhaled. (b) How much useful work does the climber do if he and his equipment have a mass of 90.0 kg and he gains 1000 m of altitude? (c) What is his efficiency for the 10.0-h climb?
@@ -386,7 +386,7 @@
     <para id="import-auto-id2842519">(b) 2.52%</para>
     <para id="import-auto-id2385407">(c) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mn>4</m:mn><m:mi>×</m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>4 </m:mn></m:mrow></m:msup><m:mtext> kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." 4 times "10" rSup { size 8{4} } " kg"} {}</m:annotation></m:semantics></m:math> (14 metric tons)</para>
     </solution>
-    </exercise>    
+    </exercise>
     <exercise id="fs-id1655352" type="problems-exercises"><problem id="fs-id1553879">
     <para id="import-auto-id1943065">(a) How long can you play tennis on the 800 kJ (about 200 kcal) of energy in a candy bar? (b) Does this seem like a long time? Discuss why exercise is necessary but may not be sufficient to cause a person to lose weight.</para>
     </problem></exercise>
@@ -397,5 +397,5 @@
     <definition id="import-auto-id1616000"><term id="import-auto-id2095427">basal metabolic rate</term> <meaning id="fs-id1542352">the total energy conversion rate of a person at rest</meaning></definition>
     <definition id="import-auto-id2092568"><term id="import-auto-id1999754">useful work</term> <meaning id="fs-id2490644">work done on an external system</meaning></definition>
     </glossary>
-    
+
 </document>
