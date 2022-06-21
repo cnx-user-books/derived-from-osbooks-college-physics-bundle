@@ -1,11 +1,11 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-    <md:content-id>col11435</md:content-id>
-    <md:title>PHY 2053 - General Physics I</md:title>
+    <md:content-id>col11674</md:content-id>
+    <md:title>AP Physics 1, derived for Rogers High School</md:title>
     <md:language>en</md:language>
-    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
-    <md:uuid>ec82d590-9707-486d-a76e-4a4a9e02e751</md:uuid>
-<md:slug>phy-2053-general-physics-i</md:slug>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>bb567a4c-750e-416e-9f25-792978f43060</md:uuid>
+<md:slug>ap-physics-1-derived-for-rogers-high-school</md:slug>
 </metadata>
   <col:content>
     <col:module document="m42955"/>
@@ -130,6 +130,75 @@
         <col:module document="m42182"/>
         <col:module document="m42183"/>
         <col:module document="m42184"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Oscillatory Motion and Waves</md:title>
+      <col:content>
+        <col:module document="m42239"/>
+        <col:module document="m42240"/>
+        <col:module document="m42241"/>
+        <col:module document="m42242"/>
+        <col:module document="m42243"/>
+        <col:module document="m42244"/>
+        <col:module document="m42245"/>
+        <col:module document="m42246"/>
+        <col:module document="m42247"/>
+        <col:module document="m42248"/>
+        <col:module document="m42249"/>
+        <col:module document="m42250"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physics of Hearing</md:title>
+      <col:content>
+        <col:module document="m42254"/>
+        <col:module document="m42255"/>
+        <col:module document="m42256"/>
+        <col:module document="m42257"/>
+        <col:module document="m42712"/>
+        <col:module document="m42296"/>
+        <col:module document="m42297"/>
+        <col:module document="m42298"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Charge and Electric Field</md:title>
+      <col:content>
+        <col:module document="m42299"/>
+        <col:module document="m42300"/>
+        <col:module document="m42306"/>
+        <col:module document="m42308"/>
+        <col:module document="m42310"/>
+        <col:module document="m42312"/>
+        <col:module document="m42315"/>
+        <col:module document="m42317"/>
+        <col:module document="m42329"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Current, Resistance, and Ohm's Law</md:title>
+      <col:content>
+        <col:module document="m42339"/>
+        <col:module document="m42341"/>
+        <col:module document="m42344"/>
+        <col:module document="m42346"/>
+        <col:module document="m42714"/>
+        <col:module document="m42348"/>
+        <col:module document="m42350"/>
+        <col:module document="m42352"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Circuits and DC Instruments</md:title>
+      <col:content>
+        <col:module document="m42354"/>
+        <col:module document="m42356"/>
+        <col:module document="m42357"/>
+        <col:module document="m42359"/>
+        <col:module document="m42360"/>
+        <col:module document="m42362"/>
+        <col:module document="m42363"/>
       </col:content>
     </col:subcollection>
     <col:module document="m42720"/>
