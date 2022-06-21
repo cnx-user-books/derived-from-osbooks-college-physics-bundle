@@ -1,0 +1,91 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11535</md:content-id>
+    <md:title>Selected Chapters of College Physics for Secondary 5</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>0378158b-fe38-4c46-acd2-05ebc669ab45</md:uuid>
+<md:slug>selected-chapters-of-college-physics-for-secondary-5</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Units and Significant Figures</md:title>
+      <col:content>
+        <col:module document="m42091"/>
+        <col:module document="m42120"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kinematics</md:title>
+      <col:content>
+        <col:module document="m42122"/>
+        <col:module document="m42033"/>
+        <col:module document="m42124"/>
+        <col:module document="m42096"/>
+        <col:module document="m42100"/>
+        <col:module document="m42099"/>
+        <col:module document="m42125"/>
+        <col:module document="m42102"/>
+        <col:module document="m42103"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Two-Dimensional Kinematics</md:title>
+      <col:content>
+        <col:module document="m42126"/>
+        <col:module document="m42104"/>
+        <col:module document="m42127"/>
+        <col:module document="m42128"/>
+        <col:module document="m42045"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Dynamics: Force and Newton's Laws of Motion</md:title>
+      <col:content>
+        <col:module document="m42129"/>
+        <col:module document="m42069"/>
+        <col:module document="m42130"/>
+        <col:module document="m42073"/>
+        <col:module document="m42074"/>
+        <col:module document="m42075"/>
+        <col:module document="m42076"/>
+        <col:module document="m42132"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work and Energy</md:title>
+      <col:content>
+        <col:module document="m42145"/>
+        <col:module document="m42146"/>
+        <col:module document="m42147"/>
+        <col:module document="m42148"/>
+        <col:module document="m42149"/>
+        <col:module document="m42150"/>
+        <col:module document="m42151"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Geometric Optics</md:title>
+      <col:content>
+        <col:module document="m42449"/>
+        <col:module document="m42452"/>
+        <col:module document="m42456"/>
+        <col:module document="m42459"/>
+        <col:module document="m42462"/>
+        <col:module document="m42466"/>
+        <col:module document="m42470"/>
+        <col:module document="m42474"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Vision and Optical Instruments</md:title>
+      <col:content>
+        <col:module document="m42478"/>
+        <col:module document="m42482"/>
+        <col:module document="m42484"/>
+        <col:module document="m42491"/>
+        <col:module document="m42493"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
