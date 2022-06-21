@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
   <title>Useful Information</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m42720</md:content-id>
@@ -7,7 +7,7 @@
   <md:uuid>72343285-683e-46d9-a6c2-5de097e36ff9</md:uuid>
 </metadata>
 
-<content>
+<content class="appendix">
     <para id="import-auto-id2300397">This appendix is broken into several tables.</para>
     <list id="eip-856"><item><link target-id="import-auto-id1211982"/>, Important Constants</item>
 <item><link target-id="import-auto-id1125517"/>, Submicroscopic Masses</item>
@@ -270,13 +270,8 @@
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
-                        <m:mn>6</m:mn>
-                        <m:mtext>.</m:mtext>
-                        <m:mtext>02214129</m:mtext>
-                        <m:mo stretchy="false">(</m:mo>
-                        <m:mtext>27</m:mtext>
                         <m:mrow>
-                          <m:mo stretchy="false">)</m:mo>
+                          <m:mn>6.02214076</m:mn>
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>
@@ -289,7 +284,7 @@
                         </m:mrow>
                       </m:mrow>
                     </m:mrow>
-                    <m:mrow/>
+
                   </m:mrow>
                   <m:annotation encoding="StarMath 5.0"> size 12{6 "." "02214129" \( "27" \)  times "10" rSup { size 8{"23"} } } {}</m:annotation>
                 </m:semantics>
@@ -345,13 +340,9 @@
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
-                        <m:mn>1</m:mn>
-                        <m:mtext>.</m:mtext>
-                        <m:mtext>3806488</m:mtext>
-                        <m:mo stretchy="false">(</m:mo>
-                        <m:mtext>13</m:mtext>
+                        <m:mn>1.380649</m:mn>
                         <m:mrow>
-                          <m:mo stretchy="false">)</m:mo>
+
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>
@@ -791,14 +782,10 @@
                       <m:mrow>
                         <m:mrow>
                           <m:mo stretchy="false">−</m:mo>
-                          <m:mn>1</m:mn>
+                          <m:mn>1.602176634</m:mn>
                         </m:mrow>
-                        <m:mtext>.</m:mtext>
-                        <m:mtext>602176565</m:mtext>
-                        <m:mo stretchy="false">(</m:mo>
-                        <m:mtext>35</m:mtext>
                         <m:mrow>
-                          <m:mo stretchy="false">)</m:mo>
+
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>
@@ -1114,13 +1101,9 @@
                   <m:mrow>
                     <m:mrow>
                       <m:mrow>
-                        <m:mn>6</m:mn>
-                        <m:mtext>.</m:mtext>
-                        <m:mtext>62606957</m:mtext>
-                        <m:mo stretchy="false">(</m:mo>
-                        <m:mtext>29</m:mtext>
+                        <m:mn>6.62607015</m:mn>
                         <m:mrow>
-                          <m:mo stretchy="false">)</m:mo>
+
 <m:mspace width="0.15em"/>
                           <m:mo stretchy="false">×</m:mo>
 <m:mspace width="0.15em"/>                          
@@ -1189,6 +1172,12 @@
             </entry>
           </row>
         </tbody>
+
+
+
+
+
+
 
 
 

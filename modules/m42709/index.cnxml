@@ -7,7 +7,7 @@
   <md:uuid>f9d7e0fb-7dc8-471a-b4d8-976fce44baa0</md:uuid>
 </metadata>
 
-<content>
+<content class="appendix">
     <para id="import-auto-id1257212">In this glossary, key symbols and notation are briefly defined.</para>
     <table xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1688908" summary=".......">
 <tgroup cols="2"><colspec colnum="1" colname="c1"/>
