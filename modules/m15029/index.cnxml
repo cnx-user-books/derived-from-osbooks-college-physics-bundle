@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Errors in measurement</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7adffce6-661c-42a8-b8ec-47e63b13168b</md:uuid>
+</metadata>
+  <content>
+<para id="element-1">Measurement is the basis of scientific study. All measurements are, however, approximate values (not true values) within the limitation of measuring device, measuring environment, process of measurement and human error. We seek to minimize uncertainty and hence error to the extent possible.
+</para>
+<para id="element-2">Further, there is important aspect of reporting measurement. It should be consistent, systematic and revealing in the context of accuracy and precision. We must understand that an error in basic quantities propagate through mathematical formula leading to compounding of errors and misrepresentation of quantities. 
+</para>
+<para id="element-3">Errors are broadly classified in two categories : 
+</para>
+<para id="element-4">
+<list id="list-4" list-type="bulleted">
+<item> Systematic error </item>
+<item> Random error </item>
+</list>
+</para>
+<para id="element-5">A systematic error impacts “accuracy” of the measurement. Accuracy means how close is the measurement with respect to “true” value. A “true” value of a quantity is a measurement, when errors on all accounts are minimized. We should distinguish “accuracy” of measurement with “precision” of measurement, which is related to the ability of an instrument to measure values with greater details (divisions).
+</para>
+<para id="element-6">The measurement of a weight on a scale with marking in kg is 79 kg, whereas measurement of the same weight on a different scale having further divisions in hectogram is 79.3 kg. The later weighing scale is more precise. The precision of measurement of an instrument, therefore, is a function of the ability of an instrument to read smaller divisions of a quantity. 
+</para>
+<para id="element-7">In the nutshell, 
+</para>
+<para id="element-8">
+<list id="list-8" list-type="enumerated"><item> True value of a quantity is an “unknown”. We can not know the true value of a quantity, even if we have measured it by chance as we do not know the exact value of error in measurement. We can only approximate true value with greater accuracy and precision. </item>
+<item> An accepted “true” measurement of a quantity is a measurement, when errors on all accounts are minimized. </item>
+<item> “Accuracy” means how close is the measurement with respect to “true” measurement. It is associated with systematic error. </item>
+<item> “Precision” of measurement is related to the ability of an instrument to measure values in greater details. It is associated with random error. </item>
+</list>
+</para>
+<section id="section-1">
+<title>Systematic error</title>
+<para id="element-9">A systematic error results due to faulty measurement practices. The error of this category is characterized by deviation in one direction from the true value. What it means that the error is introduced, which is either less than or greater than the true value. Systematic error impacts the accuracy of measurement – not the precision of the measurement. 
+</para>
+<para id="element-10">Systematic error results from : 
+</para>
+<para id="element-11">
+<list id="list-11" list-type="enumerated">
+<item> faulty instrument </item>
+<item> faulty measuring process and </item>
+<item> personal bias </item>
+</list>
+</para>
+<para id="element-12">Clearly, this type of error can not be minimized or reduced by repeated measurements. A faulty machine, for example, will not improve accuracy of measurement by repeating measurements. 
+</para>
+<section id="section-1a">
+<title>Instrument error</title>
+<para id="element-14">A zero error, for example, is an instrument error, which is introduced in the measurement consistently in one direction. A zero error results when the zero mark of the scale does not match with pointer. We can realize this with the weighing instrument we use at our home. Often, the pointer is off the zero mark of the scale. Moreover, the scale may in itself be not uniformly marked or may not be properly calibrated. In vernier calipers, the nine divisions of main scale should be exactly equal to ten divisions of vernier scale. In a nutshell, we can say that the instrument error occurs due to faulty design of the instrument. We can minimize this error by replacing the instrument or by making a change in the design of the instrument. </para>
+</section>
+<section id="section-1b">
+<title>Procedural error</title>
+<para id="element-15">A faulty measuring process may include inappropriate physical environment, procedural mistakes and lack of understanding of the process of measurement. For example, if we are studying magnetic effect of current, then it would be erroneous to conduct the experiment in a place where strong currents are flowing nearby. Similarly, while taking temperature of human body, it is important to know which of the human parts is more representative of body temperature. 
+</para>
+<para id="element-16">This error type can be minimized by periodic assessment of measurement process and improvising the system in consultation with subject expert or simply conducting an audit of the measuring process in the light of new facts and advancements.
+</para>
+</section>
+<section id="section-1c">
+<title>Personal bias</title>
+<para id="element-17">A personal bias is introduced by human habits, which are not conducive for accurate measurement.   Consider for example, the reading habit of a person. He or she may have the habit of reading scales from an inappropriate distance and from an oblique direction. The measurement, therefore, includes error on account of parallax.
+</para>
+<para id="element-18">
+<figure id="fig-18"><title> Parallax</title>
+<media id="idp5748768" alt=""><image src="../../media/em1.GIF" mime-type="image/gif"/></media>
+<caption> The position of pencil changes with respect to a mark on the background.</caption>
+</figure>
+</para>
+<para id="element-19">We can appreciate the importance of parallax by just holding a finger (pencil) in the hand, which is stretched horizontally. We keep the finger in front of our eyes against some reference marking in the back ground. Now, we look at the finger by closing one eye at a time and note the relative displacement of the finger with respect to the mark in the static background. We can do this experiment any time as shown in the figure above. The parallax results due to the angle at which we look at the object. 
+</para>
+
+<para id="element-21">It is important that we read position of a pointer or a needle on a scale normally to avoid error on account of parallax.
+</para><para id="element-272"><figure id="fig-272"><title> Parallax </title>
+<media id="idm961408" alt=""><image src="../../media/em2.gif" mime-type="image/gif"/></media>
+<caption> Parallax error is introduced as we may read values at an angle. </caption>
+</figure></para>
+</section>
+</section>
+<section id="section-2">
+<title>Random errors</title>
+<para id="element-26">Random error unlike systematic error is not unidirectional. Some of the measured values are greater than true value; some are less than true value. The errors introduced are sometimes positive and sometimes negative with respect to true value. It is possible to minimize this type of error by repeating measurements and applying statistical technique to get closer value to the true value. 
+</para>
+<para id="element-27">Another distinguishing aspect of random error is that it is not biased. It is there because of the limitation of the instrument in hand and the limitation on the part of human ability. No human being can repeat an action in exactly the same manner. Hence, it is likely that same person reports different values with the same instrument, which measures the quantity correctly.
+</para>
+<section id="section-2a">
+<title>Least count error</title>
+<para id="element-28">Least count error results due to the inadequacy of resolution of the instrument. We can understand this in the context of least count of a measuring device. The least count of a device is equal to the smallest division on the scale. Consider the meter scale that we use. What is its least count? Its smallest division is in millimeter (mm). Hence, its least count is 1 mm i.e. 
+<m:math>
+  <m:mrow>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mo>-</m:mo>
+        <m:mn>3</m:mn>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math>
+ m i.e. 0.001 m. Clearly, this meter scale can be used to measure length from 
+<m:math>
+  <m:mrow>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mo>-</m:mo>
+        <m:mn>3</m:mn>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math>
+ m to 1 m. It is worth to know that least count of a vernier scale is 
+<m:math>
+  <m:mrow>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mo>-</m:mo>
+        <m:mn>4</m:mn>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math>
+ m and that of screw gauge and spherometer 
+<m:math>
+  <m:mrow>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mo>-</m:mo>
+        <m:mn>5</m:mn>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math>
+ m.
+</para>
+<para id="element-29">Returning to the meter scale, we have the dilemma of limiting ourselves to the exact measurement up to the precision of marking or should be limited to a step before. For example, let us read the measurement of a piece of a given rod. One end of the rod exactly matches with the zero of scale. Other end lies at the smallest markings at 0.477 m (= 47.7 cm = 477 mm). We may argue that measurement should be limited to the marking which can be definitely relied. If so, then we would report the length as 0.47 m, because we may not be definite about millimeter reading. </para>
+<para id="element-690">This is, however, unacceptable as we are sure that length consists of some additional length  – only thing that we may err as the reading might be 0.476 m or 0.478 m instead of 0.477 m. There is a definite chance of error due to limitation in reading such small divisions. We would, however, be more precise and accurate by reporting measurement as 0.477 ± some agreed level of anticipated error. Generally, the accepted level of error in reading the smallest division is considered half the least count. Hence, the reading would be :
+</para><para id="element-30">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.477</m:mn>
+    <m:mo>±</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.001</m:mn>
+      </m:mrow>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-31">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.477</m:mn>
+    <m:mo>±</m:mo>
+    <m:mn>0.0005</m:mn>
+    <m:mspace width="1pt"/>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-32">If we report the measurement in centimeter, 
+</para>
+<para id="element-33">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>47.7</m:mn>
+    <m:mo>±</m:mo>
+    <m:mn>0.05</m:mn>
+    <m:mspace width="1pt"/>
+    <m:mi>c</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-34">If we report the measurement in millimeter, 
+</para>
+<para id="element-35">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>477</m:mn>
+    <m:mo>±</m:mo>
+    <m:mn>0.</m:mn>
+    <m:mn>5</m:mn>
+    <m:mspace width="1pt"/>
+    <m:mi>m</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+</section>
+<section id="section-2b">
+<title>Mean value of measurements</title>
+<para id="element-36">It has been pointed out that random error, including that of least count error, can be minimized by repeating measurements. It is so because errors are not unidirectional. If we take average of the measurements from the repeated measurements, it is likely that we minimize error by canceling out errors in opposite directions.  
+</para>
+<para id="element-37">Here, we are implicitly assuming that measurement is free of “systematic errors”. The averaging of the repeated measurements, therefore, gives the best estimate of “true” value. As such, average or mean value (
+<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mi>m</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+) of the measurements (excluding "off beat" measurements) is the notional “true” value of the quantity being measured. As a matter of fact, it is reported as true value, being our best estimate.
+</para>
+<para id="element-38">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mi>m</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>a</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+        <m:mo>+</m:mo>
+        <m:msub>
+          <m:mi>a</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+        <m:mo>+</m:mo>
+        <m:mo>…</m:mo>
+        <m:mo>…</m:mo>
+        <m:mo>…</m:mo>
+        <m:mo>.</m:mo>
+        <m:mo>.</m:mo>
+        <m:mo>+</m:mo>
+        <m:msub>
+          <m:mi>a</m:mi>
+          <m:mi>n</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mi>n</m:mi>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-39">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mi>m</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:munderover>
+      <m:mi>Σ</m:mi>
+      <m:mrow>
+        <m:mn>0</m:mn>
+      </m:mrow>
+      <m:mi>n</m:mi>
+    </m:munderover>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>a</m:mi>
+          <m:mi>i</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mi>n</m:mi>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+</section>
+</section>
+ 
+  </content>
+  
+</document>

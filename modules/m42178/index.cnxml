@@ -105,7 +105,7 @@
                       <m:mo stretchy="false">+</m:mo>
                       <m:mstyle fontstyle="italic">
                         <m:mrow>
-                          <m:mtext>at</m:mtext>
+                          <m:mtext>αt</m:mtext>
                         </m:mrow>
                       </m:mstyle>
                     </m:mrow>
@@ -113,16 +113,14 @@
                   <m:mtext>     </m:mtext>
                   <m:mo stretchy="false">(</m:mo>
                   <m:mtext>constant </m:mtext>
-                  <m:mi>a</m:mi>
+                  <m:mi>α</m:mi>
                   <m:mo stretchy="false">)</m:mo>
                   <m:mi>,</m:mi>
                 </m:mrow>
               </m:mrow>
             
             <m:mrow/>
-          </m:mrow>
-          <m:annotation encoding="StarMath 5.0"> size 12{ω=ω rSub { size 8{0} } + ital "at""    " \[ "constant "a \] ,} {}</m:annotation>
-        </m:semantics>
+          </m:mrow></m:semantics>
       </m:math> 
     </equation><para id="import-auto-id1900500">where <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>ω</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math> is the initial angular velocity. This last equation is a <emphasis effect="italics">kinematic relationship</emphasis> among <m:math><m:semantics><m:mrow><m:mrow><m:mi>ω</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math> —that is, it describes their relationship without reference to forces or masses that may affect rotation. It is also precisely analogous in form to its translational counterpart. </para>
     <note id="fs-id3285965"><label/>

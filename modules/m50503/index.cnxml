@@ -1,0 +1,849 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Trigonometric Function Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50503</md:content-id>
+  <md:title>Trigonometric Function Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>ebe2b9e1-9f7f-4052-a282-605ac60f1609</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172464931478">
+      <title>Trigonometry</title>
+      <section id="id1172472628043">
+        <title>Introduction</title>
+        <para id="id1172464486866">Trigonometry is a very important tool for engineers. This reading mentions just a few of the many applications that involve trigonometry to solve engineering problems.</para>
+        <para id="id4702558">Trigonometry means the study of the triangle. Most often, it refers to finding angles of a triangle when the lengths of the sides are known, or finding the lengths of two sides when the angles and one of the side lengths are known.</para>
+        <para id="id1172471577055">As you complete this reading, be sure to pay special attention to the variety of areas in which engineers utilize trigonometry to develop the solutions to problems. Rest assured that there are an untold number of applications of trigonometry in engineering. This reading only introduces you to a few. You will learn many more as you progress through your engineering studies. </para>
+        <para id="id1172472712104">Virtually all engineers use trigonometry in their work on a regular basis. Things like the generation of electrical current or a computer use angles in ways that are difficult to see directly, but that rely on the fundamental rules of trigonometry to work properly. Any time angles appear in a problem, the use of trigonometry usually will not be far behind.</para>
+        <para id="id1172469198507">An excellent working knowledge of trigonometry is essential for practicing engineers. Many problems can be easily solved by applying the fundamental definitions of trigonometric functions. Figure 1 depicts a right triangle for which we will express the various trigonometric functions and relationships that are important to engineers.</para>
+        <para id="id1172466156292">
+          <figure id="id1172472725408"><media id="id1172472725408_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-34a6.jpg" id="id1172472725408__onlineimage" height="450" width="600"/>
+            </media>
+          <caption>Triangle for definition of trigonometric functions.</caption></figure>
+        </para>
+        <para id="id1172465872351">Some of the most widely used trigonometric functions follow</para>
+        <equation id="id1172474295187">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>sin</m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>opposite</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mi/>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>side</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>hypotenuse</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mi>B</m:mi>
+                          <m:mi>C</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"sin" \( θ \) = {  { ital "opposite"` ital "side"}  over  { ital "hypotenuse"} } = {  {B}  over  {C} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id1172474495320">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>cos</m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>adjacent</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mi/>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>side</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>hypotenuse</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mi>A</m:mi>
+                          <m:mi>C</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"cos" \( θ \) = {  { ital "adjacent"` ital "side"}  over  { ital "hypotenuse"} } = {  {A}  over  {C} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id1172460628804">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>tan</m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>opposite</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mi/>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>side</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>adjacent</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mi/>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>side</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mi>B</m:mi>
+                          <m:mi>A</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"tan" \( θ \) = {  { ital "opposite"` ital "side"}  over  { ital "adjacent"` ital "side"} } = {  {B}  over  {A} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172477666352">The Pythagorean Theorem often plays a key role in applications involving trigonometry in engineering. It states that the square of the hypotenuse is equal to the sum of the squares of the adjacent side and of the opposite side. This theorem can be stated mathematically by means of the equation that follows. Here we make use of the symbols (A, B, and C) that designate associated lengths. </para>
+        
+        <equation id="id1172463705911">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>A</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msup>
+                          <m:mi>B</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msup>
+                        <m:mi>C</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{A rSup { size 8{2} } +B rSup { size 8{2} } =C rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172469216193">In the remainder of this module, we will make use of these formulas in addressing various applications.</para>
+      </section>
+      <section id="id1172459510545">
+        <title>Flight Path of an Aircraft</title>
+        <para id="id1172463709589">The following is representative of the type of problem one is likely to encounter in the introductory Physics course as well as in courses in Mechanical Engineering. This represents an example of how trigonometry can be applied to determine the motion of an aircraft.</para>
+        <para id="id6332753">Assume that an airplane climbs at a constant angle of 3<sup>0</sup> from its departure point situated at sea level. It continues to climb at this angle until it reaches its cruise altitude. Suppose that its cruise altitude is 31,680 ft above sea level. </para>
+        <para id="id1172466075078">With the information stated above, we may sketch an illustration of the situation </para>
+        <figure id="id1172479451234"><media id="id1172479451234_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-8a7c.jpg" id="id1172479451234__onlineimage" height="450" width="600"/>
+          </media>
+        <caption>Depiction of aircraft motion.</caption></figure>
+        <para id="id1172474207950">Question 1: What is the distance traveled by the plane from its departure point to its cruise altitude?</para>
+        <para id="id1172483150269">The distance traveled by the plane is equal to the length of the hypotenuse of the right triangle depicted in Figure 2. Let us denote the distance measured in feet that the plane travels by the symbol <emphasis effect="italics">C</emphasis>. We may apply the definition of the sine function to enable us to solve for the symbol <emphasis effect="italics">C</emphasis> as follows.</para>
+        
+        <equation id="id1172475710012">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>sin</m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:msup>
+                        <m:mn>3</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>31</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mtext>680</m:mtext>
+                          </m:mrow>
+                          <m:mi>C</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"sin" \( 3 rSup { size 8{0} }  \) = {  {"31","680"}  over  {C} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172467376382">Rearranging terms we find</para>
+        
+        <equation id="id1172466067717">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>31</m:mtext>
+                          <m:mi>,</m:mi>
+                          <m:mtext>680</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mtext>sin</m:mtext>
+                          <m:mo stretchy="false">(</m:mo>
+                          <m:msup>
+                            <m:mn>3</m:mn>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">)</m:mo>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C= {  {"31","680"}  over  {"sin" \( 3 rSup { size 8{o} }  \) } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id6920622">Calculation and rounding to 3 significant digits yields the result</para>
+        <equation id="id1172465722842">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>605</m:mtext>
+                      </m:mrow>
+                      <m:mi>,</m:mi>
+                      <m:mtext>320</m:mtext>
+                      <m:mi/>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>ft</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C="605","320"` ital "ft"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172465894517">Let us ponder a second question based upon the data presented in the original problem.</para>
+        <para id="id1172472780709"><emphasis effect="bold">Question 2</emphasis>: What is the ground distance traveled by the airplane as it moves from its departure point to its cruise altitude?</para>
+        <para id="id1172469136522"><emphasis effect="bold">Solution</emphasis>: Referring to Figure 2, we observe that we must find the length of the adjacent side in order to answer the question. We can use the definition of the tangent to guide our solution.</para>
+        <equation id="id1172485201523">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>tan</m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:msup>
+                        <m:mn>3</m:mn>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Opposite</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mi/>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>side</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Adjacent</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mi/>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>side</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"tan" \( 3 rSup { size 8{0} }  \) = {  { ital "Opposite"` ital "side"}  over  { ital "Adjacent"` ital "side"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172471323703">Denoting the adjacent side by the symbol <emphasis effect="italics">A</emphasis>, we obtain</para>
+        <equation id="id1172477140170">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>Opposite</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mi/>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>side</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mtext>tan</m:mtext>
+                          <m:mo stretchy="false">(</m:mo>
+                          <m:msup>
+                            <m:mn>3</m:mn>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>0</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">)</m:mo>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{A= {  { ital "Opposite"` ital "side"}  over  {"tan" \( 3 rSup { size 8{0} }  \) } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id1172477391942">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>31</m:mtext>
+                          <m:mi>,</m:mi>
+                          <m:mtext>680</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>0</m:mn>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>0524</m:mtext>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{A= {  {"31","680"}  over  {0 "." "0524"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172478998583">After rounding to 3 significant digits, we obtain the solution</para>
+        <equation id="id1172475250298">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>604</m:mtext>
+                      </m:mrow>
+                      <m:mi>,</m:mi>
+                      <m:mtext>580</m:mtext>
+                      <m:mi/>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>ft</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{A="604","580"` ital "ft"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+      </section>
+      <section id="id1172465639085">
+        <title>Inclined Plane</title>
+        <para id="id1172462668217">Work is an important concept in virtually every field of science and engineering. It takes work to move an object; it takes work to move an electron through an electric field; it takes work to overcome the force of gravity; etc.</para>
+        <para id="id1172465687502">Let’s consider the case where we use an inclined plane to assist in the raising of a 300 pound weight. The inclined plane situated such that one end rests on the ground and the other end rests upon a surface 4 feet aove the ground. This situation is depicted in Figure 3. </para>
+        <para id="id1172466417530">
+          <figure id="id1172477505193"><media id="id1172477505193_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3-338d.jpg" id="id1172477505193__onlineimage" height="450" width="600"/>
+            </media>
+          <caption>Object on an inclined plane.</caption></figure>
+        </para>
+        <para id="id1172477396590">Question 3: Suppose that the length of the inclined plane is 12 feet. What is the angle that the plane makes with the ground?</para>
+        <para id="id1172480540662">Clearly, the length of the inclined plane is same as that of the hypotenuse shown in the figure. Thus, we may use the sine function to solve for the angle </para>
+        <equation id="id6864075">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>sin</m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mn>4</m:mn>
+                            <m:mtext>12</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>333</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"sin" \( θ \) = {  {4}  over  {"12"} } =0 "." "333"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172473581241">In order to solve for the angle, we must make use of the inverse sine function as shown below</para>
+        <equation id="id1172465974707">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mtext>sin</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>sin</m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msup>
+                          <m:mtext>sin</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>333</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"sin" rSup { size 8{ - 1} }  \( "sin" \( θ \)  \) ="sin" rSup { size 8{ - 1} }  \( 0 "." "333" \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id1172472049248">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>θ</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>19</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:msup>
+                        <m:mtext>45</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{θ="19" "." "45" rSup { size 8{0} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172464328852">So we conclude that the inclined plane makes a 19.85<sup>0</sup> angle with the ground.</para>
+        <para id="id1172468770149">Neglecting any effects of friction, we wish to determine the amount of work that is expended in moving the block a distance (<emphasis effect="italics">L</emphasis>) along the surface of the inclined plane. </para>
+      </section>
+      <section id="id1172472554048">
+        <title>Surveying</title>
+        <para id="id1172479051126">Let us now turn our attention to an example in the field of surveying. In particular, we will investigate how trigonometry can be used to help forest rangers combat fires. Let us suppose that a fire guard observes a fire due south of her Hilltop Lookout location. A second fire guard is on duty at a Watch Tower that is located 11 miles due east of the Hilltop Lookout location. This second guard spots the same fire and measures the bearing (angle) at 215<sup>0</sup> from North. The figure below illustrates the geometry of the situation. </para>
+        <figure id="id1172463534315"><media id="id1172463534315_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-712d.jpg" id="id1172463534315__onlineimage" height="450" width="600"/>
+          </media>
+        <caption>Depiction of a scenario associated with a forest fire.</caption></figure>
+        <para id="id1172482497268">Question: How far away is the fire from the Hilltop Lookout location?</para>
+        <para id="id1172479826564">We begin by identifying the angle θ in the figure below. </para>
+        <para id="id1172477101348">
+          <figure id="id1172462634577"><media id="id1172462634577_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics5-ae10.jpg" id="id1172462634577__onlineimage" height="450" width="600"/>
+            </media>
+          <caption>Refined depiction of scenario.</caption></figure>
+        </para>
+        <para id="id1172465281648">The value of <emphasis effect="italics">θ </emphasis>can be found via the equation</para>
+        <equation id="id1172473344798">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>θ</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mtext>90</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msup>
+                          <m:mtext>35</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{θ="90" rSup { size 8{0} }  - "35" rSup { size 8{0} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id7463713">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>θ</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msup>
+                        <m:mtext>55</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{θ="55" rSup { size 8{0} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172466101770">So we can simplify the drawing as shown below.</para>
+        <para id="id5297121">
+          <figure id="id1172466518008"><media id="id1172466518008_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-283e.jpg" id="id1172466518008__onlineimage" height="450" width="600"/>
+            </media>
+          <caption>Trigonometric representation of scenario.</caption></figure>
+        </para>
+        <para id="id1172464621584">Our problem reduces to solving for the value of <emphasis effect="italics">b</emphasis>.</para>
+        <equation id="id1172476469393">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>tan</m:mtext>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:msup>
+                        <m:mtext>55</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mi>b</m:mi>
+                          <m:mrow>
+                            <m:mtext>11</m:mtext>
+                            <m:mi/>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>miles</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"tan" \( "55" rSup { size 8{0} }  \) = {  {b}  over  {"11"` ital "miles"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id2944635">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>b</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>43</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>11</m:mtext>
+                      <m:mi/>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>miles</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>15</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mn>7</m:mn>
+                      <m:mi/>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>miles</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{b= \( 1 "." "43" \) ` \( "11"` ital "miles" \) ="15" "." 7` ital "miles"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172459575055">We conclude that the fire is located <emphasis effect="bold">15.7 miles</emphasis> south of the Hilltop Lookout location.</para>
+        <para id="id1172467139602"><emphasis effect="bold">Comment:</emphasis> Triangulation is a process that can be applied to solve problems in a number of areas of engineering including surveying, construction management, radar, sonar, lidar, etc.</para>
+      </section>
+      <section id="id1172477445739">
+        <title>Exercises</title>
+        <list id="id1172483130161" list-type="enumerated" number-style="arabic">
+          <item>A 50 ft ladder leans against the top of a building which is 30 ft tall. Determine the angle the ladder makes with the horizontal. Also determine the distance from the base of the ladder to the building. </item>
+          <item>A straight trail leads from the Alpine Hotel at elevation 8,000 feet to a scenic overlook at elevation 11,100 feet. The length of the trail is 14,100 feet. What is the inclination angle β in degrees? What is the value of β in radians?</item>
+          <item>A ray of light moves from a media whose index of refraction is 1.200 to another whose index of refraction is 1.450. The angle of incidence of the ray as it intersects the interface of the two media is 15<sup>0</sup>. Sketch the geometry of the situation and determine the value of the angle of refraction.</item>
+          <item>One-link planar robots can be used to place pick up and place parts on work table. A one-link planar robot consists of an arm that is attached to a work table at one end. The other end is left free to rotate about the work space. If <emphasis effect="italics">l</emphasis> = 5 cm, sketch the position of the robot and determine the (<emphasis effect="italics">x, y</emphasis>) coordinates of point <emphasis effect="italics">p</emphasis>(<emphasis effect="italics">x</emphasis>,<emphasis effect="italics">y</emphasis>) for the following values for θ: (50˚, 2π/3 rad, -20˚, and -5 π/4 rad).</item>
+        </list>
+        <para id="id1172475787259">
+          <figure id="id1172473659074"><media id="id1172473659074_media" alt="">
+              <image mime-type="image/png" src="../../media/Picture 3.png" id="id1172473659074__onlineimage" height="303" width="326"/>
+            </media>
+          <caption>One-link planar robot.</caption></figure>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>

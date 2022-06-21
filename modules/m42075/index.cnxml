@@ -1146,16 +1146,7 @@ F rSub { size 8{"net "}   rSub { size 8{y} } } =T"sin" \( 5 "." 0° \) +T"sin" \
      </section>
 
       <note id="eip-456"><label/><title>PhET Explorations: Forces in 1 Dimension</title>
-<para id="eip-id1925020">Explore the forces at work when you try to push a filing cabinet. Create an applied force and see the resulting friction force and total force acting on the cabinet. Charts show the forces, position, velocity, and acceleration vs. time. View a free-body diagram of all the forces (including gravitational and normal forces).</para>
-
- <figure id="eip-id1762824"><media id="Phet_module_4.5" alt="">
-
-<image mime-type="image/png" for="online" src="../../media/forces-1d_en.jar" thumbnail="PhET_Icon.png" width="450"/>
-  <image mime-type="image/png" for="pdf" src="../../media/PhET_Icon.png" width="450"/>
-   
-</media>
-
-      <caption><link url="forces-1d_en.jar">Forces in 1 Dimension</link></caption></figure></note><section id="fs-id2352878" class="section-summary"><title>Section Summary</title><list id="fs-id1597329"><item>When objects rest on a surface, the surface applies a force to the object that supports the weight of the object. This supporting force acts perpendicular to and away from the surface. It is called a normal force, <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">N</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N} {}</m:annotation></m:semantics></m:math>.</item>
+<para id="eip-id1925020">Explore the forces at work when you try to push a filing cabinet. Create an applied force and see the resulting friction force and total force acting on the cabinet. Charts show the forces, position, velocity, and acceleration vs. time. View a free-body diagram of all the forces (including gravitational and normal forces). <link url="https://phet.colorado.edu/en/simulation/legacy/forces-1d">Click to open media in new browser.</link></para></note><section id="fs-id2352878" class="section-summary"><title>Section Summary</title><list id="fs-id1597329"><item>When objects rest on a surface, the surface applies a force to the object that supports the weight of the object. This supporting force acts perpendicular to and away from the surface. It is called a normal force, <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">N</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N} {}</m:annotation></m:semantics></m:math>.</item>
 <item>When objects rest on a non-accelerating horizontal surface, the magnitude of the normal force is equal to the weight of the object:
 <para id="eip-id2327043"><equation id="eip-id1331551"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N= ital "mg"} {}</m:annotation></m:semantics><m:mo>.</m:mo></m:math></equation></para></item>
 

@@ -1,0 +1,566 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Scalar (dot) product in physics</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50644</md:content-id>
+  <md:title>Scalar (dot) product in physics</md:title>
+  <md:abstract>Vector multiplication provides concise and accurate representation of natural laws, which involve vectors.</md:abstract>
+  <md:uuid>e6c7fe29-d952-471d-a6a8-9ffdecb87f3a</md:uuid>
+</metadata>
+
+<content>
+<para id="element-1">
+In physics, we require to multiply a vector with other scalar and vector quantities. The vector multiplication, however, is not an unique mathematical construct like scalar multiplication. The multiplication depends on the nature of quantities (vector or scalar) and on the physical process, necessitating scalar or vector multiplication.  
+</para>
+<para id="element-2">
+The rules of vector multiplication have been formulated to encapsulate physical processes in their completeness. This is the core consideration. In order to explore this aspect, let us find out the direction of acceleration in the case of parabolic motion of a particle. There may be two ways to deal with the requirement. We may observe the directions of velocities at two points along the path and find out the direction of the change of velocities. Since we know that the direction of change of velocity is the direction of acceleration, we draw the vector diagram and find out the direction of acceleration. We can see that the direction of acceleration turns out to act in vertically downward direction.
+</para>
+<para id="element-3">
+<figure id="fig3">
+<title> Direction of acceleration </title>
+<media id="id1165575488329" alt=""><image src="../../media/vm1a.gif" mime-type="image/gif"/></media>
+</figure>
+</para>
+<para id="element-4">The conceptualization of physical laws in vector form, however, provides us with powerful means to arrive at the result in relatively simpler manner. If we look at the flight of particle in parabolic motion, then we observe that the motion of particle is under the force of gravity, which is acting vertically downward. There is no other force (neglecting air resistance). Now, from second law of motion, we know that :
+</para>
+<para id="element-5">
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:msub>
+  <m:mi mathvariant="bold"> F </m:mi>
+  <m:mi> Resultant </m:mi>
+  </m:msub>
+
+  <m:mo> = </m:mo>
+  <m:mi> m </m:mi>
+  <m:mi mathvariant="bold"> a </m:mi>
+
+     </m:mtd>
+   </m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+
+<para id="element-6">This equation reveals that the direction of acceleration is same as that of the resultant force acting on the particle. Thus, acceleration of the particle in parabolic motion is acting vertically downward. We see that this second approach is more elegant of the two methods. We could arrive at the correct answer in a very concise manner, without getting into the details of the motion. It is possible, because Newton's second law in vector form states that net force on the body is product of acceleration vector with scalar mass. As multiplication of scalar with a vector does not change the direction of resultant vector, we conclude that direction of acceleration is same as that of net force acting on the projectile.
+</para>
+
+<section id="section-1">
+<title> Multiplication with scalar </title>
+
+<para id="element-7">Multiplication of a vector, <term>A</term>, with another scalar quantity, a,  results in another vector, <term>B</term>. The magnitude of the resulting vector is equal to the product of the magnitude of vector with the scalar quantity. The direction of the resulting vector, however, is same as that of the original vector (See Figures below). 
+</para>
+<para id="element-351"><equation id="equation-351">
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:mi mathvariant="bold"> B </m:mi>
+  <m:mo> = </m:mo>
+  <m:mi> a </m:mi>
+  <m:mi mathvariant="bold"> A </m:mi>
+     </m:mtd>
+   </m:mtr>
+</m:mtable>
+</m:math>
+</equation></para><para id="element-8">
+<figure id="fig8"><title> Multiplication with scalar </title>
+<media id="id1165571749592" alt=""><image src="../../media/vm2a.gif" mime-type="image/gif"/></media>
+</figure>
+</para>
+<para id="element-9">
+We have already made use of this type of multiplication intuitively in expressing a vector in component form. 
+</para>
+<para id="element-10">
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:mi mathvariant="bold"> A </m:mi>
+  <m:mo> = </m:mo>
+  <m:msub>
+  <m:mi> A </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> i </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> A </m:mi>
+  <m:mi> y </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> j </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> A </m:mi>
+  <m:mi> z </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> k </m:mi>
+     </m:mtd>
+   </m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+<para id="element-11">
+In this vector representation, each component vector is obtained by multiplying the scalar component with the unit vector. As the unit vector has the magnitude of 1 with a specific direction, the resulting component vector retains the magnitude of the scalar component, but acquires the direction of unit vector.
+</para>
+<para id="element-12"><equation id="equation-12">
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:msub>
+  <m:mi mathvariant="bold"> A </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:mo> = </m:mo>
+  <m:msub>
+  <m:mi> A </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> i </m:mi>
+
+     </m:mtd>
+   </m:mtr>
+
+</m:mtable>
+</m:math>
+</equation></para>
+
+
+</section>
+
+<section id="section-2">
+<title> Products of vectors </title>
+<para id="element-14">Some physical quantities are themselves a scalar quantity, but are composed from the product of vector quantities. One such example is “work”. On the other hand, there are physical quantities like torque and magnetic force on a moving charge, which are themselves vectors and are also composed from vector quantities.</para>
+<para id="element-15">Thus, products of vectors are defined in two distinct manner – one resulting in a scalar quantity and the other resulting in a vector quantity. The product that results in scalar value is scalar product, also known as dot product as a "dot" (<term>.</term>) is the symbol of operator for this product. On the other hand, the product that results in vector value is vector product, also known as cross product as a "cross" (<term>x</term>) is the symbol of operator for this product. We shall discuss scalar product only in this module. We shall cover vector product in a separate module.  
+</para>
+</section>
+
+<section id="section-3">
+<title> Scalar product (dot product) </title>
+<para id="element-16">Scalar product of two vectors <term>a</term> and <term>b</term> is a scalar quantity defined as :
+</para>
+<para id="element-17"><equation id="equation-17">
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:mi mathvariant="bold"> a </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mi mathvariant="bold"> b </m:mi>
+  <m:mo> = </m:mo>
+
+  <m:mi> a </m:mi>
+  <m:mi> b </m:mi>
+  <m:mi> cos </m:mi>
+  <m:mi> θ </m:mi>
+     </m:mtd>
+   </m:mtr>
+</m:mtable>
+</m:math>
+</equation></para>
+<para id="element-18">where “a” and “b” are the magnitudes of two vectors and “θ” is the angle between the direction of two vectors. It is important to note that vectors have two angles θ and 2π - θ. We can use either of them as cosine of both “θ” and “2π - θ” are same. However, it is suggested to use the smaller of the enclosed angles to be consistent with cross product in which it is required to use the smaller of the enclosed angles. This approach will maintain consistency with regard to enclosed angle in two types of vector multiplications. 
+</para>
+<para id="element-19">The notation “<term>a.b</term>” is important and should be mentally noted to represent a scalar quantity – even though it involves bold faced vectors. It should be noted that the quantity on the right hand side of the equation is a scalar.
+</para>
+
+
+<section id="section-3e">
+<title> Angle between vectors </title>
+<para id="element-19a">
+The angle between vectors is measured with precaution. The direction of vectors may sometimes be misleading. The basic consideration is that it is the angle between vectors at the common point of intersection. This intersection point, however, should be the common tail of vectors. If required, we may be required to shift the vector parallel to it or along its line of action to obtain common point at which tails of vectors meet. 
+</para>
+<para id="element-19b">
+<figure id="fig-4">
+<title> Angle between vectors </title>
+<media id="id1165575633665" alt=""><image src="../../media/sp2.gif" mime-type="image/gif"/></media>
+<caption> Angle between vectors </caption>
+</figure>
+</para>
+<para id="element-19c">See the steps shown in the figure. First, we need to shift one of two vectors say, <term>a</term> so that it touches the tail of vector  <term>b</term>. Second, we move vector <term>a</term> along its line of action till tails of two vectors meet at the common point. Finally, we measure the angle θ such that 0≤ θ≤π.
+</para>
+
+
+</section>
+<section id="section-3a">
+<title> Meaning of scalar product </title>
+<para id="element-20">
+We can read the definition of scalar product in either of the following manners :
+</para>
+
+<para id="element-21"><equation id="equation-21">
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:mi mathvariant="bold"> a </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mi mathvariant="bold"> b </m:mi>
+  <m:mo> = </m:mo>
+  <m:mi> a </m:mi>
+  <m:mo> ( </m:mo>
+  <m:mi> b </m:mi>
+  <m:mi> cos </m:mi>
+  <m:mi> θ </m:mi>
+  <m:mo> ) </m:mo>
+     </m:mtd>
+   </m:mtr>
+
+
+   <m:mtr>
+     <m:mtd>
+  <m:mi mathvariant="bold"> a </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mi mathvariant="bold"> b </m:mi>
+  <m:mo> = </m:mo>
+  <m:mi> b </m:mi>
+  <m:mo> ( </m:mo>
+  <m:mi> a </m:mi>
+  <m:mi> cos </m:mi>
+  <m:mi> θ </m:mi>
+  <m:mo> ) </m:mo>
+     </m:mtd>
+   </m:mtr>
+
+</m:mtable>
+</m:math>
+</equation></para>
+<para id="element-22">Recall that “bcos θ” is the scalar component of vector <term>b</term> along the direction of vector <term>a</term> and “a cos θ” is the scalar component of vector <term>a</term> along the direction of vector <term>b</term>. Thus,  we may consider the scalar product of vectors <term>a</term> and <term>b</term> as  the product of the magnitude of one vector and the scalar component of other vector along the first vector. 
+</para>
+<para id="element-23">The figure below shows drawing of scalar components. The scalar component of vector in figure (i) is obtained by drawing perpendicular from the tip of the vector, <term>b</term>, on the direction of vector, <term>a</term>. Similarly, the scalar component of vector in figure (ii) is obtained by drawing perpendicular from the tip of the vector, <term>a</term>, on the direction of vector, <term>b</term>.
+</para>
+<para id="element-24">
+<figure id="fig24">
+<title> Scalar product </title>
+<media id="id1165575691034" alt=""><image src="../../media/vm3.gif" mime-type="image/gif"/></media>
+</figure>
+</para>
+<para id="element-25">The two alternate ways of evaluating dot product of two vectors indicate that the product is commutative i.e. independent of the order of two vectors :
+</para>
+<para id="element-26"><equation id="equation-26">
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:mi mathvariant="bold"> a </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mi mathvariant="bold"> b </m:mi>
+  <m:mo> = </m:mo>
+  <m:mi mathvariant="bold"> b </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mi mathvariant="bold"> a </m:mi>
+
+     </m:mtd>
+   </m:mtr>
+
+</m:mtable>
+</m:math>
+</equation>
+</para>
+
+
+<para id="element-36">
+<exercise id="exercise-36">
+<problem id="id1165581061693">
+<para id="element-37">
+A block of mass “m” moves from point A to B along a smooth plane surface under the action of force as shown in the figure. Find the work done if it is defined as : </para>
+<para id="element-38">
+W = <term>F. </term>Δ<term>x</term>
+</para>
+<para id="element-38a">
+<figure id="fig38a"><title> Work done </title>
+<media id="id1165575515228" alt=""><image src="../../media/vm10.gif" mime-type="image/gif"/></media>
+</figure>
+</para>
+<para id="element-39">
+where <term>F</term> and Δ<term>x</term> are force and displacement vectors. 
+</para>
+
+</problem>
+
+<solution id="id1165575320539">
+<para id="element-40">
+Expanding the expression of work, we have :
+</para>
+
+<para id="element-40a">
+<figure id="fig40a"><title> Work done </title>
+<media id="id1165575636092" alt=""><image src="../../media/vm9.gif" mime-type="image/gif"/></media>
+</figure>
+</para>
+<para id="element-41"><m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:mi> W </m:mi>
+  <m:mo> = </m:mo>
+
+  <m:mi mathvariant="bold"> F </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mo> Δ </m:mo>
+  <m:mi mathvariant="bold"> x </m:mi>
+  <m:mo> = </m:mo>
+  <m:mi> F </m:mi>
+  <m:mo> Δ </m:mo>
+  <m:mi> x </m:mi>
+  <m:mi> cos </m:mi>
+  <m:mi> θ </m:mi>
+
+     </m:mtd>
+   </m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+
+<para id="element-42">Here, F = 10 N, Δx = 10 m and  cosθ = cos60° = 0.5.
+</para>
+
+<para id="element-43">
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:mi> ⇒ </m:mi>
+  <m:mi> W </m:mi>
+  <m:mo> = </m:mo>
+  <m:mn> 10 </m:mn>
+  <m:mo> x </m:mo>
+  <m:mn> 10 </m:mn>
+  <m:mo> x </m:mo>
+  <m:mn> 0.5 </m:mn>
+  <m:mo> = </m:mo>
+  <m:mi> 50 J </m:mi>
+
+     </m:mtd>
+   </m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</solution>
+</exercise>
+</para>
+
+</section>
+
+<section id="section-3c">
+<title> Scalar product in component form  </title>
+<para id="element-44">
+Two vectors in component forms are written as :
+</para>
+
+<para id="element-45">
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:mi mathvariant="bold"> a </m:mi>
+  <m:mo> = </m:mo>
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> i </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> y </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> j </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> z </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> k </m:mi>
+     </m:mtd>
+   </m:mtr>
+
+
+
+   <m:mtr>
+     <m:mtd>
+  <m:mi mathvariant="bold"> b </m:mi>
+  <m:mo> = </m:mo>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> i </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> y </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> j </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> z </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> k </m:mi>
+     </m:mtd>
+   </m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+<para id="element-46">In evaluating the product, we make use of the fact that multiplication of the same unit vectors is 1, while multiplication of different unit vectors is zero. The dot product evaluates to scalar terms as :
+</para>
+<para id="element-47"><equation id="equation-47">
+
+<m:math display="block">
+<m:mtable columnalign="left">
+   <m:mtr>
+     <m:mtd>
+  <m:mi mathvariant="bold"> a </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mi mathvariant="bold"> b </m:mi>
+
+  <m:mo> = </m:mo>
+  <m:mo> ( </m:mo>
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> i </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> y </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> j </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> z </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> k </m:mi>
+  <m:mo> ) </m:mo>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mo> ( </m:mo>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> i </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> y </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> j </m:mi>
+  <m:mo> + </m:mo>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> z </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> k </m:mi>
+  <m:mo> ) </m:mo>
+     </m:mtd>
+   </m:mtr>
+
+
+   <m:mtr>
+     <m:mtd>
+  <m:mo> ⇒ </m:mo>
+  <m:mi mathvariant="bold"> a </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mi mathvariant="bold"> b </m:mi>
+
+  <m:mo> = </m:mo>
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+ <m:mi mathvariant="bold"> i </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> i </m:mi>
+  <m:mo> + </m:mo>
+
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> y </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> j </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> y </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> j </m:mi>
+  <m:mo> + </m:mo>
+ 
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> z </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> k </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> z </m:mi>
+  </m:msub>
+  <m:mi mathvariant="bold"> k </m:mi>
+     </m:mtd>
+   </m:mtr>
+
+
+   <m:mtr>
+     <m:mtd>
+  <m:mo> ⇒ </m:mo>
+  <m:mi mathvariant="bold"> a </m:mi>
+  <m:mo mathvariant="bold"> . </m:mo>
+  <m:mi mathvariant="bold"> b </m:mi>
+
+  <m:mo> = </m:mo>
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> x </m:mi>
+  </m:msub>
+  <m:mo> + </m:mo>
+
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> y </m:mi>
+  </m:msub>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> y </m:mi>
+  </m:msub>
+  <m:mo> + </m:mo>
+ 
+  <m:msub>
+  <m:mi> a </m:mi>
+  <m:mi> z </m:mi>
+  </m:msub>
+  <m:msub>
+  <m:mi> b </m:mi>
+  <m:mi> z </m:mi>
+  </m:msub>
+
+ 
+     </m:mtd>
+   </m:mtr>
+
+</m:mtable>
+</m:math>
+</equation></para>
+
+</section>
+</section>
+
+</content>
+  
+</document>

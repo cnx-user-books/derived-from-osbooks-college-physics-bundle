@@ -1,0 +1,686 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Inverse Trigonometric Functions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50498</md:content-id>
+  <md:title>Inverse Trigonometric Functions</md:title>
+  <md:abstract>In this section, you will:
+<list>
+<item>Understand and use the inverse sine, cosine, and tangent functions.</item>
+<item>Find the exact value of expressions involving the inverse sine, cosine, and tangent functions.</item>
+<item>Use a calculator to evaluate inverse trigonometric functions.</item>
+<item>Find exact values of composite functions with inverse trigonometric functions.</item>
+</list></md:abstract>
+  <md:uuid>e95d0ce6-2871-41e9-b645-f8934918f21f</md:uuid>
+</metadata>
+
+<content>
+  <para id="fs-id1165135305803">For any <term class="no-emphasis">right triangle</term>, given one other angle and the length of one side, we can figure out what the other angles and sides are. But what if we are given only two sides of a right triangle? We need a procedure that leads us from a ratio of sides to an angle. This is where the notion of an inverse to a trigonometric function comes into play. In this section, we will explore the <term class="no-emphasis">inverse trigonometric functions</term>.</para><section id="fs-id1165135296329"><title>Understanding and Using the Inverse Sine, Cosine, and Tangent Functions</title><para id="fs-id1165133151767">In order to use inverse trigonometric functions, we need to understand that an inverse trigonometric function “undoes” what the original trigonometric function “does,” as is the case with any other function and its inverse. In other words, the domain of the inverse function is the range of the original function, and vice versa, as summarized in <link target-id="Figure_06_03_013"/>.</para><para id="fs-id1165134261704">For example, if<m:math>
+      <m:mrow>
+        <m:mtext> </m:mtext><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>sin</m:mi><m:mtext> </m:mtext><m:mi>x</m:mi><m:mo>,</m:mo><m:mtext> </m:mtext>
+      </m:mrow>
+    </m:math>then we would write<m:math>
+      <m:mrow>
+        <m:mtext> </m:mtext><m:msup>
+          <m:mi>f</m:mi>
+          <m:mrow>
+            <m:mo>−</m:mo><m:mn>1</m:mn>
+          </m:mrow>
+        </m:msup>
+        <m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msup>
+          <m:mrow>
+            <m:mi>sin</m:mi>
+          </m:mrow>
+          <m:mrow>
+            <m:mo>−</m:mo><m:mn>1</m:mn>
+          </m:mrow>
+        </m:msup>
+        <m:mi>x</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext>
+      </m:mrow>
+    </m:math>Be aware that<m:math>
+      <m:mrow>
+        <m:mtext> </m:mtext><m:msup>
+          <m:mrow>
+            <m:mi>sin</m:mi>
+          </m:mrow>
+          <m:mrow>
+            <m:mo>−</m:mo><m:mn>1</m:mn>
+          </m:mrow>
+        </m:msup>
+        <m:mi>x</m:mi><m:mtext> </m:mtext>
+      </m:mrow>
+    </m:math>does not mean<m:math>
+      <m:mrow>
+        <m:mtext> </m:mtext><m:mfrac>
+          <m:mn>1</m:mn>
+          <m:mrow>
+            <m:mi>sin</m:mi><m:mi>x</m:mi>
+          </m:mrow>
+        </m:mfrac>
+        <m:mo>.</m:mo><m:mtext> </m:mtext>
+      </m:mrow>
+    </m:math>The following examples illustrate the inverse trigonometric functions:</para><list id="fs-id1165134211370"><item>Sinc<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mtext>sin</m:mtext><m:mrow><m:mo>(</m:mo>
+   <m:mrow>
+    <m:mfrac>
+     <m:mi>π</m:mi>
+     <m:mn>6</m:mn>
+    </m:mfrac>
+    
+   </m:mrow>
+  <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mfrac>
+   <m:mn>1</m:mn>
+   <m:mn>2</m:mn>
+  </m:mfrac>
+  <m:mo>,</m:mo><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>then<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mfrac>
+   <m:mi>π</m:mi>
+   <m:mn>6</m:mn>
+  </m:mfrac>
+  <m:mo>=</m:mo><m:msup>
+   <m:mrow>
+    <m:mtext>sin</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mrow><m:mo>(</m:mo>
+   <m:mrow>
+    <m:mfrac>
+     <m:mn>1</m:mn>
+     <m:mn>2</m:mn>
+    </m:mfrac>
+    
+   </m:mrow>
+  <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
+ </m:mrow>
+</m:math></item>
+      <item>Since<m:math>
+        <m:mrow>
+          <m:mtext> </m:mtext><m:mi>cos</m:mi><m:mrow><m:mo>(</m:mo>
+            <m:mi>π</m:mi>
+            <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mtext> </m:mtext>
+        </m:mrow>
+      </m:math>then<m:math>
+        <m:mrow>
+          <m:mtext> </m:mtext><m:mi>π</m:mi><m:mo>=</m:mo><m:msup>
+            <m:mrow>
+              <m:mi>cos</m:mi>
+            </m:mrow>
+            <m:mrow>
+              <m:mo>−</m:mo><m:mn>1</m:mn>
+            </m:mrow>
+          </m:msup>
+          <m:mrow><m:mo>(</m:mo>
+            <m:mrow>
+              <m:mo>−</m:mo><m:mn>1</m:mn>
+            </m:mrow>
+            <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
+        </m:mrow>
+      </m:math>
+      </item>
+      <item>Since<m:math>
+        <m:mrow>
+          <m:mtext> </m:mtext><m:mi>tan</m:mi><m:mrow><m:mo>(</m:mo>
+            <m:mrow>
+              <m:mfrac>
+                <m:mi>π</m:mi>
+                <m:mn>4</m:mn>
+              </m:mfrac>
+              
+            </m:mrow>
+            <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mtext> </m:mtext>
+        </m:mrow>
+      </m:math>then<m:math>
+        <m:mrow>
+          <m:mtext> </m:mtext><m:mfrac>
+            <m:mi>π</m:mi>
+            <m:mn>4</m:mn>
+          </m:mfrac>
+          <m:mo>=</m:mo><m:msup>
+            <m:mrow>
+              <m:mi>tan</m:mi>
+            </m:mrow>
+            <m:mrow>
+              <m:mo>−</m:mo><m:mn>1</m:mn>
+            </m:mrow>
+          </m:msup>
+          <m:mrow><m:mo>(</m:mo>
+            <m:mn>1</m:mn>
+            <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo>
+        </m:mrow>
+      </m:math>
+      </item>
+    </list><para id="fs-id1165135613089">In previous sections, we evaluated the trigonometric functions at various angles, but at times we need to know what angle would yield a specific sine, cosine, or tangent value. For this, we need inverse functions. Recall that, for a <term class="no-emphasis">one-to-one function</term>, if<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>b</m:mi><m:mo>,</m:mo><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>then an inverse function would satisfy<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
+   <m:mi>f</m:mi>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>a</m:mi><m:mo>.</m:mo>
+ </m:mrow>
+</m:math>
+</para><note id="fs-id1165134468915" class="precalculus try">
+      <label>try it feature</label>
+      <exercise id="ti_06_03_01">
+        <problem id="fs-id1165134246238"><para id="fs-id1165134246239">Given<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>cos</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0.5</m:mn><m:mo stretchy="false">)</m:mo><m:mo>≈</m:mo><m:mn>0.8776,</m:mn>
+ </m:mrow>
+</m:math>write a relation involving the inverse cosine.</para></problem>
+        <solution id="fs-id1165135176654"><para id="fs-id1165135176655"><m:math>
+ <m:mrow>
+  <m:mi>arccos</m:mi><m:mo stretchy="false">(</m:mo><m:mn>0.8776</m:mn><m:mo stretchy="false">)</m:mo><m:mo>≈</m:mo><m:mn>0.5</m:mn>
+ </m:mrow>
+</m:math>
+</para>
+</solution>
+      </exercise>
+    </note>
+  </section><section id="fs-id1165135416507">
+<title>Using a Calculator to Evaluate Inverse Trigonometric Functions</title>
+<para id="fs-id1165135416512">To evaluate <term class="no-emphasis">inverse trigonometric functions</term> we will need to use a calculator or other type of technology. Most scientific calculators and calculator-emulating applications have specific keys or buttons for the inverse sine, cosine, and tangent functions. These may be labeled, for example, SIN-1, ARCSIN, or ASIN.</para><para id="fs-id1165133023027">In the previous chapter, we worked with trigonometry on a right triangle to solve for the sides of a triangle given one side and an additional angle. Using the inverse trigonometric functions, we can solve for the angles of a right triangle given two sides, and we can use a calculator to find the values to several decimal places.</para>
+<para id="fs-id1165133023033">In these examples and exercises, the answers will be interpreted as angles and we will use<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>θ</m:mi><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>as the independent variable. The value displayed on the calculator may be in degrees or radians, so be sure to set the mode appropriate to the application.</para><example id="Example_06_03_03">
+<exercise id="fs-id1165134031321">
+<problem id="fs-id1165134031324">
+<title>Evaluating the Inverse Sine on a Calculator</title>
+<para id="fs-id1165134031329">Evaluate<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
+   <m:mrow>
+    <m:mi>sin</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mo stretchy="false">(</m:mo><m:mn>0.97</m:mn><m:mo stretchy="false">)</m:mo><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>using a calculator.</para></problem>
+<solution id="fs-id1165135486002">
+<para id="fs-id1165135486004">Because the output of the inverse function is an angle, the calculator will give us a degree value if in degree mode and a radian value if in radian mode. Calculators also use the same domain restrictions on the angles as we are using.</para>
+<para id="fs-id1165135486009">In radian mode,<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
+   <m:mrow>
+    <m:mi>sin</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mo stretchy="false">(</m:mo><m:mn>0.97</m:mn><m:mo stretchy="false">)</m:mo><m:mo>≈</m:mo><m:mn>1.3252.</m:mn><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>In degree mode,<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
+   <m:mrow>
+    <m:mi>sin</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mo stretchy="false">(</m:mo><m:mn>0.97</m:mn><m:mo stretchy="false">)</m:mo><m:mo>≈</m:mo><m:mn>75.93°.</m:mn><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>Note that in calculus and beyond we will use radians in almost all cases.</para></solution>
+</exercise>
+</example>
+
+<note id="fs-id1165134199522" class="precalculus try">
+<label>try it feature</label>
+<exercise id="ti_06_03_03">
+<problem id="fs-id1165134199531"><para id="fs-id1165134199532">Evaluate<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
+   <m:mrow>
+    <m:mi>cos</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mrow><m:mo>(</m:mo>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>0.4</m:mn>
+   </m:mrow>
+  <m:mo>)</m:mo></m:mrow><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>using a calculator.</para></problem>
+<solution id="fs-id1165131896087"><para id="fs-id1165134572550">1.9823 or 113.578°</para></solution>
+</exercise>
+</note>
+
+<note id="fs-id1165134572555" class="precalculus howto"><label>how to feature</label>
+<para id="fs-id1165134572561"><emphasis>Given two sides of a right triangle like the one shown in <link target-id="Figure_06_03_012"/>, find an angle.
+</emphasis></para>
+
+<figure id="Figure_06_03_012" class="small">
+      <media id="fs-id1165134109641" alt="An illustration of a right triangle with an angle theta. Adjacent to theta is the side a, opposite theta is the side p, and the hypoteneuse is side h.">
+        <image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_03_012.jpg"/>
+      </media>
+    </figure>
+
+<list id="fs-id1165134109652" list-type="enumerated" number-style="arabic"><item>If one given side is the hypotenuse of length<m:math>
+  <m:mrow>
+   <m:mtext> </m:mtext><m:mi>h</m:mi><m:mtext> </m:mtext></m:mrow>
+ </m:math>and the side of length<m:math>
+  <m:mrow>
+   <m:mtext> </m:mtext><m:mi>a</m:mi><m:mtext> </m:mtext></m:mrow>
+ </m:math>adjacent to the desired angle is given, use the equation<m:math>
+  <m:mrow>
+   <m:mtext> </m:mtext><m:mtext> </m:mtext><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup>
+    <m:mrow>
+     <m:mi>cos</m:mi></m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
+   </m:msup>
+   <m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mfrac>
+      <m:mi>a</m:mi>
+      <m:mi>h</m:mi>
+     </m:mfrac>
+    </m:mrow>
+    <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow>
+ </m:math>
+ </item>
+ <item>If one given side is the hypotenuse of length<m:math>
+  <m:mrow>
+   <m:mtext> </m:mtext><m:mi>h</m:mi><m:mtext> </m:mtext></m:mrow>
+ </m:math>and the side of length<m:math>
+  <m:mrow>
+   <m:mtext> </m:mtext><m:mi>p</m:mi><m:mtext> </m:mtext></m:mrow>
+ </m:math>opposite to the desired angle is given, use the equation<m:math>
+  <m:mrow>
+   <m:mtext> </m:mtext><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup>
+    <m:mrow>
+     <m:mi>sin</m:mi></m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
+   </m:msup>
+   <m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mfrac>
+      <m:mi>p</m:mi>
+      <m:mi>h</m:mi>
+     </m:mfrac>
+    </m:mrow>
+    <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow>
+ </m:math>
+</item> 
+ <item>If the two legs (the sides adjacent to the right angle) are given, then use the equation<m:math>
+  <m:mrow>
+   <m:mtext> </m:mtext><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup>
+    <m:mrow>
+     <m:mi>tan</m:mi></m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
+   </m:msup>
+   <m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mfrac>
+      <m:mi>p</m:mi>
+      <m:mi>a</m:mi>
+     </m:mfrac>
+    </m:mrow>
+    <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow>
+ </m:math>
+ </item>
+</list></note><example id="Example_06_03_04">
+<exercise id="fs-id1165135466364">
+<problem id="fs-id1165135466366">
+<title>Applying the Inverse Cosine to a Right Triangle</title>
+ <para id="fs-id1165135466372">Solve the triangle in <link target-id="Figure_06_03_007"/> for the angle<m:math>
+  <m:mrow>
+   <m:mtext> </m:mtext><m:mi>θ</m:mi><m:mo>.</m:mo></m:mrow>
+ </m:math>
+ </para>
+<figure id="Figure_06_03_007" class="small">
+ <media id="fs-id1165135646105" alt="An illustration of a right triangle with the angle theta. Adjacent to the angle theta is a side with a length of 9 and a hypoteneuse of length 12.">
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_03_007.jpg"/>
+</media>
+</figure>
+</problem>
+<solution id="fs-id1165135646117">
+<para id="fs-id1165135646119">Because we know the hypotenuse and the side adjacent to the angle, it makes sense for us to use the cosine function.</para>
+
+ <equation id="fs-id1165134094463"><m:math display="block">
+ <m:mrow>
+  <m:mtable columnalign="left">
+   <m:mtr columnalign="left">
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mi>cos</m:mi><m:mtext> </m:mtext><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac>
+       <m:mn>9</m:mn>
+       <m:mrow>
+        <m:mn>12</m:mn>
+       </m:mrow>
+      </m:mfrac>
+      
+     </m:mrow>
+    </m:mtd>
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mtable>
+       <m:mtr>
+        <m:mtd>
+         <m:mrow/>
+        </m:mtd>
+        <m:mtd>
+         <m:mrow/>
+        </m:mtd>
+        <m:mtd>
+         <m:mrow/>
+        </m:mtd>
+       </m:mtr>
+       
+      </m:mtable>
+     </m:mrow>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr columnalign="left">
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup>
+       <m:mrow>
+        <m:mi>cos</m:mi>
+       </m:mrow>
+       <m:mrow>
+        <m:mo>−</m:mo><m:mn>1</m:mn>
+       </m:mrow>
+      </m:msup>
+      <m:mo stretchy="false">(</m:mo><m:mfrac>
+       <m:mn>9</m:mn>
+       <m:mrow>
+        <m:mn>12</m:mn>
+       </m:mrow>
+      </m:mfrac>
+      <m:mo stretchy="false">)</m:mo>
+     </m:mrow>
+    </m:mtd>
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mtable>
+       <m:mtr>
+        <m:mtd>
+         <m:mrow/>
+        </m:mtd>
+        <m:mtd>
+         <m:mrow/>
+        </m:mtd>
+        <m:mtd>
+         <m:mrow/>
+        </m:mtd>
+       </m:mtr>
+       
+      </m:mtable><m:mtext>Apply definition of the inverse</m:mtext><m:mo>.</m:mo>
+     </m:mrow>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr columnalign="left">
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mi>θ</m:mi><m:mo>≈</m:mo><m:mn>0.7227</m:mn><m:mtext> or about </m:mtext><m:mn>41.4096°</m:mn>
+     </m:mrow>
+    </m:mtd>
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mtable>
+       <m:mtr>
+        <m:mtd>
+         <m:mrow/>
+        </m:mtd>
+        <m:mtd>
+         <m:mrow/>
+        </m:mtd>
+        <m:mtd>
+         <m:mrow/>
+        </m:mtd>
+       </m:mtr>
+       
+      </m:mtable><m:mtext>Evaluate</m:mtext><m:mo>.</m:mo>
+     </m:mrow>
+    </m:mtd>
+   </m:mtr>
+   
+  </m:mtable>
+ </m:mrow>
+</m:math>
+</equation></solution>
+</exercise>
+</example>
+
+<note id="fs-id1165137737008" class="precalculus try">
+<label>try it feature</label>
+<exercise id="fs-id1165134159702">
+ <problem id="fs-id1165134159704"><para id="fs-id1165137737014">Solve the triangle in <link target-id="Figure_06_03_008"/> for the angle<m:math>
+  <m:mrow>
+   <m:mtext> </m:mtext><m:mi>θ</m:mi><m:mo>.</m:mo></m:mrow>
+ </m:math>
+ </para>
+
+<figure id="Figure_06_03_008" class="small">
+ <media id="fs-id1165137769688" alt="An illustration of a right triangle with the angle theta. Opposite to the angle theta is a side with a length of 6 and a hypoteneuse of length 10.">
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_06_03_008.jpg"/>
+</media>
+</figure>
+</problem>
+ <solution id="fs-id1165135242701"><para id="fs-id1165135242702"><m:math>
+  <m:mrow>
+   <m:msup>
+    <m:mrow>
+     <m:mi>sin</m:mi></m:mrow>
+    <m:mrow>
+<m:mn>−1</m:mn></m:mrow>
+   </m:msup>
+   <m:mo stretchy="false">(</m:mo><m:mn>0.6</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>36.87°</m:mn><m:mo>=</m:mo><m:mn>0.6435</m:mn><m:mtext> </m:mtext></m:mrow>
+ </m:math>radians</para></solution>
+</exercise>
+</note>
+</section>
+ 
+ <section id="fs-id1165134282154" class="key-concepts">
+  <title>Key Concepts</title><list id="fs-id1165134282157"><item>An inverse function is one that “undoes” another function. The domain of an inverse function is the range of the original function and the range of an inverse function is the domain of the original function.</item>
+ </list></section>
+ 
+ <section id="fs-id1165135621936" class="section-exercises">
+  
+  <title>Section Exercises</title><section id="fs-id1165134167537">
+   <title>Real-World Applications</title>
+  
+  
+  <exercise id="fs-id1165134167542">
+   <problem id="fs-id1165134167544">
+    <para id="fs-id1165134167547">Suppose a 13-foot ladder is leaning against a building, reaching to the bottom of a second-ﬂoor window 12 feet above the ground. What angle, in radians, does the ladder make with the building?</para></problem>
+  
+  <solution id="fs-id1165134167554">
+   <para id="fs-id1165134167556">0.395 radians</para></solution>
+  </exercise>
+  <exercise id="fs-id1165134167562">
+   <problem id="fs-id1165134167564">
+    <para id="fs-id1165134167566">Suppose you drive 0.6 miles on a road so that the vertical distance changes from 0 to 150 feet. What is the angle of elevation of the road?</para></problem>
+  </exercise> 
+  <exercise id="fs-id1165135330848">
+   <problem id="fs-id1165135330850">
+    <para id="fs-id1165135330852">An isosceles triangle has two congruent sides of length 9 inches. The remaining side has a length of 8 inches. Find the angle that a side of 9 inches makes with the 8-inch side. </para></problem>
+  <solution id="fs-id1165135330858">
+   <para id="fs-id1165135330860">1.11 radians </para>
+  </solution>
+  </exercise>
+  <exercise id="fs-id1165135330866">
+   <problem id="fs-id1165135330868">
+    <para id="fs-id1165135330870">Without using a calculator, approximate the value of<m:math>
+     <m:mrow>
+      <m:mtext> </m:mtext><m:mi>arctan</m:mi><m:mrow><m:mo>(</m:mo>
+       <m:mrow>
+        <m:mn>10</m:mn><m:mi>,</m:mi><m:mn>000</m:mn></m:mrow>
+       <m:mo>)</m:mo></m:mrow><m:mo>.</m:mo><m:mtext> </m:mtext></m:mrow>
+    </m:math>Explain why your answer is reasonable.</para></problem>
+  </exercise>
+  <exercise id="fs-id1165135330906">
+   <problem id="fs-id1165135330908">
+    <para id="fs-id1165135330910">A truss for the roof of a house is constructed from two identical right triangles. Each has a base of 12 feet and height of 4 feet. Find the measure of the acute angle adjacent to the 4-foot side.</para></problem> 
+  <solution id="fs-id1165135330917">
+   <para id="fs-id1165135330919">1.25 radians</para></solution>
+  </exercise>
+  <exercise id="fs-id1165135330924">
+   <problem id="fs-id1165135330926">
+    <para id="fs-id1165135330928">The line<m:math>
+     <m:mrow>
+      <m:mtext> </m:mtext><m:mi>y</m:mi><m:mo>=</m:mo><m:mfrac>
+       <m:mn>3</m:mn>
+       <m:mn>5</m:mn>
+      </m:mfrac>
+      <m:mi>x</m:mi><m:mtext> </m:mtext></m:mrow>
+    </m:math>passes through the origin in the <emphasis effect="italics">x</emphasis>,<emphasis effect="italics">y</emphasis>-plane. What is the measure of the angle that the line makes with the positive <emphasis effect="italics">x</emphasis>-axis?</para>
+   </problem>
+  </exercise> 
+  <exercise id="fs-id1165134301396">
+   <problem id="fs-id1165134301398">
+    <para id="fs-id1165134301400">The line<m:math>
+     <m:mrow>
+      <m:mtext> </m:mtext><m:mi>y</m:mi><m:mo>=</m:mo><m:mfrac>
+       <m:mrow>
+        <m:mo>−</m:mo><m:mn>3</m:mn></m:mrow>
+       <m:mn>7</m:mn>
+      </m:mfrac>
+      <m:mi>x</m:mi><m:mtext> </m:mtext></m:mrow>
+    </m:math>passes through the origin in the <emphasis effect="italics">x</emphasis>,<emphasis effect="italics">y</emphasis>-plane. What is the measure of the angle that the line makes with the negative <emphasis effect="italics">x</emphasis>-axis?</para></problem> 
+  <solution id="fs-id1165134301450">
+   <para id="fs-id1165134301452">0.405 radians </para>
+  </solution>
+  </exercise>
+  <exercise id="fs-id1165134301458">
+   <problem id="fs-id1165134301460">
+    <para id="fs-id1165134301462">What percentage grade should a road have if the angle of elevation of the road is 4 degrees? (The percentage grade is defined as the change in the altitude of the road over a 100-foot horizontal distance. For example a 5% grade means that the road rises 5 feet for every 100 feet of horizontal distance.)</para></problem>
+  </exercise> 
+  <exercise id="fs-id1165134301470">
+   <problem id="fs-id1165134301472">
+    <para id="fs-id1165134301474">A 20-foot ladder leans up against the side of a building so that the foot of the ladder is 10 feet from the base of the building. If specifications call for the ladder's angle of elevation to be between 35 and 45 degrees, does the placement of this ladder satisfy safety specifications?</para></problem> 
+  <solution id="fs-id1165134301481">
+   <para id="fs-id1165134301483">No. The angle the ladder makes with the horizontal is 60 degrees. </para>
+  </solution>
+  </exercise>
+  <exercise id="fs-id1165134301488">
+   <problem id="fs-id1165134301491">
+    <para id="fs-id1165134301493">Suppose a 15-foot ladder leans against the side of a house so that the angle of elevation of the ladder is 42 degrees. How far is the foot of the ladder from the side of the house?</para></problem>
+  </exercise> 
+   </section>
+ 
+ </section>
+</content>
+<glossary>
+<definition id="fs-id1165135407407">
+<term>arccosine</term> 
+<meaning id="fs-id1165135407412">another name for the inverse cosine;<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>arccos</m:mi><m:mtext> </m:mtext><m:mi>x</m:mi><m:mo>=</m:mo><m:msup>
+   <m:mrow>
+    <m:mi>cos</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mi>x</m:mi>
+ </m:mrow>
+</m:math>
+</meaning>
+</definition> 
+<definition id="fs-id1165135407453">
+<term>arcsine</term> 
+<meaning id="fs-id1165135407459">another name for the inverse sine;<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>arcsin</m:mi><m:mtext> </m:mtext><m:mi>x</m:mi><m:mo>=</m:mo><m:msup>
+   <m:mrow>
+    <m:mi>sin</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mi>x</m:mi>
+ </m:mrow>
+</m:math>
+</meaning>
+</definition> 
+<definition id="fs-id1165135407500">
+<term>arctangent</term> 
+<meaning id="fs-id1165135407505">another name for the inverse tangent;<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>arctan</m:mi><m:mtext> </m:mtext><m:mi>x</m:mi><m:mo>=</m:mo><m:msup>
+   <m:mrow>
+    <m:mi>tan</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mi>x</m:mi>
+ </m:mrow>
+</m:math>
+</meaning>
+</definition> 
+<definition id="fs-id1165134357638">
+<term>inverse cosine function</term> <meaning id="fs-id1165134357643">the function<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
+   <m:mrow>
+    <m:mi>cos</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mi>x</m:mi><m:mo>,</m:mo><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>which is the inverse of the cosine function and the angle that has a cosine equal to a given number</meaning>
+</definition>
+<definition id="fs-id1165134357681">
+<term>inverse sine function</term> <meaning id="fs-id1165134357687">the function<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
+   <m:mrow>
+    <m:mi>sin</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mi>x</m:mi><m:mo>,</m:mo><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>which is the inverse of the sine function and the angle that has a sine equal to a given number</meaning>
+</definition> 
+<definition id="fs-id1165134357726">
+<term>inverse tangent function</term> <meaning id="fs-id1165134357732">the function <m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:msup>
+   <m:mrow>
+    <m:mi>tan</m:mi>
+   </m:mrow>
+   <m:mrow>
+    <m:mo>−</m:mo><m:mn>1</m:mn>
+   </m:mrow>
+  </m:msup>
+  <m:mi>x</m:mi><m:mo>,</m:mo><m:mtext> </m:mtext>
+ </m:mrow>
+</m:math>which is the inverse of the tangent function and the angle that has a tangent equal to a given number</meaning>
+</definition>
+</glossary>
+</document>

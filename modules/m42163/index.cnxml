@@ -467,11 +467,11 @@
     
     <para id="import-auto-id1687701">Find a few ice cubes which are about the same size and a smooth kitchen tabletop or a table with a glass top. Place the ice cubes on the surface several centimeters away from each other. Flick one ice cube toward a stationary ice cube and observe the path and velocities of the ice cubes after the collision. Try to avoid edge-on collisions and collisions with rotating ice cubes. Have you created approximately elastic collisions? Explain the speeds and directions of the ice cubes using momentum.</para>
     </note><note id="eip-732" class="interactive"><title>PhET Explorations: Collision Lab</title><para id="eip-id1169738155680">Investigate collisions on an air hockey table. Set up your own experiments: vary the number of discs, masses and initial conditions. Is momentum conserved? Is kinetic energy conserved? Vary the elasticity and see what happens.
-<newline/>
+<newline/><figure id="eip-idm350542736">
 <media id="Phet_module_9.4" alt="Collision Lab">
 <iframe width="660" height="371.4" src="https://phet.colorado.edu/sims/collision-lab/collision-lab_en.html"/>
 </media>
-</para></note><section id="fs-id1552669" class="section-summary">
+</figure></para></note><section id="fs-id1552669" class="section-summary">
     <title>Section Summary</title><list id="fs-id1488664"><item id="import-auto-id1681073">An elastic collision is one that conserves internal kinetic energy.</item>
     <item id="import-auto-id1296338">Conservation of kinetic energy and momentum together allow the final velocities to be calculated in terms of initial velocities and masses in one dimensional two-body collisions.</item>
     </list></section>
@@ -487,7 +487,7 @@
     </problem></exercise>
     <exercise id="fs-id1319285" type="problems-exercises"><problem id="fs-id1349458">
 <para id="eip-id2978613"><emphasis>Professional Application</emphasis></para>
-    <para id="import-auto-id1677107">Two manned satellites approach one another at a relative speed of 0.250 m/s, intending to dock. The first has a mass of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "00" times "10" rSup { size 8{3} } " kg"} {}</m:annotation></m:semantics></m:math>, and the second a mass of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "50" times "10" rSup { size 8{3} } " kg"} {}</m:annotation></m:semantics></m:math>. If the two satellites collide elastically rather than dock, what is their final relative velocity? </para></problem>
+    <para id="import-auto-id1677107">Two piloted satellites approach one another at a relative speed of 0.250 m/s, intending to dock. The first has a mass of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "00" times "10" rSup { size 8{3} } " kg"} {}</m:annotation></m:semantics></m:math>, and the second a mass of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "50" times "10" rSup { size 8{3} } " kg"} {}</m:annotation></m:semantics></m:math>. If the two satellites collide elastically rather than dock, what is their final relative velocity? </para></problem>
     <solution id="fs-id2499433">
    <para id="eip-id1362706"> 0.250 m/s</para>
     </solution></exercise><exercise id="fs-id898804" type="problems-exercises"><problem id="fs-id2512576">

@@ -1,0 +1,84 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+  <title>Average Deviation from the Mean (a.d.) and Average Deviation of the Mean (A.D.)</title>
+
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50380</md:content-id>
+  <md:title>Average Deviation from the Mean (a.d.) and Average Deviation of the Mean (A.D.)</md:title>
+  <md:abstract/>
+  <md:uuid>c64fe36f-009e-4de5-94af-9ba91ad675b7</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10942/latest/" strength="3">Introduction to Central Tendency</link>
+      <link url="http://cnx.rice.edu/content/m11061/latest/" strength="3">Measures of Central Tendency</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="eip-607">The average deviation from the mean (a.d.), also know as the Mean Absolute Deviation (M.A.D.), is used measure of central tendency of a set of data. 
+
+</para><para id="fs-id1169030269244">It gives a more accurate measure of the central tendency than standard deviation for all life-like situations where small errors will occur in observation and measurement.</para>
+
+
+    <para id="Trogdor"><link target-id="table1" strength="3"/> shows the absolute and
+      squared deviations of the numbers 2, 3, 4, 9, and 16 from their
+      their mean of 6.8. You can see that the average of
+      absolute deviations from the mean (4.6). On the other hand,
+      the average of squared deviations from the mean (27.0).
+    </para><table id="table1" frame="all" summary="">
+      <title>Absolute and squared deviations from the
+	the mean of 6.8.</title>
+      <tgroup cols="3" colsep="1" rowsep="1">
+	<thead>
+	  <row>
+	    <entry>Value</entry>
+	    <entry>Absolute Deviation from Median</entry>
+	    <entry>Squared Deviation from Median</entry>
+	  </row>
+	</thead>
+	<tbody>
+	  <row>
+	    <entry align="center">2</entry>
+	    <entry align="center">4.8</entry>
+	    <entry align="center">23.04</entry>
+	  </row>
+	  <row>
+	    <entry align="center">3</entry>
+	    <entry align="center">3.8</entry>
+	    <entry align="center">14.44</entry>
+	  </row>
+	  <row>
+	    <entry align="center">4</entry>
+	    <entry align="center">2.8</entry>
+	    <entry align="center">7.84</entry>
+	  </row>
+	  <row>
+	    <entry align="center">9</entry>
+	    <entry align="center">2.2</entry>
+	    <entry align="center">4.84</entry>
+	  </row>
+	  <row>
+	    <entry align="center">16</entry>
+	    <entry align="center">9.2</entry>
+	    <entry align="center">84.64</entry>
+	  </row>
+	  <row>
+	    <entry align="center"><emphasis>Average</emphasis></entry>
+	    <entry align="center"><emphasis>4.6</emphasis></entry>
+	    <entry align="center"><emphasis>27.0</emphasis></entry>
+	  </row>
+	</tbody>
+      </tgroup>
+    </table>
+    
+    <para id="imp-id1171669115468">The average deviation from the mean is 6.8 ± 4.6. This is telling us about the precision of our data.
+    </para><para id="imp-id1171669783150">The average deviation of the mean is 6.8 ± 4.6/√5. This is telling us about the accuracy of our data. 
+    </para><para id="imp-id1171667804775">More information on the effectiveness of Mean Absolute Deviation over standard deviation can be found in Stephen Gorard paper Revisiting a 90-year-old debate: the advantages of the mean deviation. It can be found at 
+<link url="http://www.leeds.ac.uk/educol/documents/00003759.htm">http://www.leeds.ac.uk/educol/documents/00003759.htm</link>
+    </para></content>
+  
+</document>

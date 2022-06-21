@@ -1,0 +1,325 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Linear Regression and Correlation: Correlation Coefficient and Coefficient of Determination</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m17092</md:content-id>
+  <md:title>Linear Regression and Correlation: Correlation Coefficient and Coefficient of Determination</md:title>
+  <md:abstract>Linear Regression and Correlation: The Correlation Coefficient and Coefficient of Determination is a part of Collaborative Statistics collection (col10522) by Barbara Illowsky and Susan Dean with contributions from Roberta Bloom.  The name has been changed from Correlation Coefficient.</md:abstract>
+  <md:uuid>5c429082-686b-448a-b292-b031e8ea368f</md:uuid>
+</metadata>
+
+<content>
+    <section id="eip-737"><title>The Correlation Coefficient r</title><para id="element-12345">Besides looking at the scatter plot and seeing that a line seems reasonable, how can you
+tell if the line is a good predictor? Use the correlation coefficient as another indicator
+(besides the scatterplot) of the strength of the relationship between <m:math><m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math>.</para>
+<para id="eip-357">The <emphasis>correlation coefficient, r, </emphasis> developed by Karl Pearson in the early 1900s, is a numerical measure of the strength of association between the independent variable x and the dependent variable y. 
+</para>
+<para id="eip-344">The correlation coefficient is calculated as</para><para id="element-48"><equation id="eip-id4561593">
+<m:math>
+<m:mi>r</m:mi>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mi>n</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>Σ</m:mi>
+<m:mi>x</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>y</m:mi>
+<m:mo>-</m:mo>
+<m:mo>(</m:mo>
+<m:mi>Σ</m:mi>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+<m:mo>⋅</m:mo>
+<m:mo>(</m:mo>
+<m:mi>Σ</m:mi>
+<m:mi>y</m:mi>
+<m:mo>)</m:mo>
+</m:mrow>
+<m:mrow>
+<m:msqrt>
+<m:mo>[</m:mo>
+<m:mi>n</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>Σ</m:mi>
+<m:msup>
+<m:mi>x</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>-</m:mo>
+<m:mo>(</m:mo>
+<m:mi>Σ</m:mi>
+<m:mi>x</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>]</m:mo>
+<m:mo>⋅</m:mo>
+<m:mo>[</m:mo>
+<m:mi>n</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>Σ</m:mi>
+<m:msup>
+<m:mi>y</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>-</m:mo>
+<m:mo>(</m:mo>
+<m:mi>Σ</m:mi>
+<m:mi>y</m:mi>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>]</m:mo>
+</m:msqrt>
+</m:mrow>
+</m:mfrac>
+</m:math>
+</equation>
+</para><para id="element-363">where <m:math><m:mi>n</m:mi></m:math> = the number of data points.
+</para>
+
+
+
+<para id="element-447">If you suspect a linear relationship between <m:math><m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math>, then <m:math><m:mi>r</m:mi></m:math> can measure how strong the linear relationship is.</para>
+   
+<list id="eip-828"><title>What the VALUE of r tells us:</title><item>The value of <m:math><m:mi>r</m:mi></m:math> is always between -1 and +1: <m:math><m:mn>-1</m:mn><m:mo>≤</m:mo><m:mi>r</m:mi><m:mo>≤</m:mo><m:mn>1</m:mn></m:math>. 
+</item>
+
+<item>The size of the correlation <m:math><m:mi>r</m:mi></m:math> indicates the strength of the linear relationship between <m:math><m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math>. Values of <m:math><m:mi>r</m:mi></m:math> close to -1 or to +1 indicate a stronger linear relationship between <m:math><m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math>.</item>
+
+<item>If <m:math><m:mi>r=0</m:mi></m:math>
+ there is absolutely no linear relationship between <m:math><m:mi>x</m:mi></m:math> and <m:math><m:mi>y</m:mi></m:math> <emphasis> (no linear correlation)</emphasis>.</item><item>If <m:math><m:mi>r</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:math>, there is perfect positive correlation. If <m:math><m:mi>r</m:mi><m:mo>=</m:mo><m:mn>-1</m:mn></m:math>, there is perfect negative
+correlation. In both these cases, all of the original data points lie on a straight line. Of course,
+in the real world, this will not generally happen.</item></list><list id="eip-269"><title>What the SIGN of r tells us</title><item>A positive value of <m:math><m:mi>r</m:mi></m:math> means that when <m:math><m:mi>x</m:mi></m:math> increases, <m:math><m:mi>y</m:mi></m:math> tends to increase and when <m:math><m:mi>x</m:mi></m:math> decreases, <m:math><m:mi>y</m:mi></m:math> tends to  decrease <emphasis>(positive correlation)</emphasis>.</item>
+
+<item>A negative value of <m:math><m:mi>r</m:mi></m:math> means that when <m:math><m:mi>x</m:mi></m:math> increases, <m:math><m:mi>y</m:mi></m:math> tends to decrease and when <m:math><m:mi>x</m:mi></m:math> decreases, <m:math><m:mi>y</m:mi></m:math> tends to increase <emphasis>(negative correlation)</emphasis>.</item>
+
+<item>The sign of <m:math><m:mi>r</m:mi></m:math> is the same as the sign of the slope, <m:math><m:mi>b</m:mi></m:math>,
+of the best fit line.</item>
+</list><note id="eip-131">Strong correlation does not suggest that <m:math><m:mi>x</m:mi></m:math> causes <m:math><m:mi>y</m:mi></m:math> or <m:math><m:mi>y</m:mi></m:math> causes <m:math><m:mi>x</m:mi></m:math>. We say <emphasis>"correlation does not imply causation."</emphasis> For example, every person who learned
+math in the 17th century is dead. However, learning math does not necessarily cause
+death!</note><para id="element-227"><figure id="linrgs_facts_pics"><subfigure id="linrgs_facts1">
+      <title>Positive Correlation</title>
+      <media id="id1165447908435" alt="Scatterplot of points ascending from the lower left to the upper right."><image src="../../media/linrgs_facts1.png" mime-type="image/png" print-width="2in"/></media>
+  <caption>A scatter plot showing data with a positive correlation.
+<m:math> <m:mn>0</m:mn>  <m:reln><m:lt/></m:reln><m:mn>r</m:mn> <m:reln><m:lt/></m:reln><m:mn>1</m:mn></m:math> </caption>
+  </subfigure>
+<subfigure id="linrgs_facts2">
+      <title>Negative Correlation</title>
+      <media id="id1165447908472" alt="Scatterplot of points descending from the upper left to the lower right."><image src="../../media/linrgs_facts2.png" mime-type="image/png" print-width="2in"/></media>
+<caption>A scatter plot showing data with a negative correlation. <m:math> <m:mn>-1</m:mn>  <m:reln><m:lt/></m:reln><m:mn>r</m:mn> <m:reln><m:lt/></m:reln><m:mn>0</m:mn></m:math> </caption>
+  </subfigure>
+<subfigure id="linrgs_facts3">
+      <title>Zero Correlation</title>
+      <media id="id1165447908510" alt="Scatterplot of points in a horizontal configuration."><image src="../../media/linrgs_facts3.png" mime-type="image/png" print-width="2in"/></media>
+<caption>A scatter plot showing data with zero correlation.  <m:math><m:mn>r</m:mn> </m:math>=0</caption>
+  </subfigure></figure></para></section><para id="eip-696">The formula for <m:math><m:mi>r</m:mi></m:math> looks formidable. However, computer spreadsheets, statistical software, and many calculators can quickly calculate <m:math><m:mi>r</m:mi></m:math>.  The correlation coefficient <m:math><m:mi>r</m:mi></m:math> is the bottom item in the output screens for the LinRegTTest on the TI-83, TI-83+, or TI-84+ calculator (see previous section for instructions).</para><section id="eip-117"><title>The Coefficient of Determination</title><para id="eip-458"><emphasis><m:math>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>
+ is called the coefficient of determination. <m:math>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> is the square of the correlation coefficient </emphasis>, but is usually stated as a percent, rather than in decimal form. 
+ <m:math>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>  has an interpretation in the context of the data:
+</para><list id="eip-728"><item><m:math>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>, when expressed as a percent, represents the percent of variation in the dependent variable y that can be explained by variation in the independent variable x using the regression (best fit) line.</item>
+<item>1-<m:math><m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>, when expressed as a percent, represents the percent of variation in y that is NOT explained by variation in x using the regression line.  This can be seen as the scattering of the observed data points about the regression line.   </item>
+</list><list id="eip-624" list-type="labeled-item"><title>Consider the <link document="m17092" target-id="element-22">third exam/final exam example</link> introduced in the previous section</title><item>The line of best fit is: <m:math>
+<m:mover>
+<m:mi>y</m:mi>
+<m:mo>^</m:mo>
+</m:mover>
+<m:mo>=</m:mo>
+<m:mn>-173.51</m:mn>
+<m:mo>+</m:mo>
+<m:mtext>4.83x</m:mtext>
+</m:math></item> <item>The correlation coefficient is
+<m:math>
+<m:mi>r</m:mi>
+<m:mo>=</m:mo>
+<m:mn>0.6631</m:mn>
+</m:math> </item>
+
+<item>The coefficient of determination is <m:math>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> = <m:math>
+<m:msup>
+<m:mi>0.6631</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> = 0.4397</item>
+
+<item> <emphasis> Interpretation of <m:math>
+<m:msup>
+<m:mi>r</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math> in the context of this example: </emphasis></item>
+<item>  Approximately 44% of the variation (0.4397 is approximately 0.44) in the final exam grades can be explained by the variation in the grades on the third exam, using the best fit regression line.</item>  
+<item>Therefore approximately 56% of the variation (1 - 0.44 = 0.56) in the final exam grades can NOT be explained by the variation in the grades on the third exam, using the best fit regression line. (This is seen as the scattering of the points about the line.)</item>  </list></section><para id="eip-222">**With contributions from Roberta Bloom.</para>   
+  </content>
+  <glossary>
+<definition id="coeffcorr">
+    <term>Coefficient of Correlation</term>
+    <meaning id="id1167925021109">
+A measure developed by Karl Pearson (early 1900s) that gives the strength of association between the independent variable and the dependent variable. The formula is:
+    <equation id="id5499555">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>r</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">∑</m:mo>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>xy</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mo stretchy="false">(</m:mo>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">)</m:mo>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mrow>
+                              <m:mo stretchy="false">∑</m:mo>
+                              <m:mrow>
+                                <m:mi>y</m:mi>
+                                <m:mo stretchy="false">)</m:mo>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msqrt>
+                        <m:mrow>
+                          <m:mo stretchy="false">[</m:mo>
+                          <m:mi>n</m:mi>
+                          <m:mrow>
+                            <m:mo stretchy="false">∑</m:mo>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:msup>
+                                  <m:mi>x</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mo stretchy="false">(</m:mo>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">∑</m:mo>
+                                <m:mrow>
+                                  <m:mi>x</m:mi>
+                                  <m:msup>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msup>
+                                  <m:mo stretchy="false">]</m:mo>
+                                  <m:mo stretchy="false">[</m:mo>
+                                  <m:mi>n</m:mi>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">∑</m:mo>
+                                    <m:mrow>
+                                      <m:mrow>
+                                        <m:msup>
+                                          <m:mi>y</m:mi>
+                                          <m:mstyle fontsize="8pt">
+                                            <m:mrow>
+                                              <m:mn>2</m:mn>
+                                            </m:mrow>
+                                          </m:mstyle>
+                                        </m:msup>
+                                        <m:mo stretchy="false">−</m:mo>
+                                        <m:mo stretchy="false">(</m:mo>
+                                      </m:mrow>
+                                      <m:mrow>
+                                        <m:mo stretchy="false">∑</m:mo>
+                                        <m:mrow>
+                                          <m:mi>y</m:mi>
+                                          <m:msup>
+                                            <m:mo stretchy="false">)</m:mo>
+                                            <m:mstyle fontsize="8pt">
+                                              <m:mrow>
+                                                <m:mn>2</m:mn>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:msup>
+                                          <m:mo stretchy="false">]</m:mo>
+                                        </m:mrow>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:msqrt>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mi>,</m:mi>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{r= {  {n Sum { ital "xy"}  -  \(  Sum {x \)  \(  Sum {y \) } } }  over  { sqrt { \[ n Sum {x rSup { size 8{2} }  -  \(  Sum {x \)  rSup { size 8{2} }  \]  \[ n Sum {y rSup { size 8{2} }  -  \(  Sum {y \)  rSup { size 8{2} }  \] } } } } } } } ,} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation>
+    where n is the number of data points. 
+    The coefficient cannot be more then 1 and less then -1. The closer the coefficient is to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">±</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ +- 1} {}</m:annotation></m:semantics></m:math>, the stronger the evidence of a significant linear relationship between 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y} {}</m:annotation></m:semantics></m:math>.
+    </meaning>
+  </definition>
+
+
+</glossary>
+</document>

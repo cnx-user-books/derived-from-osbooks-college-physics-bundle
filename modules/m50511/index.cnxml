@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+  <title>Introduction to Advanced Math Topics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50511</md:content-id>
+  <md:title>Introduction to Advanced Math Topics</md:title>
+  <md:abstract/>
+  <md:uuid>1b484697-558e-41fb-b000-a27bf4cb8ca6</md:uuid>
+</metadata>
+
+<content>
+        <figure id="import-auto-id1165298827978" class="splash"><media id="import-auto-id1165298786319" alt=" ">
+        <image mime-type="image/gif" src="../../media/balls.gif" width="350"/>
+      </media>
+      
+    </figure><para id="import-auto-id1165298810746">Most motion in the world is non-linear. To understand and calculate this motion, more advanced math is required. This chapter will focus on this mathematics. You will learn about trigonometric functions, polar coordinates, and how to convert between coordinate systems. </para></content>
+</document>

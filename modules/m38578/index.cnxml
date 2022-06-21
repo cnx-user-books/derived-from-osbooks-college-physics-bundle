@@ -1,0 +1,2103 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Quadratic Equations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38578</md:content-id>
+  <md:title>Quadratic Equations</md:title>
+  <md:abstract>This module is part of a collection of modules that were developed to support laboratory activities in a Precalculus for PreEngineers (MATH 1508) at the University of Texas at El Paso.  Contained in this module of applications of quadratic equations in various fields of engineering and science.  These include the motion of an object under constant acceleration, quantitative management, and break-even analysis.</md:abstract>
+  <md:uuid>5175d3ea-7d76-4882-885c-dfe68d58adb9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168909923906">
+      <title>Quadratic Equations</title>
+      <section id="id1168900638789">
+        <title>Introduction</title>
+        <para id="id1168920137225">Quadratic equations play an important role in the modeling of many physical situations. Finding the roots of quadratic equations is a necessary skill. Being able to interpret these roots is an important ability that is important in understanding physical problems. In this module, we will present a number of applications of quadratic equations in several fields of engineering. </para>
+      </section>
+      <section id="id1168898235993">
+        <title>Determining the Roots of Quadratic Equations</title>
+        <para id="id1168898524904">A quadratic equation has the following form </para>
+        <equation id="id1168899859630">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msup>
+                                <m:mtext>ax</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>bx</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>0</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "ax" rSup { size 8{2} } + ital "bx"+c=0} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168899141076">Because a quadratic equation involves a polynomial of order 2, it will have two roots. In general, a quadratic equation will either have two roots that are both real or have two roots that are both complex. For the present module, we will restrict our attention to quadratic equations that have two real roots.</para>
+        <para id="id1168898254225">There are three methods that are effective in solving for the roots of a quadratic equation. They are:</para>
+        <list id="id1168899205773" list-type="bulleted">
+          <item>Solution by factoring</item>
+          <item>Solution by completing the square</item>
+          <item>Solution by the quadratic formula</item>
+        </list>
+        <para id="id1168899452384">The applications that follow will include examples of each of these three methods of solution. </para>
+      </section>
+      <section id="id1168899020186">
+        <title>Motion of an Object under Uniform Acceleration</title>
+        <para id="id1168898553184">We will begin our study of quadratic equations by considering an application that you will likely encounter later in physics and mechanical engineering classes. Let us consider an object that is subject to a uniform acceleration. By uniform, we mean an acceleration that is constant. Such an object might be an automobile, an aircraft, a rocket, etc. The motion of an object subjected to uniform acceleration can be expressed mathematically by the following equation.</para>
+        <equation id="id1168898438821">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>s</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>t</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mi>a</m:mi>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{s \( t \) = {  {1}  over  {2} } `a`t rSup { size 8{2} } +v rSub { size 8{0} } t+s rSub { size 8{0} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168902857000">where <emphasis>s</emphasis>(<emphasis>t</emphasis>) represents the position of the object as function of time <emphasis>t</emphasis>,</para>
+        <para id="id1168903969857"><emphasis>a</emphasis> represents the constant acceleration of the object, </para>
+        <para id="id1168899216444"><emphasis>v</emphasis><sub>0</sub> represents the value of the object’s velocity at time <emphasis>t </emphasis>= 0, and</para>
+        <para id="id1168899604642"><emphasis>s</emphasis><sub>0</sub> represents the position of the object at time <emphasis>t</emphasis> = 0.</para>
+        <para id="id1168899843661">An equation of this sort is called an <emphasis>equation of motion</emphasis>. We will illustrate its use in the following exercise.</para>
+        <para id="id1168899234097">Example 1: For our first example, let us consider a dragster on a drag strip of length one-quarter mile. For time t &lt; 0, the dragster is at rest at the starting line. At time = 0, the driver depresses his gas pedal to produce a uniform acceleration of 50 m/s<sup>2</sup>. Under these conditions, how far will the dragster travel in 1 second?</para>
+        <para id="id1168898939786">Because the dragster travels in a horizontal direction, we will represent its distance from the starting point as a fuction of time as<emphasis> x</emphasis>(<emphasis>t</emphasis>). We also know that the value for the acceleration (<emphasis>a</emphasis>) is 30 <emphasis>m</emphasis>/<emphasis>s</emphasis><sup>2</sup>. We can incorporate these changes in equation (1) to produce a new equation of motion for the dragster.</para>
+        <equation id="id1168898157591">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>t</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>50</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>x</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{x \( t \) = {  {1}  over  {2} } ` \( "50"`m/s rSup { size 8{2} }  \) `t rSup { size 8{2} } +v rSub { size 8{0} } t+x rSub { size 8{0} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168899854149">Because the dragster is initially motionless, its initial velocity (<emphasis>v</emphasis><sub>0</sub>) is 0. Also since the dragster is situated at the starting point at time t = 0, its initial position (<emphasis>x</emphasis><sub>0</sub>) is 0. We substitute these values into (2) to obtain </para>
+        <equation id="id1168899089220">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>t</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>50</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:msup>
+                        <m:mi>t</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{x \( t \) = {  {1}  over  {2} } ` \( "50"`m/s rSup { size 8{2} }  \) `t rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168898392945">We can determine the distance that the dragster travels in 1 second by substituting the value 1 for<emphasis> t</emphasis>.</para>
+        <equation id="id8110654">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>50</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mi/>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>25</m:mtext>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{x \( 1 \) = {  {1}  over  {2} }  \( "50"`m/s rSup { size 8{2} }  \) ` \( 1`s \)  rSup { size 8{2} } ="25"`m} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168899121956">Thus we conclude that the dragster travels 25 meters in its first second of travel.</para>
+        <para id="id1168898421387">Example 2: How far will the dragster travel in 2 seconds?</para>
+        <para id="id1168899703425">We may make use of the same equation (2) as before. In this case, we substitute 2 for <emphasis>t</emphasis> to obtain the distance traveled by the dragster in 2 seconds.</para>
+        <equation id="id1168899515222">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>50</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi/>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>100</m:mtext>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{x \( 2 \) = {  {1}  over  {2} }  \( "50"`m/s rSup { size 8{2} }  \) ` \( 2`s \)  rSup { size 8{2} } ="100"`m} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168899604255">Example 3: Most drag strips are one-quarter mile in length. Assuming that the acceleration remains uniform, how long will it take the dragster to complete the one-quarter mile strip?</para>
+        <para id="id1168898449404">Because the equation of motion for the dragster is written is MKS units, we must convert one-quarter mile to meters. We can do so by applying the unit conversion factor 1 mile = 1,609.344 m. Thus,</para>
+        <equation id="id1168898615007">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                      <m:mi/>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>mile</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>1,</m:mn>
+                            <m:mtext>609</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>344</m:mtext>
+                            <m:mi/>
+                            <m:mi>m</m:mi>
+                          </m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>mile</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>402</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mn>3</m:mn>
+                      <m:mi/>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } ` ital "mile"` {  {1,"609" "." "344"`m}  over  { ital "mile"} } ="402" "." 3`m} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168913904923">Once again, equation (2) can be used to model the motion of the dragster. We will use this equation to solve for the amount of time (<emphasis>t</emphasis><sub>1</sub>) that it will take the dragster to travel 402.3 meters. The steps are shown below.</para>
+        
+        
+        <equation id="id1168898391973">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>402</m:mtext>
+                      <m:mtext>.</m:mtext>
+                      <m:mn>3</m:mn>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>50</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msup>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"402" "." 3`m= {  {1}  over  {2} }  \( "50"`m/s rSup { size 8{2} }  \)  \( t rSub { size 8{1} }  \)  rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id1168928240343">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mo stretchy="false">×</m:mo>
+                              <m:mtext>402</m:mtext>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mn>3</m:mn>
+                            <m:mi/>
+                            <m:mi>m</m:mi>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mtext>50</m:mtext>
+                            <m:mi/>
+                            <m:mrow>
+                              <m:mi>m</m:mi>
+                              <m:mo stretchy="false">/</m:mo>
+                              <m:msup>
+                                <m:mi>s</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:msup>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {2 times "402" "." 3`m}  over  {"50"`m/s rSup { size 8{2} } } } = \( t rSub { size 8{1} }  \)  rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id1168908307103">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>16</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>092</m:mtext>
+                      <m:mi/>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ \( t rSub { size 8{1} }  \)  rSup { size 8{2} } ="16" "." "092"`s rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id1168902181205">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>01</m:mtext>
+                      <m:mi/>
+                      <m:mi>s</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{t rSub { size 8{1} } =4 "." "01"`s} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168899525617">So we conclude that it will take the dragster slightly 4.01 seconds to complete the quarter mile track.</para>
+      </section>
+      <section id="id1168904142461">
+        <title>Projectile Motion</title>
+        <para id="id1168900941985">Just as we could model a dragster as an object under constant acceleration, we can also model a projectile using a similar approach. A <emphasis>projectile</emphasis> is an object that is hurled into the air. Rockets, missiles and artillery shells are examples of projectiles. </para>
+        <para id="id1168899678682">Projectiles experience uniform acceleration as they travel through the sky. The uniform acceleration is due to the gravitational pull exerted on the projectile by the Earth. This acceleration is denoted as <emphasis>g</emphasis>. It value in the MKS system is 9.8 <emphasis>m</emphasis>/<emphasis>s</emphasis><sup>2</sup>. In the British system of units, the value of <emphasis>g</emphasis> is equal to 32 ft/s<sup>2</sup>.</para>
+        <para id="id1168902638652">Let us represent the height of a projectile as a function of time as <emphasis>y</emphasis>(t). Let us represent the initial velocity in the vertical direction of the projectile and the initial height of the projectile to be <emphasis>v</emphasis><sub>0</sub> and <emphasis>y</emphasis><sub>0</sub>, respectively. We can incorporate these constants into equation (1) to develop the following equation of motion for a projectile.</para>
+        <equation id="id1168930998509">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>t</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mi>g</m:mi>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>y</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{y \( t \) = -  {  {1}  over  {2} } `g`t rSup { size 8{2} } +v rSub { size 8{0} } t+y rSub { size 8{0} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168898362041">The presence of the minus sign in the equation of motion for a projectile is due to the fact that the gravitation force exerted on the projectile is directed toward the Earth which is opposite to the direction of increasing vertical position. </para>
+        <para id="id1168902171289">We can use this equation to model the height of a projectile as a function of time. The following exercises illustrate this principle. In the next three exercises you can ignore any affects due to the atmosphere or wind.</para>
+        <para id="id1168902430597">Example 4: Let us consider a bottle rocket that is launched at time (<emphasis>t </emphasis>= 0) from a flat surface. The initial velocity of the bottle rocket is 124 ft/s. Determine the height of the bottle rocket 1.5 seconds after it is launched.</para>
+        <para id="id1168897951878">Clearly <emphasis>v</emphasis><sub>0</sub> is 124 ft/s. Since the bottle rocket is launched from the surface, the value for <emphasis>y</emphasis><sub>0</sub> is 0. We will substitute these values into the equation of motion for a projectile.</para>
+        <equation id="id1168899610968">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>t</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mi>g</m:mi>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mtext>124</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi>t</m:mi>
+                      <m:mrow>
+                        <m:mi/>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{y \( t \) = -  {  {1}  over  {2} } `g`t rSup { size 8{2} } + \( "124" \) t`+0} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168899703223">Next, we substitute 32 ft/s2 for g. We use this value because in this exercise, we make use of the British system of units.</para>
+        
+        <equation id="id1168898368200">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>t</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>32</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mtext>124</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:mi>s</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{y \( t \) = -  {  {1}  over  {2} } ` \( "32"` ital "ft"/s rSup { size 8{2} }  \) `t rSup { size 8{2} } + \( "124"` ital "ft"/s \) `t} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168899430242">To find the height of the bottle rocket at a time 1.5 seconds after its launch, we make the substitution <emphasis>t</emphasis> = 1.5 s.</para>
+        <equation id="id1168903599803">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mn>5</m:mn>
+                      <m:mi/>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>32</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mn>5</m:mn>
+                      <m:mi/>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mtext>124</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:mi>s</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mn>5</m:mn>
+                      <m:mi/>
+                      <m:mi>s</m:mi>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{y \( 1 "." 5`s \) = -  {  {1}  over  {2} } ` \( "32"` ital "ft"/s rSup { size 8{2} }  \) ` \( 1 "." 5`s \)  rSup { size 8{2} } + \( "124"` ital "ft"/s \) ` \( 1 "." 5`s \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id1168933440637">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mn>5</m:mn>
+                      <m:mi/>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mtext>36</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>186</m:mtext>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>150</m:mtext>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>ft</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{y \( 1 "." 5`s \) = - "36"` ital "ft"+"186"` ital "ft"="150"` ital "ft"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168898909212">So we conclude that the bottle rocket attains a height of 150 ft at a time 1.5 seconds after launch.</para>
+        <para id="id1168898227886">Example 5: Let us enforce that same conditions on the bottle rocket as were presented in Example 4. Find the length of time it will take for the bottle rocket to strike the surface. </para>
+        <para id="id1168898750543">In order to determine the time at which the bottle rocket will strike the surface, we must find the value for t that leads to a height of 0. As before, we make use of the equation of motion</para>
+        <equation id="id1168898045022">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>t</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>32</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mtext>124</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:mi>s</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{y \( t \) = -  {  {1}  over  {2} }  \( "32"` ital "ft"/s rSup { size 8{2} }  \) `t rSup { size 8{2} } + \( "124"` ital "ft"/s \) `t} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168898278710">Because we are interested in determining when the bottle rocket hits the surface, we set the left hand side of the equation to 0</para>
+        <equation id="id1168899427796">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>0</m:mn>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>32</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mtext>124</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:mi>s</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{0= -  {  {1}  over  {2} }  \( "32"` ital "ft"/s rSup { size 8{2} }  \) `t rSup { size 8{2} } + \( "124"` ital "ft"/s \) `t} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168898664056">If we restrict the units of <emphasis>t</emphasis> to seconds, we can simplify this equation</para>
+        <equation id="id1168899730371">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mtext>16</m:mtext>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>124</m:mtext>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ - "16"`t rSup { size 8{2} } +"124"`t=0} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168900629601">The left hand side of the equation can be factored as</para>
+        <equation id="id1168900632500">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>t</m:mi>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:mo stretchy="false">(</m:mo>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mtext>16</m:mtext>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>124</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{t times  \(  - "16"`t+"124" \) =0} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168914524788">The roots of this equation can be found by setting each factor to 0. That is </para>
+        <equation id="id1168898308617">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>t</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>0</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{t=0} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <equation id="id1168899579273">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mtext>16</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>t</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>124</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ - "16"t+"124"=0} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168899632114">As a consequence, the root associated with the first factor which is 0 corresponds to the time of the launch. The second equation yields the root, 7.75 seconds. This root corresponds to the time at which the bottle rocket strikes the surface. </para>
+        <para id="id1168898389646">Example 6: Let us consider the same bottle rocket as before, but with one major exception. In this exercise, assume that the launch site of the bottle rocket is moved to a bluff whose height is 100 ft above the surface. Find the length of time it will take for the bottle rocket to strike the surface below the bluff.</para>
+        <para id="id1168898461133">The situation is depicted in Fig 1. </para>
+        <para id="id1168898883818">
+          <figure id="id1168898905634"><media id="id1168898905634_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-9281.jpg" id="id1168898905634__onlineimage" height="450" width="600"/>
+            </media>
+          <caption>Flight path of a projectile.</caption></figure>
+        </para>
+        <para id="id1168899545319">Once again, we will make use of the equation of motion for a projectile. However in this case we establish the term <emphasis>y</emphasis><sub>0</sub> as 100 ft. This is due to the bottle rocket being launched from the bluff which is 100 ft above the surface. Thus we have</para>
+        <equation id="id1168899668567">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>t</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mtext>32</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mtext>124</m:mtext>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>ft</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:mi>s</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>100</m:mtext>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>ft</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{y \( t \) = -  {  {1}  over  {2} }  \( "32"` ital "ft"/s rSup { size 8{2} }  \) `t rSup { size 8{2} } + \( "124"` ital "ft"/s \) `t+"100"` ital "ft"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168899649325">To find the length of time in seconds at which the bottle rocket will strike the surface, we must solve for the roots of the following quadratic equation. </para>
+        <equation id="id1168899270016">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>0</m:mn>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mtext>16</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>124</m:mtext>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>100</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{0= - "16"`t rSup { size 8{2} } +"124"`t+"100"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168898456741">The quadratic formula provides us with a simple way to determine the roots of a quadratic equation of the form </para>
+        <equation id="id1168898397655">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>0</m:mn>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi>a</m:mi>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>b</m:mi>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{0=a`t rSup { size 8{2} } +b`t+c} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168898320437">The quadratic formula tells us that the roots of this equation are given in terms of the coefficients (<emphasis>a</emphasis>, <emphasis>b</emphasis>, and <emphasis>c</emphasis>) as follows</para>
+        
+        <equation id="id1168899506780">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>roots</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mi>b</m:mi>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mi/>
+                            <m:mo stretchy="false">±</m:mo>
+                            <m:msqrt>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:msup>
+                                    <m:mi>b</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msup>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>4</m:mn>
+                                </m:mrow>
+                                <m:mi/>
+                                <m:mi>a</m:mi>
+                                <m:mi/>
+                                <m:mi>c</m:mi>
+                              </m:mrow>
+                            </m:msqrt>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mi/>
+                          <m:mi>a</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "roots"= {  { - b` +-  sqrt {b rSup { size 8{2} }  - 4`a`c} }  over  {2`a} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168898057715">For our problem we express the roots as</para>
+        
+        <para id="id1168909005890">In the problem at hand, the values for <emphasis>a</emphasis>, <emphasis>b</emphasis>, and <emphasis>c</emphasis> are -16, 124, and 100 respectively. Substitution of these values into the quadratic formula yield</para>
+        
+        <equation id="id1168899111575">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>roots</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mtext>124</m:mtext>
+                          </m:mrow>
+                          <m:mo stretchy="false">±</m:mo>
+                          <m:msqrt>
+                            <m:mrow>
+                              <m:mtext>15</m:mtext>
+                              <m:mi>,</m:mi>
+                              <m:mrow>
+                                <m:mtext>376</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mn>6,</m:mn>
+                              </m:mrow>
+                              <m:mtext>400</m:mtext>
+                            </m:mrow>
+                          </m:msqrt>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mtext>32</m:mtext>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "roots"= {  { - "124" +-  sqrt {"15","376"+6,"400"} }  over  { - "32"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168916309817">Further arithmetic manipulation on this expression leads us to determine the two roots to be -0.736 and 8.49 seconds. The first root is not physically possible, so it can be ignored. The second root (8.49 seconds) tells us the time at which the bottle rocket will strike the surface.</para>
+      </section>
+      <section id="id1168927751752">
+        <title>Quantitative Decision Making</title>
+        <para id="id1168919678002">Industrial engineers are often tasked by firms to make decisions that affect manufacturing operations. In making decisions, industrial engineers must weigh a variety of factors. These factors include cost, safety, regulatory constraints, ergonomics and others. </para>
+        <para id="id1168911157291">In determining which design alternatives for manufacturing are the best, industrial engineers often form mathematical models. With such models, decisions can be made that are optimal in terms of various criteria. The following exercise illustrates the sort of decision making that might be involved in a hypothetical manufacturing situation.</para>
+        <para id="id1858780">Example 7: A manufacturing firm produces commercial aircraft. The firm plans to expand its manufacturing operations to produce aircraft by opening a second plant at another site. An industrial engineer oversees the manufacturing operations for the firm and is charged with making decisions that impact the operations at the new site. </para>
+        <para id="id1168922187748">The industrial engineer has a deep understanding of two processes that could be used to govern manufacturing at the new site. For convenience let us refer to these two processes as process A and process B. The industrial engineer knows that manufacturing cost is a very important issue with the firm. In researching the two options, the industrial engineer has determined mathematical expressions that express the manufacturing cost for each of the two options.</para>
+        <para id="id1168915331244">In order to produce n aircraft during a 30-day production run, the cost in millions of dollars associated with process A is known to be</para>
+        <equation id="id1168904853701">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mi>n</m:mi>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{8`n rSup { size 8{2} } +n+2} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168926911507">The cost in millions of dollars associated with manufacturing n aircraft over the same span of time for process B is known to be </para>
+        
+        <equation id="id1168930425292">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>7</m:mn>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>n</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>14</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{7`n rSup { size 8{2} } +2`n+"14"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168920036289">Which process has the lowest associated cost?</para>
+        <para id="id6242923">We begin the process of determining which process is most cost effective by forming the difference between the cost associated with process A and the cost associated with process B. Let us designate this difference by the variable D</para>
+        <equation id="id1168920435550">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>D</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mi>n</m:mi>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mn>7</m:mn>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>n</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mi/>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>14</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi/>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mi>n</m:mi>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mtext>12</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{D= \( 8`n rSup { size 8{2} } +n+2 \)  -  \( 7`n rSup { size 8{2} } +2`n+"14" \) =`n rSup { size 8{2} }  - n - "12"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168906155121">Whenever <emphasis>D</emphasis> is greater than zero, one may conclude that the cost associated with process A is greater than that associated with process B. Whenever <emphasis>D</emphasis> is less than zero, one may conclude that the cost associated with process B is greater than that associated with process A. The cost is the same for each process whenever <emphasis>D</emphasis> equals zero.</para>
+        <para id="id2144935"><emphasis>D</emphasis> is a quadratic polynomial, so we begin by solving its roots using the equation below</para>
+        <equation id="id1168931814308">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mi>n</m:mi>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mtext>12</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>0</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{n rSup { size 8{2} } +n - "12"=0} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168918318438">We can solve for the roots of this equation using the method commonly known as solution by completing the square. Let us rearrange the equation with the terms involving n2 and n on the left hand side and the constant on the right.</para>
+        <equation id="id1168915982560">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>n</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>12</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{n rSup { size 8{2} } +n="12"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1677601">If we add ¼ to the left and the right sides we obtain</para>
+        <equation id="id1168923959422">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mi>n</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mi>n</m:mi>
+                          </m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:mn>4</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>12</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>25</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{n rSup { size 8{2} } +n+1/4="12" "." "25"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id2271792">The left hand side can be expressed as the square (<emphasis>n</emphasis> + ½)<sup>2</sup>. We reflect this below</para>
+        <equation id="id1168918505848">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                          <m:mo stretchy="false">/</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>12</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>25</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ \( n+1/2 \)  rSup { size 8{2} } ="12" "." "25"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168911387598">If we take the square root of each side, we are left with</para>
+        <equation id="id1168922394702">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>n</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">±</m:mo>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{n+1/2= +- 3 "." 5} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1550214">This yields the pair of roots 3 and -4.</para>
+        <para id="id1168919852346">Let us recall that the variable <emphasis>n</emphasis> represents the number of aircraft produced during a 30-day production run. The root (-4) is physically impossible for it is impossible to produce a negative number of aircraft. The remaining root (3) tells us that the cost associated with process A is equal to the cost associated with process B when 3 aircraft are produced during a 30-day production run. </para>
+        <para id="id1168905929047">The term <emphasis>D</emphasis> can be expressed as </para>
+        <equation id="id1168913819032">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>D</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                          <m:mo stretchy="false">/</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mtext>12</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>25</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{D= \( n+1/2 \)  rSup { size 8{2} }  - "12" "." "25"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168906153390">We can tell much about the nature of the plot of D by examining this equation. <emphasis>D</emphasis> is a parabola with a vertex at (-1/2, -12.25). The parabola would be concave positive. The parabola would cross the <emphasis>n</emphasis>-axis at the values of the roots, namely -4 and 3. Figure 2 presents a sketch of <emphasis>D</emphasis> as a function of <emphasis>n</emphasis>.</para>
+        <para id="id6534717">This sketch presents us with invaluable information with regard to weighing the costs associated with the two manufacturing processes. To begin, we see that the value of <emphasis>D</emphasis> is positive for values of <emphasis>n</emphasis> &gt; 3. We interpret this to mean that whenever the number of aircraft produced in a 30-day production run exceeds the number 3, it is more cost efficient to implement manufacturing process B. Alternatively, whenever the number of aircraft produced in a 30-day production run is greater than or equal to 0 and less than 3, manufacturing process A is the most cost efficient. If 3 aircraft are manufactured in a 30-day production run, the costs associated with process A and process B are equal. </para>
+        <para id="id1168914092861"><figure id="id1168913142748"><media id="id1168913142748_media" alt=""><image mime-type="image/jpg" src="../../media/graphics2-f03d.jpg" id="id1168913142748__onlineimage" height="450" width="600"/></media><caption>Plot of the difference in cost for competing plans as a function of production.</caption></figure>Here we recognize that it is physically impossible to manufacture a negative number of aircraft. Thus we may ignore the part of the curve to the left of the D axis. </para>
+      </section>
+      <section id="id6760390">
+        <title>Summary</title>
+        <para id="id1168925340391">A thorough knowledge of quadratic equations is crucial for an engineer. This module has presented several applications of quadratic equations in the context of problems that occur in the study of engineering. We see that the motion of dragsters, the flight of rockets and determining the most cost-effective approach to competing manufacturing processes involve quadratic polynomials and equations. </para>
+      </section>
+      <section id="id1168918293914">
+        <title>Exercises</title>
+        <para id="id5983085">1. Wind power is currently being considered as a primary source for generating electricity. The pressure due to the wind (<emphasis effect="italics">P</emphasis>: measured in lbs/ft<sup>2</sup>) is related to the velocity of the wind (<emphasis effect="italics">v</emphasis>: measured in miles/hr) by the equation</para>
+        <equation id="id1168921703816">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mi/>
+                          <m:msup>
+                            <m:mi>v</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>1,</m:mn>
+                          <m:mtext>000</m:mtext>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{P= {  {3`v rSup { size 8{2} } }  over  {1,"000"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168909871926">Determine the approximate wind velocity (<emphasis effect="italics">v</emphasis>) if the pressure is measured to be 11.75 lb/ft<sup>2</sup>. </para>
+        <para id="id1168921391703">2. The distance (<emphasis effect="italics">d</emphasis>: measured in miles) to the apparent visible horizon of an observer at a height (<emphasis effect="italics">h</emphasis>: measured in miles) above sea level is given by the formula</para>
+        
+        <equation id="id1168934115528">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>d</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi>h</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mrow>
+                        <m:mi>h</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>8,</m:mn>
+                      </m:mrow>
+                      <m:mtext>000</m:mtext>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{d rSup { size 8{2} } =h \( h+8,"000" \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1168925054545">On a clear day, how far away is the visible horizon for a passenger flying aboard an aircraft at a height of 6 miles?</para>
+        <figure id="id1168930493854"><media id="id1168930493854_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Picture 1-e41d.jpg" id="id1168930493854__onlineimage" height="355" width="474"/>
+          </media>
+        <caption>Depiction of apparent horizon from an aircraft.</caption></figure>
+        <para id="id1168919888906">3. The braking distance (<emphasis effect="italics">d</emphasis>: measured in feet) for a car travelling at a velocity = <emphasis effect="italics">v</emphasis> miles/hour with good tires and well maintained brakes, on dry pavement can be calculated by the formula, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>d</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mi>v</m:mi><m:mi/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>20</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d= {  {v` \( v+"20" \) }  over  {"20"} } } {}</m:annotation></m:semantics></m:math>. If a child runs into the street 100 feet in front of your car and you react immediately, what is the maximum speed that you could be driving and still stop without hitting the child?</para>
+        <para id="id4690260">4. An industrial engineer using supply chain management techniques, estimates that the hourly cost (C measured in dollars/hr) of producing <emphasis effect="italics">n</emphasis> sub-assemblies for a robotic application by the formula, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:mi/><m:mrow><m:msup><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mtext>50</m:mtext></m:mrow><m:mi/><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C=2`n rSup { size 8{2} } +"50"`n - "30"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1168920239761">How many subassemblies can be produced when <emphasis effect="italics">C</emphasis> = $270/hr?</para>
+        <para id="id1168906247672">5. The <emphasis>Little Old Lady from Pasadena</emphasis> is a very cautious driver who is on her way to the grocery store. The speedometer on her car registers an initial velocity of of 25 miles/hr. She presses on her accelerator to produce a constant acceleration of 3,600 miles/hr<sup>2</sup>. Assuming that she is 10 miles from her final destination when she begins to accelerate, how long will it for her to reach the grocery store?</para>
+        <para id="id6676462">6. A mortar shell is launched at time, <emphasis effect="italics">t</emphasis> = 0, with an initial velocity of 10,000 m/s. When will the shell hit the Earth?</para>
+        <para id="id1168918216706">7. Sketch the height of the mortar shell presented in exercise 6 as a function of time.</para>
+        <para id="id1168915729144">8. A mortar shell is launched from a bluff overlooking a battlefield. The height of the bluff is 250 m above the target of the shell. Assuming that the initial velocity of the shell is 5,000 m/s, how long will it take for the shell to travel to its target?</para>
+        <para id="id8873328">9. The expected profit from the manufacturing of a particular item is governed by a quadratic equation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mo stretchy="false">(</m:mo><m:mi>n</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:msup><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>120</m:mtext></m:mrow></m:mrow><m:mi/><m:mi>n</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P \( n \) = - n rSup { size 8{2} } +"120"`n} {}</m:annotation></m:semantics></m:math>. In the equation, <emphasis effect="italics">n</emphasis> represents the number of items manufactured. Sketch the curve of <emphasis effect="italics">P</emphasis>(<emphasis effect="italics">n</emphasis>).</para>
+        <para id="id1168919095339">10. Using the information given in exercise 9, what is the value of the number of items that should be manufactured to produce the maximum amount of profit? </para>
+      </section>
+    </section>
+  </content>
+</document>
