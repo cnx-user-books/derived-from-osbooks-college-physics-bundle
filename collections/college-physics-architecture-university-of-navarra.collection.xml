@@ -1,0 +1,196 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11554</md:content-id>
+    <md:title>College Physics. Architecture. University of Navarra.</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>2854f773-e069-467f-8639-9f7ca017a3a3</md:uuid>
+<md:slug>college-physics-architecture-university-of-navarra</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m42955"/>
+    <col:subcollection>
+      <md:title>Previous concepts</md:title>
+      <col:content>
+        <col:module document="m42119"/>
+        <col:module document="m42092"/>
+        <col:module document="m42091"/>
+        <col:module document="m42120"/>
+        <col:module document="m42121"/>
+        <col:module document="m42124"/>
+        <col:module document="m42130"/>
+        <col:module document="m42073"/>
+        <col:module document="m42074"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work, Energy, and Energy Resources</md:title>
+      <col:content>
+        <col:module document="m42145"/>
+        <col:module document="m42146"/>
+        <col:module document="m42147"/>
+        <col:module document="m42148"/>
+        <col:module document="m42149"/>
+        <col:module document="m42150"/>
+        <col:module document="m42151"/>
+        <col:module document="m42152"/>
+        <col:module document="m42153"/>
+        <col:module document="m42154"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fluid Statics and Dynamics</md:title>
+      <col:content>
+        <col:module document="m42185"/>
+        <col:module document="m42186"/>
+        <col:module document="m42187"/>
+        <col:module document="m42189"/>
+        <col:module document="m42192"/>
+        <col:module document="m42193"/>
+        <col:module document="m42195"/>
+        <col:module document="m42196"/>
+        <col:module document="m42205"/>
+        <col:module document="m42206"/>
+        <col:module document="m42208"/>
+        <col:module document="m42209"/>
+        <col:module document="m42210"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physics of Hearing</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Oscillatory Motion and Waves</md:title>
+          <col:content>
+            <col:module document="m42239"/>
+            <col:module document="m42241"/>
+            <col:module document="m42242"/>
+            <col:module document="m42244"/>
+            <col:module document="m42246"/>
+            <col:module document="m42247"/>
+            <col:module document="m42248"/>
+            <col:module document="m42249"/>
+            <col:module document="m42250"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m42254"/>
+        <col:module document="m42255"/>
+        <col:module document="m42256"/>
+        <col:module document="m42257"/>
+        <col:module document="m42296"/>
+        <col:module document="m42297"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Temperature, Heat and Heat Transfer Methods</md:title>
+      <col:content>
+        <col:module document="m42213"/>
+        <col:module document="m42221"/>
+        <col:module document="m42214"/>
+        <col:module document="m42223"/>
+        <col:module document="m42224"/>
+        <col:module document="m42225"/>
+        <col:module document="m42226"/>
+        <col:module document="m42228"/>
+        <col:module document="m42229"/>
+        <col:module document="m42230"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Thermal Properties of Matter. Humidity</md:title>
+      <col:content>
+        <col:module document="m42215"/>
+        <col:module document="m42216"/>
+        <col:module document="m42217"/>
+        <col:module document="m42218"/>
+        <col:module document="m42219"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Current, Resistance, Ohm's Law and DC Circuits</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Electric Charge and Electric Field</md:title>
+          <col:content>
+            <col:module document="m42299"/>
+            <col:module document="m42300"/>
+            <col:module document="m42306"/>
+            <col:module document="m42308"/>
+            <col:module document="m42310"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Electric Potential and Electric Field</md:title>
+          <col:content>
+            <col:module document="m42320"/>
+            <col:module document="m42324"/>
+            <col:module document="m42326"/>
+            <col:module document="m42328"/>
+            <col:module document="m42331"/>
+            <col:module document="m42333"/>
+            <col:module document="m42336"/>
+            <col:module document="m42395"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m42339"/>
+        <col:module document="m42341"/>
+        <col:module document="m42344"/>
+        <col:module document="m42346"/>
+        <col:module document="m42714"/>
+        <col:module document="m42348"/>
+        <col:module document="m42356"/>
+        <col:module document="m42357"/>
+        <col:module document="m42359"/>
+        <col:module document="m42360"/>
+        <col:module document="m42362"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electromagnetic Induction, AC Circuits, and Electrical Technologies</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Magnetism</md:title>
+          <col:content>
+            <col:module document="m42365"/>
+            <col:module document="m42366"/>
+            <col:module document="m42368"/>
+            <col:module document="m42370"/>
+            <col:module document="m42372"/>
+            <col:module document="m42375"/>
+            <col:module document="m42398"/>
+            <col:module document="m42382"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m42389"/>
+        <col:module document="m42390"/>
+        <col:module document="m42392"/>
+        <col:module document="m42408"/>
+        <col:module document="m42411"/>
+        <col:module document="m42414"/>
+        <col:module document="m42416"/>
+        <col:module document="m42420"/>
+        <col:module document="m42425"/>
+        <col:module document="m42427"/>
+        <col:module document="m42431"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Light and Geometric Optics</md:title>
+      <col:content>
+        <col:module document="m42449"/>
+        <col:module document="m42444"/>
+        <col:module document="m42446"/>
+        <col:module document="m42452"/>
+        <col:module document="m42456"/>
+        <col:module document="m42459"/>
+        <col:module document="m42474"/>
+        <col:module document="m42482"/>
+        <col:module document="m42487"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m42699"/>
+    <col:module document="m42702"/>
+    <col:module document="m42720"/>
+    <col:module document="m42709"/>
+  </col:content>
+</col:collection>
