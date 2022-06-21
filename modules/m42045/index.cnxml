@@ -244,7 +244,7 @@
         <image mime-type="image/jpg" src="../../media/Figure_03_05_09a.jpg" width="400"/>
       </media>
     
-    <caption>A boat attempts to travel straight across a river at a speed 0.75 m/s. The current in the river, however, flows at a speed of 1.20 m/s to the right. What is the total displacement of the boat relative to the shore?</caption></figure><para id="import-auto-id1968601">Refer to <link target-id="import-auto-id2070798"/>, which shows a boat trying to go straight across the river. Let us calculate the magnitude and direction of the boat’s velocity relative to an observer on the shore, <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mtext mathvariant="bold">v</m:mtext><m:mrow><m:mtext>tot</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{"tot"} } } {}</m:annotation></m:semantics></m:math>. The velocity of the boat, <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mtext mathvariant="bold">v</m:mtext><m:mrow><m:mtext>boat</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{"boat"} } } {}</m:annotation></m:semantics></m:math>, is 0.75 m/s in the <m:math>
+    <caption>A boat attempts to travel straight across a river at a speed 0.75 m/s. The current in the river, however, flows at a speed of 1.20 m/s to the right.</caption></figure><para id="import-auto-id1968601">Refer to <link target-id="import-auto-id2070798"/>, which shows a boat trying to go straight across the river. Let us calculate the magnitude and direction of the boat’s velocity relative to an observer on the shore, <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mtext mathvariant="bold">v</m:mtext><m:mrow><m:mtext>tot</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{"tot"} } } {}</m:annotation></m:semantics></m:math>. The velocity of the boat, <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mtext mathvariant="bold">v</m:mtext><m:mrow><m:mtext>boat</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v rSub { size 8{"boat"} } } {}</m:annotation></m:semantics></m:math>, is 0.75 m/s in the <m:math>
         <m:semantics>
           <m:mrow>
             <m:mrow>
@@ -1112,14 +1112,8 @@ and
 </section>
 <note id="eip-584"><label/><title>PhET Explorations: Motion in 2D</title>
 
-<para id="eip-id1169738139034">Try the new "Motion in 2D" simulation for the latest updated version. Learn about position, velocity, and acceleration vectors. Move the ball with the mouse or let the simulation move the ball in four types of motion (2 types of linear, simple harmonic, circle).</para><figure id="eip-id3126032"><media id="Phet_module_3.5" alt="">
-
-  <image mime-type="image/png" for="online" src="../../media/motion-2d_en.jar" thumbnail="PhET_Icon.png" width="450"/>
-  <image mime-type="image/png" for="pdf" src="../../media/PhET_Icon.png" width="450"/>
-
-</media>
-
-      <caption><link url="motion-2d_en.jar">Motion in 2D</link></caption></figure></note><section id="fs-id2070835" class="section-summary">
+<para id="eip-id1169738139034">Try the new "Motion in 2D" simulation for the latest updated version. Learn about position, velocity, and acceleration vectors. Move the ball with the mouse or let the simulation move the ball in four types of motion (2 types of linear, simple harmonic, circle). 
+<link url="https://phet.colorado.edu/en/simulation/legacy/motion-2d">Click to open media in new browser.</link></para></note><section id="fs-id2070835" class="section-summary">
     <title>Summary</title>
     <list id="fs-id1922048"><item id="import-auto-id2094922">Velocities in two dimensions are added using the same analytical vector techniques, which are rewritten as
     <equation id="import-auto-id2094926"><m:math>

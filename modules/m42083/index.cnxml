@@ -30,11 +30,11 @@
         <thead>
 
 <row>
-            <entry>Degree Measures</entry>
-            <entry>Radian Measure</entry>
+            <entry align="left">Degree Measures</entry>
+            <entry align="left">Radian Measure</entry>
           </row></thead><tbody><row>
             <entry>
-              <m:math display="block">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -51,8 +51,8 @@
                 </m:semantics>
               </m:math> 
             </entry>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -70,8 +70,8 @@
               </m:math> 
             </entry>
           </row><row>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -88,8 +88,8 @@
                 </m:semantics>
               </m:math> 
             </entry>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -107,8 +107,8 @@
               </m:math> 
             </entry>
           </row><row>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -125,8 +125,8 @@
                 </m:semantics>
               </m:math> 
             </entry>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -144,8 +144,8 @@
               </m:math> 
             </entry>
           </row><row>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -162,8 +162,8 @@
                 </m:semantics>
               </m:math> 
             </entry>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -181,8 +181,8 @@
               </m:math> 
             </entry>
           </row><row>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -199,8 +199,8 @@
                 </m:semantics>
               </m:math> 
             </entry>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -218,8 +218,8 @@
               </m:math> 
             </entry>
           </row><row>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -236,8 +236,8 @@
                 </m:semantics>
               </m:math> 
             </entry>
-            <entry>
-              <m:math display="block">
+            <entry align="left">
+              <m:math>
                 <m:semantics>
                   <m:mrow>
                     
@@ -253,6 +253,9 @@
             </entry>
           </row></tbody>
       
+
+
+
 
 
 
@@ -407,14 +410,10 @@ The radius of the tire is given to be
     <caption>As an object moves in a circle, here a fly on the edge of an old-fashioned vinyl record, its instantaneous velocity is always tangent to the circle. The direction of the angular velocity is clockwise in this case. </caption></figure></section>
      <note id="eip-270"><label/><title>PhET Explorations: Ladybug Revolution</title>
 
- <figure id="eip-id1171550"><media id="Phet_module_7.1" alt="">
-
-  <image mime-type="image/png" for="online" src="../../media/rotation_en.jar" thumbnail="PhET_Icon.png" width="450"/>
-  <image mime-type="image/png" for="pdf" src="../../media/PhET_Icon.png" width="450"/>
-   
-</media>
-
-      <caption><link url="rotation_en.jar">Ladybug Revolution</link></caption></figure><para id="eip-id1169738118030">Join the ladybug in an exploration of rotational motion. Rotate the merry-go-round to change its angle, or choose a constant angular velocity or angular acceleration. Explore how circular motion relates to the bug's x,y position, velocity, and acceleration using vectors or graphs.</para></note><section id="fs-id3399151" class="section-summary"><title>Section Summary</title><list id="fs-id1104163"><item id="import-auto-id2603294">Uniform circular motion is motion in a circle at constant speed. The rotation angle <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δθ} {}</m:annotation></m:semantics></m:math> is defined as the ratio of the arc length to the radius of curvature:
+ <para id="eip-id1169738118030">Join the ladybug in an exploration of rotational motion. Rotate the merry-go-round to change its angle, or choose a constant angular velocity or angular acceleration. Explore how circular motion relates to the bug's x,y position, velocity, and acceleration using vectors or graphs. <newline/>
+<figure id="phet6_1"><media id="Phet_module_6.1" alt="Ladybug Motion">
+<iframe width="660" height="371.4" src="https://archive.cnx.org/specials/317a2b1e-2fbd-11e5-99b5-e38ffb545fe6/ladybug-motion/#sim-ladybug-motion"/>
+</media></figure></para></note><section id="fs-id3399151" class="section-summary"><title>Section Summary</title><list id="fs-id1104163"><item id="import-auto-id2603294">Uniform circular motion is motion in a circle at constant speed. The rotation angle <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δθ} {}</m:annotation></m:semantics></m:math> is defined as the ratio of the arc length to the radius of curvature:
     
     <equation id="eip-213"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">θ</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">s</m:mi></m:mrow><m:mi>r</m:mi></m:mfrac></m:mrow></m:mrow><m:mtext>,</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δθ= {  {Δs}  over  {r} } ","} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id3062885">where arc length <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">s</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δs} {}</m:annotation></m:semantics></m:math> is distance traveled along a circular path and <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> is the radius of curvature of the circular path. The quantity <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δθ} {}</m:annotation></m:semantics></m:math> is measured in units of radians (rad), for which</para><equation id="eip-567"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2π</m:mn><m:mspace width="0.25em"/><m:mrow><m:mtext>rad</m:mtext><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mtext>360º</m:mtext><m:mtext>= </m:mtext><m:mi/><m:mn>1</m:mn><m:mi/><m:mtext> revolution.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2π`"rad"=`"360""°="`1`"revolution."} {}</m:annotation></m:semantics></m:math></equation> 
     </item>

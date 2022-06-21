@@ -86,9 +86,7 @@ where <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mn>0
       <exercise id="fs-id2823990" type="problems-exercises"><problem id="fs-id2804044">      <para id="import-auto-id1703980">Find the following for path B in <link target-id="import-auto-id2076702"/>: (a) The distance traveled. (b) The magnitude of the displacement from start to finish. (c) The displacement from start to finish.</para></problem></exercise>
       <exercise id="fs-id4292134" type="problems-exercises"><problem id="fs-id2811336">      <para id="import-auto-id4358788">Find the following for path C in <link target-id="import-auto-id2076702"/>: (a) The distance traveled. (b) The magnitude of the displacement from start to finish. (c) The displacement from start to finish.</para></problem>
 <solution id="fs-id2791412">
-      <para xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id2714801" fo:font-weight="normal">(a) 13 m</para>
-      <para xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id3149061" fo:font-weight="normal">(b) 9 m</para>
-      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2572623">(c) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>9 m</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+9`m} {}</m:annotation></m:semantics></m:math></para></solution>
+      <para xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id2714801" fo:font-weight="normal">a) 8m + 2 m + 3 m = 12 m; b) 8 m; c) Δx = 11 m – 2 m = +9 m</para></solution>
       </exercise>
       <exercise id="fs-id3242594" type="problems-exercises"><problem id="fs-id1470371">      <para id="import-auto-id2811759">Find the following for path D in <link target-id="import-auto-id2076702"/>: (a) The distance traveled. (b) The magnitude of the displacement from start to finish. (c) The displacement from start to finish.</para></problem></exercise>
       </section>

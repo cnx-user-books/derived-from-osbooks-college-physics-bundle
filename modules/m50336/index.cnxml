@@ -1,0 +1,903 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Error Measurments: Standard deviation and variance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50336</md:content-id>
+  <md:title>Error Measurments: Standard deviation and variance</md:title>
+  <md:abstract/>
+  <md:uuid>8168a656-cdc2-471f-bd74-16caa8c35ecf</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id162366">Whenever scientists want to experimentally prove a theory, they must take multiple measurements of the the results of the experiment. These results, may not always be exactly the same because of limitations in the instruments, errors by the experimenter, or environmental factors not originally considered in the experiment. To determine if the data is accurate and/or precise calculations must be made. This section will introduce you to these calculations. </para></section>
+    <section id="cid3">
+      <title>Standard Deviation and Variance</title>
+      <para id="id162726">The measures of central tendency (mean, median and mode) and measures of dispersion (quartiles, percentiles, ranges) provide information on the data values at the centre of the data set and provide information on the spread of the data. The information on the spread of the data is however based on data values at specific points in the data set, e.g. the end points for range and data points that divide the data set into 4 equal groups for the quartiles. The behaviour of the entire data set is therefore not examined.</para>
+      <para id="id162733">A method of determining the spread of data is by calculating a measure of the possible distances between the data and the mean. The two important measures that are used are called the <emphasis effect="italics">variance</emphasis> and the <emphasis effect="italics">standard deviation</emphasis> of the data set.</para>
+      <section id="uid1">
+        <title>Variance</title>
+        <para id="id162757">The variance of a data set is the average squared distance between the mean of the data set and each data value. An example of what this means is shown in <link target-id="id162857"/>. The graph represents the results of 100 tosses of a fair coin, which resulted in 45 heads and 55 tails. The mean of the results is 50. The squared distance between the heads value and the mean is <m:math overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mn>45</m:mn><m:mo>-</m:mo><m:mn>50</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>25</m:mn></m:mrow></m:math> and the squared distance between the tails value and the mean is <m:math overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mn>55</m:mn><m:mo>-</m:mo><m:mn>50</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>25</m:mn></m:mrow></m:math>. The average of these two squared distances gives the variance, which is <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>25</m:mn><m:mo>+</m:mo><m:mn>25</m:mn><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>25</m:mn></m:mrow></m:math>.</para>
+        <para id="id162854">
+          <figure id="id162857">
+            <media id="id162857_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C18_001.png" id="id162857_onlineimage" width="168"><!-- NOTE: attribute width changes image size online (pixels). original width is 168. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_001.eps" id="id162857_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <section id="uid2">
+          <title>Population Variance</title>
+          <para id="id162872">Let the population consist of <m:math overflow="scroll"><m:mi>n</m:mi></m:math> elements <m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mo>...</m:mo><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mi>n</m:mi></m:msub><m:mo>}</m:mo></m:mrow></m:math>, with mean <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math> (read as "x bar"). The variance of the population, denoted by <m:math overflow="scroll"><m:msup><m:mi>σ</m:mi><m:mn>2</m:mn></m:msup></m:math>, is the average of the square of the distance of each data value from the mean value.</para>
+          <equation id="uid3">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msup>
+                  <m:mi>σ</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>∑</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mover accent="true">
+                          <m:mi>x</m:mi>
+                          <m:mo>¯</m:mo>
+                        </m:mover>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mi>n</m:mi>
+                </m:mfrac>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id163015">Since the population variance is squared, it is not directly comparable with the mean and the data themselves.</para>
+        </section>
+        <section id="uid4">
+          <title>Sample Variance</title>
+          <para id="id163028">Let the sample consist of the <m:math overflow="scroll"><m:mi>n</m:mi></m:math> elements <m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mo>...</m:mo><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mi>n</m:mi></m:msub><m:mo>}</m:mo></m:mrow></m:math>, taken from the population, with mean <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>. The variance of the sample, denoted by <m:math overflow="scroll"><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup></m:math>, is the average of the squared deviations from the sample mean:</para>
+          <equation id="uid5">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msup>
+                  <m:mi>s</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>∑</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mover accent="true">
+                          <m:mi>x</m:mi>
+                          <m:mo>¯</m:mo>
+                        </m:mover>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>n</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id163170">Since the sample variance is squared, it is also not directly comparable with the mean and the data themselves.</para>
+          <para id="id163174">A common question at this point is "Why is the numerator squared?" One answer is: to get rid of the negative signs. Numbers are going to fall above and below the mean and, since the variance is looking for distance, it would be counterproductive if those distances factored each other out.</para>
+        </section>
+        <section id="uid6">
+          <title>Difference between Population Variance and Sample Variance</title>
+          <para id="id163190">As seen a distinction is made between the variance, <m:math overflow="scroll"><m:msup><m:mi>σ</m:mi><m:mn>2</m:mn></m:msup></m:math>, of a whole population and the variance, <m:math overflow="scroll"><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup></m:math> of a sample extracted from the population.</para>
+          <para id="id163221">When dealing with the complete population the (population) variance is a constant, a parameter which helps to describe the population. When dealing with a sample from the population the (sample) variance varies from sample to sample. Its value is only of interest as an estimate for the population variance.</para>
+        </section>
+        <section id="uid7">
+          <title>Properties of Variance</title>
+          <para id="id163237">The variance is never negative because the squares are always positive or zero. The unit of variance is the square of the unit of observation. For example, the variance of a set of heights measured in centimeters will be given in square centimeters. This fact is inconvenient and has motivated many statisticians to instead use the square root of the variance, known as the standard deviation, as a summary of dispersion.</para>
+        </section>
+      </section>
+      <section id="uid8">
+        <title>Standard Deviation</title>
+        <para id="id163256">Since the variance is a squared quantity, it cannot be directly compared to the data values or the mean value of a data set. It is therefore more useful to have a quantity which is the square root of the variance. This quantity is known as the standard deviation.</para>
+        <para id="id163262">In statistics, the standard deviation is the most common measure of statistical dispersion. Standard deviation measures how spread out the values in a data set are. More precisely, it is a measure of the average distance between the values of the data in the set and the mean. If the data values are all similar, then the standard deviation will be low (closer to zero). If the data values are highly variable, then the standard variation is high (further from zero).</para>
+        <para id="id163269">The standard deviation is always a positive number and is always measured in the same units as the original data. For example, if the data are distance measurements in metres, the standard deviation will also be measured in metres.</para>
+        <section id="uid9">
+          <title>Population Standard Deviation</title>
+          <para id="id163282">Let the population consist of <m:math overflow="scroll"><m:mi>n</m:mi></m:math> elements <m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mo>...</m:mo><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mi>n</m:mi></m:msub><m:mo>}</m:mo></m:mrow></m:math>, with mean <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>. The standard deviation of the population, denoted by <m:math overflow="scroll"><m:mi>σ</m:mi></m:math>, is the square root of the average of the square of the distance of each data value from the mean value.</para>
+          <equation id="uid10">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>σ</m:mi>
+                <m:mo>=</m:mo>
+                <m:msqrt>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo>∑</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mi>x</m:mi>
+                          <m:mo>-</m:mo>
+                          <m:mover accent="true">
+                            <m:mi>x</m:mi>
+                            <m:mo>¯</m:mo>
+                          </m:mover>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mi>n</m:mi>
+                  </m:mfrac>
+                </m:msqrt>
+              </m:mrow>
+            </m:math>
+          </equation>
+        </section>
+        <section id="uid11">
+          <title>Sample Standard Deviation</title>
+          <para id="id163417">Let the sample consist of <m:math overflow="scroll"><m:mi>n</m:mi></m:math> elements <m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mo>...</m:mo><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mi>n</m:mi></m:msub><m:mo>}</m:mo></m:mrow></m:math>, taken from the population, with mean <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>. The standard deviation of the sample, denoted by <m:math overflow="scroll"><m:mi>s</m:mi></m:math>, is the square root of the average of the squared deviations from the sample mean:</para>
+          <equation id="uid12">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>s</m:mi>
+                <m:mo>=</m:mo>
+                <m:msqrt>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo>∑</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mi>x</m:mi>
+                          <m:mo>-</m:mo>
+                          <m:mover accent="true">
+                            <m:mi>x</m:mi>
+                            <m:mo>¯</m:mo>
+                          </m:mover>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>n</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:msqrt>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id163727">It is often useful to set your data out in a table so that you can apply the formulae easily. For example to calculate the standard deviation of <m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:mn>57</m:mn><m:mo>;</m:mo><m:mn>53</m:mn><m:mo>;</m:mo><m:mn>58</m:mn><m:mo>;</m:mo><m:mn>65</m:mn><m:mo>;</m:mo><m:mn>48</m:mn><m:mo>;</m:mo><m:mn>50</m:mn><m:mo>;</m:mo><m:mn>66</m:mn><m:mo>;</m:mo><m:mn>51</m:mn><m:mo>}</m:mo></m:mrow></m:math>, you could set it out in the following way:</para>
+          <equation id="id163775"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mover accent="true">
+                      <m:mi>x</m:mi>
+                      <m:mo>¯</m:mo>
+                    </m:mover>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>sum of items</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>number of items</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>448</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mn>56</m:mn>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id163877"><emphasis effect="bold">Note:</emphasis> To get the deviations, subtract each number from the mean.</para>
+          <table id="id163887" summary="">
+            <tgroup cols="3">
+              <tbody>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">
+                      <m:math overflow="scroll">
+                        <m:mover accent="true">
+                          <m:mi>X</m:mi>
+                          <m:mo>¯</m:mo>
+                        </m:mover>
+                      </m:math>
+                    </emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Deviation <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>X</m:mi><m:mo>-</m:mo><m:mover accent="true"><m:mi>X</m:mi><m:mo>¯</m:mo></m:mover><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Deviation squared <m:math overflow="scroll"><m:msup><m:mrow><m:mo>(</m:mo><m:mi>X</m:mi><m:mo>-</m:mo><m:mover accent="true"><m:mi>X</m:mi><m:mo>¯</m:mo></m:mover><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math></emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>57</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>53</entry>
+                  <entry>-3</entry>
+                  <entry>9</entry>
+                </row>
+                <row>
+                  <entry>58</entry>
+                  <entry>2</entry>
+                  <entry>4</entry>
+                </row>
+                <row>
+                  <entry>65</entry>
+                  <entry>9</entry>
+                  <entry>81</entry>
+                </row>
+                <row>
+                  <entry>48</entry>
+                  <entry>-8</entry>
+                  <entry>64</entry>
+                </row>
+                <row>
+                  <entry>50</entry>
+                  <entry>-6</entry>
+                  <entry>36</entry>
+                </row>
+                <row>
+                  <entry>66</entry>
+                  <entry>10</entry>
+                  <entry>100</entry>
+                </row>
+                <row>
+                  <entry>51</entry>
+                  <entry>-5</entry>
+                  <entry>25</entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>X</m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mn>448</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mi>X</m:mi>
+                            <m:mo>-</m:mo>
+                            <m:mover accent="true">
+                              <m:mi>X</m:mi>
+                              <m:mo>¯</m:mo>
+                            </m:mover>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>=</m:mo>
+                        <m:mn>320</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          <para id="id164283"><emphasis effect="bold">Note:</emphasis> The sum of the deviations of scores about their mean is zero. This always happens; that is <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>X</m:mi><m:mo>-</m:mo><m:mover accent="true"><m:mi>X</m:mi><m:mo>¯</m:mo></m:mover><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, for any set of data. Why is this? Find out.</para>
+          <para id="id164320">Calculate the variance (add the squared results together and divide this total by the number of items).</para>
+          <equation id="id164326">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi mathvariant="bold">Variance</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mi>X</m:mi>
+                            <m:mo>-</m:mo>
+                            <m:mover accent="true">
+                              <m:mi>X</m:mi>
+                              <m:mo>¯</m:mo>
+                            </m:mover>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>320</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mn>40</m:mn>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <equation id="id164409"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi mathvariant="bold">Standard deviation</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mi> variance </m:mi>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mo>∑</m:mo>
+                          <m:msup>
+                            <m:mrow>
+                              <m:mo>(</m:mo>
+                              <m:mi>X</m:mi>
+                              <m:mo>-</m:mo>
+                              <m:mover accent="true">
+                                <m:mi>X</m:mi>
+                                <m:mo>¯</m:mo>
+                              </m:mover>
+                              <m:mo>)</m:mo>
+                            </m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:msup>
+                        </m:mrow>
+                        <m:mi>n</m:mi>
+                      </m:mfrac>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mfrac>
+                        <m:mn>320</m:mn>
+                        <m:mn>8</m:mn>
+                      </m:mfrac>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mn>40</m:mn>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>32</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+        </section>
+        <section id="uid13">
+          <title>Difference between Population Variance and Sample Variance</title>
+          <para id="id164542">As with variance, there is a distinction between the standard deviation, <m:math overflow="scroll"><m:mi>σ</m:mi></m:math>, of a whole population and the standard deviation, <m:math overflow="scroll"><m:mi>s</m:mi></m:math>, of sample extracted from the population.</para>
+          <para id="id164565">When dealing with the complete population the (population) standard deviation is a constant, a parameter which helps to describe the population. When dealing with a sample from the population the (sample) standard deviation varies from sample to sample.</para>
+          <para id="id164571">
+            <emphasis effect="bold">In other words, the standard deviation can be calculated as follows:</emphasis>
+          </para>
+          <list id="id164580" display="block" list-type="enumerated">
+            <item id="uid14">Calculate the mean value <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>.
+</item>
+            <item id="uid15">For each data value <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>i</m:mi></m:msub></m:math> calculate the difference <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mi>i</m:mi></m:msub><m:mo>-</m:mo><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:mrow></m:math> between <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>i</m:mi></m:msub></m:math> and the mean value <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>.
+</item>
+            <item id="uid16">Calculate the squares of these differences.
+</item>
+            <item id="uid17">Find the average of the squared differences. This quantity is the variance, <m:math overflow="scroll"><m:msup><m:mi>σ</m:mi><m:mn>2</m:mn></m:msup></m:math>.
+</item>
+            <item id="uid18">Take the square root of the variance to obtain the standard deviation, <m:math overflow="scroll"><m:mi>σ</m:mi></m:math>.
+</item>
+          </list>
+<para id="eip-479"><figure id="statistics-2" class="khanacademy">
+	  <title>Khan academy video on standard deviation</title>
+	  <media id="yt-media2" display="block" alt="video on statistics 2">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/HvDqbzu0i0E&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id572"><title> Variance and Standard Deviation </title>
+          <problem id="probfhsst_id573">
+          <para id="id164768">What is the variance and standard deviation of the population of possibilities associated with rolling a fair die? </para>
+          </problem>
+          <solution id="solfhsst_id576"> <list id="listfhsst_id576" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Determine how many outcomes make up the population </label>
+          <para id="id164792">When rolling a fair die, the population consists of 6 possible outcomes. The data set is therefore <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>{</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>}</m:mo></m:mrow></m:math>. and n=6.</para>
+          </item> <item> <label> Calculate the population mean </label>
+          <para id="id164841">The population mean is calculated by:</para>
+          <equation id="id164844">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mover accent="true">
+                      <m:mi>x</m:mi>
+                      <m:mo>¯</m:mo>
+                    </m:mover>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>6</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Calculate the population variance </label>
+          <para id="id164932">The population variance is calculated by:</para>
+          <equation id="id164936">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msup>
+                      <m:mi>σ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mi>x</m:mi>
+                            <m:mo>-</m:mo>
+                            <m:mover accent="true">
+                              <m:mi>x</m:mi>
+                              <m:mo>¯</m:mo>
+                            </m:mover>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>6</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>6</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>917</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Alternately the population variance is calculated by: </label>
+          <table id="id165089" summary="">
+            <tgroup cols="3">
+              <tbody>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mover accent="true">
+                        <m:mi>X</m:mi>
+                        <m:mo>¯</m:mo>
+                      </m:mover>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>X</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mover accent="true">
+                          <m:mi>X</m:mi>
+                          <m:mo>¯</m:mo>
+                        </m:mover>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mi>X</m:mi>
+                          <m:mo>-</m:mo>
+                          <m:mover accent="true">
+                            <m:mi>X</m:mi>
+                            <m:mo>¯</m:mo>
+                          </m:mover>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>-2.5</entry>
+                  <entry>6.25</entry>
+                </row>
+                <row>
+                  <entry>2</entry>
+                  <entry>-1.5</entry>
+                  <entry>2.25</entry>
+                </row>
+                <row>
+                  <entry>3</entry>
+                  <entry>-0.5</entry>
+                  <entry>0.25</entry>
+                </row>
+                <row>
+                  <entry>4</entry>
+                  <entry>0.5</entry>
+                  <entry>0.25</entry>
+                </row>
+                <row>
+                  <entry>5</entry>
+                  <entry>1.5</entry>
+                  <entry>2.25</entry>
+                </row>
+                <row>
+                  <entry>6</entry>
+                  <entry>2.5</entry>
+                  <entry>6.25</entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>X</m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mn>21</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mi>X</m:mi>
+                            <m:mo>-</m:mo>
+                            <m:mover accent="true">
+                              <m:mi>X</m:mi>
+                              <m:mo>¯</m:mo>
+                            </m:mover>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>=</m:mo>
+                        <m:mn>17</m:mn>
+                        <m:mo>.</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          </item> <item> <label> Calculate the standard deviation </label>
+          <para id="id165457">The (population) standard deviation is calculated by:</para>
+          <equation id="id165461">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>σ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>917</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>708</m:mn>
+                      <m:mo>.</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id165513">Notice how this standard deviation is somewhere in between the possible deviations. </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+      </section>
+      <section id="uid19">
+        <title>Interpretation and Application</title>
+        <para id="id165541">A large standard deviation indicates that the data values are far from the mean and a small standard deviation indicates that they are clustered closely around the mean.</para>
+        <para id="id165546">For example, each of the three samples (0, 0, 14, 14), (0, 6, 8, 14), and (6, 6, 8, 8) has a mean of 7. Their standard deviations are 8.08, 5.77 and 1.15, respectively. The third set has a much smaller standard deviation than the other two because its values are all close to 7. The value of the standard deviation can be considered `large' or `small' only in relation to the sample that is being measured. In this case, a standard deviation of 7 may be considered large. Given a different sample, a standard deviation of 7 might be considered small.</para>
+        <para id="id165559">Standard deviation may be thought of as a measure of uncertainty. In physical science for example, the reported standard deviation of a group of repeated measurements should give the precision of those measurements. When deciding whether measurements agree with a theoretical prediction, the standard deviation of those measurements is of crucial importance: if the mean of the measurements is too far away from the prediction (with the distance measured in standard deviations), then we consider the measurements as contradicting the prediction. This makes sense since they fall outside the range of values that could reasonably be expected to occur if the prediction were correct and the standard deviation appropriately quantified. (See prediction interval.)</para>
+      </section>
+      <section id="uid20">
+        <title>Relationship between Standard Deviation and the Mean</title>
+        <para id="id165578">The mean and the standard deviation of a set of data are usually reported together. In a certain sense, the standard deviation is a “natural” measure of statistical dispersion if the center of the data is measured about the mean.</para>
+<section id="secfhsst_id906"><title> Means and standard deviations </title>
+        <list id="id165593" display="block" list-type="enumerated">
+          <item id="uid21">Bridget surveyed the price of petrol at petrol stations in Cape Town and Durban. The raw data, in rands per litre, are given below:
+<table id="id165609" summary="table of petrol prices in cape town and durban">
+<tgroup cols="7"><tbody><row><entry>Cape Town</entry><entry>8,96</entry><entry>8,76</entry><entry>9,00</entry><entry>8,91</entry><entry>8,69</entry><entry>8,72</entry></row><row><entry>Durban</entry><entry>8,97</entry><entry>8,81</entry><entry>8,52</entry><entry>9,08</entry><entry>8,88</entry><entry>8,68</entry></row></tbody>
+</tgroup>
+</table><list id="id165700" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid22">Find the mean price in each city and then state which city has the lowest mean.
+</item><item id="uid23">Assuming that the data is a population find the standard deviation of each city's prices.
+</item><item id="uid24">Assuming the data is a sample find the standard deviation of each city's prices.
+</item><item id="uid25">Giving reasons which city has the more consistently priced petrol?
+</item></list></item>
+          <item id="uid26">The following data represents the pocket money of a sample of teenagers.
+150; 300; 250; 270; 130; 80; 700; 500; 200; 220; 110; 320; 420; 140.
+What is the standard deviation?
+</item>
+          <item id="uid27">Consider a set of data that gives the weights of 50 cats at a cat show.
+<list id="id165792" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid28">When is the data seen as a population?
+</item><item id="uid29">When is the data seen as a sample?
+</item></list></item>
+          <item id="uid30">Consider a set of data that gives the results of 20 pupils in a class.
+<list id="id165833" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid31">When is the data seen as a population?
+</item><item id="uid32">When is the data seen as a sample?
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

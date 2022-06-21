@@ -1,0 +1,2050 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Scientific Notation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50378</md:content-id>
+  <md:title>Scientific Notation</md:title>
+  <md:abstract>This module is from Elementary Algebra by Denny Burzynski and Wade Ellis, Jr.
+The basic operations with real numbers are presented in this chapter. The concept of absolute value is discussed both geometrically and symbolically. The geometric presentation offers a visual understanding of the meaning of |x|. The symbolic presentation includes a literal explanation of how to use the definition. Negative exponents are developed, using reciprocals and the rules of exponents the student has already learned. Scientific notation is also included, using unique and real-life examples.
+Objectives of this module: be able to convert a number from standard form to scientific form and from scientific form to standard form, be able to work with numbers in scientific notation.</md:abstract>
+  <md:uuid>d302dbe2-7bc5-463d-82e9-8a202e21252b</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-249"><title>Overview</title><list id="eip-87"><item>Standard Form to Scientific Form</item>
+	<item>Scientific Form to Standard Form</item>
+	<item>Working with Numbers in Scientific Notation </item></list></section><section id="eip-999"><title>Standard Form to Scientific Form </title><para id="eip-766">Very large numbers such as 43,000,000,000,000,000,000 (the number of different possible configurations of Rubik’s cube) and very small numbers such as <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mn>0.000000000000000000000340</m:mn>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> (the mass of the amino acid tryptophan) are extremely inconvenient to write and read. Such numbers can be expressed more conveniently by writing them as part of a power of 10.
+</para><para id="eip-248">To see how this is done, let us start with a somewhat smaller number such as 2480. Notice that </para><para id="eip-577"><m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mtable columnalign="left">
+						<m:mtr columnalign="left">
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:munder>
+										<m:munder>
+											<m:mrow>
+												<m:mn>2480</m:mn>
+											</m:mrow>
+											<m:mo stretchy="true">︸</m:mo>
+										</m:munder>
+										<m:mrow>
+											<m:mtext>Standard</m:mtext><m:mtext> </m:mtext><m:mtext>form</m:mtext>
+										</m:mrow>
+									</m:munder>
+								</m:mrow>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mo>=</m:mo><m:mn>248.0</m:mn><m:mo>×</m:mo><m:msup>
+										<m:mrow>
+											<m:mn>10</m:mn>
+										</m:mrow>
+										<m:mn>1</m:mn>
+									</m:msup>
+								</m:mrow>
+							</m:mtd>
+						</m:mtr>
+						<m:mtr columnalign="left">
+							<m:mtd columnalign="left">
+								<m:mrow/>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mo>=</m:mo><m:mn>24.80</m:mn><m:mo>×</m:mo><m:msup>
+										<m:mrow>
+											<m:mn>10</m:mn>
+										</m:mrow>
+										<m:mn>2</m:mn>
+									</m:msup>
+								</m:mrow>
+							</m:mtd>
+						</m:mtr>
+						<m:mtr columnalign="left">
+							<m:mtd columnalign="left">
+								<m:mrow/>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mo>=</m:mo><m:munder>
+										<m:munder>
+											<m:mrow>
+												<m:mn>2.480</m:mn><m:mo>×</m:mo><m:msup>
+													<m:mrow>
+														<m:mn>10</m:mn>
+													</m:mrow>
+													<m:mn>3</m:mn>
+												</m:msup>
+											</m:mrow>
+											<m:mo stretchy="true">︸</m:mo>
+										</m:munder>
+										<m:mrow>
+											<m:mtext>Scientific</m:mtext><m:mtext> </m:mtext><m:mtext>form</m:mtext>
+										</m:mrow>
+									</m:munder>
+								</m:mrow>
+							</m:mtd>
+						</m:mtr>
+					</m:mtable>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>
+	</para><para id="eip-645"><title>Scientific Form</title>The last form is called the <term>scientific form</term> of the number. There is <emphasis>one</emphasis> nonzero 
+digit to the left of the decimal point and the absolute value of the exponent on 10 
+records the number of places the original decimal point was moved to the <emphasis>left</emphasis>. 
+</para><para id="eip-757"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mtable columnalign="left">
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>0.00059</m:mn>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mfrac>
+        <m:mrow>
+         <m:mn>0.0059</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+       </m:mfrac>
+       
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mfrac>
+        <m:mrow>
+         <m:mn>0.0059</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:msup>
+          <m:mrow>
+           <m:mn>10</m:mn>
+          </m:mrow>
+          <m:mn>1</m:mn>
+         </m:msup>
+         
+        </m:mrow>
+       </m:mfrac>
+       
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>0.0059</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>1</m:mn>
+        </m:mrow>
+       </m:msup>
+       
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow/>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mfrac>
+        <m:mrow>
+         <m:mn>0.059</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mn>100</m:mn>
+        </m:mrow>
+       </m:mfrac>
+       
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mfrac>
+        <m:mrow>
+         <m:mn>0.059</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:msup>
+          <m:mrow>
+           <m:mn>10</m:mn>
+          </m:mrow>
+          <m:mn>2</m:mn>
+         </m:msup>
+         
+        </m:mrow>
+       </m:mfrac>
+       
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>0.059</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>2</m:mn>
+        </m:mrow>
+       </m:msup>
+       
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow/>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mfrac>
+        <m:mrow>
+         <m:mn>0.59</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mn>1000</m:mn>
+        </m:mrow>
+       </m:mfrac>
+       
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mfrac>
+        <m:mrow>
+         <m:mn>0.59</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:msup>
+          <m:mrow>
+           <m:mn>10</m:mn>
+          </m:mrow>
+          <m:mn>3</m:mn>
+         </m:msup>
+         
+        </m:mrow>
+       </m:mfrac>
+       
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>0.59</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>3</m:mn>
+        </m:mrow>
+       </m:msup>
+       
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow/>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mfrac>
+        <m:mrow>
+         <m:mn>5.9</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn>
+        </m:mrow>
+       </m:mfrac>
+       
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mfrac>
+        <m:mrow>
+         <m:mn>5.9</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:msup>
+          <m:mrow>
+           <m:mn>10</m:mn>
+          </m:mrow>
+          <m:mn>4</m:mn>
+         </m:msup>
+         
+        </m:mrow>
+       </m:mfrac>
+       
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>5.9</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>4</m:mn>
+        </m:mrow>
+       </m:msup>
+       
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    
+   </m:mtable>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para><para id="eip-516">There is <emphasis>one</emphasis> nonzero digit to the left of the decimal point and the absolute value of the exponent of 10 records the number of places the original decimal point was moved to the <emphasis>right</emphasis>. </para><para id="eip-125"><title>Scientific Notation</title>Numbers written in scientific form are also said to be written using scientific notation. In <term>scientific notation</term>, a number is written as the product of a number between and including 1 and 10 <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mtext> </m:mtext><m:mtext>is</m:mtext><m:mtext> </m:mtext><m:mtext>included,</m:mtext><m:mn>10</m:mn><m:mtext> </m:mtext><m:mtext>is</m:mtext><m:mtext> </m:mtext><m:mtext>not</m:mtext><m:mo stretchy="false">)</m:mo>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math> and some power of 10. </para><para id="eip-835" class="highlight"><title>Writing a Number in Scientific Notation </title>To write a number in scientific notation: <list id="eip-439" list-type="enumerated" number-style="arabic"><item>Move the decimal point so that there is one nonzero digit to its left. </item>
+	<item>Multiply the result by a power of 10 using an exponent whose absolute value is the number of places the decimal point was moved. Make the exponent positive if the decimal point was moved to the left and negative if the decimal point was moved to the right.</item>
+	</list></para></section><section id="eip-725"><title>Sample Set A </title><para id="eip-992">Write the numbers in scientific notation.</para><example id="eip-474"><para id="eip-901">
+981
+</para><para id="eip-799">The number 981 is actually <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>981.</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>, and it is followed by a decimal point. In integers, the 
+decimal point at the end is usually omitted. 
+</para><para id="eip-916"><m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mn>981</m:mn><m:mo>=</m:mo><m:mn>981.</m:mn><m:mo>=</m:mo><m:mn>9.81</m:mn><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mn>2</m:mn>
+				</m:msup>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>
+</para><para id="eip-790">The decimal point is now two places to the left of its original position, and the power of 10 is 2. </para>
+</example><example id="eip-668"><para id="eip-264">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>54.066</m:mn><m:mo>=</m:mo><m:mn>5.4066</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>1</m:mn>
+   </m:msup>
+   <m:mo>=</m:mo><m:mn>5.4066</m:mn><m:mo>×</m:mo><m:mn>10</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+</para><para id="eip-97">The decimal point is one place to the left of its original 
+position, and the power of 10 is 1. 
+</para>
+</example><example id="eip-247"><para id="eip-33">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mtext/><m:mn>0.000000000004632</m:mn><m:mtext/><m:mo>=</m:mo><m:mtext/><m:mn>4.632</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>12</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+</para><para id="eip-64">The decimal point is twelve places to the right of its 
+original position, and the power of 10 is <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo>−</m:mo><m:mn>12</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>.
+
+</para>
+</example><example id="eip-566"><para id="eip-160">
+  <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.027</m:mn><m:mo>=</m:mo><m:mtext> </m:mtext><m:mn>2.7</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>2</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para><para id="eip-421">The decimal point is two places to the right of its original position, and 
+the power of 10 is <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo>−</m:mo><m:mn>2</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>.
+
+</para>
+</example></section><section id="eip-976"><title>Practice Set A </title><para id="eip-523">Write the following numbers in scientific notation. 
+  </para><exercise id="eip-675"><problem id="eip-110">
+		<para id="eip-230">346 </para>
+	</problem>
+	<solution id="eip-758">
+		<para id="eip-506"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>3.46</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>2</m:mn>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-722"><problem id="eip-38">
+		<para id="eip-839">
+   <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>72.33</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+  </para>
+	</problem>
+	<solution id="eip-373">
+		<para id="eip-261"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>7.233</m:mn><m:mo>×</m:mo><m:mn>10</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-182"><problem id="eip-510">
+		<para id="eip-552">
+ <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>5387.7965</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+  </para>
+	</problem>
+	<solution id="eip-950">
+		<para id="eip-564"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>5.3877965</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>3</m:mn>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-453"><problem id="eip-45">
+		<para id="eip-137">
+87,000,000</para>
+	</problem>
+	<solution id="eip-823">
+		<para id="eip-729"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>8.7</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>7</m:mn>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</solution>
+</exercise><exercise id="eip-449"><problem id="eip-573">
+		<para id="eip-753">
+179,000,000,000,000,000,000 
+  </para>
+	</problem>
+	<solution id="eip-405">
+		<para id="eip-946"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1.79</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>20</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-739"><problem id="eip-294">
+		<para id="eip-177">
+100,000 
+  </para>
+	</problem>
+	<solution id="eip-987">
+		<para id="eip-420"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1.0</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>5</m:mn>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-27"><problem id="eip-225">
+		<para id="eip-833">
+1,000,000 
+  </para>
+	</problem>
+	<solution id="eip-189">
+		<para id="eip-792"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1.0</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>6</m:mn>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-40"><problem id="eip-859">
+		<para id="eip-832">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.0086</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+  </para>
+	</problem>
+	<solution id="eip-826">
+		<para id="eip-561"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>8.6</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>3</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-782"><problem id="eip-819">
+		<para id="eip-644">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.000098001</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-17">
+		<para id="eip-756"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>9.8001</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>5</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-493"><problem id="eip-667">
+		<para id="eip-168">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.000000000000000054</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-589">
+		<para id="eip-971"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>5.4</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>17</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-917"><problem id="eip-383">
+		<para id="eip-22">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.0000001</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-502">
+		<para id="eip-270"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1.0</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>7</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-302"><problem id="eip-672">
+		<para id="eip-407">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.00000001</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+  </para>
+	</problem>
+	<solution id="eip-713">
+		<para id="eip-965"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1.0</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>8</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise></section><section id="eip-119"><title>Scientific Form to Standard Form</title><para id="eip-874">A number written in scientific notation can be converted to standard form by reversing the process shown in Sample Set A.</para><para id="eip-935" class="highlight"><title>Converting from Scientific Notation</title>To convert a number written in scientific notation to a number in standard form, move the decimal point the number of places prescribed by the exponent on the 10.</para><para id="eip-855" class="highlight"><title>Positive Exponent Negative Exponent</title>Move the decimal point to the right when you have a positive exponent, and move the decimal point to the left when you have a negative exponent. </para></section><section id="eip-142"><title>Sample Set B</title><example id="eip-8"><para id="eip-536">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>4.673</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>4</m:mn>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>.
+
+</para><para id="eip-404">The exponent of 10 is 4 so we must move the decimal point to the right 4 places (adding <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0</m:mn><m:mo>'</m:mo><m:mtext>s</m:mtext>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math> if necessary).<newline/></para><para id="eip-208"><media id="C02_S2-7_P76_001" display="block" alt="Number written in scientific notation as 'four point six seven three zero multiplied by ten to the fourth power' is equal to 'forty six thousand seven hundred thirty' in standard form.">
+		<image mime-type="image/png" src="../../media/C02_S2-7_P76_001.png" print-width="1.5in"/></media></para>
+</example><example id="eip-959"><para id="eip-286"><m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mn>2.9</m:mn><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mn>7</m:mn>
+				</m:msup>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>.
+</para><para id="eip-180">The exponent of 10 is 7 so we must move the decimal point to the right 7 places (adding <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0</m:mn><m:mo>'</m:mo><m:mtext>s</m:mtext>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math> if necessary).</para><para id="eip-29"><m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mn>2.9</m:mn><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mn>7</m:mn>
+				</m:msup>
+				<m:mo>=</m:mo><m:mtext>29000000</m:mtext>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>
+</para>
+</example><example id="eip-920"><para id="eip-120"><m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mn>1</m:mn><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mrow>
+						<m:mn>27</m:mn>
+					</m:mrow>
+				</m:msup>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>.
+</para><para id="eip-747">The exponent of 10 is 27 so we must move the decimal point to the right 27 places (adding <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0</m:mn><m:mo>'</m:mo><m:mtext>s</m:mtext>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math> without a doubt). 
+</para><para id="eip-337"><m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mn>1</m:mn><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mrow>
+						<m:mn>27</m:mn>
+					</m:mrow>
+				</m:msup>
+				<m:mo>=</m:mo><m:mtext>1,000,000,000,000,000,000,000,000,000</m:mtext>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>
+</para>
+</example><example id="eip-697"><para id="eip-21">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>4.21</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>5</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>.
+
+</para><para id="eip-374">The exponent of 10 is <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mo>−</m:mo><m:mn>5</m:mn>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> so we must move the decimal point to the left 5 places (adding <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0</m:mn><m:mo>'</m:mo><m:mtext>s</m:mtext>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math> if necessary). 
+
+</para><para id="eip-586"><m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mn>4.21</m:mn><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mrow>
+						<m:mo>−</m:mo><m:mn>5</m:mn>
+					</m:mrow>
+				</m:msup>
+				<m:mo>=</m:mo><m:mtext>0</m:mtext><m:mtext>.0000421</m:mtext>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>
+</para>
+</example><example id="eip-750"><para id="eip-146"><m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mn>1.006</m:mn><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mrow>
+						<m:mo>−</m:mo><m:mn>18</m:mn>
+					</m:mrow>
+				</m:msup>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>.
+</para><para id="eip-711">The exponent of 10 is <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mo>−</m:mo><m:mn>18</m:mn>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> so we must move the decimal point to the left 18 places (adding <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0</m:mn><m:mo>'</m:mo><m:mtext>s</m:mtext>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math> if necessary). 
+
+</para><para id="eip-44"><m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mn>1.006</m:mn><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mrow>
+						<m:mo>−</m:mo><m:mn>18</m:mn>
+					</m:mrow>
+				</m:msup>
+				<m:mo>=</m:mo><m:mn>0.000000000000000001006</m:mn>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>
+</para>
+</example></section><section id="eip-639"><title>Practice Set B</title><para id="eip-621">Convert the following numbers to standard form. </para><exercise id="eip-759"><problem id="eip-361">
+		<para id="eip-605">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>9.25</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>2</m:mn>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-641">
+		<para id="eip-518">925</para>
+	</solution>
+</exercise><exercise id="eip-966"><problem id="eip-292">
+		<para id="eip-3">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>4.01</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>5</m:mn>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-740">
+		<para id="eip-490">401000
+  </para>
+	</solution>
+</exercise><exercise id="eip-915"><problem id="eip-551">
+		<para id="eip-538">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1.2</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>1</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-575">
+		<para id="eip-399"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.12</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</solution>
+</exercise><exercise id="eip-39"><problem id="eip-787">
+		<para id="eip-647">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>8.88</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>5</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-12">
+		<para id="eip-150"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.0000888</m:mn>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise></section><section id="eip-793"><title>Working with Numbers in Scientific Notation </title><para id="eip-393"><title>Multiplying Numbers Using Scientific Notation</title>There are many occasions (particularly in the sciences) when it is necessary to find the product of two numbers written in scientific notation. This is accomplished by using two of the basic rules of algebra. </para><para id="eip-159">Suppose we wish to find <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mi>n</m:mi>
+				</m:msup>
+				<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mi>m</m:mi>
+				</m:msup>
+				<m:mo stretchy="false">)</m:mo>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>. Since the only operation is multiplication, we can use the commutative property of multiplication to rearrange the numbers. 
+</para><para id="eip-768"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mi>n</m:mi>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mi>m</m:mi>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mi>n</m:mi>
+   </m:msup>
+   <m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mi>m</m:mi>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para><para id="eip-334">Then, by the rules of exponents, <m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mi>n</m:mi>
+   </m:msup>
+   <m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mi>m</m:mi>
+   </m:msup>
+   <m:mo>=</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mi>n</m:mi><m:mo>+</m:mo><m:mi>m</m:mi>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>. Thus,
+</para><para id="eip-829"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mi>n</m:mi>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mi>m</m:mi>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mi>n</m:mi><m:mo>+</m:mo><m:mi>m</m:mi>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para><para id="eip-204">The product of <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> may not be between 1 and 10, so <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo><m:mo>×</m:mo><m:msup>
+					<m:mrow>
+						<m:mn>10</m:mn>
+					</m:mrow>
+					<m:mrow>
+						<m:mi>n</m:mi><m:mo>+</m:mo><m:mi>m</m:mi>
+					</m:mrow>
+				</m:msup>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>  may not be in scientific form. The decimal point in <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> may have to be moved. An example of this situation is in Sample Set C, problem 2. 
+
+
+
+</para></section><section id="eip-278"><title>Sample Set C</title><example id="eip-585"><para id="eip-858">
+<m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mtable columnalign="left">
+					<m:mtr columnalign="left">
+						<m:mtd columnalign="left">
+							<m:mrow>
+								<m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup>
+									<m:mrow>
+										<m:mn>10</m:mn>
+									</m:mrow>
+									<m:mn>3</m:mn>
+								</m:msup>
+								<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:msup>
+									<m:mrow>
+										<m:mn>10</m:mn>
+									</m:mrow>
+									<m:mn>8</m:mn>
+								</m:msup>
+								<m:mo stretchy="false">)</m:mo>
+							</m:mrow>
+						</m:mtd>
+						<m:mtd columnalign="left">
+							<m:mrow>
+								<m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup>
+									<m:mrow>
+										<m:mn>10</m:mn>
+									</m:mrow>
+									<m:mn>3</m:mn>
+								</m:msup>
+								<m:mo>×</m:mo><m:msup>
+									<m:mrow>
+										<m:mn>10</m:mn>
+									</m:mrow>
+									<m:mn>8</m:mn>
+								</m:msup>
+								<m:mo stretchy="false">)</m:mo>
+							</m:mrow>
+						</m:mtd>
+					</m:mtr>
+					<m:mtr columnalign="left">
+						<m:mtd columnalign="left">
+							<m:mrow/>
+						</m:mtd>
+						<m:mtd columnalign="left">
+							<m:mrow>
+								<m:mo>=</m:mo><m:mn>8</m:mn><m:mo>×</m:mo><m:msup>
+									<m:mrow>
+										<m:mn>10</m:mn>
+									</m:mrow>
+									<m:mrow>
+										<m:mn>3</m:mn><m:mo>+</m:mo><m:mn>8</m:mn>
+									</m:mrow>
+								</m:msup>
+							</m:mrow>
+						</m:mtd>
+					</m:mtr>
+					<m:mtr columnalign="left">
+						<m:mtd columnalign="left">
+							<m:mrow/>
+						</m:mtd>
+						<m:mtd columnalign="left">
+							<m:mrow>
+								<m:mo>=</m:mo><m:mn>8</m:mn><m:mo>×</m:mo><m:msup>
+									<m:mrow>
+										<m:mn>10</m:mn>
+									</m:mrow>
+									<m:mrow>
+										<m:mn>11</m:mn>
+									</m:mrow>
+								</m:msup>
+							</m:mrow>
+						</m:mtd>
+					</m:mtr>
+				</m:mtable>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>
+
+</para>
+</example><example id="eip-300"><para id="eip-185">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mtable columnalign="left">
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mn>17</m:mn>
+        </m:mrow>
+       </m:msup>
+       <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>8.1</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>22</m:mn>
+        </m:mrow>
+       </m:msup>
+       <m:mo stretchy="false">)</m:mo>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:mn>8.1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mn>17</m:mn>
+        </m:mrow>
+       </m:msup>
+       <m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>22</m:mn>
+        </m:mrow>
+       </m:msup>
+       <m:mo stretchy="false">)</m:mo>
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow/>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mo>=</m:mo><m:mn>40.5</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mn>17</m:mn><m:mo>−</m:mo><m:mn>22</m:mn>
+        </m:mrow>
+       </m:msup>
+       
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow/>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mo>=</m:mo><m:mn>40.5</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>5</m:mn>
+        </m:mrow>
+       </m:msup>
+       
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    
+   </m:mtable>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+</para><para id="eip-562">We need to move the decimal point one place to the <emphasis>left</emphasis> to put this number in scientific notation. </para><para id="eip-831">Thus, we must also change the exponent of 10. </para><para id="eip-980"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mtable columnalign="left">
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>40.5</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>5</m:mn>
+        </m:mrow>
+       </m:msup>
+       
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>4.05</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mn>1</m:mn>
+       </m:msup>
+       <m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>5</m:mn>
+        </m:mrow>
+       </m:msup>
+       
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>4.05</m:mn><m:mo>×</m:mo><m:mo stretchy="false">(</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mn>1</m:mn>
+       </m:msup>
+       <m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>5</m:mn>
+        </m:mrow>
+       </m:msup>
+       <m:mo stretchy="false">)</m:mo>
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>4.05</m:mn><m:mo>×</m:mo><m:mo stretchy="false">(</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mn>1</m:mn><m:mo>−</m:mo><m:mn>5</m:mn>
+        </m:mrow>
+       </m:msup>
+       <m:mo stretchy="false">)</m:mo>
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mn>4.05</m:mn><m:mo>×</m:mo><m:msup>
+        <m:mrow>
+         <m:mn>10</m:mn>
+        </m:mrow>
+        <m:mrow>
+         <m:mo>−</m:mo><m:mn>4</m:mn>
+        </m:mrow>
+       </m:msup>
+       
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    
+   </m:mtable>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para><para id="eip-114">Thus, </para><para id="eip-841"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>17</m:mn>
+    </m:mrow>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>8.1</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>22</m:mn>
+    </m:mrow>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>4.05</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>4</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+</example></section><section id="eip-323"><title>Practice Set C</title><para id="eip-88">Perform each multiplication. </para><exercise id="eip-16"><problem id="eip-296">
+		<para id="eip-151">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>5</m:mn>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>12</m:mn>
+    </m:mrow>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-412">
+		<para id="eip-526"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>6</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>17</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-701"><problem id="eip-614">
+		<para id="eip-480">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>4</m:mn>
+    </m:mrow>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>24</m:mn>
+    </m:mrow>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-147">
+		<para id="eip-343"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>6</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>20</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</solution>
+</exercise><exercise id="eip-262"><problem id="eip-403">
+		<para id="eip-59"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>18</m:mn>
+    </m:mrow>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>6</m:mn>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</problem>
+	<solution id="eip-698">
+		<para id="eip-281"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1.5</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>25</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise><exercise id="eip-435"><problem id="eip-546">
+		<para id="eip-548">
+<m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mo stretchy="false">(</m:mo><m:mn>2.1</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>9</m:mn>
+    </m:mrow>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>11</m:mn>
+    </m:mrow>
+   </m:msup>
+   <m:mo stretchy="false">)</m:mo>
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+
+  </para>
+	</problem>
+	<solution id="eip-123">
+		<para id="eip-582"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>6.3</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>20</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+ <m:annotation encoding="MathType-MTEF">
+ </m:annotation>
+ </m:semantics>
+</m:math>
+</para>
+	</solution>
+</exercise></section>
+<section id="eip-28" class="homework"><title>Exercises</title><para id="eip-354">Convert the numbers used in the following problems to scientific notation. </para><exercise id="eip-776"><problem id="eip-967">			<para id="eip-783">Mount Kilimanjaro is the highest mountain in Africa. It is 5890 meters high.   </para>		
+</problem><solution id="fs-id9062303"><para id="fs-id9062304"><m:math> <m:semantics>  <m:mrow>   <m:mn>5.89</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mn>3</m:mn>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-96"><problem id="eip-100">			<para id="eip-252">    The planet Mars is about 222,900,000,000 meters from the sun.   </para>		
+</problem>	</exercise><exercise id="eip-781"><problem id="eip-543">			<para id="eip-613">There is an irregularly shaped galaxy, named NGC 4449, that is about 250,000,000,000,000,000,000,000 meters from earth.   </para>		
+</problem><solution id="fs-id9062358"><para id="fs-id9062359"><m:math> <m:semantics>  <m:mrow>   <m:mn>2.5</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mn>23</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-447"><problem id="eip-77">			<para id="eip-330">The farthest object astronomers have been able to see (as of 1981) is a quasar named 3C427. There seems to be a haze beyond this quasar that appears to mark the visual boundary of the universe. Quasar 3C427 is at a distance of 110,000,000,000,000,000,000,000,000 meters from the earth.   </para>		
+</problem>	</exercise><exercise id="eip-197"><problem id="eip-742">			<para id="eip-132">The smallest known insects are about the size of a typical grain of sand. They are about <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.0002</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> meters in length (2 ten-thousandths of a meter).  </para>		
+</problem><solution id="fs-id9062435"><para id="fs-id9062436"><m:math> <m:semantics>  <m:mrow>   <m:mn>2</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mo>−</m:mo><m:mn>4</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-822"><problem id="eip-272">			<para id="eip-873">Atoms such as hydrogen, carbon, nitrogen, and oxygen are about <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.0000000001</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> meter across.   </para>		
+</problem>	</exercise><exercise id="eip-153"><problem id="eip-198">			<para id="eip-89">The island of Manhattan, in New York, is about 57,000 square meters in area. </para>		
+</problem><solution id="fs-id9062512"><para id="fs-id9062513"><m:math> <m:semantics>  <m:mrow>   <m:mn>5.7</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mn>4</m:mn>   </m:msup>     </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-271"><problem id="eip-800">			<para id="eip-53">The second largest moon of Saturn is Rhea. Rhea has a surface area of about 735,000 square meters, roughly the same surface area as Australia.   </para>		
+</problem>	</exercise><exercise id="eip-591"><problem id="eip-896">			<para id="eip-414">A star, named Epsilon Aurigae B, has a diameter (distance across) of 2,800,000,000,000 meters. This diameter produces a surface area of about 24,630,000,000,000,000,000,000,000 square meters. This star is what astronomers call a red giant and it is the largest red giant known. If Epsilon Aurigae were placed at the sun’s position, its surface would extend out to the planet Uranus.  </para>		
+</problem><solution id="fs-id9062577"><para id="fs-id9062578"><m:math> <m:semantics>  <m:mrow>   <m:mn>2.8</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mn>12</m:mn>    </m:mrow>   </m:msup>   <m:mo>,</m:mo><m:mtext> </m:mtext><m:mn>2.463</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mn>25</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-498"><problem id="eip-866">			<para id="eip-336">The volume of the planet Venus is 927,590,000,000,000,000,000 cubic meters.</para>		
+</problem>	</exercise><exercise id="eip-587"><problem id="eip-359">			<para id="eip-854">The average mass of a newborn American female is about 3360 grams.   </para>		
+</problem><solution id="fs-id9062658"><para id="fs-id9062659"><m:math> <m:semantics>  <m:mrow>   <m:mn>3.36</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mn>3</m:mn>   </m:msup>     </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-26"><problem id="eip-922">			<para id="eip-671">The largest brain ever measured was that of a sperm whale. It had a mass of 9200 grams.   </para>		
+</problem>	</exercise><exercise id="eip-232"><problem id="eip-83">			<para id="eip-312">The mass of the Eiffel tower in Paris, France, is 8,000,000 grams.   </para>		
+</problem><solution id="fs-id9062711"><para id="fs-id9062712"><m:math> <m:semantics>  <m:mrow>   <m:mn>8</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mn>6</m:mn>   </m:msup>     </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-665"><problem id="eip-984">			<para id="eip-37">In 1981, a Japanese company built the largest oil tanker to date. The ship has a mass of about 510,000,000,000 grams. This oil tanker is more than 6 times as massive as the U.S. aircraft carrier, U.S.S. <emphasis>Nimitz</emphasis>.   </para>		
+</problem>	</exercise><exercise id="eip-519"><problem id="eip-131">			<para id="eip-442">In the constellation of Virgo, there is a cluster of about 2500 galaxies. The combined mass of these galaxies is 150,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 grams. </para>		
+</problem><solution id="fs-id9062772"><para id="fs-id9062773"><m:math> <m:semantics>  <m:mrow>   <m:mn>1.5</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mn>62</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-109"><problem id="eip-256">			<para id="eip-229">The mass of an amoeba is about <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.000004</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> gram.   </para>		
+</problem>	</exercise><exercise id="eip-472"><problem id="eip-318">			<para id="eip-933">Cells in the human liver have masses of about <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.000000008</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> gram.  </para>		
+</problem><solution id="fs-id9062861"><para id="fs-id9062862"><m:math> <m:semantics>  <m:mrow>   <m:mn>8</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mo>−</m:mo><m:mn>9</m:mn>    </m:mrow>   </m:msup>     </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-55"><problem id="eip-385">			<para id="eip-824">The human sperm cell has a mass of about <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.000000000017</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> gram.  </para>		
+</problem>	</exercise><exercise id="eip-604"><problem id="eip-576">			<para id="eip-623">The principal protein of muscle is myosin. Myosin has a mass of <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.00000000000000000103</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> gram.   </para>		
+</problem><solution id="fs-id9062954"><para id="fs-id9062955"><m:math> <m:semantics>  <m:mrow>   <m:mn>1.03</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mo>−</m:mo><m:mn>18</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-650"><problem id="eip-583">			<para id="eip-139">Amino acids are molecules that combine to make up protein molecules. The amino acid tryptophan has a mass of <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.000000000000000000000340</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> gram.  </para>		
+</problem>	</exercise><exercise id="eip-341"><problem id="eip-285">			<para id="eip-426">An atom of the chemical element bromine has 35 electrons. The mass of a bromine atom is <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.000000000000000000000000031</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> gram.  </para>		
+</problem><solution id="fs-id9063048"><para id="fs-id9063050"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>3.1</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mo>−</m:mo>
+   </m:msup>
+   <m:msup>
+    <m:mrow/>
+    <m:mrow>
+     <m:mn>26</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+   </m:semantics>
+</m:math>
+</para></solution>
+	</exercise><exercise id="eip-630"><problem id="eip-821">			<para id="eip-731">Physicists are performing experiments that they hope will determine the mass of a small particle called a neutrino. It is suspected that neutrinos have masses of about <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.0000000000000000000000000000001</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> gram.  </para>		
+</problem>	</exercise><exercise id="eip-176"><problem id="eip-592">			<para id="eip-90">The approximate time it takes for a human being to die of asphyxiation is 316 seconds.   </para>		
+</problem><solution id="fs-id9063123"><para id="fs-id9063124"><m:math> <m:semantics>  <m:mrow>   <m:mn>3.16</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mn>2</m:mn>   </m:msup>     </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-56"><problem id="eip-307">			<para id="eip-210">On the average, the male housefly lives 1,468,800 seconds (17 days).  </para>		
+</problem>	</exercise><exercise id="eip-356"><problem id="eip-902">			<para id="eip-481">Aluminum-26 has a half-life of 740,000 years.   </para>		
+</problem><solution id="fs-id9063174"><para id="fs-id9063176"><m:math> <m:semantics>  <m:mrow>   <m:mn>7.4</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mn>5</m:mn>   </m:msup>     </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-850"><problem id="eip-66">			<para id="eip-730">Manganese-53 has a half-life of 59,918,000,000,000 seconds (1,900,000 years).   </para>		
+</problem>	</exercise><exercise id="eip-924"><problem id="eip-68">			<para id="eip-13">In its orbit around the sun, the earth moves a distance one and one half feet in about <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.0000316</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> second.   </para>		
+</problem><solution id="fs-id9063245"><para id="fs-id9063246"><m:math> <m:semantics>  <m:mrow>   <m:mn>3.16</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mo>−</m:mo><m:mn>5</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-284"><problem id="eip-156">			<para id="eip-434">A pi-meson is a subatomic particle that has a half-life of about <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.0000000261</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> second.   </para>		
+</problem>	</exercise><exercise id="eip-653"><problem id="eip-973">			<para id="eip-283">A subatomic particle called a neutral pion has a half-life of about <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.0000000000000001</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> second.   </para>		
+</problem><solution id="fs-id9063340"><para id="fs-id9063341"><m:math> <m:semantics>  <m:mrow>   <m:mn>1</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mo>−</m:mo><m:mn>16</m:mn>    </m:mrow>   </m:msup>     </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-810"><problem id="eip-220">			<para id="eip-34">Near the surface of the earth, the speed of sound is 1195 feet per second.  </para>		
+</problem>	</exercise><para id="eip-993">For the following problems, convert the numbers from scientific notation to standard decimal form. </para><exercise id="eip-817"><problem id="eip-807">			<para id="eip-85">The sun is about <m:math>					<m:semantics>						<m:mrow>							<m:mn>1</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mn>8</m:mn>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> meters from earth.   </para>		
+</problem><solution id="fs-id9063434"><para id="fs-id9063435"><m:math> <m:semantics>  <m:mrow><m:mn>100</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn>   </m:mrow></m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-930"><problem id="eip-914">			<para id="eip-19">The mass of the earth is about <m:math>					<m:semantics>						<m:mrow>							<m:mn>5.98</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mn>27</m:mn>								</m:mrow>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> grams.  </para>		
+</problem>	</exercise><exercise id="eip-91"><problem id="eip-206">			<para id="eip-207">Light travels about <m:math>					<m:semantics>						<m:mrow>							<m:mn>5.866</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mn>12</m:mn>								</m:mrow>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> miles in one year.  </para>		
+</problem><solution id="fs-id9063546"><para id="fs-id9063547"><m:math> <m:semantics>  <m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>866</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn>   </m:mrow></m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-215"><problem id="eip-602">			<para id="eip-444">One year is about <m:math>					<m:semantics>						<m:mrow>							<m:mn>3</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mn>7</m:mn>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> seconds.   </para>		
+</problem>	</exercise><exercise id="eip-353"><problem id="eip-607">			<para id="eip-135">Rubik’s cube has about <m:math>					<m:semantics>						<m:mrow>							<m:mn>4.3</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mn>19</m:mn>								</m:mrow>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> different configurations.  </para>		
+</problem><solution id="fs-id9063663"><para id="fs-id9063664"><m:math> <m:semantics>  <m:mrow><m:mn>43</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn>  </m:mrow></m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-9"><problem id="eip-608">			<para id="eip-386">A photon is a particle of light. A 100-watt light bulb emits <m:math>					<m:semantics>						<m:mrow>							<m:mn>1</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mn>20</m:mn>								</m:mrow>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> photons every second.   </para>		
+</problem>	</exercise><exercise id="eip-594"><problem id="eip-988">			<para id="eip-705">There are about <m:math>					<m:semantics>						<m:mrow>							<m:mn>6</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mn>7</m:mn>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> cells in the retina of the human eye.   </para>		
+</problem><solution id="fs-id9063790"><para id="fs-id9063791"><m:math> <m:semantics>  <m:mrow><m:mn>60</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn>  </m:mrow></m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-977"><problem id="eip-609">			<para id="eip-60">A car traveling at an average speed will travel a distance about equal to the length of the smallest fingernail in <m:math>					<m:semantics>						<m:mrow>							<m:mn>3.16</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>4</m:mn>								</m:mrow>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> seconds.  </para>		
+</problem>	</exercise><exercise id="eip-289"><problem id="eip-662">			<para id="eip-111">A ribosome of <emphasis>E. coli</emphasis> has a mass of about <m:math>					<m:semantics>						<m:mrow>							<m:mn>4.7</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>19</m:mn>								</m:mrow>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> grams.  </para>		
+</problem><solution id="fs-id9063912"><para id="fs-id9063913"><m:math> <m:semantics>  <m:mn>0.00000000000000000047</m:mn>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-934"><problem id="eip-500">			<para id="eip-899">A mitochondrion is the energy-producing element of a cell. A mitochondrion is about <m:math>					<m:semantics>						<m:mrow>							<m:mn>1.5</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>6</m:mn>								</m:mrow>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> meters in diameter.    </para>		
+</problem>	</exercise><exercise id="eip-239"><problem id="eip-558">			<para id="eip-848">There is a species of frogs in Cuba that attain a length of at most <m:math>					<m:semantics>						<m:mrow>							<m:mn>1.25</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>2</m:mn>								</m:mrow>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> meters.  </para>		
+</problem><solution id="fs-id9064022"><para id="fs-id9064023"><m:math> <m:semantics>  <m:mrow>   <m:mn>0.0125</m:mn>  </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><para id="eip-910">Perform the following operations. </para><exercise id="eip-773"><problem id="eip-724">			<para id="eip-236">				<m:math>					<m:semantics>						<m:mrow>							<m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mn>4</m:mn>							</m:msup>							<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mn>5</m:mn>							</m:msup>							<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem>	</exercise><exercise id="eip-727"><problem id="eip-290">			<para id="eip-234">				<m:math>					<m:semantics>						<m:mrow>							<m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mn>2</m:mn>							</m:msup>							<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mn>6</m:mn>							</m:msup>							<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem><solution id="fs-id9064190"><para id="fs-id9064191"><m:math> <m:semantics>  <m:mrow>   <m:mn>3.2</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mn>9</m:mn>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-186"><problem id="eip-306">			<para id="eip-485">				<m:math>					<m:semantics>						<m:mrow>							<m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mn>14</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>10</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem>	</exercise><exercise id="eip-618"><problem id="eip-939">			<para id="eip-911"><m:math>					<m:semantics>						<m:mrow>							<m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>5</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mn>7</m:mn>							</m:msup>							<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem><solution id="fs-id9064381"><para id="fs-id9064382"><m:math> <m:semantics>  <m:mrow>   <m:mn>2.4</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mn>3</m:mn>   </m:msup>     </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-11"><problem id="eip-390">			<para id="eip-974">				<m:math>					<m:semantics>						<m:mrow>							<m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>1</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>5</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem>	</exercise><exercise id="eip-878"><problem id="eip-745">			<para id="eip-940"><m:math>					<m:semantics>						<m:mrow>							<m:mo stretchy="false">(</m:mo><m:mn>9</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>5</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>11</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem><solution id="fs-id9064580"><para id="fs-id9064581"><m:math> <m:semantics>  <m:mrow>   <m:mn>9</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mo>−</m:mo><m:mn>16</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-124"><problem id="eip-416">			<para id="eip-282">				<m:math>					<m:semantics>						<m:mrow>							<m:mo stretchy="false">(</m:mo><m:mn>3.1</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mn>4</m:mn>							</m:msup>							<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3.1</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>6</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem>	</exercise><exercise id="eip-990"><problem id="eip-402">			<para id="eip-316">				<m:math>					<m:semantics>						<m:mrow>							<m:mo stretchy="false">(</m:mo><m:mn>4.2</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>12</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3.6</m:mn><m:mo>×</m:mo><m:msup>								<m:mrow>									<m:mn>10</m:mn>								</m:mrow>								<m:mrow>									<m:mo>−</m:mo><m:mn>20</m:mn>								</m:mrow>							</m:msup>							<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem><solution id="fs-id9064780"><para id="fs-id9064781"><m:math> <m:semantics>  <m:mrow>   <m:mn>1.512</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mo>−</m:mo><m:mn>31</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-572"><problem id="eip-75">			<para id="eip-651">				<m:math>					<m:semantics>						<m:mrow>							<m:msup>								<m:mrow>									<m:mo stretchy="false">(</m:mo><m:mn>1.1</m:mn><m:mo>×</m:mo><m:msup>										<m:mrow>											<m:mn>10</m:mn>										</m:mrow>										<m:mn>6</m:mn>									</m:msup>									<m:mo stretchy="false">)</m:mo>								</m:mrow>								<m:mn>2</m:mn>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem>	</exercise><exercise id="eip-221"><problem id="eip-707">			<para id="eip-451">				<m:math>					<m:semantics>						<m:mrow>							<m:msup>								<m:mrow>									<m:mo stretchy="false">(</m:mo><m:mn>5.9</m:mn><m:mo>×</m:mo><m:msup>										<m:mrow>											<m:mn>10</m:mn>										</m:mrow>										<m:mrow>											<m:mn>14</m:mn>										</m:mrow>									</m:msup>									<m:mo stretchy="false">)</m:mo>								</m:mrow>								<m:mn>2</m:mn>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem><solution id="fs-id9064938"><para id="fs-id9064939"><m:math> <m:semantics>  <m:mrow>   <m:mn>3.481</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mn>29</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-640"><problem id="eip-687">			<para id="eip-52">				<m:math>					<m:semantics>						<m:mrow>							<m:msup>								<m:mrow>									<m:mo stretchy="false">(</m:mo><m:mn>1.02</m:mn><m:mo>×</m:mo><m:msup>										<m:mrow>											<m:mn>10</m:mn>										</m:mrow>										<m:mrow>											<m:mo>−</m:mo><m:mn>17</m:mn>										</m:mrow>									</m:msup>									<m:mo stretchy="false">)</m:mo>								</m:mrow>								<m:mn>2</m:mn>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem>	</exercise><exercise id="eip-71"><problem id="eip-350">			<para id="eip-335">				<m:math>					<m:semantics>						<m:mrow>							<m:msup>								<m:mrow>									<m:mo stretchy="false">(</m:mo><m:mn>8.8</m:mn><m:mo>×</m:mo><m:msup>										<m:mrow>											<m:mn>10</m:mn>										</m:mrow>										<m:mrow>											<m:mo>−</m:mo><m:mn>50</m:mn>										</m:mrow>									</m:msup>									<m:mo stretchy="false">)</m:mo>								</m:mrow>								<m:mn>2</m:mn>							</m:msup>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		
+</problem><solution id="fs-id9065101"><para id="fs-id9065102"><m:math> <m:semantics>  <m:mrow>   <m:mn>7.744</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mo>−</m:mo><m:mn>99</m:mn>    </m:mrow>   </m:msup>     </m:mrow>  </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-622"><problem id="eip-127">			<para id="eip-372">If Mount Kilimanjaro was 1,000,000 times as high as it really is, how high would it be? (See problem 1.)  </para>		
+</problem>	</exercise><exercise id="eip-398"><problem id="eip-6">			<para id="eip-528">If the planet Mars was 300,000 times as far from the sun as it really is, how far from the sun would it be? (See problem 2.)   </para>		
+</problem><solution id="fs-id9065161"><para id="fs-id9065162"><m:math> <m:semantics>  <m:mrow>   <m:mn>6.687</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-531"><problem id="eip-882">			<para id="eip-324">If 800,000,000 of the smallest insects known were lined up head to tail, how far would they stretch? (See problem 5.)  </para>		
+</problem>	</exercise><exercise id="eip-778"><problem id="eip-655">			<para id="eip-931">If Rhea, the moon of Saturn, had a surface area <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.00000000002</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> of its real surface area, what would that surface area be? (See problem 8.)   </para>		
+</problem><solution id="fs-id9065236"><para id="fs-id9065237"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1.47</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>5</m:mn>
+    </m:mrow>
+   </m:msup>
+   
+  </m:mrow>
+   </m:semantics>
+</m:math>
+</para></solution>
+	</exercise><exercise id="eip-975"><problem id="eip-190">			<para id="eip-145">If the star Epsilon Aurigae B had a surface area <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.005</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> of its real surface area, what would that surface area be? (See problem 9.)  </para>		
+</problem>	</exercise><exercise id="eip-599"><problem id="eip-479">			<para id="eip-126">If the mass of all the galaxies in the constellation Virgo was only <m:math>					<m:semantics>						<m:mrow>							<m:mn>0.0000000000000000000000003</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math> of its real mass, what would that mass be? (See problem 15.)   </para>		
+</problem><solution id="fs-id9065324"><para id="fs-id9065325"><m:math> <m:semantics>  <m:mrow>   <m:mn>4.5</m:mn><m:mo>×</m:mo><m:msup>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mrow>     <m:mn>37</m:mn>    </m:mrow>   </m:msup>     </m:mrow>   </m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-80"><problem id="eip-943">			<para id="eip-682">   What is the mass of 15,000,000,000,000 bromine atoms? (See problem 21.)   </para>		
+</problem>	</exercise></section><section id="eip-865"><title>Exercises for Review</title><exercise id="eip-223"><problem id="eip-715">
+			<para id="eip-797"><emphasis>(<link document="m21895"/>)</emphasis> What integers can replace <m:math>
+					<m:semantics>
+						<m:mi>x</m:mi>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics>
+				</m:math> so that the statement <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:mo>−</m:mo><m:mn>6</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mo>−</m:mo><m:mn>2</m:mn>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics>
+				</m:math> is true?  </para>
+		</problem><solution id="fs-id9065432"><para id="fs-id9065433"><m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:mo>−</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mtext> </m:mtext><m:mo>−</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mtext> </m:mtext><m:mo>−</m:mo><m:mn>3</m:mn>
+						</m:mrow>
+					</m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-154"><problem id="eip-888">
+			<para id="eip-595"><emphasis>(<link document="m21900"/>)</emphasis> Simplify <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:msup>
+								<m:mi>x</m:mi>
+								<m:mn>2</m:mn>
+							</m:msup>
+							<m:msup>
+								<m:mi>y</m:mi>
+								<m:mn>4</m:mn>
+							</m:msup>
+							<m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:msup>
+								<m:mi>y</m:mi>
+								<m:mn>5</m:mn>
+							</m:msup>
+							<m:mo stretchy="false">)</m:mo>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics></m:math>
+			</para>
+		</problem>
+	</exercise><exercise id="eip-70"><problem id="eip-876">
+			<para id="eip-844"><emphasis>(<link document="m21876"/>)</emphasis> Determine the value of <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:mo>−</m:mo><m:mo stretchy="false">[</m:mo><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mo>|</m:mo><m:mo>−</m:mo><m:mn>5</m:mn><m:mo>|</m:mo><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics></m:math>.</para>
+		</problem><solution id="fs-id9065602"><para id="fs-id9065603"><m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:mo>−</m:mo><m:mn>5</m:mn>
+						</m:mrow>
+					</m:semantics></m:math></para></solution>
+	</exercise><exercise id="eip-192"><problem id="eip-962">
+			<para id="eip-542"><emphasis>(<link document="m21882"/>)</emphasis> Write <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:mfrac>
+								<m:mrow>
+									<m:msup>
+										<m:mi>x</m:mi>
+										<m:mn>3</m:mn>
+									</m:msup>
+									<m:msup>
+										<m:mi>y</m:mi>
+										<m:mrow>
+											<m:mo>−</m:mo><m:mn>5</m:mn>
+										</m:mrow>
+									</m:msup>
+								</m:mrow>
+								<m:mrow>
+									<m:msup>
+										<m:mi>z</m:mi>
+										<m:mrow>
+											<m:mo>−</m:mo><m:mn>4</m:mn>
+										</m:mrow>
+									</m:msup>
+								</m:mrow>
+							</m:mfrac>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics>
+				</m:math> so that only positive exponents appear.   </para>
+		</problem>
+	</exercise><exercise id="eip-130"><problem id="eip-23">
+			<para id="eip-755"><emphasis>(<link document="m21882"/>)</emphasis> Write <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:msup>
+								<m:mrow>
+									<m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo>
+								</m:mrow>
+								<m:mn>3</m:mn>
+							</m:msup>
+							<m:msup>
+								<m:mrow>
+									<m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo>
+								</m:mrow>
+								<m:mrow>
+									<m:mo>−</m:mo><m:mn>5</m:mn>
+								</m:mrow>
+							</m:msup>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics></m:math> so that only positive exponents appear.    </para>
+		</problem><solution id="fs-id9166417"><para id="fs-id9166418"><m:math>
+					<m:semantics>
+						<m:mfrac>
+							<m:mn>1</m:mn>
+							<m:mrow>
+								<m:msup>
+									<m:mrow>
+										<m:mrow><m:mo>(</m:mo>
+											<m:mrow>
+												<m:mn>2</m:mn><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn>
+											</m:mrow>
+											<m:mo>)</m:mo></m:mrow>
+									</m:mrow>
+									<m:mn>2</m:mn>
+								</m:msup>
+							</m:mrow>
+						</m:mfrac>
+					</m:semantics></m:math></para></solution>
+	</exercise></section></content></document>

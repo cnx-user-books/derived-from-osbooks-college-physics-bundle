@@ -53,9 +53,9 @@
     <para id="import-auto-id1165296226966">The two-dimensional curved path of the horizontally thrown ball is composed of two independent one-dimensional motions (horizontal and vertical). The key to analyzing such motion, called <emphasis effect="italics"><emphasis effect="italics">projectile motion</emphasis></emphasis>, is to <emphasis effect="italics"><emphasis effect="italics">resolve</emphasis></emphasis> (break) it into motions along perpendicular directions. Resolving two-dimensional motion into perpendicular components is possible because the components are independent. We shall see how to resolve vectors in <link document="m42127">Vector Addition and Subtraction: Graphical Methods</link> and <link document="m42128">Vector Addition and Subtraction: Analytical Methods</link>. We will find such techniques to be useful in many areas of physics.</para></section>
     <note id="eip-652" class="interactive"><title>PhET Explorations: Ladybug Motion 2D </title><para id="eip-id1169736812332">Learn about position, velocity and acceleration vectors. Move the ladybug by setting the position, velocity or acceleration, and see how the vectors change. Choose linear, circular or elliptical motion, and record and playback the motion to analyze the behavior.
 <newline/>
-<media id="Phet_module_3.1" alt="Ladybug Motion">
+<figure id="eip-idm388746832"><media id="Phet_module_3.1" alt="Ladybug Motion">
 <iframe width="660" height="371.4" src="https://archive.cnx.org/specials/317a2b1e-2fbd-11e5-99b5-e38ffb545fe6/ladybug-motion/#sim-ladybug-motion"/>
-</media>
+</media></figure>
 </para></note><section id="fs-id1165298944131" class="section-summary">
         <title>Summary</title>
     <list id="fs-id1165298708756"><item id="import-auto-id1165296313373" fo:font-weight="normal">The shortest path between any two points is a straight line. In two dimensions, this path can be represented by a vector with horizontal and vertical components.</item>

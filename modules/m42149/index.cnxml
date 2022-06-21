@@ -512,11 +512,11 @@
     </equation><para id="import-auto-id2019781"><emphasis>Discussion</emphasis> </para>
     <para id="import-auto-id1956551">Another way to solve this problem is to realize that the car’s kinetic energy before it goes up the slope is converted partly to potential energy—that is, to take the final conditions in part (a) to be the initial conditions in part (b).</para></example>
     <para id="import-auto-id2861328">Note that, for conservative forces, we do not directly calculate the work they do; rather, we consider their effects through their corresponding potential energies, just as we did in <link target-id="fs-id1893243"/>. Note also that we do not consider details of the path taken—only the starting and ending points are important (as long as the path is not impossible). This assumption is usually a tremendous simplification, because the path may be complicated and forces may vary along the way. </para><note id="fs-id1968264" class="interactive"><title>PhET Explorations: Energy Skate Park</title><para id="fs-id1795353">Learn about conservation of energy with a skater dude! Build tracks, ramps and jumps for the skater and view the kinetic energy, potential energy and friction as he moves. You can also take the skater to different planets or even space!
-<newline/>
+<newline/><figure id="eip-idm1034370160">
 <media id="Phet_module_8.4" alt="Energy Skate Park">
 <iframe width="660" height="371.4" src="https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_en.html"/>
 </media>
-</para></note></section>
+</figure></para></note></section>
 
       <section id="fs-id2026635" class="section-summary"><title>Section Summary</title><list id="fs-id1337667"><item>A conservative force is one for which work depends only on the starting and ending points of a motion, not on the path taken.</item>
     <item>We can define potential energy <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>PE</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "PE" \) } {}</m:annotation></m:semantics></m:math> for any conservative force, just as we defined <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mtext>PE</m:mtext><m:mrow><m:mn>g</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"PE" rSub { size 8{g} } } {}</m:annotation></m:semantics></m:math> for the gravitational force. </item>
