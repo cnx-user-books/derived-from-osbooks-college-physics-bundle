@@ -1,0 +1,405 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Dynamics of Rotational Motion: Rotational Inertia [with Concept Coach]</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50816</md:content-id>
+  <md:title>Dynamics of Rotational Motion: Rotational Inertia [with Concept Coach]</md:title>
+  <md:abstract><list>
+<item>Understand the relationship between force, mass and acceleration.</item>
+<item>Study the turning effect of force.</item>
+<item>Study the analogy between force and torque, mass and moment of inertia, and linear acceleration and angular acceleration.</item>
+</list></md:abstract>
+  <md:uuid>d014e340-793d-438c-8f8f-fdd069469631</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id2957502">If you have ever spun a bike wheel or pushed a merry-go-round, you know that force is needed to change angular velocity as seen in <link target-id="import-auto-id1545882"/>. In fact, your intuition is reliable in predicting many of the factors that are involved. For example, we know that a door opens slowly if we push too close to its hinges. Furthermore, we know that the more massive the door, the more slowly it opens. The first example implies that the farther the force is applied from the pivot, the greater the angular acceleration; another implication is that angular acceleration is inversely proportional to mass. These relationships should seem very similar to the familiar relationships among force, mass, and acceleration embodied in Newton’s second law of motion. There are, in fact, precise rotational analogs to both force and mass.</para><figure id="import-auto-id1545882"><media id="import-auto-id1561519" alt="The given figure shows a bike tire being pulled by a hand with a force F backward indicated by a red horizontal arrow that produces an angular acceleration alpha indicated by a curved yellow arrow in counter-clockwise direction.">
+        <image mime-type="image/jpg" src="../../media/Figure_11_03_01a.jpg" width="200"/>
+      </media>
+        
+    <caption>Force is required to spin the bike wheel. The greater the force, the greater the angular acceleration produced. The more massive the wheel, the smaller the angular acceleration. If you push on a spoke closer to the axle, the angular acceleration will be smaller.</caption></figure><para id="import-auto-id3229264">To develop the precise relationship among force, mass, radius, and angular acceleration, consider what happens if we exert a force <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> on a point mass <m:math><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> that is at a distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> from a pivot point, as shown in <link target-id="import-auto-id2062858"/>. Because the force is perpendicular to <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, an acceleration <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>F</m:mi><m:mi>m</m:mi></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a= {  {F}  over  {m} } } {}</m:annotation></m:semantics></m:math> is obtained in the direction of <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math>. We can rearrange this equation such that <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ma</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F= ital "ma"} {}</m:annotation></m:semantics></m:math> and then look for ways to relate this expression to expressions for rotational quantities. We note that <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">rα</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a=rα} {}</m:annotation></m:semantics></m:math>, and we substitute this expression into <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ma</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F= ital "ma"} {}</m:annotation></m:semantics></m:math>, yielding </para><equation id="eip-426"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mr</m:mtext></m:mrow></m:mstyle></m:mrow><m:mi>α</m:mi></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F= ital "mr"α"."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1940935">Recall that <term id="import-auto-id1429483">torque</term> is the turning effectiveness of a force. In this case, because <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">F</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"F"} {}</m:annotation></m:semantics></m:math> is perpendicular to <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, torque is simply <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>τ</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">Fr</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{τ=rα} {}</m:annotation></m:semantics></m:math>. So, if we multiply both sides of the equation above by <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, we get torque on the left-hand side. That is, 
+
+
+</para><equation id="eip-304"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>rF</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mo stretchy="false">=</m:mo>
+                   
+                      <m:mrow>
+                        <m:msup> <m:mstyle fontstyle="italic">
+                          <m:mtext>mr</m:mtext>
+                                </m:mstyle>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          
+                        </m:msup>
+                      </m:mrow>
+              
+                  </m:mrow>
+                  <m:mi>α</m:mi>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ ital "rF"= ital "mr" rSup { size 8{2} } α} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id3094380">or </para>
+    
+    <equation id="eip-357"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>τ</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mtext>mr</m:mtext></m:mstyle><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mi>α.</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{τ= ital "mr" rSup { size 8{2} } α.} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id3089520">This last equation is the rotational analog of Newton’s second law (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ma</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F= ital "ma"} {}</m:annotation></m:semantics></m:math>), where torque is analogous to force, angular acceleration is analogous to translational acceleration, and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mtext>mr</m:mtext></m:mstyle><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mr" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> is analogous to mass (or inertia). The quantity <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mtext>mr</m:mtext></m:mstyle><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mr" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> is called the <term id="import-auto-id3450318">rotational inertia</term> or <term id="import-auto-id1383999">moment of inertia</term> of a point mass <m:math><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> a distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> from the center of rotation.</para><figure id="import-auto-id2062858"><media id="import-auto-id1849107" alt="The given figure shows an object of mass m, kept on a horizontal frictionless table, attached to a pivot point, which is in the center of the table, by a cord that supplies centripetal force. A force F is applied to the object perpendicular to the radius r, which is indicated by a red arrow tangential to the circle, causing the object to move in counterclockwise direcion.">
+        <image mime-type="image/jpg" src="../../media/Figure_11_03_02a.jpg" width="200"/>
+      </media>
+        
+    <caption>An object is supported by a horizontal frictionless table and is attached to a pivot point by a cord that supplies centripetal force. A force <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> is applied to the object perpendicular to the radius <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, causing it to accelerate about the pivot point. The force is kept perpendicular to <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>.</caption></figure><note id="fs-id1428088"><label/>
+    <title>Making Connections: Rotational Motion Dynamics</title>
+    <para id="import-auto-id3201104">Dynamics for rotational motion is completely analogous to linear or translational dynamics. Dynamics is concerned with force and mass and their effects on motion. For rotational motion, we will find direct analogs to force and mass that behave just as we would expect from our earlier experiences.</para>
+     </note>
+    <section id="fs-id3119201">
+    <title>Rotational Inertia and Moment of Inertia</title>
+    <para id="import-auto-id1927026">Before we can consider the rotation of anything other than a point mass like the one in <link target-id="import-auto-id2062858"/>, we must extend the idea of rotational inertia to all types of objects. To expand our concept of rotational inertia, we define the <term id="import-auto-id3400355">moment of inertia</term> 
+
+<m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math> of an object to be the sum of 
+
+<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mtext>mr</m:mtext></m:mstyle><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mr" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> for all the point masses of which it is composed. That is, 
+
+<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mtext>mr</m:mtext></m:mstyle><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I= Sum {}  ital "mr" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. Here 
+
+<m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math> is analogous to 
+
+<m:math><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> in translational motion. Because of the distance 
+
+<m:math><m:semantics><m:mrow><m:mi>r</m:mi><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, the moment of inertia for any object depends on the chosen axis. Actually, calculating 
+
+<m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math> is beyond the scope of this text except for one simple case—that of a hoop, which has all its mass at the same distance from its axis. A hoop’s moment of inertia around its axis is therefore 
+
+<m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mtext>MR</m:mtext></m:mstyle><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "MR" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, where 
+
+<m:math><m:semantics><m:mrow><m:mrow><m:mi>M</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M} {}</m:annotation></m:semantics></m:math> is its total mass and <m:math><m:semantics><m:mrow><m:mrow><m:mi>R</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R} {}</m:annotation></m:semantics></m:math> its radius. (We use <m:math><m:semantics><m:mrow><m:mrow><m:mi>M</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mi>R</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R} {}</m:annotation></m:semantics></m:math> for an entire object to distinguish them from <m:math><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> for point masses.) In all other cases, we must consult <link target-id="fs-id1838666"/> (note that the table is piece of artwork that has shapes as well as formulae) for formulas for <m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math> that have been derived from integration over the continuous body. Note that <m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math> has units of mass multiplied by distance squared (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>kg</m:mtext><m:mo stretchy="false">⋅</m:mo><m:msup><m:mtext>m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"kg" cdot "m" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>), as we might expect from its definition.</para><para id="import-auto-id2445752">The general relationship among torque, moment of inertia, and angular acceleration is </para>
+    
+    <equation id="eip-724"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+<m:mtext>net τ</m:mtext>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mi fontstyle="italic">Iα</m:mi>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{τ=Iα} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id2669588">or</para><equation id="eip-480"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>α</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mrow><m:mtext>net τ</m:mtext></m:mrow></m:mrow><m:mi>I</m:mi></m:mfrac></m:mrow></m:mrow><m:mtext>,</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α= {  { ital "net"τ}  over  {I} } ","} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id3078027">where net <m:math><m:semantics><m:mrow><m:mrow><m:mi>τ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{τ} {}</m:annotation></m:semantics></m:math> is the total torque from all forces relative to a chosen axis. For simplicity, we will only consider torques exerted by forces in the plane of the rotation. Such torques are either positive or negative and add like ordinary numbers. The relationship in <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>τ</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">Iα</m:mi></m:mrow><m:mi>, </m:mi><m:mi/><m:mrow><m:mi>α</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>net τ</m:mtext></m:mrow><m:mi>I</m:mi></m:mfrac></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{τ=Iα,`````α= {  { ital "net"τ}  over  {I} } } {}</m:annotation></m:semantics></m:math> is the rotational analog to Newton’s second law and is very generally applicable. This equation is actually valid for <emphasis effect="italics">any</emphasis> torque, applied to <emphasis effect="italics">any</emphasis> object, relative to <emphasis effect="italics">any</emphasis> axis.</para><para id="import-auto-id2392139">As we might expect, the larger the torque is, the larger the angular acceleration is. For example, the harder a child pushes on a merry-go-round, the faster it accelerates. Furthermore, the more massive a merry-go-round, the slower it accelerates for the same torque. The basic relationship between moment of inertia and angular acceleration is that the larger the moment of inertia, the smaller is the angular acceleration. But there is an additional twist. The moment of inertia depends not only on the mass of an object, but also on its <emphasis effect="italics">distribution</emphasis> of mass relative to the axis around which it rotates. For example, it will be much easier to accelerate a merry-go-round full of children if they stand close to its axis than if they all stand at the outer edge. The mass is the same in both cases; but the moment of inertia is much larger when the children are at the edge.</para>
+    <note id="fs-id2453972"><label/><title>Take-Home Experiment</title>
+    
+    <para id="import-auto-id3157961">Cut out a circle that has about a 10 cm radius from stiff cardboard. Near the edge of the circle, write numbers 1 to 12 like hours on a clock face. Position the circle so that it can rotate freely about a horizontal axis through its center, like a wheel. (You could loosely nail the circle to a wall.) Hold the circle stationary and with the number 12 positioned at the top, attach a lump of blue putty (sticky material used for fixing posters to walls) at the number 3. How large does the lump need to be to just rotate the circle? Describe how you can change the moment of inertia of the circle. How does this change affect the amount of blue putty needed at the number 3 to just rotate the circle? Change the circle’s moment of inertia and then try rotating the circle by using different amounts of blue putty. Repeat this process several times.</para></note><note id="fs-id2929358"><label/>
+    <title>Problem-Solving Strategy for Rotational Dynamics</title>
+    <list id="fs-id3397976" list-type="enumerated" number-style="arabic"><item id="import-auto-id1575417"><emphasis effect="italics">Examine the situation to determine that torque and mass are involved in the rotation</emphasis>. Draw a careful sketch of the situation.</item>
+        <item id="import-auto-id1900500"><emphasis effect="italics">Determine the system of interest</emphasis>.</item>
+            <item id="import-auto-id3026238"><emphasis effect="italics">Draw a free body diagram</emphasis>. That is, draw and label all external forces acting on the system of interest.</item>
+                <item id="import-auto-id2067161"><emphasis effect="italics">Apply <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi> net τ</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">Iα</m:mi></m:mrow><m:mi>, </m:mi><m:mi/><m:mrow><m:mi>α</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>net τ</m:mtext></m:mrow><m:mi>I</m:mi></m:mfrac></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{τ=Iα,```α= {  { ital "net"τ}  over  {I} } } {}</m:annotation></m:semantics></m:math>, the rotational equivalent of Newton’s second law, to solve the problem</emphasis>. Care must be taken to use the correct moment of inertia and to consider the torque about the point of rotation.</item>
+                    <item id="import-auto-id3072381"><emphasis effect="italics">As always, check the solution to see if it is reasonable</emphasis>.</item>
+                        </list></note>
+    <note id="fs-id1569465"><label/><title>Making Connections</title>
+    <para id="import-auto-id3148775">In statics, the net torque is zero, and there is no angular acceleration. In rotational motion, net torque is the cause of angular acceleration, exactly as in Newton’s second law of motion for rotation.</para>
+<figure id="fs-id1838666"><media id="fs-id1655769" alt="Illustrations of ten different objects accompanied by their rotational inertias.">
+<image mime-type="image/jpg" src="../../media/Figure_11_03_06.jpg" height="525"/>
+</media>
+
+<caption>Some rotational inertias.</caption></figure></note>
+  
+    <example id="fs-id1468671">
+    <title>Calculating the Effect of Mass Distribution on a Merry-Go-Round</title>
+    <para id="import-auto-id1923005">Consider the father pushing a playground merry-go-round in <link target-id="import-auto-id1468671"/>. He exerts a force of 250 N at the edge of the 50.0-kg merry-go-round, which has a 1.50 m radius. Calculate the angular acceleration produced (a) when no one is on the merry-go-round and (b) when an 18.0-kg child sits 1.25 m away from the center. Consider the merry-go-round itself to be a uniform disk with negligible retarding friction.</para><figure id="import-auto-id1468671"><media id="import-auto-id2397006" alt="The given figure shows a man pushing a merry-go-round by a force F, indicated by a red arrow which is perpendicular to the radius r, of the merry-go-round, such that it moves in counter-clockwise direction.">
+        <image mime-type="image/jpg" src="../../media/Figure_11_03_03a.jpg" width="200"/>
+      </media>
+      
+   <caption>A father pushes a playground merry-go-round at its edge and perpendicular to its radius to achieve maximum torque.</caption></figure><para id="import-auto-id3272059"><emphasis>Strategy</emphasis></para>
+         <para id="fs-id2667613">Angular acceleration is given directly by the expression <m:math>
+        <m:semantics>
+          <m:mrow>
+                                  <m:mrow>
+                    <m:mi>α</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                            <m:mtext>net τ</m:mtext>
+                          
+                      </m:mrow>
+                      <m:mi>I</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{τ=Iα,`α= {  { ital "net"τ}  over  {I} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    :</para><equation id="eip-704"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>α</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mfrac>
+                    <m:mi>τ</m:mi>
+                    <m:mi>I</m:mi>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            <m:mo>.</m:mo>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{α= {  {τ}  over  {I} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id1998491">To solve for <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, we must first calculate the torque <m:math><m:semantics><m:mrow><m:mrow><m:mi>τ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{τ} {}</m:annotation></m:semantics></m:math> (which is the same in both cases) and moment of inertia <m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math> (which is greater in the second case). To find the torque, we note that the applied force is perpendicular to the radius and friction is negligible, so that</para>
+    
+    <equation id="eip-946"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi mathvariant="normal">τ</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">rF</m:mi><m:mspace width="0.25em"/><m:mtext>sin θ</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mtext>1.50 m</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>250 N</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mtext>375 N</m:mtext><m:mo>⋅</m:mo><m:mtext>m.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{τ="rFsinθ"= \( 1 "." "50m" \)  \( "250N" \) ="375N" "." "m."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2056496"><emphasis>Solution for (a)</emphasis></para>
+        <para id="fs-id3387564">The moment of inertia of a solid disk about this axis is given in <link target-id="fs-id1838666"/> to be</para><equation id="eip-659"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mtext>MR</m:mtext></m:mstyle><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mtext>,</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} }  ital "MR" rSup { size 8{2} } ","} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2936435">where <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>M</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>50.0 kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M="50" "." 0 ital "kg"} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>R</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>1.50 m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R=1 "." "50"m} {}</m:annotation></m:semantics></m:math>, so that</para><equation id="eip-768"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mn>(0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>500)</m:mn><m:mo stretchy="false">(</m:mo><m:mtext>50.0 kg</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>1.50 m</m:mtext><m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>56.25 kg</m:mtext><m:mo>⋅</m:mo><m:msup><m:mtext>m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I=0 "." 5 \( "50" "." "0kg" \)  \( 1 "." "50m" \)  rSup { size 8{2} } ="56" "." "25kg" "." "m" rSup { size 8{2} } "."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1817275">Now, after we substitute the known values, we find the angular acceleration to be</para><equation id="eip-861"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>α</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>τ</m:mi><m:mi>I</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>375 N</m:mtext><m:mspace width="0.25em"/><m:mtext>⋅</m:mtext><m:mspace width="0.25em"/><m:mtext>m</m:mtext></m:mrow><m:mrow><m:mtext>56.25 kg</m:mtext><m:mo>⋅</m:mo><m:msup><m:mtext>m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>6.67</m:mtext><m:mfrac><m:mtext>rad</m:mtext><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mfrac></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α= {  {τ}  over  {I} } = {  {"375"`"N" "." "m"}  over  {"56" "." "25"`"kg" "." "m" rSup { size 8{2} } } } =6 "." "67"` {  {"rad"}  over  {s rSup { size 8{2} } } } "."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1355992"><emphasis>Solution for (b)</emphasis></para>
+        <para id="fs-id2932227">We expect the angular acceleration for the system to be less in this part, because the moment of inertia is greater when the child is on the merry-go-round. To find the total moment of inertia <m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math>, we first find the child’s moment of inertia <m:math><m:semantics><m:mrow><m:msub><m:mi>I</m:mi><m:mrow><m:mtext>c</m:mtext></m:mrow></m:msub></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I rSub { size 8{c} } } {}</m:annotation></m:semantics></m:math> by considering the child to be equivalent to a point mass at a distance of 1.25 m from the axis. Then,</para><equation id="eip-266"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>I</m:mi><m:mrow><m:mtext>c</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:msup><m:mi fontstyle="italic">MR</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mtext>18.0 kg</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>1.25 m</m:mtext><m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>28.13 kg</m:mtext><m:mo>⋅</m:mo><m:msup><m:mtext>m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I rSub { size 8{c} } ="MR" rSup { size 8{2} } = \( "18" "." 0`"kg" \)  \( 1 "." "25"`m \)  rSup { size 8{2} } ="28" "." "13"`"kg" "." m rSup { size 8{2} } "."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id3110349">The total moment of inertia is the sum of moments of inertia of the merry-go-round and the child (about the same axis). To justify this sum to yourself, examine the definition of <m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math>:</para>
+    
+    <equation id="eip-141"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                    <m:mi>I</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext>28.13 kg</m:mtext>
+<m:mo>⋅</m:mo>
+
+                    <m:msup>
+                      <m:mtext>m</m:mtext>
+       <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>56.25 kg</m:mtext>
+                  <m:mo>⋅</m:mo>
+
+                    <m:msup>
+                      <m:mtext>m</m:mtext>
+                          <m:mn>2</m:mn>
+                      
+                    </m:msup>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext>84.38 kg</m:mtext>
+                  <m:mo>⋅</m:mo>
+                  <m:msup>
+                    <m:mtext>m</m:mtext>    
+                        <m:mn>2</m:mn>
+
+                    
+                  </m:msup>
+                </m:mrow><m:mo>.</m:mo>
+              </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{I="28" "." "13"`"kg" "." m rSup { size 8{2} } +"56" "." "25"`"kg" "." m rSup { size 8{2} } ="84" "." "38"`"kg" "." m rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id3105090">Substituting known values into the equation for <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> gives</para>
+    
+    <equation id="eip-50"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>α</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>τ</m:mtext><m:mi>I</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>375 N</m:mtext><m:mo>⋅</m:mo><m:mtext>m</m:mtext></m:mrow><m:mrow><m:mtext>84.38 kg</m:mtext><m:mo>⋅</m:mo><m:msup><m:mtext>m</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>4.44</m:mtext><m:mfrac><m:mtext>rad</m:mtext><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mfrac></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α= {  {τ}  over  {I} } = {  {"375N" "." m}  over  {"84" "." "38kg" "." m rSup { size 8{2} } } } =4 "." "44" {  {"rad"}  over  {s rSup { size 8{2} } } } "."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2048854"><emphasis>Discussion</emphasis></para>
+        <para id="fs-id1934212">The angular acceleration is less when the child is on the merry-go-round than when the merry-go-round is empty, as expected. The angular accelerations found are quite large, partly due to the fact that friction was considered to be negligible. If, for example, the father kept pushing perpendicularly for 2.00 s, he would give the merry-go-round an angular velocity of 13.3 rad/s when it is empty but only 8.89 rad/s when the child is on it. In terms of revolutions per second, these angular velocities are 2.12 rev/s and 1.41 rev/s, respectively. The father would end up running at about 50 km/h in the first case. Summer Olympics, here he comes! Confirmation of these numbers is left as an exercise for the reader.</para></example>
+        <exercise id="fs-id2404667" type="check-understanding">
+            <label/>
+    <title>Check Your Understanding</title>
+    <problem id="fs-id3424689"><para id="import-auto-id1986578">Torque is the analog of force and moment of inertia is the analog of mass. Force and mass are physical quantities that depend on only one factor. For example, mass is related solely to the numbers of atoms of various types in an object. Are torque and moment of inertia similarly simple?</para></problem>
+<solution id="fs-id3181145" print-placement="here">
+    <para id="import-auto-id1616167">No. Torque depends on three factors: force magnitude, force direction, and point of application. Moment of inertia depends on both mass and its distribution relative to the axis of rotation. So, while the analogies are precise, these rotational quantities depend on more factors.</para>
+    </solution>
+        </exercise>
+        </section>
+    <section id="fs-id1941660" class="section-summary"><title>Section Summary</title><list id="fs-id3113938"><item id="import-auto-id3170008">The farther the force is applied from the pivot, the greater is the angular acceleration; angular acceleration is inversely proportional to mass.</item>
+        <item id="import-auto-id2684041">If we exert a force <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> on a point mass <m:math><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> that is at a distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> from a pivot point and because the force is perpendicular to <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, an acceleration <m:math><m:semantics><m:mrow><m:mrow><m:mtext fontstyle="italic">a = F/m</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> is obtained in the direction of <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math>. We can rearrange this equation such that             <equation id="fs-id3125934"><m:math><m:semantics><m:mrow><m:mrow><m:mi fontstyle="italic">F = ma</m:mi></m:mrow><m:mtext>,</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {","}</m:annotation></m:semantics></m:math> 
+</equation> 
+                <para id="import-auto-id3148810">and then look for ways to relate this expression to expressions for rotational quantities. We note that 
+ <m:math><m:semantics><m:mrow><m:mrow><m:mi fontstyle="italic">a = rα</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math>, and we substitute this expression into <m:math><m:semantics><m:mrow><m:mrow><m:mi fontstyle="italic">F=ma</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math>, yielding</para> 
+    
+          <equation id="fs-id2600434"><m:math><m:semantics><m:mrow><m:mrow><m:mi fontstyle="italic">F=mrα</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math></equation></item>
+    <item id="import-auto-id969263">Torque is the turning effectiveness of a force. In this case, because <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> is perpendicular to <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, torque is simply <m:math><m:semantics><m:mrow><m:mrow><m:mi>τ</m:mi><m:mo>=</m:mo><m:mi mathvariant="italic">rF</m:mi></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math>. If we multiply both sides of the equation above by <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, we get torque on the left-hand side. That is,
+    <equation id="fs-id1037661"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>rF</m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mo stretchy="false">=</m:mo>
+                
+                      <m:mrow>
+                        <m:msup>    <m:mstyle fontstyle="italic">
+                          <m:mtext>mr</m:mtext>
+                                              </m:mstyle>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          
+                        </m:msup>
+                      </m:mrow>
+
+                  </m:mrow>
+                  <m:mi>α</m:mi>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ ital "rF"= ital "mr" rSup { size 8{2} } α} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation> 
+    <para id="import-auto-id1861137">or</para> 
+    <equation id="import-auto-id2930863"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>τ</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+
+                      <m:mrow>
+                        <m:msup>                    <m:mstyle fontstyle="italic">
+                          <m:mtext>mr</m:mtext>
+                                              </m:mstyle>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          
+                        </m:msup>
+                      </m:mrow>
+
+                  </m:mrow>
+                  <m:mi>α</m:mi>
+                  <m:mtext>.</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{τ= ital "mr" rSup { size 8{2} } α "." } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation></item>
+    <item id="import-auto-id3175767">The moment of inertia <m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math> of an object is the sum of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mtext>MR</m:mtext></m:mstyle><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "MR" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> for all the point masses  of which it is composed. That is,
+    <equation id="import-auto-id3110206"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>I</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mo stretchy="false">∑</m:mo>
+
+                        <m:mrow>
+                          <m:msup>                      <m:mstyle fontstyle="italic">
+                            <m:mtext>mr</m:mtext>
+                                                  </m:mstyle>
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            
+                          </m:msup>
+                        </m:mrow>
+
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mtext>.</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{I= sum  ital "mr" rSup { size 8{2} }  "." } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation></item>
+    <item id="import-auto-id1011742">The general relationship among torque, moment of inertia, and angular acceleration is 
+    <equation id="eip-139"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>τ</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mi fontstyle="italic">Iα</m:mi>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{τ=Iα} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id2590362">or </para><equation id="eip-317"><m:math>
+        <m:semantics>
+          <m:mtable>
+            <m:mtr>
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>α</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                          <m:mrow>
+                            <m:mtext>net τ</m:mtext>
+                          </m:mrow>
+            
+                      </m:mrow>
+                      <m:mi>I</m:mi>
+                    </m:mfrac>
+                    <m:mo stretchy="false">⋅</m:mo>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+                <m:mrow/>
+              </m:mrow>
+            </m:mtr>
+            <m:mtr>
+              
+                <m:mrow>
+                  <m:mrow/>
+                </m:mrow>
+              
+            </m:mtr>
+          </m:mtable>
+          <m:annotation encoding="StarMath 5.0"> size 12{α= {  { ital "net"`τ}  over  {I} }  cdot } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation></item>
+</list></section><section id="eip-743"><title>Concept Coach</title><para id="eip-733">
+<link url="#terp-phys_ch10_sec4">Concept Coach</link> 
+</para></section></content>
+    <glossary>
+        <definition id="import-auto-id1195741"><term>torque</term> <meaning id="fs-id1448566">the turning effectiveness of a force</meaning></definition>
+            <definition id="import-auto-id1868981"><term>rotational inertia</term> <meaning id="fs-id3080979">resistance to change of rotation. The more rotational inertia an object has, the harder it is to rotate</meaning></definition>
+                <definition id="import-auto-id2384482"><term>moment of inertia</term> <meaning id="fs-id3354053">mass times the square of perpendicular distance from the rotation axis; for a point mass, it is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mtext>mr</m:mtext></m:mstyle><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I= ital "mr" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>  and, because any object can be built up from a collection of point masses, this relationship is the basis for all other moments of inertia</meaning></definition>
+    </glossary>
+</document>

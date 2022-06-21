@@ -1,0 +1,449 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0">
+  <title>The Simple Pendulum [with Concept Coach]</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50755</md:content-id>
+  <md:title>The Simple Pendulum [with Concept Coach]</md:title>
+  <md:abstract><list>
+<item>Measure acceleration due to gravity.</item>
+</list></md:abstract>
+  <md:uuid>06634741-8694-4602-b815-f0dcca0100cc</md:uuid>
+</metadata>
+
+<content>
+    
+    <figure id="import-auto-id3178394"><media id="import-auto-id2075212" alt="In the figure, a horizontal bar is drawn. A perpendicular dotted line from the middle of the bar, depicting the equilibrium of pendulum, is drawn downward. A string of length L is tied to the bar at the equilibrium point. A circular bob of mass m is tied to the end of the string which is at a distance s from the equilibrium. The string is at an angle of theta with the equilibrium at the bar. A red arrow showing the time T of the oscillation of the mob is shown along the string line toward the bar. An arrow from the bob toward the equilibrium shows its restoring force asm g sine theta. A perpendicular arrow from the bob toward the ground depicts its mass as W equals to mg, and this arrow is at an angle theta with downward direction of string.">
+        <image mime-type="image/jpg" src="../../media/Figure_17_04_01a.jpg" width="225"/>
+      </media>
+        
+    <caption>A simple pendulum has a small-diameter bob and a string that has a very small mass but is strong enough not to stretch appreciably. The linear displacement from equilibrium is <m:math><m:semantics><m:mrow><m:mrow><m:mi>s</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{s} {}</m:annotation></m:semantics></m:math>, the length of the arc. Also shown are the forces on the bob, which result in a net force of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle></m:mrow><m:mspace width="0.25em"/><m:mtext> sin</m:mtext><m:mi>θ</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  ital "mg""sin"θ} {}</m:annotation></m:semantics></m:math> toward the equilibrium position—that is, a restoring force.</caption></figure><para id="import-auto-id2589696">Pendulums are in common usage. Some have crucial uses, such as in clocks; some are for fun, such as a child’s swing; and some are just there, such as the sinker on a fishing line. For small displacements, a pendulum is a simple harmonic oscillator. A <term>simple pendulum</term> is defined to have an object that has a small mass, also known as the pendulum bob, which is suspended from a light wire or string, such as shown in <link target-id="import-auto-id3178394"/>. Exploring the simple pendulum a bit further, we can discover the conditions under which it performs simple harmonic motion, and we can derive an interesting expression for its period. </para><para id="import-auto-id1401960">We begin by defining the displacement to be the arc length <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>s</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{s} {}</m:annotation></m:semantics></m:math></emphasis>. We see from <link target-id="import-auto-id3178394"/> that the net force on the bob is tangent to the arc and equals <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle></m:mrow><m:mspace width="0.25em"/><m:mtext>sin</m:mtext><m:mspace width="0.25em"/><m:mi>θ</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  ital "mg""sin"θ} {}</m:annotation></m:semantics></m:math>. (The weight <m:math><m:semantics><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mg"} {}</m:annotation></m:semantics></m:math> has components <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle><m:mspace width="0.25em"/><m:mtext>cos</m:mtext><m:mspace width="0.25em"/><m:mi>θ</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mg""cos"θ} {}</m:annotation></m:semantics></m:math> along the string and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle><m:mspace width="0.25em"/><m:mtext>sin</m:mtext><m:mspace width="0.25em"/><m:mi>θ</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mg""sin"θ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics"/> tangent to the arc.) Tension in the string exactly cancels the component <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mspace width="0.25em"/><m:mtext>mg</m:mtext></m:mrow></m:mstyle><m:mspace width="0.25em"/><m:mtext>cos</m:mtext><m:mspace width="0.25em"/><m:mi>θ</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mg""cos"θ} {}</m:annotation></m:semantics></m:math> parallel to the string. This leaves a <emphasis effect="italics">net</emphasis> restoring force back toward the equilibrium position at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ=0} {}</m:annotation></m:semantics></m:math>.</para><para id="import-auto-id1999298">Now, if we can show that the restoring force is directly proportional to the displacement, then we have a simple harmonic oscillator. In trying to determine if we have a simple harmonic oscillator, we should note that for small angles (less than about <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>15º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15"°} {}</m:annotation></m:semantics></m:math>), <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>sin</m:mtext><m:mspace width="0.25em"/><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">≈</m:mo><m:mspace width="0.25em"/><m:mi>θ</m:mi><m:mspace width="0.25em"/></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"sin"θ approx θ} {}</m:annotation></m:semantics></m:math>(<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>sin</m:mtext><m:mspace width="0.25em"/><m:mi>θ</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"sin"θ} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math> differ by about 1% or less at smaller angles). Thus, for angles less than about <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>15º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15"°} {}</m:annotation></m:semantics></m:math>, the restoring force <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math></emphasis> is</para><equation id="eip-64"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>F</m:mi>
+                    <m:mo stretchy="false">≈</m:mo>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>mg</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mi>θ.</m:mi>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{F= -  ital "mg"θ} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id2639190">The displacement <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>s</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{s} {}</m:annotation></m:semantics></m:math></emphasis> is directly proportional to <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math>. When <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math> is expressed in radians, the arc length in a circle is related to its radius (<emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation></m:semantics></m:math></emphasis> in this instance) by:</para><equation id="eip-639"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>s</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mi fontstyle="italic">Lθ</m:mi>
+                </m:mrow>
+              </m:mrow>
+            <m:mo>,</m:mo>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{s=Lθ} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id1120184">so that</para><equation id="eip-344"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>θ</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mfrac>
+                    <m:mi>s</m:mi>
+                    <m:mi>L</m:mi>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+<m:mo>.</m:mo>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{θ= {  {s}  over  {L} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id3116588">For small angles, then, the expression for the restoring force is:</para>
+    <equation id="eip-948"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>F</m:mi>
+                    <m:mo stretchy="false">≈</m:mo>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mfrac>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>mg</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mi>L</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mi>s</m:mi>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{F approx  -  {  { ital "mg"}  over  {L} } s} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id1917186">This expression is of the form:</para>
+    <equation id="eip-267"><m:math>
+          <m:semantics>
+            <m:mrow>
+              
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>F</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>kx</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              <m:mo>,</m:mo>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{F= -  ital "kx"} {}</m:annotation>
+          </m:semantics>
+        </m:math> </equation><para id="import-auto-id2672250">where the force constant is given by <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle><m:mrow><m:mtext fontstyle="italic">mg</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">/</m:mo><m:mi>L</m:mi></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> and the displacement is given by <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mi>s</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=s} {}</m:annotation></m:semantics></m:math>. For angles less than about <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>15º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>, the restoring force is directly proportional to the displacement, and the simple pendulum is a simple harmonic oscillator.</para><para id="import-auto-id1588131">Using this equation, we can find the period of a pendulum for amplitudes less than about <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>15º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>. For the simple pendulum:</para><equation id="eip-424"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>T</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>2π</m:mn>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mfrac>
+                        <m:mi>m</m:mi>
+                        <m:mi>k</m:mi>
+                      </m:mfrac>
+                    </m:msqrt>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>2π</m:mn>
+                  </m:mrow>
+                  <m:msqrt>
+                    <m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>mg</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">/</m:mo>
+                        <m:mi>L</m:mi>
+                      </m:mrow>
+
+                    </m:mfrac>
+                  </m:msqrt>
+<m:mi>.</m:mi>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{T=2π sqrt { {  {m}  over  {k} } } =2π sqrt { {  {m}  over  { ital "mg"/L} } } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id3080441">Thus,</para>
+    <equation id="eip-152"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>T</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>2π</m:mn>
+                  </m:mrow>
+                  <m:msqrt>
+                    <m:mfrac>
+                      <m:mi>L</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:mfrac>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{T=2π sqrt { {  {L}  over  {g} } } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id1917752">for the period of a simple pendulum. This result is interesting because of its simplicity. The only things that affect the period of a simple pendulum are its length and the acceleration due to gravity. The period is completely independent of other factors, such as mass. As with simple harmonic oscillators, the period <m:math><m:semantics><m:mrow><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math> for a pendulum is nearly independent of amplitude, especially if <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{θ} {}</m:annotation></m:semantics></m:math></emphasis> is less than about <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>15º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15"°} {}</m:annotation></m:semantics></m:math>. Even simple pendulum clocks can be finely adjusted and accurate.</para><para id="import-auto-id1080305">Note the dependence of <m:math><m:semantics><m:mrow><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math> on <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math></emphasis>. If the length of a pendulum is precisely known, it can actually be used to measure the acceleration due to gravity. Consider the following example.</para>
+    <example id="fs-id1538976">
+    <title>Measuring Acceleration due to Gravity: The Period of a Pendulum</title>
+    <para id="import-auto-id1418508">What is the acceleration due to gravity in a region where a simple pendulum having a length 75.000 cm has a period of 1.7357 s?</para><para id="import-auto-id2382213">
+      <emphasis>Strategy</emphasis>
+    </para>
+    <para id="import-auto-id1403686">We are asked to find <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math></emphasis> given the period <m:math><m:semantics><m:mrow><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math> and the length <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation></m:semantics></m:math></emphasis> of a pendulum. We can solve <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2π</m:mn></m:mrow><m:msqrt><m:mfrac><m:mi>L</m:mi><m:mi>g</m:mi></m:mfrac></m:msqrt></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T=2π sqrt { {  {L}  over  {g} } } } {}</m:annotation></m:semantics></m:math> for <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math></emphasis>, assuming only that the angle of deflection is less than <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>15º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15º"} {}</m:annotation></m:semantics></m:math>.</para><para id="import-auto-id3079401">
+      <emphasis>Solution</emphasis>
+    </para>
+    <list id="fs-id1381777" list-type="enumerated" number-style="arabic"><item id="import-auto-id1413046">Square <emphasis effect="italics"/><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2π</m:mn></m:mrow><m:msqrt><m:mfrac><m:mi>L</m:mi><m:mi>g</m:mi></m:mfrac></m:msqrt></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T=2π sqrt { {  {L}  over  {g} } } } {}</m:annotation></m:semantics></m:math> and solve for <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math>:
+    <equation id="eip-955"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>g</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:msup>
+                      <m:mn>4π</m:mn>
+                      
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mi>L</m:mi>
+                    <m:msup>
+                      <m:mi>T</m:mi>
+                      
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            <m:mo>.</m:mo>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{g=4π rSup { size 8{2} }  {  {L}  over  {T rSup { size 8{2} } } } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation></item>
+    <item id="import-auto-id2602098">Substitute known values into the new equation:
+    <equation id="eip-95"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>g</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:msup>
+                      <m:mn>4π</m:mn>
+                      
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>75000</m:mtext><m:mspace width="0.25em"/>
+                      <m:mtext> m</m:mtext>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>7357 s</m:mtext>
+                        </m:mrow>
+                      </m:mfenced>
+                      
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            <m:mo>.</m:mo>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{g=4π rSup { size 8{2} }  {  {0 "." "75000"" m"}  over  { left (1 "." "7357 s" right ) rSup { size 8{2} } } } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation></item>
+    <item id="import-auto-id2442364">Calculate to find <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math>:
+    <equation id="eip-349"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>g</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>9</m:mn>
+                  </m:mrow>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>8281</m:mtext>
+                  <m:mrow><m:mspace width="0.25em"/>
+                    <m:mtext>m</m:mtext>
+                    <m:mo stretchy="false">/</m:mo>
+                    <m:msup>
+                      <m:mtext>s</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            <m:mo>.</m:mo>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{g=9 "." "828"m/s rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation></item>
+    </list><para id="import-auto-id959726">
+      <emphasis>Discussion</emphasis>
+    </para>
+    <para id="import-auto-id2423472">This method for determining <m:math>
+    <m:semantics>
+     <m:mrow>
+      <m:mi>
+g
+      </m:mi>
+     </m:mrow>
+     <m:annotation encoding="StarMath 5.0">
+g
+     </m:annotation>
+    </m:semantics>
+   </m:math> can be very accurate. This is why length and period are given to five digits in this example. For the precision of the approximation <m:math>
+    <m:semantics>
+     <m:mrow>
+      <m:mstyle mathsize="12pt">
+       <m:mrow>
+        <m:mrow>
+         <m:mtext>
+sin θ </m:mtext>
+
+          <m:mo stretchy="false">
+≈
+          </m:mo>
+          <m:mi>
+θ
+          </m:mi>
+        
+        </m:mrow>
+       </m:mrow>
+      </m:mstyle>
+      <m:mrow/>
+     </m:mrow>
+     <m:annotation encoding="StarMath 5.0">
+size 12{"sin"θ approx θ} {}
+     </m:annotation>
+    </m:semantics>
+   </m:math> to be better than the precision of the pendulum length and period, the maximum displacement angle should be kept below about <m:math>
+    <m:semantics>
+     <m:mrow>
+      <m:mstyle mathsize="12pt">
+       <m:mrow>
+        <m:mrow>
+         <m:mtext>
+0.5º
+         </m:mtext>
+        </m:mrow>
+       </m:mrow>
+      </m:mstyle>
+      <m:mrow/>
+     </m:mrow>
+     <m:annotation encoding="StarMath 5.0">
+size 12{0 "." 5°} {}
+     </m:annotation>
+    </m:semantics>
+   </m:math>.</para></example>
+    <note id="fs-id2008833"><label/><title>Making Career Connections</title>
+    
+    <para id="import-auto-id1941607">Knowing <m:math>
+    <m:semantics>
+     <m:mrow>
+      <m:mi>
+g
+      </m:mi>
+     </m:mrow>
+     <m:annotation encoding="StarMath 5.0">
+g
+     </m:annotation>
+    </m:semantics>
+   </m:math> can be important in geological exploration; for example, a map of <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math></emphasis> over large geographical regions aids the study of plate tectonics and helps in the search for oil fields and large mineral deposits.</para></note><note id="fs-id1405340"><label/><title>Take Home Experiment: Determining <m:math>     <m:semantics>      <m:mrow>       <m:mi> g       </m:mi>      </m:mrow>      <m:annotation encoding="StarMath 5.0"> g      </m:annotation>     </m:semantics>    </m:math></title>
+    
+    <para id="import-auto-id2931439">Use a simple pendulum to determine the acceleration due to gravity <m:math>
+    <m:semantics>
+     <m:mrow>
+      <m:mi>
+g
+      </m:mi>
+     </m:mrow>
+     <m:annotation encoding="StarMath 5.0">
+g
+     </m:annotation>
+    </m:semantics>
+   </m:math> in your own locale. Cut a piece of a string or dental floss so that it is about 1 m long. Attach a small object of high density to the end of the string (for example, a metal nut or a car key). Starting at an angle of less than <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>10º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10"°} {}</m:annotation></m:semantics></m:math>, allow the pendulum to swing and measure the pendulum’s period for 10 oscillations using a stopwatch. Calculate <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math>. How accurate is this measurement? How might it be improved?</para></note><exercise id="fs-id2990952" type="check-understanding"><label/><title>Check Your Understanding</title>
+    
+    <problem id="fs-id2588598"><para id="import-auto-id1927228">An engineer builds two simple pendula. Both are suspended from small wires secured to the ceiling of a room. Each pendulum hovers 2 cm above the floor. Pendulum 1 has a bob with a mass of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mi/><m:mspace width="0.25em"/><m:mtext>kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10"`"kg"} {}</m:annotation></m:semantics></m:math>. Pendulum 2 has a bob with a mass of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>100 kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100"`"kg"} {}</m:annotation></m:semantics></m:math>. Describe how the motion of the pendula will differ if the bobs are both displaced by <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>12º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12"°} {}</m:annotation></m:semantics></m:math>.</para></problem>
+    
+  <solution id="fs-id1431810" print-placement="here">  <para id="import-auto-id2032212" fo:font-weight="normal">The movement of the pendula will not differ at all because the mass of the bob has no effect on the motion of a simple pendulum. The pendula are only affected by the period (which is related to the pendulum’s length) and by the acceleration due to gravity.</para></solution>
+  </exercise><note id="eip-280"><label/><title>PhET Explorations: Pendulum Lab</title>
+<para id="eip-id1720216">Play with one or two pendulums and discover how the period of a simple pendulum depends on the length of the string, the mass of the pendulum bob, and the amplitude of the swing. It’s easy to measure the period using the photogate timer. You can vary friction and the strength of gravity. Use the pendulum to find the value of <m:math><m:semantics><m:mrow><m:mi>g</m:mi></m:mrow></m:semantics></m:math> on planet X. Notice the anharmonic behavior at large amplitude.</para>
+<figure id="eip-id1689996"><media id="Phet_module_17.4" alt="">
+
+  <image mime-type="image/png" for="online" src="../../media/pendulum-lab_en.jar" thumbnail="PhET_Icon.png" width="450"/>
+<image mime-type="image/png" for="pdf" src="../../media/PhET_Icon.png" width="450"/>
+   
+</media>
+
+      <caption><link url="pendulum-lab_en.jar">Pendulum Lab</link></caption></figure></note><section id="fs-id3189523" class="section-summary"><title>Section Summary</title><list id="fs-id1909628"><item id="import-auto-id3008898">A mass <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math></emphasis> suspended by a wire of length <m:math><m:semantics><m:mrow><m:mrow><m:mi>L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation></m:semantics></m:math> is a simple pendulum and undergoes simple harmonic motion for amplitudes less than about <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>15º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15"°} {}</m:annotation></m:semantics><m:mo>.</m:mo></m:math>
+    <para id="import-auto-id1516413">The period of a simple pendulum is</para> 
+    <equation id="eip-362"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2π</m:mn></m:mrow><m:msqrt><m:mfrac><m:mi>L</m:mi><m:mi>g</m:mi></m:mfrac></m:msqrt></m:mrow></m:mrow><m:mrow/><m:mo>,</m:mo></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T=2π sqrt { {  {L}  over  {g} } } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2459109">where <m:math><m:semantics><m:mrow><m:mrow><m:mi>L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation></m:semantics></m:math><emphasis effect="italics"/> is the length of the string and <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> is the acceleration due to gravity.</para> 
+    </item>
+        </list></section><section id="eip-411"><title>Concept Coach</title><para id="eip-502">
+<link url="#terp-phys_ch16_sec5">Concept Coach</link> 
+</para></section></content>
+    <glossary>
+        <definition id="import-auto-id2979651"><term>simple pendulum</term> <meaning id="fs-id1390392">an object with a small mass suspended from a light wire or string</meaning></definition>
+    </glossary>
+</document>
