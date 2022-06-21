@@ -1,8 +1,8 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
-  <title>Gravitational Potential Energy</title>
+  <title>Gravitational Energy</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m42148</md:content-id>
-  <md:title>Gravitational Potential Energy</md:title>
+  <md:title>Gravitational Energy</md:title>
   <md:abstract><list>
 <item>Explain gravitational potential energy in terms of work done against gravity.</item> 
 <item>Show that the gravitational potential energy of an object of mass <m:math><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> at height <m:math><m:semantics><m:mrow><m:mrow><m:mi>h</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h} {}</m:annotation></m:semantics></m:math> on Earth is given by <m:math><m:semantics><m:mrow><m:msub><m:mtext>PE</m:mtext><m:mrow><m:mtext>g</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mgh</m:mtext></m:mrow></m:mstyle></m:mrow></m:semantics></m:math>.</item>

@@ -1,0 +1,160 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11566</md:content-id>
+    <md:title>Physics 110 at UNE</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>24847a61-5cb1-4b22-82b4-116f6629cade</md:uuid>
+<md:slug>physics-110-at-une</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m42955"/>
+    <col:module document="m42720"/>
+    <col:subcollection>
+      <md:title>Unit 01 - Introduction to Physics and Measurement</md:title>
+      <col:content>
+        <col:module document="m42119"/>
+        <col:module document="m42092"/>
+        <col:module document="m42091"/>
+        <col:module document="m42120"/>
+        <col:module document="m42121"/>
+        <col:module document="m42187"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 02 - Constant Velocity</md:title>
+      <col:content>
+        <col:module document="m42122"/>
+        <col:module document="m42033"/>
+        <col:module document="m42124"/>
+        <col:module document="m42096"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 03 - Sum Force Zero</md:title>
+      <col:content>
+        <col:module document="m42129"/>
+        <col:module document="m42069"/>
+        <col:module document="m42130"/>
+        <col:module document="m42074"/>
+        <col:module document="m42075"/>
+        <col:module document="m42139"/>
+        <col:module document="m42196"/>
+        <col:module document="m42076"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 04 - Energy I</md:title>
+      <col:content>
+        <col:module document="m42145"/>
+        <col:module document="m42148"/>
+        <col:module document="m42149"/>
+        <col:module document="m42150"/>
+        <col:module document="m42151"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 05 - Constant Acceleration</md:title>
+      <col:content>
+        <col:module document="m42100"/>
+        <col:module document="m42099"/>
+        <col:module document="m42103"/>
+        <col:module document="m42102"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 06 - Sum Force ma</md:title>
+      <col:content>
+        <col:module document="m42073"/>
+        <col:module document="m42132"/>
+        <col:module document="m42080"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 07 - Energy II</md:title>
+      <col:content>
+        <col:module document="m42146"/>
+        <col:module document="m42147"/>
+        <col:module document="m42152"/>
+        <col:module document="m42153"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 08 - Circular Motion</md:title>
+      <col:content>
+        <col:module document="m42140"/>
+        <col:module document="m42084"/>
+        <col:module document="m42086"/>
+        <col:module document="m42142"/>
+        <col:module document="m42143"/>
+        <col:module document="m42144"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 09 - Torque</md:title>
+      <col:content>
+        <col:module document="m42167"/>
+        <col:module document="m42170"/>
+        <col:module document="m42171"/>
+        <col:module document="m42172"/>
+        <col:module document="m42173"/>
+        <col:module document="m42174"/>
+        <col:module document="m42175"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 10 - Simple Harmonic Motion</md:title>
+      <col:content>
+        <col:module document="m42239"/>
+        <col:module document="m42241"/>
+        <col:module document="m42242"/>
+        <col:module document="m42243"/>
+        <col:module document="m42244"/>
+        <col:module document="m42245"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Appendix 1 - Vectors</md:title>
+      <col:content>
+        <col:module document="m42126"/>
+        <col:module document="m42104"/>
+        <col:module document="m42127"/>
+        <col:module document="m42128"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Extras</md:title>
+      <col:content>
+        <col:module document="m42042"/>
+        <col:module document="m42045"/>
+        <col:module document="m42081"/>
+        <col:subcollection>
+          <md:title>Linear Momentum and Collisions</md:title>
+          <col:content>
+            <col:module document="m42155"/>
+            <col:module document="m42156"/>
+            <col:module document="m42159"/>
+            <col:module document="m42162"/>
+            <col:module document="m42163"/>
+            <col:module document="m42164"/>
+            <col:module document="m42165"/>
+            <col:module document="m42166"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Thermodynamics</md:title>
+          <col:content>
+            <col:module document="m42231"/>
+            <col:module document="m42232"/>
+            <col:module document="m42233"/>
+            <col:module document="m42234"/>
+            <col:module document="m42235"/>
+            <col:module document="m42236"/>
+            <col:module document="m42237"/>
+            <col:module document="m42238"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
