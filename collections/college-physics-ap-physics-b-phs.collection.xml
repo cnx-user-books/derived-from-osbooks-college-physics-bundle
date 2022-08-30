@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Armando Morales">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11502</md:content-id>
     <md:title>College Physics (AP Physics B @ PHS)</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>edc1b1a2-5da2-4414-8ff0-6caf3b3eb351</md:uuid>
-<md:slug>college-physics-ap-physics-b-phs</md:slug>
-</metadata>
+    <md:slug>college-physics-ap-physics-b-phs</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m42955"/>
     <col:subcollection>
