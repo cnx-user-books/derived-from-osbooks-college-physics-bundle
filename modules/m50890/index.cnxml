@@ -42,7 +42,7 @@
                   <m:mrow>
                     <m:mmultiscripts>
                       <m:mtext/>
-                      <m:mprescripts/>
+                      <m:none/><m:none/><m:mprescripts/>
                       
                         <m:mrow>
                           <m:mstyle>
