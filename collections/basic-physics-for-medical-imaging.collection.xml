@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Wade Hedegard">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11630</md:content-id>
     <md:title>Basic Physics for Medical Imaging</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>54b66c52-16e3-462d-bbb1-a868544ab0b7</md:uuid>
-<md:slug>basic-physics-for-medical-imaging</md:slug>
-</metadata>
+    <md:slug>basic-physics-for-medical-imaging</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Introduction: The Nature of Science and Physics</md:title>
