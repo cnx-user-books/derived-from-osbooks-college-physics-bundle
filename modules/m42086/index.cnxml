@@ -540,17 +540,17 @@ F rSub { size 8{c} } = ital "mr"ω rSup { size 8{2} }
                             <m:mrow>
                               <m:mtable>
                                 <m:mtr>
-                                  <m:mrow>
+                                  <m:mtd>
                                
                                       <m:mrow>
                                         <m:mtext>or</m:mtext>
                                       </m:mrow>
                             
                                     <m:mrow/>
-                                  </m:mrow>
+                                  </m:mtd>
                                 </m:mtr>
                                 <m:mtr>
-                                  <m:mrow>
+                                  <m:mtd>
                                     <m:mrow>
                                       <m:msub>
                                         <m:mi>F</m:mi>
@@ -574,7 +574,7 @@ F rSub { size 8{c} } = ital "mr"ω rSup { size 8{2} }
                                       
                                     </m:msup>
                                     <m:mrow/>
-                                  </m:mrow>
+                                  </m:mtd>
                                 </m:mtr>
                               </m:mtable>
                               <m:mrow/>
