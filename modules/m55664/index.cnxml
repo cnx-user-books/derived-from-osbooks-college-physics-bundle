@@ -435,15 +435,15 @@ F rSub { size 8{c} } = ital "mr"ω rSup { size 8{2} }
                             <m:mrow>
                               <m:mtable>
                                 <m:mtr>
-                                  <m:mrow>
+                                  <m:mtd>
                                
                                       
                             
                                     <m:mrow/>
-                                  </m:mrow>
+                                  </m:mtd>
                                 </m:mtr>
                                 <m:mtr>
-                                  <m:mrow>
+                                  <m:mtd>
                                     <m:mrow>
                                       
                                      
@@ -451,7 +451,7 @@ F rSub { size 8{c} } = ital "mr"ω rSup { size 8{2} }
                                     </m:mrow>
                                   
                                     <m:mrow/>
-                                  </m:mrow>
+                                  </m:mtd>
                                 </m:mtr>
                               </m:mtable>
                               <m:mrow/>
