@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="James Johnson">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11684</md:content-id>
     <md:title>College Physics - AP Physics 2 - CLHS</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>d5e82f5e-fec1-4cf5-bd4c-ab68443a3c47</md:uuid>
-<md:slug>college-physics-ap-physics-2-clhs</md:slug>
-</metadata>
+    <md:slug>college-physics-ap-physics-2-clhs</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m42955"/>
     <col:subcollection>
