@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Adam LeFaive">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11739</md:content-id>
     <md:title>College Physics for CP PHYS141 NC</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>3ab54d67-f8f6-494c-b87a-8db7dd2ffa22</md:uuid>
-<md:slug>college-physics-for-cp-phys141-nc</md:slug>
-</metadata>
+    <md:slug>college-physics-for-cp-phys141-nc</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Introduction: The Nature of Science and Physics</md:title>
