@@ -228,7 +228,7 @@
               <m:mrow>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mi>Z</m:mi>
                   </m:mrow>
@@ -245,7 +245,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>Z</m:mi>
@@ -408,7 +408,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>Z</m:mi>
@@ -500,7 +500,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>Z</m:mi>
@@ -560,7 +560,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mi>Z</m:mi>
                   </m:mrow>
@@ -628,7 +628,7 @@
               <m:mrow>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mi>Z</m:mi>
                   </m:mrow>
@@ -646,7 +646,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mi>Z</m:mi>
                   </m:mrow>

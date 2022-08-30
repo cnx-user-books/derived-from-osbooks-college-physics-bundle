@@ -232,7 +232,7 @@
             <m:mrow>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:mrow>
@@ -263,10 +263,10 @@
                       </m:mrow>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>T</m:mi>
@@ -293,7 +293,7 @@
                       <m:mtext>308 K</m:mtext>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
               <m:mrow/>
@@ -519,7 +519,7 @@ T rSub { size 8{f} } = left ("35" "." 0+"273" right )" K"="308 K" {}
             <m:mrow>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:mstyle fontstyle="italic">
@@ -536,10 +536,10 @@ T rSub { size 8{f} } = left ("35" "." 0+"273" right )" K"="308 K" {}
                       </m:mrow>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:mi>N</m:mi>
@@ -559,7 +559,7 @@ T rSub { size 8{f} } = left ("35" "." 0+"273" right )" K"="308 K" {}
                       </m:mrow>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
               <m:mrow/>
@@ -790,7 +790,7 @@ T rSub { size 8{f} } = left ("35" "." 0+"273" right )" K"="308 K" {}
           <m:mrow>
               <m:mtable columnalign="left">
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>8 moles of carbon</m:mtext>
                         <m:mo stretchy="false">)</m:mo>
@@ -804,10 +804,10 @@ T rSub { size 8{f} } = left ("35" "." 0+"273" right )" K"="308 K" {}
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>1 gram/mole</m:mtext>
                         <m:mo stretchy="false">)</m:mo>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                           <m:mo stretchy="false">+</m:mo>
                           <m:mo stretchy="false">(</m:mo>
                         <m:mtext>1 mole nitrogen</m:mtext>
@@ -824,7 +824,7 @@ T rSub { size 8{f} } = left ("35" "." 0+"273" right )" K"="308 K" {}
                         <m:mo stretchy="false">)</m:mo>
                           <m:mo stretchy="false">=</m:mo>
                           <m:mtext> 151 g</m:mtext>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
             </m:mrow>
