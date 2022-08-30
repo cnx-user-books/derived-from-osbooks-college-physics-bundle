@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Bradley Moser">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11481</md:content-id>
     <md:title>UNE Physics 111/211 Text</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>6088acfa-3a4c-4e06-8d4f-1216b7117b2e</md:uuid>
-<md:slug>une-physics-111-211-text</md:slug>
-</metadata>
+    <md:slug>une-physics-111-211-text</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m42955"/>
     <col:subcollection>
