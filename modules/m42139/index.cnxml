@@ -201,7 +201,7 @@
 <m:msub>
  <m:mtext mathvariant="bold">W</m:mtext>
  <m:mo>//</m:mo>
-</m:msub></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>. <m:math><m:semantics><m:mrow><m:mrow><m:mn mathvariant="bold">N</m:mn></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> is equal in magnitude to <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mn mathvariant="bold">w</m:mn><m:mo>⊥</m:mo><m:mrow/></m:msub></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>, so there is no motion perpendicular to the slope. However, <m:math><m:semantics><m:mrow><m:mrow><m:mn mathvariant="bold">f</m:mn></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> is less than 
+</m:msub></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>. <m:math><m:semantics><m:mrow><m:mrow><m:mn mathvariant="bold">N</m:mn></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> is equal in magnitude to <m:math><m:semantics><m:mrow><m:mrow><m:mmultiscripts><m:mn mathvariant="bold">w</m:mn><m:mo>⊥</m:mo><m:mrow/></m:mmultiscripts></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>, so there is no motion perpendicular to the slope. However, <m:math><m:semantics><m:mrow><m:mrow><m:mn mathvariant="bold">f</m:mn></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> is less than 
 
 <m:math>
  <m:semantics><m:mrow><m:mrow><m:msub><m:mn mathvariant="bold">W</m:mn><m:mrow><m:mrow><m:mtext>//</m:mtext></m:mrow></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> in magnitude, so there is acceleration down the slope (along the <emphasis effect="italics">x</emphasis>-axis).
