@@ -888,7 +888,7 @@
             <m:mrow>
               <m:mtable columnalign="left">
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     
                       <m:mrow>
                         <m:mfrac>
@@ -912,10 +912,10 @@
                       </m:mrow>
                     
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mo>=</m:mo>
                     <m:mrow/>
                     <m:mfrac>
@@ -923,10 +923,10 @@
                       <m:mtext>193 nm</m:mtext>
                     </m:mfrac>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mo>=</m:mo>
                     <m:mrow/>
                     <m:mn>1</m:mn>
@@ -934,7 +934,7 @@
                     <m:mtext>97</m:mtext>
                     <m:mtext>.</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
               <m:mrow/>
