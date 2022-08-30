@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="it">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="it" authors="Ennio Quattrini">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11708</md:content-id>
     <md:title>Fisica per il Liceo Scientifico</md:title>
     <md:language>it</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>2bab4f20-e516-4439-a05d-e1672e13359a</md:uuid>
-<md:slug>fisica-per-il-liceo-scientifico</md:slug>
-</metadata>
+    <md:slug>fisica-per-il-liceo-scientifico</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m42955"/>
     <col:subcollection>
@@ -59,7 +60,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Ulteriori applicazioni delle leggi di Newton: Attrito, trascinamento ed elasticità</md:title>
+      <md:title>Ulteriori applicazioni delle leggi di Newton: Attrito, trascinamento ed elasticit&#xE0;</md:title>
       <col:content>
         <col:module document="m42138"/>
         <col:module document="m42139"/>
@@ -95,7 +96,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Quantità di moto e urti</md:title>
+      <md:title>Quantit&#xE0; di moto e urti</md:title>
       <col:content>
         <col:module document="m42155"/>
         <col:module document="m42156"/>
@@ -366,7 +367,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Relatività speciale</md:title>
+      <md:title>Relativit&#xE0; speciale</md:title>
       <col:content>
         <col:module document="m42525"/>
         <col:module document="m42528"/>
@@ -407,7 +408,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Radioattività e fisica nucleare</md:title>
+      <md:title>Radioattivit&#xE0; e fisica nucleare</md:title>
       <col:content>
         <col:module document="m42620"/>
         <col:module document="m42623"/>
