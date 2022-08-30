@@ -121,7 +121,7 @@
             <m:mrow>
               <m:mtable columnalign="left">
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     
                       <m:mrow>
                         <m:mrow>
@@ -145,10 +145,10 @@
                       </m:mrow>
                     
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:mi>a</m:mi>
@@ -177,7 +177,7 @@
                     </m:msup>
                     <m:mtext>.</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
               <m:mrow/>
