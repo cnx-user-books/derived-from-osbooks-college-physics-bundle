@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax Alina">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11746</md:content-id>
     <md:title>Coll Phys w CC</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>51121d5a-671e-4ea9-b469-9401701fbde4</md:uuid>
-<md:slug>coll-phys-w-cc</md:slug>
-</metadata>
+    <md:slug>coll-phys-w-cc</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Introduction: The Nature of Science and Physics</md:title>
@@ -337,7 +338,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Nerve Conduction–Electrocardiograms with [Concept Coach]</md:title>
+          <md:title>Nerve Conduction&#x2013;Electrocardiograms with [Concept Coach]</md:title>
           <col:content>
             <col:module document="m42352"/>
             <col:module document="m52745"/>
