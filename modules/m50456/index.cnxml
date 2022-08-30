@@ -129,10 +129,9 @@ Suppose we guess a line of best-fit. Then at at every data point, we find the di
               </m:mtr>
               <m:mtr>
                 <m:mtd columnalign="right">
-                  <m:msub>
-                    <m:mi>b</m:mi>
+                  <m:mi>b</m:mi>
                    
-                  </m:msub>
+                  
                 </m:mtd>
                 <m:mtd>
                   <m:mo>=</m:mo>
@@ -393,10 +392,9 @@ Suppose we guess a line of best-fit. Then at at every data point, we find the di
               </m:mtr>
               <m:mtr>
                 <m:mtd columnalign="right">
-                  <m:msub>
-                    <m:mi>b</m:mi>
+                  <m:mi>b</m:mi>
                     
-                  </m:msub>
+                  
                 </m:mtd>
                 <m:mtd>
                   <m:mo>=</m:mo>
