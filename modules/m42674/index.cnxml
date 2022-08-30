@@ -1338,7 +1338,7 @@
             <entry>0</entry>
             <entry>0</entry>
             <entry>0</entry>
-            <entry>Stable<footnote id="eip-id2521620">Experimental lower limit is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow/><m:mrow><m:mn>>5</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>32</m:mtext></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{>5 times "10" rSup { size 8{"32"} } } {}</m:annotation></m:semantics></m:math> for proposed mode of decay.</footnote></entry>
+            <entry>Stable<footnote id="eip-id2521620">Experimental lower limit is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow/><m:mrow><m:mn>&gt;5</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>32</m:mtext></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{&gt;5 times "10" rSup { size 8{"32"} } } {}</m:annotation></m:semantics></m:math> for proposed mode of decay.</footnote></entry>
           </row><row>
 
             <entry>Neutron</entry>
@@ -2103,7 +2103,7 @@
             <m:mrow>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                       <m:mrow>
                         <m:mrow>
                             <m:mi>Q</m:mi>
@@ -2129,21 +2129,21 @@
                               <m:mn>1;</m:mn><m:mspace width="0.25em"/>
                           </m:mrow>
                           <m:mrow>
-                              <m:mi>L</m:mi><m:mo>′</m:mo><m:msub><m:mi>τ</m:mi>
-                              </m:msub>
+                              <m:mi>L</m:mi><m:mo>′</m:mo><m:mi>τ</m:mi>
+                              
                               <m:mo stretchy="false">=</m:mo>
                               <m:mo stretchy="false">−</m:mo>
                               <m:mn>1;</m:mn><m:mspace width="0.25em"/>
                           </m:mrow>
                           <m:mrow>
-                              <m:mi>L</m:mi><m:msub><m:mi>μ</m:mi>
-                              </m:msub>
+                              <m:mi>L</m:mi><m:mi>μ</m:mi>
+                              
                               <m:mo stretchy="false">=</m:mo>
                               <m:mn>0;</m:mn><m:mspace width="0.25em"/>
                           </m:mrow>
                           <m:mrow>
-                              <m:mi>L</m:mi><m:mo>′</m:mo><m:msub><m:mi>μ</m:mi>
-                              </m:msub>
+                              <m:mi>L</m:mi><m:mo>′</m:mo><m:mi>μ</m:mi>
+                              
                               <m:mo stretchy="false">=</m:mo>
                               <m:mo stretchy="false">−</m:mo>
                               <m:mn>1</m:mn>
@@ -2154,12 +2154,12 @@
                           </m:mrow>
                         </m:mrow>
                       </m:mrow>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                 </m:mtr></m:mtable></m:mrow></m:mrow></m:semantics></m:math></para><para id="eip-id8928458">(c)
                <m:math><m:semantics><m:mrow><m:mrow><m:mtable columnalign="left"><m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:msup>
                       <m:mi>τ</m:mi>
                         <m:mo stretchy="false">−</m:mo>
@@ -2203,10 +2203,10 @@
                       </m:mrow>
 
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
 
                       <m:mrow>
                         <m:mrow>
@@ -2293,7 +2293,7 @@
                       </m:mrow>
 
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
               <m:mrow/>

@@ -242,7 +242,7 @@
               <m:mrow>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mi>Z</m:mi>
                   </m:mrow>
@@ -259,7 +259,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>Z</m:mi>
@@ -422,7 +422,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>Z</m:mi>
@@ -514,7 +514,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mrow>
                       <m:mi>Z</m:mi>
@@ -574,7 +574,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mi>Z</m:mi>
                   </m:mrow>
@@ -921,7 +921,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>N</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>7</m:mn>
     <m:mrow>
      <m:mn>14</m:mn>
@@ -929,13 +929,13 @@
    </m:mmultiscripts>
    <m:mo>+</m:mo><m:mmultiscripts>
     <m:mtext>H</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>2</m:mn>
     <m:mn>4</m:mn>
    </m:mmultiscripts>
    <m:mtext>e</m:mtext><m:mo stretchy="false">→</m:mo><m:mi>X</m:mi><m:mo>+</m:mo><m:mmultiscripts>
     <m:mtext>O</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>8</m:mn>
     <m:mrow>
      <m:mn>17</m:mn>
@@ -951,7 +951,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>H</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>1</m:mn>
     <m:mn>2</m:mn>
    </m:mmultiscripts>
@@ -966,7 +966,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>H</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>1</m:mn>
     <m:mn>1</m:mn>
    </m:mmultiscripts>
@@ -981,7 +981,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>C</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>6</m:mn>
     <m:mrow>
      <m:mn>12</m:mn>
@@ -998,7 +998,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>C</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>6</m:mn>
     <m:mrow>
      <m:mn>12</m:mn>
@@ -1015,7 +1015,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>B</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>4</m:mn>
     <m:mn>8</m:mn>
    </m:mmultiscripts>
@@ -1038,7 +1038,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>U</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mrow>
      <m:mn>92</m:mn>
     </m:mrow>
@@ -1048,7 +1048,7 @@
    </m:mmultiscripts>
    <m:mo stretchy="false">→</m:mo><m:mmultiscripts>
     <m:mtext>R</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mrow>
      <m:mn>88</m:mn>
     </m:mrow>
@@ -1058,7 +1058,7 @@
    </m:mmultiscripts>
    <m:mtext>a</m:mtext><m:mo>+</m:mo><m:mmultiscripts>
     <m:mtext>H</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>2</m:mn>
     <m:mn>4</m:mn>
    </m:mmultiscripts>
@@ -1072,7 +1072,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>R</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mrow>
      <m:mn>88</m:mn>
     </m:mrow>
@@ -1082,7 +1082,7 @@
    </m:mmultiscripts>
    <m:mtext>a</m:mtext><m:mo stretchy="false">→</m:mo><m:mmultiscripts>
     <m:mtext>P</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mrow>
      <m:mn>82</m:mn>
     </m:mrow>
@@ -1092,7 +1092,7 @@
    </m:mmultiscripts>
    <m:mtext>b</m:mtext><m:mo>+</m:mo><m:mmultiscripts>
     <m:mtext>C</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>6</m:mn>
     <m:mrow>
      <m:mn>14</m:mn>
@@ -1107,7 +1107,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>C</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>6</m:mn>
     <m:mrow>
      <m:mn>14</m:mn>
@@ -1115,7 +1115,7 @@
    </m:mmultiscripts>
    <m:mo stretchy="false">→</m:mo><m:mmultiscripts>
     <m:mtext>N</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>7</m:mn>
     <m:mrow>
      <m:mn>14</m:mn>
@@ -1144,7 +1144,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>M</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mrow>
      <m:mn>12</m:mn>
     </m:mrow>
@@ -1154,7 +1154,7 @@
    </m:mmultiscripts>
    <m:mtext>g</m:mtext><m:mo stretchy="false">→</m:mo><m:mmultiscripts>
     <m:mtext>N</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mrow>
      <m:mn>11</m:mn>
     </m:mrow>
@@ -1197,7 +1197,7 @@
               <m:mrow>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mi>Z</m:mi>
                   </m:mrow>
@@ -1215,7 +1215,7 @@
                 <m:mo stretchy="false">→</m:mo>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mi>Z</m:mi>
                   </m:mrow>

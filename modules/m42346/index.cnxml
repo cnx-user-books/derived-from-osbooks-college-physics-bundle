@@ -664,7 +664,7 @@
                         <m:mrow>
                           <m:mrow/>
                           <m:msup>
-                            <m:mtext>>10</m:mtext>
+                            <m:mtext>&gt;10</m:mtext>
 
                               <m:mrow>
                                 <m:mtext>13</m:mtext>
@@ -676,7 +676,7 @@
 
                     <m:mrow/>
                   </m:mrow>
-                  <m:annotation encoding="StarMath 5.0"> size 12{>"10" rSup { size 8{"13"} } } {}</m:annotation>
+                  <m:annotation encoding="StarMath 5.0"> size 12{&gt;"10" rSup { size 8{"13"} } } {}</m:annotation>
                 </m:semantics>
               </m:math>
             </entry>
@@ -813,7 +813,7 @@
                         <m:mrow>
                           <m:mrow/>
                           <m:msup>
-                            <m:mtext>>10</m:mtext>
+                            <m:mtext>&gt;10</m:mtext>
 
                               <m:mrow>
                                 <m:mtext>13</m:mtext>
@@ -825,7 +825,7 @@
 
                     <m:mrow/>
                   </m:mrow>
-                  <m:annotation encoding="StarMath 5.0"> size 12{>"10" rSup { size 8{"13"} } } {}</m:annotation>
+                  <m:annotation encoding="StarMath 5.0"> size 12{&gt;"10" rSup { size 8{"13"} } } {}</m:annotation>
                 </m:semantics>
               </m:math>
             </entry>

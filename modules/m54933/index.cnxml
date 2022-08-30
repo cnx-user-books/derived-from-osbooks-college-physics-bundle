@@ -159,7 +159,7 @@ where <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mfenced open
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>H</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mn>2</m:mn>
     <m:mn>4</m:mn>
    </m:mmultiscripts>

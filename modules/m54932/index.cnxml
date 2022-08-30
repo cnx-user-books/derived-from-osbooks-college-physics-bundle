@@ -388,7 +388,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>P</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mrow>
      <m:mn>84</m:mn>
     </m:mrow>
@@ -406,7 +406,7 @@
   <m:mrow>
    <m:mmultiscripts>
     <m:mtext>P</m:mtext>
-    <m:mprescripts/>
+    <m:none/><m:none/><m:mprescripts/>
     <m:mrow>
      <m:mn>82</m:mn>
     </m:mrow>

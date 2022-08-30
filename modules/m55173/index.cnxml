@@ -1840,20 +1840,20 @@ We are given that <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><
             </m:msup>
 <m:mo>+</m:mo>
             <m:mn>2            </m:mn>
-            <m:msup><m:msub>
+            <m:msub>
               <m:mrow>
                <m:mi>v               </m:mi><m:mo>′</m:mo>
              </m:mrow>
                  <m:mn>1</m:mn></m:msub>
-            </m:msup>
-           <m:msup> <m:msub>
+            
+           <m:msub>
               <m:mrow>
                <m:mi>v               </m:mi><m:mo>′</m:mo>
              </m:mrow>
                  <m:mn>
 2
                  </m:mn></m:msub>
-            </m:msup>
+            
             <m:mfenced open="(" close=")">
              <m:mrow><m:mspace width="0.25em"/>
               <m:mtext>cos              </m:mtext><m:mspace width="0.25em"/>

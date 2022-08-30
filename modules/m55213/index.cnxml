@@ -1008,7 +1008,7 @@ P rSub { size 8{"abs"} } ="710"`"mm"`"Hg" "."  {}
             <m:mrow>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     
                       <m:mrow>
                         <m:mrow>
@@ -1019,10 +1019,10 @@ P rSub { size 8{"abs"} } ="710"`"mm"`"Hg" "."  {}
                           </m:mrow>
                         </m:mrow>
                       </m:mrow>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     
                       <m:mrow>
                         <m:mrow>
@@ -1037,7 +1037,7 @@ P rSub { size 8{"abs"} } ="710"`"mm"`"Hg" "."  {}
                           <m:mtext>.</m:mtext>
                         </m:mrow>
                       </m:mrow>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
             </m:mrow>

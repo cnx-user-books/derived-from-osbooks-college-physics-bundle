@@ -109,7 +109,7 @@
             <m:mrow>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
 
                       <m:mrow>
                         <m:mrow>
@@ -216,7 +216,7 @@
                           </m:mrow>
                         </m:mrow>
                       </m:mrow>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                 </m:mtr>
