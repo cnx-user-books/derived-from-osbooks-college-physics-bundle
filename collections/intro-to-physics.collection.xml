@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Matthew Christ">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11553</md:content-id>
     <md:title>Intro to Physics</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>7bdc4287-3cd1-4760-b988-d0d052f54bf0</md:uuid>
-<md:slug>intro-to-physics</md:slug>
-</metadata>
+    <md:slug>intro-to-physics</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Introduction: The Nature of Science and Physics</md:title>
