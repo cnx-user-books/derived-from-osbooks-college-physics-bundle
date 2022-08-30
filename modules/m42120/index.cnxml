@@ -213,7 +213,7 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
               <m:mtable>
   <!-- 7.56 kg -->
   <m:mtr>
-    <m:mrow>
+    <m:mtd>
 <m:mphantom>
 <m:mo stretchy="false">+</m:mo>
 <m:mn>1</m:mn>
@@ -231,12 +231,12 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
       <m:mtext>kg</m:mtext>
       <m:mtext>.</m:mtext>
 </m:mphantom>
-    </m:mrow>
+    </m:mtd>
   </m:mtr>
 
   <!-- -6.052 kg -->
   <m:mtr>
-    <m:mrow>
+    <m:mtd>
           <m:mo stretchy="false">-</m:mo>
 <m:mphantom>
 <m:mn>1</m:mn>
@@ -251,11 +251,11 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
       <m:mtext>kg</m:mtext>
       <m:mtext>.</m:mtext>
 </m:mphantom>
-    </m:mrow>
+    </m:mtd>
   </m:mtr>
   <!-- +13.7 kg / 15.208 kg = 15.2 kg -->
   <m:mtr>
-    <m:mrow>
+    <m:mtd>
       <m:mfrac>
         <m:mrow>
           <m:mo stretchy="false">+</m:mo>
@@ -280,7 +280,7 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
       <m:mspace width="0.25em"/>
       <m:mtext>kg</m:mtext>
       <m:mtext>.</m:mtext>
-    </m:mrow>
+    </m:mtd>
   </m:mtr>
               </m:mtable>
               <m:mrow/>
@@ -565,7 +565,7 @@ We can conclude that the weight of the apple bag is <m:math><m:semantics><m:mrow
 <exercise id="fs-id1493327" type="problems-exercises"><problem id="fs-id1145418">
     <para id="import-auto-id2010563">A marathon runner completes a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>42</m:mtext><m:mtext>.</m:mtext><m:mtext>188</m:mtext><m:mtext>-km</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"42" "." "188""-km"} {}</m:annotation></m:semantics></m:math> course in <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.25em"/><m:mtext>h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2" h"} {}</m:annotation></m:semantics></m:math>, 30 min, and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mspace width="0.25em"/><m:mtext>s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12"" s"} {}</m:annotation></m:semantics></m:math>. There is an uncertainty of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>25</m:mtext><m:mspace width="0.25em"/><m:mtext>m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"25"" m"} {}</m:annotation></m:semantics></m:math> in the distance traveled and an uncertainty of 1 s in the elapsed time. (a) Calculate the percent uncertainty in the distance. (b) Calculate the uncertainty in the elapsed time. (c) What is the average speed in meters per second? (d) What is the uncertainty in the average speed?</para></problem></exercise>
 <exercise id="fs-id2509052" type="problems-exercises"><problem id="fs-id2733260">
-    <para id="import-auto-id1335200">The sides of a small rectangular box are measured to be <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>80</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>01</m:mtext><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "80" +- 0 "." "01"" cm"} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>05</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>02</m:mtext><m:mspace width="0.25em"/><m:mtext>cm, and 3</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>1 cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "05" +- 0 "." "02"" cm, and 3" "." 1 +- 0 "." "1 cm"} {}</m:annotation></m:semantics></m:math> long. Calculate its volume and uncertainty in cubic centimeters.</para></problem>
+    <para id="import-auto-id1335200">The sides of a small rectangular box are measured to be <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>80</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>01</m:mtext><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "80" +- 0 "." "01"" cm"} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>05</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>02</m:mtext><m:mspace width="0.25em"/><m:mtext>cm, and 3</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">±</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>1 cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "05" +- 0 "." "02"" cm, and 3" "." 1 +- 0 "." "1 cm"} {}</m:annotation></m:semantics></m:math> long. Calculate its volume and uncertainty in cubic centimeters.</para></problem>
 <solution id="fs-id3081865">
     <para id="import-auto-id1538038"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">±</m:mo><m:mn>1</m:mn></m:mrow><m:mspace width="0.25em"/><m:msup><m:mtext>cm</m:mtext><m:mrow><m:mn>3</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11" +- 1" cm" rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
 <exercise id="fs-id2560910" type="problems-exercises"><problem id="fs-id1598812">
