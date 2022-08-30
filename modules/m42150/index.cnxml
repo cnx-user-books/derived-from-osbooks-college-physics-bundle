@@ -73,7 +73,7 @@
 
 <m:msub><m:mtext>PE</m:mtext><m:mrow><m:mtext>f</m:mtext></m:mrow></m:msub>
 
-</m:mrow><m:mrow/><m:annotation encoding="StarMath 5.0"> size 12{"KE""" lSub { size 8{i} } +"PE" rSub { size 8{i} } +W rSub { size 8{"nc"} } ="KE""" lSub { size 8{f} } +"PE" rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> 
+</m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"KE""" lSub { size 8{i} } +"PE" rSub { size 8{i} } +W rSub { size 8{"nc"} } ="KE""" lSub { size 8{f} } +"PE" rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> 
 
 says that you can start by finding the change in mechanical energy that would have resulted from just the conservative forces, including the potential energy changes, and add to it the work done, with the proper sign, by any nonconservative forces involved. </para><example id="fs-id1900640"><title>Calculating Distance Traveled: How Far a Baseball Player Slides</title><para id="import-auto-id2846913">Consider the situation shown in <link target-id="import-auto-id1908314"/>, where a baseball player slides to a stop on level ground. Using energy considerations, calculate the distance the 65.0-kg baseball player slides, given that his initial speed is 6.00 m/s and the force of friction against him is a constant 450 N.</para><figure id="import-auto-id1908314"><media id="import-auto-id1999193" alt="A baseball player slides to stop in a distance d. the displacement d is shown by a vector towards the left and frictional force f on the player is shown by a small vector pointing towards the right equal to four hundred and fifty newtons. K E is equal to half m v squared, which is equal to f times d.">
 <image mime-type="image/jpg" src="../../media/Figure_08_05_04a.jpg" height="200"/></media>
@@ -249,7 +249,7 @@ says that you can start by finding the change in mechanical energy that would ha
 <image mime-type="image/jpg" src="../../media/Figure_08_05_05a.jpg" height="150"/></media>
 
 <caption>The same baseball player slides to a stop on a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>5.00º</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5°} {}</m:annotation></m:semantics></m:math> slope.</caption></figure><para id="import-auto-id1885803"><emphasis>Strategy</emphasis></para>
-<para id="import-auto-id1857178">In this case, the work done by the nonconservative friction force on the player reduces the mechanical energy he has from his kinetic energy at zero height, to the final mechanical energy he has by moving through distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>d</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation></m:semantics></m:math> to reach height <m:math><m:semantics><m:mrow><m:mrow><m:mi>h</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h} {}</m:annotation></m:semantics></m:math> along the hill, with <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">=</m:mo><m:mi>d</m:mi><m:mspace width="0.25em"/></m:mrow><m:mtext>sin</m:mtext><m:mspace width="0.25em"/><m:mn>5.00º</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h=d"sin"5 "." "00"°} {}</m:annotation></m:semantics></m:math>. This is expressed by the equation</para><equation id="fs-id1920007"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>KE</m:mtext><m:mrow><m:mrow><m:mrow><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mrow><m:mtext>i</m:mtext></m:mrow><m:none/></m:mmultiscripts><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>PE</m:mtext><m:mrow><m:mtext>i</m:mtext></m:mrow></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>W</m:mi><m:mrow><m:mtext>nc</m:mtext></m:mrow></m:msub></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo>
+<para id="import-auto-id1857178">In this case, the work done by the nonconservative friction force on the player reduces the mechanical energy he has from his kinetic energy at zero height, to the final mechanical energy he has by moving through distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>d</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation></m:semantics></m:math> to reach height <m:math><m:semantics><m:mrow><m:mrow><m:mi>h</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h} {}</m:annotation></m:semantics></m:math> along the hill, with <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">=</m:mo><m:mi>d</m:mi><m:mspace width="0.25em"/></m:mrow><m:mtext>sin</m:mtext><m:mspace width="0.25em"/><m:mn>5.00º</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h=d"sin"5 "." "00"°} {}</m:annotation></m:semantics></m:math>. This is expressed by the equation</para><equation id="fs-id1920007"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>KE</m:mtext><m:mrow><m:mrow><m:mrow><m:mmultiscripts><m:mtext/><m:none/><m:none/><m:mprescripts/><m:mrow><m:mtext>i</m:mtext></m:mrow><m:none/></m:mmultiscripts><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>PE</m:mtext><m:mrow><m:mtext>i</m:mtext></m:mrow></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>W</m:mi><m:mrow><m:mtext>nc</m:mtext></m:mrow></m:msub></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo>
 <m:msub>
 <m:mrow>
 <m:mtext>KE</m:mtext>
@@ -371,9 +371,8 @@ says that you can start by finding the change in mechanical energy that would ha
                             
                           </m:msup>
                           <m:mo stretchy="false">)</m:mo><m:mspace width="0.25em"/>
-                          <m:msup>
-                            <m:mtext>sin (5.00º)</m:mtext>
-                          </m:msup>
+                          <m:mtext>sin (5.00º)</m:mtext>
+                          
                         </m:mrow>
                       </m:mfrac>
                     </m:mrow>
