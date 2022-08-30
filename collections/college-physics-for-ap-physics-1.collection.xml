@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Lawrence Whisenant">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11659</md:content-id>
     <md:title>College Physics for AP Physics 1</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>cb08f6e7-90e1-44c6-9df4-bc60dccc9150</md:uuid>
-<md:slug>college-physics-for-ap-physics-1</md:slug>
-</metadata>
+    <md:slug>college-physics-for-ap-physics-1</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m42955"/>
     <col:subcollection>
